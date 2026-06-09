@@ -1,0 +1,949 @@
+{
+ "slug": "fc22",
+ "code": "FC22",
+ "title": "Introduction à la neuro-immunologie",
+ "prof": "Dr. Héan",
+ "sourceFile": "FC22-HEAN-Introduction à la neuro-immunologie-12-03-2026(1).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "fc-21-reponse-immunitaire-du-systeme-nerveux-central",
+   "label": "FC 21- RÉPONSE IMMUNITAIRE DU SYSTÈME NERVEUX CENTRAL",
+   "level": 2
+  },
+  {
+   "id": "i-le-systeme-immunitaire-du-systeme-nerveux-central",
+   "label": "I. Le système immunitaire du système nerveux central",
+   "level": 2
+  },
+  {
+   "id": "organisation-macroscopique",
+   "label": "ORGANISATION MACROSCOPIQUE",
+   "level": 2
+  },
+  {
+   "id": "organisation-macroscopique-2",
+   "label": "ORGANISATION MACROSCOPIQUE",
+   "level": 2
+  },
+  {
+   "id": "quelques-definitions",
+   "label": "QUELQUES DÉFINITIONS",
+   "level": 2
+  },
+  {
+   "id": "grand-principes",
+   "label": "GRAND PRINCIPES",
+   "level": 2
+  },
+  {
+   "id": "pour-comprendre",
+   "label": "POUR COMPRENDRE",
+   "level": 2
+  },
+  {
+   "id": "la-microglie",
+   "label": "LA MICROGLIE",
+   "level": 2
+  },
+  {
+   "id": "les-cellules-adaptives-meningees",
+   "label": "LES CELLULES ADAPTIVES MÉNINGÉES",
+   "level": 2
+  },
+  {
+   "id": "l-axe-intestin-cerveau",
+   "label": "L’AXE INTESTIN-CERVEAU",
+   "level": 2
+  },
+  {
+   "id": "sclerose-en-plaques",
+   "label": "SCLÉROSE EN PLAQUES",
+   "level": 2
+  },
+  {
+   "id": "encephalites-auto-immunes",
+   "label": "ENCÉPHALITES AUTO-IMMUNES",
+   "level": 2
+  },
+  {
+   "id": "maladies-neurodegeneratives",
+   "label": "MALADIES NEURODÉGÉNÉRATIVES",
+   "level": 2
+  },
+  {
+   "id": "troubles-psychiatriques",
+   "label": "TROUBLES PSYCHIATRIQUES",
+   "level": 2
+  },
+  {
+   "id": "sclerose-laterale-amyotrophique",
+   "label": "SCLÉROSE LATÉRALE AMYOTROPHIQUE",
+   "level": 2
+  },
+  {
+   "id": "polyradiculonevrite-aigu",
+   "label": "POLYRADICULONÉVRITE AIGUË",
+   "level": 2
+  },
+  {
+   "id": "syndromes-paraneoplasiques",
+   "label": "SYNDROMES PARANÉOPLASIQUES",
+   "level": 2
+  },
+  {
+   "id": "a-faux-du-snc",
+   "label": "A. FAUX : Du SNC",
+   "level": 2
+  },
+  {
+   "id": "c-faux-du-snp",
+   "label": "C. FAUX : Du SNP",
+   "level": 2
+  },
+  {
+   "id": "d-faux-a-ndma",
+   "label": "D. FAUX : à NDMA",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Dr. HEAN Virginie Larnaud Léane"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "fc-21-reponse-immunitaire-du-systeme-nerveux-central",
+   "text": "FC 21- RÉPONSE IMMUNITAIRE DU SYSTÈME NERVEUX CENTRAL"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pas de questions sur les symptômes des différentes maladies ni sur les traitements QCM + Questions avec réponses courtes sur ce cours"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-le-systeme-immunitaire-du-systeme-nerveux-central",
+   "text": "I. Le système immunitaire du système nerveux central"
+  },
+  {
+   "type": "paragraph",
+   "text": "Système responsable de la coordination des actions avec l'environnement extérieur et de la communication rapide entre les différentes parties du corps"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Actions volontaires (bouger le bras) et involontaires (battements du cœur)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Plusieurs types d’organisations :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Macroscopique : système nerveux central vs système nerveux périphérique",
+    "Microscopique : neurones et cellules gliales",
+    "Fonctionnelle : système nerveux somatique et autonome Le SNC (cerveau + moelle épinière) est protégé du SI contrairement à ce que l’on a longtemps cru."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "organisation-macroscopique",
+   "text": "ORGANISATION MACROSCOPIQUE"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Système nerveux central : rôle de réception, de traitement, d'intégration et d'émission des messages nerveux"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Encéphale : cerveau + tronc cérébral + cervelet",
+    "Moelle épinière"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Système nerveux périphérique :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Nerfs crâniens",
+    "Nerfs rachidiens"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "organisation-macroscopique-2",
+   "text": "ORGANISATION MACROSCOPIQUE"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Neurone : cellule principale du fonctionnement du système nerveux"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Corps cellulaire : partie centrale, lieu des fonctions vitales du neurone",
+    "Axone : tige allongée unique, conduit l’influx nerveux",
+    "Dendrite : prolongement du corps cellulaire, arborisation fine et courte, récepteur de l’information",
+    "Synapse : lieu où le neurone transmet le signal à une autre cellule (par signal électrique ou neurotransmetteur chimique)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cellules gliales :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Formation de la gaine de myéline autour des axones (oligodendrocytes et cellules de Schwann)",
+    "Homéostasie et protection de l’environnement des neurones (astrocytes)",
+    "Cellules immunitaires (microglie)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "quelques-definitions",
+   "text": "QUELQUES DÉFINITIONS"
+  },
+  {
+   "type": "paragraph",
+   "text": "Neuro-inflammation : réaction qui se déroule dans le système nerveux central en réponse à une anomalie ou une agression"
+  },
+  {
+   "type": "paragraph",
+   "text": "Acteurs spécifiques : cellules microgliales, astrocytes, cytokines (IL6, TNF alpha, interféron), chimiokines"
+  },
+  {
+   "type": "paragraph",
+   "text": "Aiguë (bénéfique) : infection, traumatisme crânien"
+  },
+  {
+   "type": "paragraph",
+   "text": "Chronique (délétère) : destruction potentielle de cellules, perturbation du fonctionnement des cellules présentes, gêne à la réparation des dégâts"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "grand-principes",
+   "text": "GRAND PRINCIPES"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le cerveau a besoin du système immunitaire périphérique pour fonctionner."
+  },
+  {
+   "type": "paragraph",
+   "text": "Le principal facteur de risque de maladie neurodégénérative est le vieillissement."
+  },
+  {
+   "type": "paragraph",
+   "text": "Lors du vieillissement, il y a une inflammation chronique à bas bruit et réduction de la capacité de réparation des lésions."
+  },
+  {
+   "type": "paragraph",
+   "text": "La principale cause de neurodégénérescence est dû à la microglie mais elle a aussi un rôle dans l’immunité périphérique."
+  },
+  {
+   "type": "paragraph",
+   "text": "L’épuisement immunitaire est présente lorsqu’il y a une dysfonction des cellules immunitaires, le plus souvent après une exposition chronique à un antigène persistant avec échec de la réponse immunitaire censée l’éliminer."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "pour-comprendre",
+   "text": "POUR COMPRENDRE"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le tissu cérébral est dépourvu de cellules immunitaires périphériques."
+  },
+  {
+   "type": "paragraph",
+   "text": "La microglie assure l’immunité et est composée de macrophages résidants dans le parenchyme cérébral."
+  },
+  {
+   "type": "paragraph",
+   "text": "La présence de cellules immunitaires illustre une pathologie (provenance : plexus choroïdes, méninges..)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les méninges sont irriguées par le LCS et sont riches en cellules immunitaires."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il y a 3 types de cellules gliales :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Oligodendrocytes",
+    "Astrocytes",
+    "Cellules microgliales"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Le tissu cérébral est dépourvu de cellule immunitaire périphérique. Si les acteurs du SI sont présents (chimiokines, cytokines, lymphocytes…) c’est que la situation n’est pas physiologique (peut-être une infection, une inflammation). L’immunité essentielle est assurée par la microglie. La présence et le rôle des médiateurs de ces cellules est très conservé à travers les espèces."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "la-microglie",
+   "text": "LA MICROGLIE"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce sont les macrophages résidents du système nerveux central qui ont pour rôle :"
+  },
+  {
+   "type": "paragraph",
+   "text": "La surveillance de l’homéostasie, la régulation du nombre de neurones et de leurs précurseurs, elle est aussi sentinelle de la réponse rapide face aux signaux de danger."
+  },
+  {
+   "type": "paragraph",
+   "text": "Le complément (C1q, C3) est fortement impliqué dans la signalisation de régulation des prolongements neuronaux, de la neuroplasticité. Ceci en lien avec une absence d’activité neuronale détectée par la microglie."
+  },
+  {
+   "type": "paragraph",
+   "text": "Des troubles du fonctionnement cérébral, cognitifs, semblent associés à une activité de phagocytose et de nettoyage des synapses non fonctionnelles ou altérées médiées par le complément (C4) et l’activité de la microglie à certains stades de développement."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "les-cellules-adaptives-meningees",
+   "text": "LES CELLULES ADAPTIVES MÉNINGÉES"
+  },
+  {
+   "type": "paragraph",
+   "text": "En dehors des méninges, les cellules T, par leurs cytokines, ont un profond impact sur le développement neuronal, la connectivité et les fonctions cérébrales."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les TCD4, localisés au niveau des méninges, libèrent des médiateurs inflammatoires modifiant le fonctionnement du tissu cérébral et les réactions inflammatoires."
+  },
+  {
+   "type": "paragraph",
+   "text": "L’altération des défenses adaptatives T (surtout les Lymphocytes TH2 qui sécrètent de l'IL 4) au niveau méningé est fortement associée à l’apparition de troubles cognitifs."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les Th1 (rôle pro-inflammatoire principalement anti-viral) par la sécrétion d’IFNγ jouent un rôle dans les comportements sociaux en agissant directement sur les interneurones du cortex."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "l-axe-intestin-cerveau",
+   "text": "L’AXE INTESTIN-CERVEAU"
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est lien bidirectionnel entre le SNC et le système nerveux entérique qui est influencé par le microbiote intestinal"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le microbiote de chaque personne est unique et peut varier au cours du temps mais il existe des profils ; certaines altérations sont spécifiques de pathologie (ex : autisme)"
+  },
+  {
+   "type": "paragraph",
+   "text": "De l’intestin au cerveau :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Etudes animales montre le rôle crucial de la colonisation du tube digestif dans le développement du système nerveux",
+    "Le microbiote influence les réactions au stress et les comportements d’anxiété",
+    "Le microbiote favorise la sécrétion de certains neurotransmetteurs",
+    "Probable rôle du nerf vague"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Du cerveau à l’intestin :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le stress psychologique peut moduler la composition du microbiote (même pour une durée courte), faire varier la quantité et la qualité des sécrétions muqueuses et altérer la perméabilité de l’épithélium intestinal",
+    "Présence de récepteurs aux neurotransmetteurs sur les bactéries du microbiote",
+    "Rôle important du cerveau sur la modulation des fonctions intestinales, la réponse immunitaire mucosale et le maintien d’une couche de mucus et d’un biofilm à l’intérieur du musculaire muqueuse"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "sclerose-en-plaques",
+   "text": "SCLÉROSE EN PLAQUES"
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est une des pathologies du SNC les plus fréquentes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les symptômes sont variables selon la localisation des lésions"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Myélite : troubles sensitifs +/- moteurs +/- troubles vésico-sphinctériens",
+    "Névrite optique : baisse d’acuité visuelle avec douleur périorbitaire, scotome, dyschromatopsie rouge/vert avec œil blanc",
+    "Atteinte du tronc cérébral : vertiges, diplopie",
+    "Atteinte du cervelet : ataxie",
+    "Atteinte hémisphérique : atteinte sensitive/motrice unilatérale",
+    "Syndrome multifocal"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est une inflammation en périphérie qui mène a la perméabilisation de la barrière hématoencéphalique et l’infiltration lymphocytaire avec présentation d’antigènes issus du tissu neuronal."
+  },
+  {
+   "type": "paragraph",
+   "text": "Différenciation des T helper et Th1 et Th2. Les Th2 (en poussée pendant la grossesse) induisent une réponse B entraînant une production d’auto-anticorps contre les composants protéiques de la myéline = bandes oligoclonales dans le LCR via PL (marqueur diagnostic)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Destruction des oligodendrocytes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les traitements visent uniquement le système immunitaire en périphérie (pas à connaitre)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Anti-SP1 : séquestration des lymphocytes T dans la rate",
+    "Anti-CD20 : destruction des LB qui empêche l’activation des LT",
+    "Anti-intégrines : empêche le passage de la BHE par les LT"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les axes de recherche :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vaccination contre l’EBV (100% des patients SEP sont séroconvertis à l’EBV)",
+    "Traitements de l’inflammation microgliale : BTKi ?",
+    "Traitements remyélinisateurs : par stimulation des précurseurs neuronaux"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "encephalites-auto-immunes",
+   "text": "ENCÉPHALITES AUTO-IMMUNES"
+  },
+  {
+   "type": "paragraph",
+   "text": "Encéphalites auto-immunes est un groupe hétérogène de pathologies causées par des anticorps dirigés contre des protéines neuronales"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les symptômes vont dépendre de l’anticorps en question."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Symptômes psychiatriques : agressivité, irritabilité, hallucinations, troubles du sommeil"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Troubles cognitifs ; crises d’épilepsie, mouvements anormaux, dysautonomie"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les anticorps sont considérés comme pathogènes, s’ils sont présents, on peut parler de maladie."
+  },
+  {
+   "type": "paragraph",
+   "text": "Cible : protéines synaptiques, transporteurs ioniques ou récepteurs"
+  },
+  {
+   "type": "paragraph",
+   "text": "Production d’anticorps → Anticorps qui se fixent sur leur antigène → modification du fonctionnement physiologique → Symptômes cliniques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Nombreux anticorps : anti-NMDAR, anti-LGI1, anti-CASPR2, anti-IGLON5, antiAMPA, anti-DPPX, antiGFAP, …"
+  },
+  {
+   "type": "paragraph",
+   "text": "Traitements : cure d’immunoglobulines, échanges plasmatiques, immunosuppresseurs (anti-CD20 = destruction des LB = pas de sécrétion d’Ac)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "maladies-neurodegeneratives",
+   "text": "MALADIES NEURODÉGÉNÉRATIVES"
+  },
+  {
+   "type": "paragraph",
+   "text": "Nombreuses pathologies : Alzheimer, Parkinson, syndromes parkinsoniens, dégénérescence lobaire fronto-temporale…"
+  },
+  {
+   "type": "paragraph",
+   "text": "Symptômes : selon la pathologie :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Troubles cognitifs",
+    "Troubles du langage",
+    "Troubles du comportement",
+    "Troubles du mouvement : lenteur, tremblement, dystonie",
+    "Perte d’autonomie",
+    "Chutes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "La microglie seule ne serait pas suffisante pour résoudre les problèmes neurodégénératifs."
+  },
+  {
+   "type": "paragraph",
+   "text": "Lésion aiguë → dommages → réparation par la microglie (non suffisante en cas d’agression chronique)"
+  },
+  {
+   "type": "paragraph",
+   "text": "On ne sait pas comment des macrophages de la périphérie arrivent et passe la BHE sans lésion"
+  },
+  {
+   "type": "paragraph",
+   "text": "L’immunité adaptative est essentielle au fonctionnement cérébral. Les LT pourraient activer la microglie ce qui maintiendrait un climat inflammatoire."
+  },
+  {
+   "type": "paragraph",
+   "text": "Une déplétion des LB chez la souris réduit la déposition de plaques amyloïdes et améliore les fonctions cognitives"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Maladie d’Alzheimer :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Maladie neurodégénérative la plus fréquente",
+    "Accumulation extracellulaire de plaques amyloïdes + dépôts intracellulaires neurofibrillaires de protéines tau phosphorylée de cause inconnue",
+    "Perte synaptique et neuronale liée à un déficit en neurotransmetteurs et une neuro- inflammation chronique"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Traitements :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibiteurs de l’acétylcholinestérase : facilite la neurotransmission cholinergique",
+    "Lecanemab : anticorps monoclonal dirigé contre la protéine beta amyloïde"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Axes de recherche :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Autres traitements ciblant l’accumulation de protéine beta amyloïde",
+    "Anticorps monoclonal ciblant la protéine tau",
+    "Traitement de la neuro-inflammation centrale"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "troubles-psychiatriques",
+   "text": "TROUBLES PSYCHIATRIQUES"
+  },
+  {
+   "type": "paragraph",
+   "text": "Nombreuses pathologies concernées : trouble anxieux, syndrome dépressif, schizophrénie, autisme, TDAH, etc."
+  },
+  {
+   "type": "paragraph",
+   "text": "Concept de modèle psycho-neuro-immunologique proposé par Dantzer :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rationnel :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Innervation par le système nerveux sympathique des structures ganglionnaires lymphatiques",
+    "Présence de récepteurs aux neuro-transmetteurs sur les cellules du système immunitaire",
+    "Des lésions du SN entrainent des dysrégulations immunitaires"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Des médiateurs cytokiniques modulent les réponses comportementales : IL1/IL6/TNF régulent la faim, le sommeil, la température centrale"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les cytokines pro-inflammatoires orientent le métabolisme du tryptophane (précurseur de la sérotonine) vers des molécules ayant une activité neurologique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il existe une implication du microbiote dans le développement du système nerveux mais également dans le fonctionnement cognitif."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Exemple de la dépression :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "20% des gens au cours de leur vie",
+    "Tristesse de l’humeur avec perte du plaisir",
+    "Facteur de stress → Activation de l’inflammation en périphérie → Sécrétion de cytokines pro- inflammatoires → Réponse inflammatoire chronique → Modification du fonctionnement des neurones",
+    "But initial : assurer la survie de l’individu en l’isolant pour que son corps puisse se concentrer sur l’important (ex : guérir d’une infection)",
+    "Pourquoi une chronicisation ? Défaut d’arrêt de la réponse inflammatoire malgré disparition du facteur de stress",
+    "Patients plus à risque que d’autres (facteurs environnementaux, génétiques, …)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "sclerose-laterale-amyotrophique",
+   "text": "SCLÉROSE LATÉRALE AMYOTROPHIQUE"
+  },
+  {
+   "type": "paragraph",
+   "text": "Également appelée maladie de Charcot, c’est une atteinte de la corne antérieure de la moelle épinière entrainant une atteinte motrice pure liée à un processus dégénératif lésant le neurone moteur central (ou motoneurone central) et le neurone moteur périphérique (ou motoneurone périphérique)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Pronostic péjoratif++ (médiane de survie 36 mois)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Symptômes :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Déficit moteur pur",
+    "Progressif",
+    "Troubles de l’élocution, troubles de déglutition",
+    "Troubles de la marche"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Il y a de multiples dysfonctionnements : inflammation excessive, auto-immunité et réponse immunitaire déficiente."
+  },
+  {
+   "type": "paragraph",
+   "text": "Agrégation de protéines TDP-43 dans les neurones (normalement dans le noyau) lié à un défaut de recyclage des déchets lié à une altération de l’autophagie"
+  },
+  {
+   "type": "paragraph",
+   "text": "Accumulation de TDP-43 → activation de la microglie qui va entrainer un climat inflammatoire → recrutement de macrophages en périphérie → mort neuronale"
+  },
+  {
+   "type": "paragraph",
+   "text": "De nombreuses mutations génétiques sont identifiées"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Traitement : actuellement pas de traitement ayant montré une réelle efficacité (riluzole fait gagner 3- 4 mois → stabilisateur de canaux calciques)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "polyradiculonevrite-aigu",
+   "text": "POLYRADICULONÉVRITE AIGUË"
+  },
+  {
+   "type": "paragraph",
+   "text": "Anciennement appelé syndrome de Guillain-Barré, c’est une neuropathie périphérique inflammatoire, démyélinisante des nerfs périphériques, multifocale, sensitivo-motrice touchant les racines nerveuses et les nerfs les prolongeant"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans plus de 50% des cas, il est précédé d’un épisode infectieux (CMV, EBV, campylobacter jejuni) ; possible dans les suites d’une vaccination"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Symptômes :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Atteinte sensitive (paresthésies, picotements) d’évolution ascendante",
+    "Atteinte motrice proximale débutant aux membres inférieurs",
+    "Atteinte des nerfs crâniens : paralysie faciale, troubles oculomoteurs, troubles de déglutition",
+    "Douleurs : myalgies, radiculalgies"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme : mimétisme moléculaire entre antigène du pathogène et des antigènes du système nerveux périphérique → immunisation contre les antigènes de la myéline activant une réponse Th1 et th2 (immunité innée et production d’Ac) → destruction de la myéline"
+  },
+  {
+   "type": "paragraph",
+   "text": "Traitement : immunoglobulines IV ou échanges plasmatiques"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "syndromes-paraneoplasiques",
+   "text": "SYNDROMES PARANÉOPLASIQUES"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les syndromes paranéoplasiques sont l’ensemble de symptômes pouvant accompagner un cancer. C’est un phénomène rare, qui peut faire découvrir le cancer, pas de lien avec la tumeur en elle-même."
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse du système immunitaire contre le cancer → Production d’anticorps contre des antigènes de la tumeur → Anticorps qui reconnaissent une protéine du soi → lésions à distance de l’endroit où se situe la tumeur"
+  },
+  {
+   "type": "paragraph",
+   "text": "Multiples manifestations possibles : neurologiques, endocriniennes, hématologiques, dermatologiques, osseuses, articulaires, etc."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Traitement = traitement du cancer"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Deux catégories d’anticorps :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Onconeuronaux : ciblant des antigènes intracellulaires",
+    "Neuropile : cible antigénique membranaire (pas toujours liée au cancer)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "L’anticorps identifié permet d’orienter vers le type de cancer (ex : anti-Hu et cancer du poumon à petite cellules ; anti-Yo et cancer sein/ovaire/utérus)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Mécanisme des manifestations :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pour les Ag intracellulaires : les Ac n’ont pas de rôle pathogène direct et ne peuvent atteindre leur cible qu’à cause d’une cytotoxicité LT CD8 qui détruit les cellules",
+    "Pour les Ag extracellulaires : internalisation ou perturbation des voies de signalisation neuronale"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "MYASTHÉNIE"
+  },
+  {
+   "type": "paragraph",
+   "text": "La myasthénie est la maladie de la jonction neuromusculaire."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Symptômes : conséquence d’une fatigabilité excessive de la musculature striée à l’effort et fluctuant dans le temps"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diplopie, ptosis",
+    "Troubles de déglutition, de la phonation, de la mastication",
+    "Faiblesse des membres",
+    "Chute de la tête",
+    "Dyspnée"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Maladie auto-immune liée à un blocage des récepteurs de la plaque motrice par des anticorps antirécepteurs de l’acétylcholine (ou d’autres) entrainant un dysfonctionnement de la transmission neuromusculaire."
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôle du thymus :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Possède des cellules myéloïdes (proche des cellules musculaires)",
+    "Inflammation → CPA présentent les épitopes du récepteur → Infiltration du thymus par les LB → centres germinatifs produisant des auto-Ac",
+    "15-20% des patients présentent un thymome → sélection positive supérieure des T spécifiques des antigènes (RaCH)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Traitements :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibition de l’acétylcholine estérase (augmentation du neuromédiateur dans la fente synaptique)",
+    "Immunosuppresseurs",
+    "Thymectomie (si thymome)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CONCLUSION"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Implication du système immunitaire dans la totalité des pathologies en neurologie"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Compréhension encore limitée dans un grand nombre de pathologies : intérêt de la recherche++"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Une meilleure compréhension est la clé de la prise en charge"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XII. Questions"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q1-Concernant la microglie cochez les réponses vraies ou fausses :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Elle dérive des macrophages. B. Elle n‘est présente que dans le SNC. C. Elle a un rôle prépondérant dans la dégradation des synapses vieillissantes. D. La mutation du récepteur TREM2 entraîne une augmentation de la phagocytose de la microglie. E. Toutes les réponses sont fausses."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q2-Concernant les pathologies liées à la microglie cochez la ou les réponse(s) vraies ou fausses :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. La SEP est une démyélinisation du SNP. B. Le ttt de la myasthénie est l’activation de l’acétylcholinestérase. C. Le syndrome de Guillain Barré est une démyélinisation du SNC. D. La plus fréquente des encéphalites auto-immunes est celle à AMPAr. E. Toutes les réponses sont fausses."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q3-Concernant la réponse immunitaire du SNC cochez la ou les réponse(s) vraies"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Dans la schizophrénie il y a une activation des lymphocytes B B. La myasthénie sont des auto-anticoprs dirigés contre le récepteur à la dopamine C. Anti-Yo et Anti Ri sont impliqués dans les cancers gynécologiques D. Le syndrome de Guillain Barré touche les nerfs centraux E. IL-5 entraîne la libération de VIP qui ont un rôle bronchodilatateur"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q4-Concernant la réponse immunitaire du SNC cochez la ou les réponse(s) vraies :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Les astrocytes initient la réponse immunitaire inflammatoire grâce au TRR sur leur membrane B. Les astrocytes ont la fonction scavenger C. La microglie est essentielle dans le neurodéveloppement D. La SEP est une maladie du SNP E. L’encéphalite à NMDA est caractérisée par un blocage des récepteurs glutaminergiques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponses :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q1)"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. VRAI B. FAUX : aussi dans le SNP C. VRAI D. FAUX : la phagocytose est diminuée il y a donc une hyperdensité synaptique. E. FAUX"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q2)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-faux-du-snc",
+   "text": "A. FAUX : Du SNC"
+  },
+  {
+   "type": "paragraph",
+   "text": "B. FAUX : une inhibition de l'acétylcholinestérase pour augmenter l’acétylcholine dans la fente synaptique."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-faux-du-snp",
+   "text": "C. FAUX : Du SNP"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-faux-a-ndma",
+   "text": "D. FAUX : à NDMA"
+  },
+  {
+   "type": "paragraph",
+   "text": "E. VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q3)"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. FAUX : c’est les lymphocytes T B. FAUX : récepteur à l’acétylcholine C. VRAI D. FAUX : nerfs périphériques E. FAUX : rôle broncho constricteur"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q4)"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. VRAI B. FAUX c’est la microglie C. VRAI D. FAUX : du SNC E. VRAI"
+  }
+ ]
+}

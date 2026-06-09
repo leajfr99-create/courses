@@ -1,0 +1,439 @@
+{
+ "slug": "fc08",
+ "code": "FC08",
+ "title": "Physiopathologie des eczémas",
+ "prof": "Dr. Lefèvre",
+ "sourceFile": "FC8-LEFEVRE-Physiopathologie-des-eczémas-27-01(1).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "physiopathologie-des-eczemas-dermatite",
+   "label": "PHYSIOPATHOLOGIE DES ECZÉMAS : DERMATITE",
+   "level": 2
+  },
+  {
+   "id": "atopique-et-eczemas-de-contact",
+   "label": "ATOPIQUE ET ECZÉMAS DE CONTACT",
+   "level": 2
+  },
+  {
+   "id": "2-des-endophenotypes-et-des-phenotypes-differents-page-6-17",
+   "label": "2. Des endophénotypes et des phénotypes différents Page 6/17",
+   "level": 3
+  },
+  {
+   "id": "4-comment-discriminer-eczema-de-contact-allergique-et-irrita",
+   "label": "4. Comment discriminer eczéma de contact allergique et irritant ?",
+   "level": 3
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "physiopathologie-des-eczemas-dermatite",
+   "text": "PHYSIOPATHOLOGIE DES ECZÉMAS : DERMATITE"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "atopique-et-eczemas-de-contact",
+   "text": "ATOPIQUE ET ECZÉMAS DE CONTACT"
+  },
+  {
+   "type": "paragraph",
+   "text": "Objectifs: • Nouveau cours !! • Reconnaître les manifestations cliniques de la dermatite atopique. • Comprendre la physiopathologie de l'inflammation de type 2 dans la dermatite atopique. • Comprendre les mécanismes immunopathologiques des eczémas de contact allergique (ECA) et irritatif (ECI). • Identifier les anomalies de la barrière cutanée, du microbiote et de la réponse immunitaire. • Connaître les tests diagnostiques disponibles et leurs limites. • Connaître les grandes lignes de la prise en charge thérapeutique. • Comprendre les mécanismes d'action et les indications des biomédicaments et inhibiteurs de JAK. I-L’eczéma comme symptôme 1. Les phases cliniques Il existe 4 phases cliniques concernant l’eczéma: -phase érythémateuse -phase vésiculeuse -phase suintante -phase desquamative: guérison sans cicatrice Il faut également retenir que le prurit est constant. 2. Description histologique -dans l’épiderme: spongiose, exocytose, apoptose kératinocytaire. -dans le derme superficiel: oedème et infiltrat périvasculaire."
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Les 3 grands types d'eczémas Il existe 3 grands types d’eczémas: dans un premier temps l’eczéma intrinsèque ou dermatite atopique, dû à des facteurs internes (génétique, immunité, barrière cutanée…). Puis on retrouve les eczémas de contacts tels que l’eczéma de contact allergique et l’eczéma de contact irritatif qui sont tous les deux dû à des facteurs externes (environnement…)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il est souvent difficile de différencier ces 3 types d’eczéma, ainsi nous utiliserons la physiopathologie comme outil de différenciation."
+  },
+  {
+   "type": "paragraph",
+   "text": "4. Les différences physiopathologiques L’eczéma de contact irritatif: correspond à une activation du système immunitaire innée. L’eczéma de contact allergique: entraîne une phase de sensibilisation qui va générer une production des LT spécifiques et une phase de challenge avec une activation de ceux-ci notamment lors d’une nouvelle exposition au même antigène."
+  },
+  {
+   "type": "paragraph",
+   "text": "La dermatite atopique: à souvent pour point de départ une barrière cutanée altérée chez les patients et va donc laisser pénétrer les allergènes/antigènes et ainsi générer des signaux inflammatoires avec une immunité type 2. 5.Diagnostic de la DA (Dermatite Atopique) Le diagnostic est clinique et repose sur une triade: les lésions d’eczéma, le grattage ou prurit et également une xérose (sécheresse de la peau souvent en dehors des poussées). On retrouve également un début souvent précoce (dans l’enfance), des comorbidités atopiques, et celle-ci évalue de façon chronique. De plus la topographie des lésions diffère selon l’âge: ➜ Chez le nourrisson: atteintes très diffuses qui touchent le visage, le cuir chevelu, le tronc, en péri-ombilical mais avec un respect de la région du siège. Ces lésions sont souvent très aiguës, prurigineuses et associées à un grattage."
+  },
+  {
+   "type": "paragraph",
+   "text": "➜ Chez le jeune enfant (1 à 2 ans): les lésions sont localisées aux plis de flexion (cou, genou, coude) ➜ Chez l’adulte: on retrouve des atteintes surtout au niveau de la tête et du cou mais également sur les mains."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il faut également comprendre que c’est une maladie hétérogène qui implique plusieurs endophénotypes avec une intrication de facteurs génétiques, une altération de la barrière cutanée, des facteurs immunologiques et environnementaux (viennent souvent aggraver la pathologie)."
+  },
+  {
+   "type": "paragraph",
+   "text": "prévalence de la DA: varie de 10 à 30% chez les enfants puis va diminuer à l’âge adulte à 2%. Aujourd’hui la DA reste une cause principale de consultation en pédiatrie, en dermatologie mais aussi en médecine générale."
+  },
+  {
+   "type": "paragraph",
+   "text": "II-L’initiation de la maladie"
+  },
+  {
+   "type": "paragraph",
+   "text": "1. La barrière cutanée La peau est notre principal mur de défense contre les agressions de l’environnement et comporte plusieurs composantes fonctionnelles: une barrière physico-chimique assurée par le stratum corneum, une barrière microbienne composée par notre microbiote cutanée et une barrière immunologique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces 3 niveaux sont interconnectés et sont altérés dans la dermatite atopique et c’est cela qui favorise la pénétration d'allergènes et d’irritants et donc déclencher une inflammation de type 2. aDA et altération de la barrière physico-chimique: On observe souvent chez les patients atteints de DA: -une augmentation du pH de la peau qui va entraîner une activation excessive de certaines enzymes qui vont dégrader des composants essentiels de la barrière tel que la filaggrine. La mutation de la filaggrine augmente le risque de développer une DA (mais attention l’ensemble des patients n’ont pas forcément cette mutation et ceux qui l’ont ne développent pas forcément une DA). C’est donc un facteur de susceptibilité mais ce n’est pas nécessaire ni suffisant pour induire une DA. Ce phénomène est à l’origine d’une colonisation par S.aureus chez les patients atteints de DA."
+  },
+  {
+   "type": "paragraph",
+   "text": "-une perte insensible en eau qui entraîne une certaine xérose. -une anomalie de la maturation des corps lamellaires, une anomalie des jonctions serrées et une mauvaise agrégation des filaments de kératine. Ces anomalies aboutissent à une barrière qui devient poreuse, perméable et qui va laisser pénétrer les agents environnementaux."
+  },
+  {
+   "type": "paragraph",
+   "text": "bDA et altération de la barrière microbienne Il à été observé au niveau de la barrière microbienne chez les patients atteint de DA un déficit en peptides anti-microbiens fabriqués par les kératinocytes. Ceci explique les colonisations et les surinfections."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce graphique retrace l’histoire naturelle de la DA et l’évolution du microbiote cutanée chez les patients au début de la maladie, en cours de poussée, après les poussées mais aussi avant/après les traitements. Ainsi on observe qu’au cours des poussées on à une large augmentation de la prédominance de S.aureus qui est ici une source pro-inflammatoire et pathogène et qui entraîne donc chez les patients des poussées d’eczéma. Page 5/17"
+  },
+  {
+   "type": "paragraph",
+   "text": "En effet, celui-ci va produire d’un côté des supers antigènes qui vont stimuler les LT mais également des toxines cytotoxiques qui vont détruire les kératinocytes. Tout cela va entraîner la libération des cytokines clées (IL5, IL13, et IL31 ou cytokine du prurit à l’origine des démangeaisons), le recrutement des LT qui se différencient en LT de type 2, la production d’éosinophiles et l’élévation des IGe."
+  },
+  {
+   "type": "paragraph",
+   "text": "A l'inverse, quand on est entre les poussées on retrouve une diminution de S.aureus et une colonisation prépondérante à S.epidermidis qui à un rôle immunorégulateur. Donc finalement, la dysbiose cutanée chez les patients est un bon marqueur d’activité de la maladie et reste un acteur actif de l’inflammation. cDA et altération de la barrière immunologique Cette barrière inclut un grand nombre de cellules immunitaires: les kératinocytes, les cellules dendritiques, les cellules sentinelles et tous les médiateurs qu’elles vont produire. Chez un patient atteint d'eczéma, comme dit précédemment, on retrouve tout d’abord une altération de la barrière cutanée qui peut être d’origine génétique ou environnementale. La peau des patients est sèche, on parle de xérose et devient perméable aux antigènes de l’environnement et ainsi les molécules extérieures (allergènes, polluants…) vont pouvoir pénétrer. Lorsqu’il y à pénétration, il va y avoir activation des kératinocytes qui vont détecter des signaux de danger et libérer des cytokines épithéliales notamment IL25 et IL33 qui vont elles mêmes aller activer les cellules immunitaires locales (cellules dendritiques). Cette activation entraîne une véritable amplification puisque les cellules dendritiques vont aller présenter les antigènes aux LT (2) qui vont eux-mêmes produire IL4,5 et 13 qui vont générer cette lésion inflammatoire typique chez les patients et IL31 qui entraîne le grattage et donc l'altération de la peau."
+  },
+  {
+   "type": "paragraph",
+   "text": "On est donc dans un cercle vicieux avec une boucle inflammatoire auto-entretenue."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-des-endophenotypes-et-des-phenotypes-differents-page-6-17",
+   "text": "2. Des endophénotypes et des phénotypes différents Page 6/17"
+  },
+  {
+   "type": "paragraph",
+   "text": "On décrit souvent la DA comme une inflammation de type 2 sauf que c’est un peu plus complexe puisque aujourd’hui on décrit différents phénotypes cliniques qui vont être caractérisés par différents endotypes physiopathologiques et ainsi, selon l’âge des patients, la chronicité des lésions, de l'ethnicité des patients certains vont exprimer plus de TH17 (not chez les personnes asiatiques ou chez les enfants) et d’autres plus de TH1(lésions chroniques). Mais dans tous les cas de figure, TH2 est toujours très présente et est largement augmentée dans la DA. C’est donc le tronc commun pathogénique de cette maladie et c’est la cible de nombreuses thérapies en cours de développement."
+  },
+  {
+   "type": "paragraph",
+   "text": "Donc, la DA est une maladie complexe qui va associée une prédisposition avec des facteurs génétiques et environnementaux. Celle-ci va se traduire par une altération de la barrière cutanée et une dérégulation du système immunitaire dominé par une inflammation de type 2. Cette inflammation de type 2 est aussi partagée par d’autres pathologies atopiques telles que l’asthme, la rhinite allergique, la conjonctivite allergique et les allergies alimentaires. On peut donc parler ici de “marche atopique” ou les patients vont passer d’un trouble à un autre au cours de leur vie."
+  },
+  {
+   "type": "paragraph",
+   "text": "La DA est à la fois un signal d'alerte quand elle se déclenche chez l’enfant et reste un facteur de risque important. Il est donc essentiel de réaliser une prise en charge ciblée et précoce pour améliorer la qualité de vie des patients et freiner l’évolution de cette “marche atopique” et donc le développement de nouvelles pathologies. 3. Les impacts de la maladie Au-delà des symptômes visibles, la DA à un impact majeur sur la qualité de vie des patients. Elle reste une maladie douloureuse, stigmatisante pour les patients et souvent épuisante (car le prurit entraîne des troubles du sommeil). L’idée ici est donc de traiter de façon ciblée. III-DA: stratégie thérapeutique"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le traitement à pour but d’agir sur l'hétérogénéité de la DA (sauf sur le facteur génétique qui est incontrôlable). L’idée ici est de restaurer la barrière cutanée, réguler l’inflammation et donc la réponse immunitaire et essayer de contrôler les facteurs environnementaux. Aujourd’hui le traitement est adapté selon l’âge et la sévérité de la maladie avec une stratégie en escalier: on commence à la base avec des soins locaux afin de restaurer la barrière cutanée (utilisation d'émollients + des soins d’hygiène adaptés). En parallèle, il faut traiter l'inflammation et les poussées à l’aide d’anti-inflammatoires topiques: dermocorticoïdes, inhibiteurs de calcineurine topiques."
+  },
+  {
+   "type": "paragraph",
+   "text": "En cas d’échec ou de poussées trop fréquentes on va passer sur des traitements systémiques: initialement on avait des TTT systémiques conventionnels tel que la ciclosporine (seul traitement avec AMM dans la DA), le méthotrexate qu’on utilise hors AMM et maintenant il existe de traitements spécifiques ciblés tel que les biomédicaments et les inhibiteurs de JAK."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les biomédicaments disponible dans la DA qui ciblent l’inflammation de type 2 a-Le dupilumab = AC monoclonal humanisé qui va cibler le récepteur commun à IL4 et IL13 et donc bloquer la voie de signalisation de ces deux cytokines au cœur de la DA. -possède AMM depuis 2017. -Remboursé en France depuis mars 2019 pour les patients adultes avec DA modérée à sévère en échec/intolérance/CI de la ciclosporine. -Aujourd’hui chez le nourrisson (dès 6 mois), l’enfant et chez l’adolescent en échec ou intolérance des traitements locaux. b-Le tralokinumab et le lebrikizumab = ciblent directement IL13 circulante Ces 3 biomédicaments permettent: ▪ Retour progressif du profil transcriptionnel de la peau atopique d’un état lésionnel vers un état non lésionnel chez les patients traités."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibition de la voie inflammatoire de type 2 (IL-4, IL-13) dans la peau lésionnelle. ▪ Normalisation de la fonction barrière :augmentation des gènes impliqués dans la différenciation terminale, le métabolisme lipidique et les jonctions de la barrière."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Impact sur la diversité microbienne et l'abondance de S. aureus ➜ DONC reprogrammation en profondeur de la peau atopique. 1. Les biomédicaments disponible dans la DA qui ciblent JAK Ils ont pour rôle d’inhiber la cascade inflammatoire en bloquant la signalisation intracellulaire de nombreuses cytokines: JAK. Celle-ci orchestre l’inflammation cutanée. Quand la cytokine se fixe à son récepteur, elle va activer une combinaison de JAK, ce qui entraîne une phosphorylation de JAK-STAT."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "JAK va alors transloqué dans le noyau et va activer la transcription de gènes pro-inflammatoires qui vont toucher directement les lymphocytes T et va participer à la différenciation des lymphocytes T vers des lymphocytes Th1, Th2,Th17, Th22 ce qui va entretenir la production de cytokines dans la peau."
+  },
+  {
+   "type": "paragraph",
+   "text": "Si alors on cible cette voie, on ne cible plus les médiateurs tardifs de l’inflammation, on bloque directement la programmation des lymphocytes T et par conséquent leur polarisation vers les différentes types d’inflammation. En résumé, les inhibiteurs de JAK sont des toutes petites molécules qui vont agir directement à l'intérieur de la cellule et qui vont bloquer l’activation de cette double voie JAK STAT. C’est donc une stratégie un peu plus large que les biomédicaments qui vont cibler 1 seul ou 2 médiateurs pour bloquer l’inflammation."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il existe plusieurs types de JAK, notamment pour la Dermatite Atopique. Les IL-4 et l'IL-13 vont passer par les voies JAK1 et donc c’est ce qui justifie aujourd'hui l'utilisation d’inhibiteurs sélectifs des JAK1 comme :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’upadacitinib - L’abrocitinib En résumé, l’arsenal thérapeutique s’est largement développé dans la Dermatite Atopique sur les 10 dernières années. Aujourd’hui avec la physiopathologie on a pu développer des molécules qui ciblaient spécifiquement les axes immunopathologiques de la maladie. On a d’un côté les anticorps monoclonaux qui vont cibler certaines cytokines de type 2 et nous avons à côté les nouvelles petites molécules comme les JAK inhibiteurs qui vont agir dès la programmation inflammatoire."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "La recherche est toujours en cours de développement, de nouvelles anti-cytokines vont voir le jour parmi les anticorps monoclonaux. La recherche essaye aussi de développer des anti-JAK topiques comme le delgoticinib applicables directement sur les lésions pour améliorer la tolérance du médicament car le blocage de la polymérisation des lymphocytes T général peut être mal toléré par certains patients fragiles."
+  },
+  {
+   "type": "paragraph",
+   "text": "IV : Les eczémas de contact"
+  },
+  {
+   "type": "paragraph",
+   "text": "Définitions : “dermatoses inflammatoires fréquentes, induites par l’exposition répétée de la peau à des substances exogènes présentes dans l'environnement” Cet eczéma de contact est alors différent d’un eczéma intrinsèque comme la Dermatite Atopique car ce sont des facteurs externes, notamment des produits chimiques présents dans l'environnement qui provoquent cette maladie. Il en existe 2 grands types : - L’eczéma de contact allergique (ECA)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’eczéma de contact irritatif (ECI) Page 10/17"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces 2 types d’allergie ne sont pas différenciables à l'œil nu. Epidémiologie : • L’eczéma de contact irritatif (ECI) représente 80% des cas d’EC • Prévalence de l’allergie de contact: 15-20% dans les pays industrialisés • Femmes (27%) > Hommes (13%) • Enfants et adolescents: 15% • Première dermatose professionnelle • métallurgie, coiffure, santé, ménage, bâtiment … • Incidence: 0,5 à 1,9/oo • Problème de santé publique • Coût > 5 milliards € en Europe Clinique :"
+  },
+  {
+   "type": "paragraph",
+   "text": "En phase aiguë : • Érythème, oedème • Papules, vésicules • Suintement, croûte Page 11/17"
+  },
+  {
+   "type": "paragraph",
+   "text": "En phase chronique : • Xérose, squames • Lichénification • Pigmentation Les deux phases s'accompagnent de prurit souvent très intense. Traitement : • Éviction du facteur de contact • Education des patients • Traitements topiques (émollients, anti-inflammatoires) 1. Les xénobiotiques: différentes propriétés physico-chimiques Les produits chimiques autour de nous dans l’environnement sont la cause de ces eczémas de contacts et ils ont des propriétés physico-chimiques différentes les uns des autres. D’un côté nous avons : Chimiques irritants (ECI) : —> Savons, detergents, acides, solvants … La réaction va alors dépendre de : • Concentration / durée-fréquence d’exposition • Propriétés adjuvantes : - Cytotoxicité directe - Altération de l’épiderme - signaux pro-inflammatoires Ces substances chimiques vont activer l’Immunité Innée. Allergène = Haptènes (ECA) : • 4000 molécules recensées : métaux, parfums, cosmétiques, conservateurs, colorants … • Propriétés adjuvantes + antigéniques : - Signaux pro-inflammatoire - Electrophile Ces allergènes vont activer quant à eux l’immunité Innée ainsi que l’immunité Adaptative. 2. Physiopathologie de l’ECA : Page 12/17"
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est une hypersensibilité retardée de type IV qui va mettre en jeu les lymphocytes T spécifiques d’allergènes. Elle évolue en 2 phases distinctes : La phase de sensibilisation qui est asymptomatique chez le patient au cours de laquelle les allergènes vont pénétrer la barrière et générer un complexe haptène/protéine qui va être capter par les cellules dendritiques (CPA) au niveau de l’épiderme et qui par la suite vont migrer vers les ganglions où elles vont pouvoir présenter les allergènes aux lymphocytes T qui sont jusque la “naïfs”."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il existe deux grands types de lymphocytes T conventionnels qui sont : - Les lymphocytes T CD8 qui sont les principales cellules effectrices dans l’ECA - Les lymphocytes T CD4 qui ont un rôle immunorégulateur A ce moment la, des lymphocytes T spécifiques d’allergènes vont être générés et vont pouvoir circuler. On dit à ce moment que le patient est sensibilisé. Dès que le patient sera à nouveau au contact avec le même allergène, les lymphocytes T préalablement généré lors de la phase de sensibilisation vont s’activer et migrer dans les tissus du site de contact où ils vont chercher à détruire l’allergène par différents mécanismes, notamment de cytotoxicité avec le relargage de granules cytotoxiques et de médiateurs inflammatoire qui va générer la lésion de l’eczéma produite par une apoptose kératinocytaire."
+  },
+  {
+   "type": "paragraph",
+   "text": "Tout cela va participer aux recrutements d’autres cellules inflammatoires, ce qui va amplifier l’inflammation. Dans un second temps, on aura une résolution de l’inflammation qui va se faire par différents mécanismes. On aura en premier lieu l’élimination de l’allergène au niveau des couches cornées superficielles de l’épiderme. Ensuite, une immunorégulation au niveau cutané sera faite par les lymphocytes T régulateurs CD4 qui expriment le FOX-P3 et qui vont sécréter des cytokines anti-inflammatoires, notamment l’IL-10."
+  },
+  {
+   "type": "paragraph",
+   "text": "!!! Nous sommes exposés en permanence à 4000 substances chimiques, pour autant tout le monde ne réagit pas à leur contact. !!! La peau doit trouver un équilibre entre des phases effectrices avec une réponse immunitaire ciblée spécifique ainsi que des mécanismes de régulations. C’est ce qui explique que la majorité des patients ne soient pas allergiques parce que la peau cherche à répondre à ses agressions chimiques."
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est cet équilibre qui permet à la peau de tolérer ces substances chimiques sans déclencher une réponse inflammatoire. Cet équilibre est possible grâce aux lymphocytes T CD4. Ils sont là pour créer une tolérance au long cours vis-à-vis des allergènes qui nous entourent. C’est une tolérance qui est active et orchestrée par les Lymphocytes T régulateurs qui sont aussi spécifiques de l’allergène"
+  },
+  {
+   "type": "paragraph",
+   "text": "En résumé, il faut bien comprendre que le système immunitaire va s’éduquer tous les jours à la tolérance et c’est pour cela qu’il est nécessaire d’être exposé à faible dose à des molécules chimiques. Cette exposition répétée va permettre au système immunitaire de reconnaître spécifiquement l’allergène sans réagir."
+  },
+  {
+   "type": "paragraph",
+   "text": "Sans ce mécanisme, il y aurait une rupture de tolérance avec un risque d’allergie qui s’installe. Cette rupture peut venir d’un déséquilibre entre les signaux de danger, de la barrière cutanée qui serait altérée, du microenvironnement immunitaire et surtout de l’incapacité des lymphocytes T régulateurs à compenser l’intensité de l’inflammation. C’est à cause de ces déséquilibres qu’il peut y avoir une installation d’une allergie plutôt que d’un équilibre."
+  },
+  {
+   "type": "paragraph",
+   "text": "A contrario, quand on parle d’ECI, ce sont les propriétés physico-chimiques des substances chimiques qui possèdent cette cytotoxicité directe qui vont directement détruire la barrière cutanée ce qui va produire une inflammation locale générée par les kératinocytes et les cellules dendritiques mais on ne va pas avoir une présentation d’antigènes au niveau des ganglions et on n’aura pas ce mécanisme d’immunité Adaptative/spécifique qui va se mettre en place."
+  },
+  {
+   "type": "paragraph",
+   "text": "Pour résumer , ce qui discrimine l’ECA de l’ECI, c’est l’activation de l’immunité adaptative dans l’ECA. 3. Diagnostic des eczémas de contact : (la prof est passée rapidement dessus) Aujourd’hui comme tous les eczémas, le premier diagnostic est clinique, il se base sur l’interrogatoire et l’examen clinique. On va suspecter chez le patient un eczéma de contact lors de l’interrogatoire portant sur les expositions particulières environnementales du patient."
+  },
+  {
+   "type": "paragraph",
+   "text": "A ce niveau là, il est alors difficile de faire la différence entre un ECI et un ECA. On va retrouver une histologie d’eczéma qui ne va pas permettre de discriminer l’allergie de l’irritation. On va donc réaliser un Patch-Test dans des centres hospitaliers. Il s’agit de la technique de référence (Gold standard) pour diagnostiquer l’ECA : L’idée est de reproduire expérimentalement une lésion d’eczéma allergique en appliquant des allergènes de référence sur la peau des patients. On va donc mettre des allergènes standardisés dans les patchs et on va laisser appliquer les patch sur la peau pendant 48 heures. On va ensuite retirer les patchs et on va effectuer des lectures à 48, 72, 96h,.. (la durée d’attente dépend de l’allergène) et on va se baser sur une échelle standardisée pour effectuer la lecture du Patch-Test et ainsi pouvoir “scorer” le Patch-test."
+  },
+  {
+   "type": "paragraph",
+   "text": "On va pouvoir ainsi comparer le Patch-Test à l’échelle et scorer des réactions négatives, douteuses, faiblement positives, fortement positives et des réactions extrêmes qui sont souvent bulleuses avec la notion potentielle d’irritation sur le Patch-test car tout allergène est également irritant : quand on va appliquer l’allergène sur la peau des patients, on peut alors aussi provoquer des réactions d’irritations chez les patients."
+  },
+  {
+   "type": "paragraph",
+   "text": "Patch test positif : sensibilisation chez les patients. Il faut alors prouver la pertinence clinique du Patch-test, c'est-à-dire savoir si le patient réagit bien à cet allergène lorsqu’il est réexposé à ce dernier dans la vie de tous les jours pour pouvoir poser le diagnostic final. Un nouvel interrogatoire doit être reconduit avec aussi parfois des tests d’usage ou des tests d’applications répétés où l’on va demander au patient le produit, cosmétique,.. qu’il consomme et qui contient potentiellement l’allergène auquel il a réagit au premier Patch-Test. On va lui demander de se l’appliquer pendant une certaine période donnée pour voir s' il y a une réaction."
+  },
+  {
+   "type": "paragraph",
+   "text": "Le but est d'identifier l’allergène responsable des lésions pour en faire une éviction. L’irritation reste un diagnostic d’élimination dans le contexte. Limite du Patch-Test :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Aujourd'hui le patch test reste la technique"
+  },
+  {
+   "type": "paragraph",
+   "text": "de référence mais il y a beaucoup de limites au diagnostic avec notamment la sensibilité variable des Patch-test due aux réactions irritatives."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il y a donc une nécessité de développer de nouvelles approches diagnostiques basées sur la compréhension des mécanismes immunitaires impliqués dans les EC pour renforcer/améliorer la prise en charge."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-comment-discriminer-eczema-de-contact-allergique-et-irrita",
+   "text": "4. Comment discriminer eczéma de contact allergique et irritant ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "La microscopie confocale peut être utilisée pour regarder la barrière épidermique où il peut y avoir certaines différences entre ECA et ECI. ( La prof a dit que les deux méthodes ci -dessus pour discriminer ECA de ECI ne servaient à rien.)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Test immuno-biologique :"
+  },
+  {
+   "type": "paragraph",
+   "text": "L’idée des tests immuno-biologiques est de chercher à traquer la"
+  },
+  {
+   "type": "paragraph",
+   "text": "prolifération des lymphocytes T spécifiques d’allergènes chez les patients. Il est énormément utilisé dans l’allergie médicamenteuse. On va mesurer la prolifération lymphocytaire avec incorporation de différents marqueurs et l’idée c’est qu’à partir d’une simple prise de sang du patient, on puisse isoler les cellules mononucléées du sang dans lesquelles on va retrouver des CPA et les lymphocytes T du patient. On va ensuite mettre en culture les lymphocytes T avec l’allergène suspecté, notamment dans l’allergie médicamenteuse."
+  },
+  {
+   "type": "paragraph",
+   "text": "Au bout de 5 jours, on va mesurer la prolifération des lymphocytes T à travers des marqueurs nucléaires. S’il y a prolifération, c’est que les lymphocytes T ont reconnu l’allergène et qu’on a des lymphocytes T spécifiques d’allergène dans le sang."
+  },
+  {
+   "type": "paragraph",
+   "text": "L’analyse moléculaire pour caractériser l’inflammation cutanée :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A partir de biopsie cutanée, on va pouvoir aller regarder les profils"
+  },
+  {
+   "type": "paragraph",
+   "text": "moléculaires des patients, ce qui va nous permettre de regarder les différents profils de lymphocytes T, des cytokines et surtout de biomarqueurs qui permettent aujourd’hui de discriminer une ECA d’une ECI. En résumé, la recherche permet une optimisation du processus de diagnostic, ce qui amène à une meilleure prise en charge des patients (diagnostic personnalisé), un désengorgement du système de soins ainsi qu’une diminution des dépenses de santé."
+  },
+  {
+   "type": "paragraph",
+   "text": "V : Conclusion :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les eczémas de contact sont des dermatoses inflammatoires fréquentes, ayant un fort impact sur la qualité de vie du patient.",
+    "Le diagnostic différentiel entre allergie et irritation est difficile en routine. • L’ECA est une hypersensibilité retardée de type IV à médiation T CD8+ ; l’ECI repose sur des mécanismes non spécifiques.",
+    "Le diagnostic repose essentiellement sur les patch-tests, mais leur interprétation présente des limites. • Les approches immunobiologiques et transcriptomiques permettent d’améliorer le diagnostic et ouvrent la voie au développement de nouveaux outils innovants et une médecine personnalisée"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "VI : QCM : (nouveaux cours les lapins donc pas d’ACC sur ce cours dispo)"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 1"
+  },
+  {
+   "type": "paragraph",
+   "text": "Eczéma : généralités et dermatite atopique Parmi les propositions suivantes, lesquelles sont exactes ? A. Le prurit est constant dans l’eczéma. B. La phase desquamative guérit avec cicatrice. C. La dermatite atopique repose sur une triade clinique incluant eczéma, prurit et xérose. D. La dermatite atopique débute le plus souvent à l’âge adulte. E. La prévalence de la dermatite atopique est plus élevée chez l’enfant que chez l’adulte."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : Réponses exactes : A, C, E"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A : Vrai → Le prurit est constant dans toutes les phases de l’eczéma."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "B : Faux → La phase desquamative guérit sans cicatrice."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "C : Vrai → Triade diagnostique : lésions d’eczéma + prurit + xérose."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "D : Faux → Début le plus souvent précoce dans l’enfance."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "E : Vrai → Prévalence 10–30 % chez l’enfant vs ~2 % chez l’adulte."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 2 Eczémas de contact : mécanismes Concernant les eczémas de contact : A. L’eczéma de contact irritatif (ECI) active principalement l’immunité innée. B. L’eczéma de contact allergique (ECA) implique une hypersensibilité retardée de type IV. C. L’ECA met en jeu les lymphocytes T spécifiques d’allergène. D. L’ECI nécessite une phase de sensibilisation ganglionnaire. E. L’eczéma de contact irritatif représente environ 80 % des eczémas de contact."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : Réponses exactes : A, B, C, E"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A : Vrai → ECI = activation de l’immunité innée."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "B : Vrai → ECA = hypersensibilité retardée type IV."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "C : Vrai → Production de LT spécifiques lors de la phase de sensibilisation."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "D : Faux → Pas de phase de sensibilisation ni d’immunité adaptative dans l’ECI."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "E : Vrai → L’ECI représente environ 80 % des cas."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 3 Physiopathologie et thérapeutiques ciblées de la dermatite atopique Parmi les propositions suivantes : A. La mutation de la filaggrine est nécessaire et suffisante pour développer une dermatite atopique. B. L’IL-4 et l’IL-13 participent à l’inflammation de type 2 dans la dermatite atopique. C. Les inhibiteurs de JAK bloquent la signalisation intracellulaire de plusieurs cytokines via la voie JAK-STAT. D. Le dupilumab cible directement l’IL-13 circulante. E. La colonisation par Staphylococcus aureus est associée aux poussées de dermatite atopique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : Réponses exactes : B, C, E"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A : Faux → Mutation de la filaggrine = facteur de susceptibilité non nécessaire ni suffisant."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "B : Vrai → IL-4 et IL-13 = cytokines centrales de l’inflammation Th2."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "C : Vrai → Les inhibiteurs de JAK bloquent la cascade JAK-STAT et la programmation inflammatoire."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "D : Faux → Le dupilumab cible le récepteur commun IL-4/IL-13, pas directement l’IL-13 circulante (contrairement au tralokinumab/lebrikizumab)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "E : Vrai → S. aureus prolifère lors des poussées et entretient l’inflammation. Page 19/17"
+   ]
+  }
+ ]
+}

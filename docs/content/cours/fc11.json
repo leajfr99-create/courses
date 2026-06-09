@@ -1,0 +1,2179 @@
+{
+ "slug": "fc11",
+ "code": "FC11",
+ "title": "Réponse inflammatoire et mécanismes d’action des AINS et AIS",
+ "prof": "Pr. Berger",
+ "sourceFile": "FC11-BERGER-Réponse inflammatoire et Mécanismes d'action des AINS et AIS-11.02 (1)(1).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "fc9-mecanismes-d-actions-des-ains-et-ais",
+   "label": "FC9-MÉCANISMES D’ACTIONS DES AINS ET AIS",
+   "level": 2
+  },
+  {
+   "id": "partie-1-reponse-inflammatoire",
+   "label": "PARTIE 1 : RÉPONSE INFLAMMATOIRE",
+   "level": 2
+  },
+  {
+   "id": "i-reponse-inflammatoire",
+   "label": "I. Réponse inflammatoire",
+   "level": 2
+  },
+  {
+   "id": "reponse-inflammatoire",
+   "label": "RÉPONSE INFLAMMATOIRE",
+   "level": 2
+  },
+  {
+   "id": "1-facteurs-declenchants-de-l-inflammation",
+   "label": "1. Facteurs déclenchants de l’inflammation",
+   "level": 3
+  },
+  {
+   "id": "2-inflammation-aigu",
+   "label": "2. Inflammation aiguë",
+   "level": 3
+  },
+  {
+   "id": "3-phase-vasculaire",
+   "label": "3. Phase vasculaire",
+   "level": 3
+  },
+  {
+   "id": "4-phase-cellulaire",
+   "label": "4. Phase cellulaire",
+   "level": 3
+  },
+  {
+   "id": "ii-immunite-innee-mediateurs-solubles",
+   "label": "II. Immunité innée - Médiateurs solubles",
+   "level": 2
+  },
+  {
+   "id": "1-les-cytokines",
+   "label": "1. Les cytokines",
+   "level": 3
+  },
+  {
+   "id": "2-proteines-de-la-phase-aig-e-de-l-inflammation",
+   "label": "2. Protéines de la phase aigüe de l’inflammation",
+   "level": 3
+  },
+  {
+   "id": "3-reponse-immunitaire-non-adaptative-precoce",
+   "label": "3. Réponse immunitaire non adaptative précoce",
+   "level": 3
+  },
+  {
+   "id": "iii-2-types-d-inflammation-principaux",
+   "label": "III. 2 types d’inflammation principaux",
+   "level": 2
+  },
+  {
+   "id": "1-inflammation-aig-e-3-phases",
+   "label": "1. Inflammation aigüe : 3 phases",
+   "level": 3
+  },
+  {
+   "id": "2-inflammation-chronique",
+   "label": "2. Inflammation chronique",
+   "level": 3
+  },
+  {
+   "id": "3-points-cles",
+   "label": "3. Points clés",
+   "level": 3
+  },
+  {
+   "id": "iv-exploration-biologique-des-etats-inflammatoires",
+   "label": "IV. Exploration biologique des états inflammatoires",
+   "level": 2
+  },
+  {
+   "id": "1-proteines-de-la-phase-aig-e-de-l-inflammation",
+   "label": "1. Protéines de la phase aigüe de l’inflammation",
+   "level": 3
+  },
+  {
+   "id": "partie-2-cibles-et-mecanismes-d-action-des-anti-inflammatoir",
+   "label": "PARTIE 2 : CIBLES ET MÉCANISMES D’ACTION DES ANTI-INFLAMMATOIRES",
+   "level": 2
+  },
+  {
+   "id": "i-introduction-et-generalites-sur-les-anti-inflammatoires-no",
+   "label": "I. Introduction et généralités sur les anti-inflammatoires non stéroïdiens (AINS)",
+   "level": 2
+  },
+  {
+   "id": "1-generalites",
+   "label": "1. Généralités",
+   "level": 3
+  },
+  {
+   "id": "2-fonctionnement-des-ains",
+   "label": "2. Fonctionnement des AINS",
+   "level": 3
+  },
+  {
+   "id": "3-epidemiologie-des-ains",
+   "label": "3. Epidémiologie des AINS",
+   "level": 3
+  },
+  {
+   "id": "ii-les-ains",
+   "label": "II. Les AINS",
+   "level": 2
+  },
+  {
+   "id": "1-l-aspirine-et-ses-derives",
+   "label": "1. L’aspirine et ses dérivés",
+   "level": 3
+  },
+  {
+   "id": "2-les-ains-non-salicyles",
+   "label": "2. Les AINS non salicylés",
+   "level": 3
+  },
+  {
+   "id": "iii-anti-inflammatoires-steroidiens-ou-corticoides",
+   "label": "III. Anti-inflammatoires stéroïdiens (ou corticoïdes)",
+   "level": 2
+  },
+  {
+   "id": "1-synthese-naturelle-des-glucocorticoides",
+   "label": "1. Synthèse naturelle des glucocorticoïdes",
+   "level": 3
+  },
+  {
+   "id": "2-anti-inflammatoires-steroidiens-ais",
+   "label": "2. Anti-inflammatoires stéroïdiens (AIS)",
+   "level": 3
+  },
+  {
+   "id": "3-mecanisme-d-action-des-ais",
+   "label": "3. Mécanisme d’action des AIS",
+   "level": 3
+  },
+  {
+   "id": "4-pharmacocinetique",
+   "label": "4. Pharmacocinétique",
+   "level": 3
+  },
+  {
+   "id": "5-indications",
+   "label": "5. Indications",
+   "level": 3
+  },
+  {
+   "id": "iv-quizz",
+   "label": "IV. Quizz",
+   "level": 2
+  },
+  {
+   "id": "2-la-fibrine-intervient-dans-le-systeme-des-kinines",
+   "label": "2. La fibrine intervient dans le système des kinines",
+   "level": 3
+  },
+  {
+   "id": "5-l-aspirine-doit-etre-evitee-chez-l-enfant-au-cours-d-un-sy",
+   "label": "5. L’aspirine doit être évitée chez l’enfant au cours d’un syndrome viral aigu.",
+   "level": 3
+  },
+  {
+   "id": "6-les-ains-non-salicyles-anti-cox2-ont-moins-d-effets-indesi",
+   "label": "6. Les AINS non salicylés anti-COX2 ont moins d’effets indésirables gastriques",
+   "level": 3
+  },
+  {
+   "id": "7-les-anti-inflammatoires-steroidiens-ont-une-action-immunos",
+   "label": "7. Les anti-inflammatoires stéroïdiens ont une action immunosuppressive",
+   "level": 3
+  },
+  {
+   "id": "8-un-des-principaux-effets-indesirables-des-corticoides-est-",
+   "label": "8. Un des principaux effets indésirables des corticoïdes est le diabète induit.",
+   "level": 3
+  },
+  {
+   "id": "v-qcm-d-entrainement",
+   "label": "V. QCM d'entraînement",
+   "level": 2
+  },
+  {
+   "id": "qcm-1-cde",
+   "label": "QCM 1 : CDE",
+   "level": 2
+  },
+  {
+   "id": "qcm-2-bcd",
+   "label": "QCM 2 : BCD",
+   "level": 2
+  },
+  {
+   "id": "vi-acc-2024-2025",
+   "label": "VI. ACC 2024-2025",
+   "level": 2
+  },
+  {
+   "id": "qcm10-bce",
+   "label": "QCM10 : BCE",
+   "level": 2
+  },
+  {
+   "id": "qcm-11-ade",
+   "label": "QCM 11 : ADE",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. BERGER Système immunitaire"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "fc9-mecanismes-d-actions-des-ains-et-ais",
+   "text": "FC9-MÉCANISMES D’ACTIONS DES AINS ET AIS"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "partie-1-reponse-inflammatoire",
+   "text": "PARTIE 1 : RÉPONSE INFLAMMATOIRE"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-reponse-inflammatoire",
+   "text": "I. Réponse inflammatoire"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "reponse-inflammatoire",
+   "text": "RÉPONSE INFLAMMATOIRE"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les mécanismes de défenses de l’hôte"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Immunité naturelle (protection initiale contre les infections)",
+    "Immunité adaptative (défense tardive et plus efficace contre les infections)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Définition"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Processus physiologique de défense de l’organisme contre une agression qui entraîne une altération tissulaire",
+    "Élément primordial de l’immunité non spécifique",
+    "Efficace +++ : peu d’agents pathogènes rencontrés chaque jour causent une maladie car ils sont détruits très rapidement par des mécanismes de défenses innés",
+    "Réponse immédiate : la réponse innée ne nécessite pas de processus de maturation de lymphocytes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Fonctions primaires"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Éliminer ou isoler l’agent pathogène de l’organisme puis permettre la réparation tissulaire",
+    "Bactérie, virus, tissu lésé"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Inflammation aiguë"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Bénéfique pour l’organisme jusqu’à ce qu’elle devienne chronique",
+    "Régule et déclenche la réponse immunitaire adaptative Inflammation chronique",
+    "Néfaste"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-facteurs-declenchants-de-l-inflammation",
+   "text": "1. Facteurs déclenchants de l’inflammation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Éléments physiques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Entraînent des lésions tissulaires et libèrent des produits de dégradation",
+    "Comme le collagène",
+    "Exemple : chaleur (brûlure), froid (gelure), rayonnement ionisants"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Éléments solides exogènes ou endogènes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pathogènes microbiens",
+    "Dard d’insecte",
+    "Microcristaux",
+    "Cristaux d’urate",
+    "Produits chimiques",
+    "Acide, base, toxique",
+    "Produits biologiques",
+    "Toxines, produits de dégradation tissulaire",
+    "Composés issus de la réaction inflammatoire (complexes immuns, anticorps cytotoxiques, cytokines) Réponse inflammatoire",
+    "Même mécanisme",
+    "Différence d’intensité et de durée selon le facteur déclenchant"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-inflammation-aigu",
+   "text": "2. Inflammation aiguë"
+  },
+  {
+   "type": "paragraph",
+   "text": "4 phénomènes (à connaître)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Gonflement (lié à un œdème)",
+    "Douleur",
+    "Chaleur",
+    "Érythème",
+    "Signes cardinaux de Celsius",
+    "Tumor, dolor, calor, color"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Peuvent être accompagnés d’atteintes fonctionnelles régionales"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "3 phases"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Phase vasculaire",
+    "Immédiate",
+    "Avec tout d'abord une vasoconstriction",
+    "Caractérisée par des modifications de la microcirculation locale",
+    "Phase cellulaire",
+    "Consécutive à la mobilisation de nombreuses cellules",
+    "Phase de résolution et de cicatrisation",
+    "Restauration des tissus"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-phase-vasculaire",
+   "text": "3. Phase vasculaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. La coagulation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôle"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vasoconstriction artériolaire très brève sous l’action du système nerveux sympathique",
+    "Perturbation du mouvement de la lignée thrombocytaire dans la circulation sanguine",
+    "Activation des plaquettes et de la coagulation"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Hémostase primaire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Par les plaquettes",
+    "Formation du clou plaquettaire",
+    "Colmatage des brèches spontanées ou provoquées",
+    "Apport d’adrénaline, de noradrénaline et de sérotonine qui va induire une vasoconstriction"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Coagulation"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Formation de la fibrine",
+    "Isole le pathogène",
+    "Fibrine agit également sur le système des kinines avec la synthèse des bradykinines",
+    "Consolidation du clou plaquettaire",
+    "Par la fibrine",
+    "Permet d’isoler le pathogène 1) Agent chimiotactique des polynucléaires neutrophiles 2) Assure la perméabilité vasculaire via l’action de la fibrine sur le système des kinines"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Le système des kinines"
+  },
+  {
+   "type": "paragraph",
+   "text": "Kininogènes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Précurseurs inactifs des kinines",
+    "Donnent naissances à de nombreux petits peptides vasoactifs",
+    "Sous l’effet des kallicréines",
+    "Qui augmentent la chaleur locale et la douleur",
+    "Rapidement détruits",
+    "Sous l’effet des kininases"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Production Fibrine → Prékallikréine → Kallikréine → Kininogène"
+  },
+  {
+   "type": "paragraph",
+   "text": "Bradykinines"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Nonapeptide produit à partir de kininogène",
+    "Augmente la perméabilité vasculaire",
+    "En stimulant la phospholipase A2 : enzyme importante car permet la synthèse d’acide arachidonique à partir des phospholipides membranaires",
+    "Permettant la synthèse de prostaglandine par la voie de la cyclo-oxygénase"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Permettant la synthèse de leucotriènes par la voie de la 5-lipo-oxygénase",
+    "Responsable de la douleur",
+    "Par interaction avec des récepteurs spécifiques sur les neurones sensoriels",
+    "Agit avec la plasmine en activant la voie alterne du complément",
+    "Amplifie la réaction inflammatoire"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Schéma récapitulatif"
+  },
+  {
+   "type": "paragraph",
+   "text": "c. PAF-Acéther"
+  },
+  {
+   "type": "paragraph",
+   "text": "PAF-Acéther"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Produit durant l’activation plaquettaire",
+    "Entraîne chimiotactisme, vasodilatation et bronchoconstriction",
+    "Produit aussi par les polynucléaires, les monocytes et les cellules endothéliales",
+    "Activateur de nombreuses cellules",
+    "Dégranulation, agrégation, libération de prostaglandines"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Prostaglandines"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Agents vasodilatateurs",
+    "Algogènes",
+    "Qui contribuent à l’érythème, œdème, douleur et fièvre"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Thromboxane (TxA2)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Agent vasoconstricteur issu de la famille des prostaglandines",
+    "Agent thrombogène",
+    "Agrégation plaquettaire Leucotriènes ● Forte activité chimiotactique sur les PNN"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "d. Phase vasculaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "Libération de médiateurs"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vasodilatation",
+    "Augmentation du flux sanguin : chaleur et rougeur au niveau du site inflammatoire",
+    "Diminution du débit sanguin favorisant le contact entre les leucocytes et l’endothélium vasculaire",
+    "Augmentation de la perméabilité vasculaire",
+    "Exsudation plasmatique",
+    "Relâchement des fenêtres intercellulaires",
+    "Œdème, douleur",
+    "Favorise le passage des anticorps et protéines du complément",
+    "Expression des molécules d’adhérence sur la surface des cellules endothéliales",
+    "Diapédèse et migration des phagocytes vers le foyer inflammatoire",
+    "Extravasation des protéines plasmatiques et des cellules vers les tissus"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Protéines du complément"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Attirées par les protéines dans les tissus lésés",
+    "Activation par la voie classique",
+    "Complexe antigène-anticorps",
+    "Activation par la voie alterne",
+    "Endotoxines bactériennes",
+    "Favorise :",
+    "La vasodilatation (C3a, C4a, C5a)",
+    "La perméabilité vasculaire (anaphylatoxines C3a et C5a)",
+    "Chimiotactisme des polynucléaires et monocytes",
+    "L’opsonisation et la libération d’histamine par les plaquettes Histamines ● Augmente la contraction des fibres musculaires lisses et la perméabilité (chimiotactique sur les PNN)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Rôle majeur dans la réaction allergique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Schéma"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-phase-cellulaire",
+   "text": "4. Phase cellulaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "Principe"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Expression de molécules d’adhérence favorisant la migration des phagocytes vers le site inflammatoire",
+    "Afflux extravasculaire interstitiel de leucocytes évoluant en 3 phases",
+    "A pour fonction d’éliminer les micro-organismes pathogènes et les tissus lésés"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Étape 1"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cellules de l’immunité innée",
+    "Polynucléaires neutrophiles, monocytes et macrophages",
+    "De 0 à 4h"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Étape 2"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Réponse non-adaptative précoce",
+    "Lymphocytes porteurs de récepteurs pour l’antigène peu variables LB1a, LT, Lγδ, cellules NK",
+    "De 4h à 4 jours"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Étape 3"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Si les étapes précédentes n’ont pas été suffisantes",
+    "Réponse immunitaire adaptative",
+    "Lymphocytes spécifiques de l’antigène LB, LT",
+    "Mise en place supérieur à 4 jours"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-immunite-innee-mediateurs-solubles",
+   "text": "II. Immunité innée - Médiateurs solubles"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-cytokines",
+   "text": "1. Les cytokines"
+  },
+  {
+   "type": "paragraph",
+   "text": "Objectif ● Recrutement de cellules phagocytaires et de molécules effectrices"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôle"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Médiateurs permettant la communication intercellulaire +++",
+    "Régulation des cellules phagocytaires",
+    "Adhérence à l’endothélium",
+    "Homing vers le site de l’agression",
+    "Phagocytose",
+    "Activation des systèmes lytiques"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Caractéristiques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Petites molécules sécrétées de façon transitoire par les cellules en réponse à un signal d'activation avec action locales et systémiques Cytokines pro- inflammatoires (à connaître)",
+    "Cytokines produites en réponse à une infection (IL-1, l’IL-6, l’IL-8, l’IL-12 et le TNF-a)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Fièvre"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Effet systémique principal",
+    "Généralement bénéfique puisque de nombreux micro-organismes se développent moins bien aux températures élevées"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Hyperleucocytose"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Second effet systémique des cytokines produites au cours de la réponse innée",
+    "Généralement dans un contexte infectieux",
+    "Principalement sous forme d’une polynucléose neutrophile"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Résumé : cytokines pro-inflammatoires"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Différentes actions au niveau du SNC :",
+    "Fièvre accompagnée",
+    "Somnolence",
+    "Anoxie",
+    "Différentes actions au niveau cellulaire :",
+    "Chimiotactisme",
+    "Libérations de médiateurs (chimiokines, cytokines, protéases, protéines cationiques, médiateurs lipidiques, radicaux libres)",
+    "Différentes actions au niveau des vaisseaux :",
+    "Migration",
+    "Diapédèse",
+    "Activation cellulaire",
+    "Afflux cellulaire",
+    "Différentes actions au niveau de la moelle osseuse :",
+    "Hyperleucocytose",
+    "Production de protéines de l’inflammation au niveau du foie :",
+    "CRP",
+    "Haptoglobine",
+    "M BL"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Tableau récapitulatif des cytokines proinflammatoires (passé rapidement)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-proteines-de-la-phase-aig-e-de-l-inflammation",
+   "text": "2. Protéines de la phase aigüe de l’inflammation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Synthèse"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Par les hépatocytes",
+    "Stimulée par IL-1, IL-6 et TNF-α"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CRP"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Se fixe à la surface de certaines bactéries et entraîne son opsonisation simple",
+    "Favorisant sa phagocytose",
+    "Ou par activation de la voie classique du complément",
+    "On la dose en pratique courante au labo pour faire le bilan d’un état inflammatoire",
+    "Elle se fixe à la surface de certaines bactéries et joue le rôle d’opsonine pour favoriser leur phagocytose"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "MBL « Mannose Binding Lectine »"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Présente en faible quantité dans le sérum",
+    "Pas dosée en pratique courante",
+    "Augmente massivement au cours de la réponse inflammatoire",
+    "Se fixe sur des résidus mannose",
+    "Présents à la surface de nombreuses bactéries",
+    "Entraîne :",
+    "Opsonisation simple",
+    "Activation de la voie classique du complément"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-reponse-immunitaire-non-adaptative-precoce",
+   "text": "3. Réponse immunitaire non adaptative précoce"
+  },
+  {
+   "type": "paragraph",
+   "text": "ème vague de défense"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Après l’immunité innée",
+    "Grande variété de mécanismes effecteurs humoraux/cellulaires",
+    "Reconnaissance du pathogène en utilisant des récepteurs peu variables et non spécifiques",
+    "Rôle dans l’orientation de la réponse adaptative grâce aux cytokines produites Absence de mémoire immunitaire"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Cellules impliquées"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cellules NK",
+    "Lymphocytes Tγδ",
+    "Lymphocytes B1A"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-2-types-d-inflammation-principaux",
+   "text": "III. 2 types d’inflammation principaux"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-inflammation-aig-e-3-phases",
+   "text": "1. Inflammation aigüe : 3 phases"
+  },
+  {
+   "type": "paragraph",
+   "text": "Phase vasculaire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Coagulation",
+    "Kinines",
+    "Prostaglandines, leucotriènes, thromboxanes et PAF-acéther"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Phase cellulaire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Immunité innée",
+    "Immunité non adaptative précoce",
+    "Immunité adaptative"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Phase de résolution, ou de réparation de l’inflammation"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dépend du degré des lésions tissulaires",
+    "Rôle centrale des macrophages :",
+    "Phagocytose des débris cellulaires",
+    "Sécrétion de cytokines/médiateurs → cicatrisation et régénération tissulaire",
+    "Retour à l’état physiologique :",
+    "Dans un premier temps, réparation de l’endothélium par les cellules endothéliales elles- mêmes (production de collagène)",
+    "Si atteinte plus sérieuse :",
+    "Destruction du tissu atteint",
+    "Participation des macrophages à l’angiogenèse",
+    "Production de protéines matricielles par les fibroblastes (collagène, fibronectine, laminine) :",
+    "Permet la reconstruction des tissus",
+    "Extinction de la réaction inflammatoire"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-inflammation-chronique",
+   "text": "2. Inflammation chronique"
+  },
+  {
+   "type": "paragraph",
+   "text": "Durée ● > 6 semaines"
+  },
+  {
+   "type": "paragraph",
+   "text": "Conséquences"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Destructions tissulaires plus graves qu’une inflammation aiguë",
+    "Entraînant des conséquences fonctionnelles profondes",
+    "Atteintes vasculaires (ex : des vascularites)",
+    "Altérations durables de la structure des vaisseaux Hypertrophie, épaississement, néo angiogenèse par les cellules endothéliales (exemple : Granulomatose avec poly angéite (ex-Wegener)) avec des atteintes orl et rénales qui sont fréquentes Les macrophages sont au premier plan de l'inflammation chronique (PNN si Aigue) Exemple : granulomes infectieux à mycobactéries (TB) et sarcoïdose",
+    "Remplacement du tissu conjonctif par un tissu fibro-inflammatoire riche en collagène non fonctionnel par les fibroblastes (induration, kyste) par les fibroblastes et néoangiogénèse par les cellules endothéliales",
+    "Exemple : inflammation hépatique chronique pouvant évoluer vers la cirrhose."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Déroulement"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Démarrage identique à une inflammation aiguë",
+    "Inflammation semble chronique d’emblée comportant dès le départ",
+    "Des phénomènes de remodelage, de destruction et de réparation du tissu conjonctif"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Causes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Persistance d’une substance pathogène que l’organisme est incapable d’éliminer",
+    "Mécanisme auto-entretenu",
+    "L’information persiste malgré l’élimination de la substance pathogène"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-points-cles",
+   "text": "3. Points clés"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réaction inflammatoire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Phénomène bénéfique permettant de lutter contre les agressions.",
+    "3 phases : vasculaire, cellulaire et résolutive",
+    "Aiguë : cause un inconfort (douleur, œdème)",
+    "Chronique : peut causer des séquelles graves selon l’étendue et le tissu atteint",
+    "Acteurs : la coagulation, les kinines, le complément, et le système immunitaire.",
+    "Elle comprend : l’immunité innée, l’immunité non adaptative précoce et l’immunité adaptative"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Diagnostic syndrome inflammatoire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Exploration : CRP, procalcitonine, NFP, vitesse de sédimentation"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-exploration-biologique-des-etats-inflammatoires",
+   "text": "IV. Exploration biologique des états inflammatoires"
+  },
+  {
+   "type": "paragraph",
+   "text": "Hémogramme"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Anémie tardive (3 à 4 semaines) et modérée initialement normochrome normocytaire puis microcytaire si persistance",
+    "Fer sérique ↘",
+    "Ferritine ↗",
+    "L’IL6 augmente la concentration hepcidine → empêche le passage du fer dans la circulation → [EPO] ↘",
+    "Hyperleucocytose",
+    "Fréquente dans les inflammations d’origine infectieuse",
+    "Thrombocytose fréquente"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Vitesse de sédimentation"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Résultat exprimé en mm et représente la hauteur de la colonne de plasma présente à la surface des globules rouges ayant sédimenté au bout d’une heure",
+    "Quasiment plus utilisée actuellement"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-proteines-de-la-phase-aig-e-de-l-inflammation",
+   "text": "1. Protéines de la phase aigüe de l’inflammation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les protéines les plus dosées en routine : CRP et Procalcitonine."
+  },
+  {
+   "type": "paragraph",
+   "text": "CRP"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Synthèse par les hépatocytes",
+    "Augmente après 6h surtout dans les états infectieux bactériens",
+    "Causes d’élévation :",
+    "Infection bactérienne",
+    "Infarctus du myocarde",
+    "Cancer",
+    "Pathologie inflammatoire Maladie de Crohn, arthrite, vascularite"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Procalcitonine"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pro hormone de la calcitonine synthétisée par les cellules C de la thyroïde",
+    "Protéolyse inhibée au cours du sepsis",
+    "Excrétion régulée par toxines bactériennes et médiateurs pro-inflammatoires",
+    "Intérêt pour différencier les infections bactériennes et virales (elle est surtout augmentée dans les infections bactériennes)",
+    "Marqueur précoce et corrélé à la sévérité de l’infection",
+    "Fait partie d’un certain nombre de scores notamment de scores pronostics"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Bilan du complément"
+  },
+  {
+   "type": "list",
+   "items": [
+    "En 1 er intention :",
+    "CH50, C3, C4 Exploration de la voie classique et finale commune",
+    "Hypercomplémentémie (inflammation d’origine non-immunologique) :",
+    "Cancer, hépatites aiguës, infarctus du myocarde",
+    "Hypocomplémentémie",
+    "Si complexes immuns circulants par consommation (lupus)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Électrophorèse des protéines sériques modifiée lors des états inflammatoires"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Étudie la migration de protéines plasmatiques chargées au travers d’un gel après application d’un courant électrique, migration dépendante de leurs tailles respectives.",
+    "Mais pas la principale indication pour faire une électrophorèse de protéines sériques"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Electrophorèse normale"
+  },
+  {
+   "type": "paragraph",
+   "text": "Electrophorèse dans le cas d’un syndrome inflammatoire : ↘ Albumine ↗ α1-globulines et des protéines inflammatoires ↗ α2-globulines Taux stable de β-globulines ↗ polyclonales γ-globulines"
+  },
+  {
+   "type": "paragraph",
+   "text": "Schéma récapitulatif"
+  },
+  {
+   "type": "paragraph",
+   "text": "Lien vidéo sur les étapes de l’inflammation : https://www.youtube.com/watch?v=phYppRaLCOY"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "partie-2-cibles-et-mecanismes-d-action-des-anti-inflammatoir",
+   "text": "PARTIE 2 : CIBLES ET MÉCANISMES D’ACTION DES ANTI-INFLAMMATOIRES"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-introduction-et-generalites-sur-les-anti-inflammatoires-no",
+   "text": "I. Introduction et généralités sur les anti-inflammatoires non stéroïdiens (AINS)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Définition"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les anti-inflammatoires sont des médicaments ayant une action symptomatique contre l’inflammation",
+    "N’agissent pas sur la cause de l’inflammation",
+    "Médicaments très rependus et largement utilisés Propriétés des anti- inflammatoires"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Analgésique",
+    "Anti-inflammatoire",
+    "Antipyrétique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Voies d’administration"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Voie orale",
+    "Injectable",
+    "Locale"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "2 grandes familles d’antiinflammatoires"
+  },
+  {
+   "type": "paragraph",
+   "text": "Stéroïdiens et non stéroïdiens ont des effets indésirables communs (agressivité pour la muqueuse gastrique), risque de gastrite ou d’ulcère, résistance diminuée aux infections (pour les stéroïdiens)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-generalites",
+   "text": "1. Généralités"
+  },
+  {
+   "type": "paragraph",
+   "text": "2 voies de synthèses dans la réaction inflammatoire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Voie de la cyclo-oxygénase → synthèse de prostaglandines :",
+    "Vasodilatation",
+    "Effet algogène",
+    "Effet pyrogène",
+    "Voie de la lipo-oxygénase → synthèse de leucotriènes",
+    "Chimiotactisme des cellules pro-inflammatoires",
+    "Bronchoconstriction",
+    "↗ sécrétions muqueuses",
+    "Perméabilité vasculaire Précurseur des eicosanoïdes",
+    "Acide arachidonique",
+    "Issu de l’hydrolyse des phospholipides membranaires par la phospholipase A2"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Schéma"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-fonctionnement-des-ains",
+   "text": "2. Fonctionnement des AINS"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action commun à tous les AINS"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibition des enzymes cyclooxygénases (COX) pour diminuer la synthèse de prostaglandines"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "2 types des COX"
+  },
+  {
+   "type": "list",
+   "items": [
+    "COX 1 = « constitutive »",
+    "Intervient dans la synthèse de prostaglandines physiologiques ayant des effets bénéfiques tels que : protection des cellules gastriques, maintien du flux sanguin rénal, vasoconstriction et agrégation plaquettaire (synthèse TXA2)",
+    "Effets secondaires liés à l’inhibition de COX 1 : allongement du temps de saignement, toxicité gastrique/rénale",
+    "COX 2 = « inductive »",
+    "Absente à l’état basal et induite lors de phénomènes inflammatoires",
+    "Provoquerait la libération de prostaglandines impliquées dans les processus de l’inflammation",
+    "Effets bénéfiques liés à l’inhibition de COX 2 : antipyrétique, anti- inflammatoire, antalgique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Remarque"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Aujourd’hui, la plupart des AINS inhibent à la fois COX 1 et COX 2, mais on recherche des AINS plus spécifiques de la COX 2"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-epidemiologie-des-ains",
+   "text": "3. Epidémiologie des AINS"
+  },
+  {
+   "type": "paragraph",
+   "text": "Très prescrits ● (4-9%)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Propriétés"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Antalgiques",
+    "Antipyrétique",
+    "Anti-inflammatoire",
+    "Anti-agrégant plaquettaire Nombreux effets secondaires",
+    "25% d’effets indésirables"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Mortalité aux USA pour différentes causes épidémiologiques en 1997"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-les-ains",
+   "text": "II. Les AINS"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-l-aspirine-et-ses-derives",
+   "text": "1. L’aspirine et ses dérivés"
+  },
+  {
+   "type": "paragraph",
+   "text": "Quelques mots d’histoire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Effets curatifs d’extraits d’écorce de saule connus depuis l’antiquité pour le traitement des fièvres infectieuses",
+    "Milieu du 18ème siècle : révérend Edmund Stone rapporte les effets antipyrétiques de ces extraits",
+    "1829 : substance active isolée par Leroux : cette substance peut être transformée en acide salicylique puis être acétylé pour donner de l’acide acétylsalicylique = ASPIRINE",
+    "1897 : Hoffman synthétise de l’acide acétylsalicylique à l’état pur",
+    "1899 : Production d’acide acétylsalicylique sous le nom d’Aspirine (de Spirea ou reine des Prés) par un laboratoire allemand BAYE",
+    "1908 : Aspirine commercialisée en France",
+    "1971 : chimistes anglais John Vane et Priscilla Piper découvrent le mécanisme d’action (inhibition synthèse des prostaglandines)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Mode d’action de l’aspirine"
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’aspirine ou acide acétylsalicylique est une pro drogue qui est rapidement hydrolysée dans l’organisme et qui donne l’acide salicylique",
+    "Elle permet le blocage es diverses isoformes de COX :",
+    "Acide acétylsalicylique : blocage irréversible de COX par acétylation",
+    "Acide salicylique : blocage réversible de COX"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets thérapeutiques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Variables selon la dose employé",
+    "Faible dose : inhibition sélective de la COX plaquettaire : aspirine totalement métabolisée lors du 1 er passage hépatique en acide salicylique donc effet réversible et pas d’action systémique",
+    "Forte dose : persistance d’acide acétylsalicylique car tout l’aspirine ne peut pas être métabolisé par le foie : effets irréversible et action systémique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Actions en fonction de la dose"
+  },
+  {
+   "type": "paragraph",
+   "text": "Action anti-inflammatoire : à doses élevées (>3g/J) par inhibition de la synthèse des prostaglandines Action antalgique : à doses moyennes, puissance équivalente à 1/10 de la codéine. Action antipyrétique : à doses moyennes, ramène à la normale le thermostat hypothalamique déréglé pendant la fièvre en inhibant ou ralentissant la synthèse d’interleukine-1 et d’autres cytokines (TNF) hyperthermisantes. Action antiagrégant plaquettaire : à faibles doses (160 à 320 mg/J), produit un effet antiagrégant tout en limitant les effets indésirables hémorragiques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action à très faible dose Non-dit cette année mais laissé pour la compréhension"
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’acide acétylsalicylique va bloquer préférentiellement la COX 1 (basale) des plaquettes sanguines au niveau de la circulation portale et empêcher la production de thromboxane a2 → effet antiagrégant plaquettaire :",
+    "Irréversible : impossibilité pour la plaquette de resynthétiser la COX",
+    "Blocage définitif de TXA2 pour toute la vie de la plaquette (7 à 10 jours)",
+    "Aspirine presque complètement métabolisée lors de son premier passage hépatique en acide salicylique",
+    "Conséquences :",
+    "Inhibition irréversible de la COX1 plaquettaire au niveau du système porte par l’acide acétylsalicylique : impossibilité pour la plaquette de resynthétiser la COX",
+    "M étabolite (acide salicylique) présent dans la circulation systémique (réversible)",
+    "L’administration répétée de faibles doses va induire une inhibition cumulée de l’agrégation plaquettaire avec une inhibition minimale de la synthèse des prostaglandines dans les tissus périphériques il faudra des doses plus importantes pour obtenir des activités antipyrétiques, antalgiques, anti-inflammatoires"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Pharmacocinétique"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Aspirine rapidement absorbée après administration par voie orale",
+    "Bonne disponibilité",
+    "Résorption au niveau de l’estomac et de l’intestin",
+    "Désacétylée par le foie en acide salicylique (action REVERSIBLE)",
+    "Hautement liée aux protéines plasmatiques",
+    "Demi-vie : 3 à 9 heures",
+    "Elimination par voie urinaire"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Indications"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Traitement symptomatique des douleurs d'intensité légère à modérée et/ou des états fébriles (1 à 3g/j et 60 mg/kg/j max chez l’enfant)",
+    "Rhumatisme inflammatoire chronique, rhumatisme articulaire aigu chez l'enfant (50 à 100 mg/kg/j dose maximale/j)",
+    "Traitement symptomatique des rhumatismes inflammatoires chez l'adulte (3 à 6g max/j)",
+    "Espacer les prises de minimum 4h et réduire les doses chez le sujet âgé",
+    "Utilisation pour son action anti-agrégant plaquettaire en prévention secondaire (y compris lors des situations d'urgence) après un premier accident ischémique myocardique ou cérébral lié à l'athérosclérose"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Gastro-intestinaux+++",
+    "Douleurs abdominales, nausées, vomissements",
+    "Ulcères gastriques et perforations",
+    "Hémorragies digestives patentes (hématémèse, melaena) ou occultes : risque d’anémie ferriprive",
+    "Réaction d’hypersensibilité",
+    "Urticaire, réactions cutanées, réactions anaphylactiques, asthme, œdème de Quincke…Ulcères gastriques et perforations",
+    "Hématologiques",
+    "Augmentation du temps de saignement pendant 4 à 8 jours",
+    "SNC",
+    "Céphalées, vertiges",
+    "Sensation de baisse de l’acuité auditive",
+    "Bourdonnements d’oreille",
+    "Gynéco-obstétricaux",
+    "CI pendant le dernier trimestre de la grossesse : effets foeto-toxiques (fermeture prématurée du canal artériel, IR)",
+    "↘ l’efficacité des dispositifs intra-utérins (controversé)Bourdonnements d’oreille",
+    "↗ le volume et la durée des menstruations",
+    "Métabolisme",
+    "Hyperuricémie à faible dose",
+    "Hypo-uricémie à forte dose"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Intoxication aigue"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dose toxique chez l’adulte : plus de 12g/j",
+    "Dose toxique chez l’enfant : plus de 150-200 mg/kg",
+    "Symptôme majeur = hyperventilation par stimulation des centres respiratoires",
+    "Puis hypercatabolisme avec acidose métabolique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Syndromes associés à l’aspirine et ses dérivés"
+  },
+  {
+   "type": "paragraph",
+   "text": "Syndrome de Reye (à retenir)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Maladie rare et potentiellement mortelle",
+    "Prise d'aspirine au cours d'un épisode viral aigu (varicelle, grippe, rhume...)",
+    "Associe une atteinte cérébrale non inflammatoire (œdème cérébral) et une atteinte hépatique (stéatose)",
+    "Essentiellement chez l’enfant",
+    "Physiopathologie mal connue : lésions mitochondriales provoquées par infection virale",
+    "Signes cliniques :",
+    "Vomissements (liés à l’œdème cérébral avec ou sans signes de déshydratation)",
+    "Encéphalopathie chez un patient apyrétique, altération de la conscience",
+    "Hépatomégalie"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": " Enfant avec maladie virale : pas aspirine sans avis médical : privilégier le paracétamol"
+  },
+  {
+   "type": "paragraph",
+   "text": "Syndrome de Fernand WIDAL"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Syndrome associant une triade :",
+    "Intolérance à l’aspirine",
+    "Polypose nasale",
+    "Asthme",
+    "Début des symptômes vers 30-40 ans par une rhinite ou rhinosinusite chronique (femme ++)",
+    "Fréquence : 10 – 20 % des asthmes de l’adulte",
+    "Mécanisme : anomalie du métabolisme de l’acide arachidonique (génétique)→ augmentation cysleucotriènes → effet pro-inflammatoire + bronchoconstriction",
+    "Réactions croisées avec les autres AINS = Contre-indication"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-les-ains-non-salicyles",
+   "text": "2. Les AINS non salicylés"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mode d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Tous inhibiteurs de COX :",
+    "Compétitifs réversibles (majoritairement)",
+    "Irréversibles (indométacine, flurbiprofène, acide méclofénamique)",
+    "Compétitifs réversibles capture des radicaux libres nécessaires à la synthèse des prostaglandines (dérivés phénoliques)",
+    "Effets pharmacologiques secondaires à l’inhibition de la synthèse de prostaglandines",
+    "Mode d’action commun mais variabilité des effets indésirables",
+    "Différences d’affinité vis-à-vis des 2 isoformes de COX",
+    "Plus ou moins sélectifs de COX 2"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Pharmacocinétique"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La demi-vie d’élimination va conditionner le rythme d’administration",
+    "La classification chimique est donc peu utile",
+    "Bonne disponibilité par voie orale (70-80%)",
+    "Diffusion facilitée dans les tissus inflammatoires",
+    "Transport essentiellement sous forme liée aux protéines plasmatiques : interactions médicamenteuses",
+    "Métabolisme hépatique",
+    "Elimination 1/3 dans les selles, 2/3 dans les urines sous forme inactive"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Indications thérapeutiques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Chaque molécule a des indications qui lui sont propres mais globalement :",
+    "Indications rhumatologiques :",
+    "Courte durée : poussées congestives d’arthrose, pathologies microcristallines, pathologies rachidiennes et radiculaires, rhumatologie et traumatologie sportive",
+    "Longue durée : rhumatismes inflammatoires chroniques (polyarthrite rhumatoïde, spondylarthropathie, maladie systémique)",
+    "Autres indications :",
+    "Néonatologie (induction de fermeture du canal artériel persistant)",
+    "Douleurs ORL et stomatologiques",
+    "Douleurs traumatologiques",
+    "Dysménorrhées",
+    "Coliques néphrétiques",
+    "Douleurs cancérologique",
+    "Les AINS réduisent la douleur et l’inflammation mais sont incapables de freiner l’aggravation de la pathologie lors des poussées évolutives"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôles des AINS non salicylés"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Rôle antalgique :",
+    "Douleurs de moyenne importance",
+    "Effet plus faible que celui des opiacés mais sans effets psychotropes",
+    "Efficace pour les douleurs postopératoires"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Rôle antipyrétique :",
+    "Peser l’intérêt de la prescription vis-à-vis des effets indésirables par rapport au Paracétamol",
+    "Rôle anti-inflammatoire :",
+    "Effet anti-agrégant plaquettaire sauf pour les anti-COX 2 Voies d’administration",
+    "Orale préférentiellement utilisée",
+    "Locale, intramusculaire, intraveineuse possible suivant les indications"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Gastroduodénales +++",
+    "Troubles dyspepsiques (10 à 30%) : pesanteur gastrique, épigastralgies, nausées",
+    "Ulcères : 15-25% après 12 semaines de ttt",
+    "Complications des ulcères (1-2%) : perforations, saignements, risque grave, facteur de risque",
+    "Rénales + : particulièrement chez le sujet âgé",
+    "IRA fonctionnelle (oligurie, rétention hydrosodée, OMI, HTA) : rôle modulateur des prostaglandines dans la réabsorption tubulaire du sodium et de l’eau + maintien de la vasodilatation de l’artériole glomérulaire afférente",
+    "Néphropathie par lésions glomérulaires (rare)",
+    "Ulcères : 15-25% après 12 semaines de ttt",
+    "Allergiques++",
+    "De l’urticaire à des dermatoses bulleuses graves (sd de Lyell..)",
+    "Arrêt du traitement",
+    "Bronchospasme",
+    "Hépatiques",
+    "Neurosensoriels :",
+    "Céphalées",
+    "Vertiges, étourdissements",
+    "AINS indolés (indométacine)",
+    "Hémat ologiques :",
+    "Agranulocytose",
+    "Aplasie médullaire",
+    "Pyrazolés+++ (phénylbutazone)",
+    "Grossesse :",
+    "Tératogène (discuté)",
+    "CI à partir du 6 ème mo is de grossesse car risque de constriction du canal artériel, risque augmenté en fin de grossesse",
+    "Cardiovasculaires :",
+    "HTA",
+    "Décompensation IC",
+    "AVC, IDM",
+    "Inhibiteur COX-2"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Comme nt diminuer la toxicité gastrique des AINS ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Développer des molécules spécifiques de COX-2",
+    "Aux doses thérapeutiques ils sont aussi efficaces que les AINS conventionnels mais sans inhiber la COX1 → résultat : pas d’effets anti-agrégant plaquettaire à doses usuelles",
+    "En 1999 : 2 molécules étaient disponibles :",
+    "Le rofécoxib (Vioxx®) → retiré du marché car risque d’IM",
+    "Le célécoxib (Célebrex ®)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Schéma"
+  },
+  {
+   "type": "paragraph",
+   "text": "Interactions médicamenteuses RMO"
+  },
+  {
+   "type": "list",
+   "items": [
+    "AINS entre eux : m ajoration du risque ulcérogène et hémorragique → PAS d’association d’AINS entre eux",
+    "AVK et héparine : ↗ du risque hémorragique",
+    "Méthotrexate : ↗ de sa toxicité hématologique",
+    "Lithium : ↗ de sa concentration sanguine (↘ de son excrétion rénale)",
+    "Sulfamides hypoglycémiants : ↗ du risque de surdosage induisant des accidents hypoglycémiques"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-anti-inflammatoires-steroidiens-ou-corticoides",
+   "text": "III. Anti-inflammatoires stéroïdiens (ou corticoïdes)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-synthese-naturelle-des-glucocorticoides",
+   "text": "1. Synthèse naturelle des glucocorticoïdes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Axe hypothalamohypophysaire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Permet la synthèse des hormones naturelles",
+    "Hypothalamus reçoit les informations de stress (neurones, médiateurs solubles)",
+    "Sécrétion de Corticotropinreleasing factor (CRF) qui stimule l’adénohypophyse",
+    "L’adénohypophyse va ainsi permettre la sécrétion d’hormone adrénocorticotrope (ACTH )",
+    "L’ACTH engendre la sécrétion de cortisol par la glande surrénale au niveau de la zone fasciculée",
+    "La sécrétion de glucocorticoïdes par les glandes surrénales va induire une régulation négative (rétrocontrôle) de l’inflammation (retour à état physiologique)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-anti-inflammatoires-steroidiens-ais",
+   "text": "2. Anti-inflammatoires stéroïdiens (AIS)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Caractéristiques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les anti-inflammatoires stéroïdiens ou glucocorticoïdes sont des dérivés synthétiques des hormones naturelles",
+    "Leur durée d’action est plus longue",
+    "Leur pouvoir anti-inflammatoire est plus marqué,",
+    "Elles ont un moindre effet minéralocorticoïde"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Propriétés thérapeutiques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Action anti-inflammatoire",
+    "Action anti-allergique",
+    "Action immunosuppressive"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Structure ● Homogénéité des structures"
+  },
+  {
+   "type": "paragraph",
+   "text": "Action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Action immunomodulatrice recherchée en thérapeutique mais effets endocriniens (autres tissus) à l’origine des effets secondaires si corticothérapie prolongée",
+    "Action pléiotrope : action biologique des glucocorticoïdes (cortisol) sur le cœur, le foie, les muscles striés, le tissu adipeux, les os"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Action sur l’axe hypothalamo-hypophysosurrénalien"
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemples de médicaments corticoïdes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Puissance relative des différents corticoïdes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Voies d’administration"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-mecanisme-d-action-des-ais",
+   "text": "3. Mécanisme d’action des AIS"
+  },
+  {
+   "type": "paragraph",
+   "text": "M écanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les glucocorticoïdes synthétiques agissent de la même façon que les hormones naturelles",
+    "Effets secondaires dus à l’action sur les autres tissus",
+    "Effet freinateur sur la production d’ACTH",
+    "Inhibition de l’axe hypothalamo hypophysaire",
+    "Transport des glucocorticoïdes dans le sang par des protéines de transport (albumine, transcortine)",
+    "Forme liée (90%) non active biologiquement",
+    "Forme libre (10%) action biologique pléiotrope (différents tissus)",
+    "Glucocorticoïdes : substances lipophiles donc diffuse passivement à travers la membrane plasmatique",
+    "Liaison à un récepteur intra cytoplasmique spécifique présent dans pratiquement toutes les cellules de l’organisme (action pléiotrope)",
+    "Récepteur aux glucocorticoïdes :",
+    "Structure conservée composée de 3 parties : partie C terminale de fixation au ligand (ici les glucocorticoïdes), région centrale de localisation intra- nucléaire et de fixation à l’ADN et partie N-terminale de fixation à certaines protéines (initiation et régulation de la transcription des gènes cibles)",
+    "Récepteur associé à des protéines (HSP- 90, HSP-70, immunophilines HSP-56) à l’état inactif dans le cytoplasme avant la fixation des glucocorticoïdes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Action génomique"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diffusion passive des glucocorticoïdes à travers la membrane plasmatique de la cellule (1)",
+    "Fixation à la partie C-terminale du récepteur : activation du récepteur et libération des HSP et immunophilines (2)",
+    "Complexe glucocorticoïdes/récepteur passe la membrane nucléaire et s’associe à des séquences d’ADN notamment le Glucocorticoid Response Element (GRE) (3) situés dans les régions promotrices de certains gènes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Action génomique par le GRE"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Fixation à des GRE « positifs » : induction de la transcription de gènes codant pour des protéines anti-inflammatoires ou immunosuppressives :",
+    "Annexine 1 (qui inhibe la phophopholipase A2) → inhibition de synthèse des prostaglandines/leucotriènes",
+    "Protéine Ik-B (inhibe le facteur de transcription NFkB qui contrôle la synthèse de nb protéines pro- inflammatoires)",
+    "Récepteur de l’IL-1 de type II (inhibe les fonctions d’IL-1)",
+    "IL-10 (cytokine anti-inflammatoire)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Fixation à des GRE « négatifs » (nGRE) : suppression de la transcription de gènes codant pour des protéines pro- inflammatoires ou contrôlant la réponse immunitaire adaptative :",
+    "COX -2 (permet la synthèse de Prostaglandines)",
+    "Cytokines : IL-1, TNF-alpha, IL-6, IL-2, IFN-γ, IL-4, IL-5",
+    "GM -CSF, IL5 (croissance des PNN et éosinophiles)",
+    "Molécules adhésives leuco- endothéliales : E-selectine, ICAM-1 et VCAM -1 (adhésion leucocytes sur endothélium et recrutement des Ly dans OL secondaires)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Action génomique indépendant du GRE"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Interaction du complexe glucocorticoïdes/récepteur avec les facteurs de transcription : principal mécanisme responsable de l’effet anti-inflammatoire et immunosuppresseur",
+    "Action sur les facteurs de transcription AP-1, NF-kB, NF-IL6 : induction de transcription de gènes pro- inflammatoires"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Action nongénomique → découverte récente, action rapide (surtout aux fortes posologies)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Interaction du complexe glucocorticoïdes avec un récepteur membranaire qui modifierait la signalisation cellulaire (LyB, cellules mononuclées)",
+    "Interaction directe non spécifique avec la membrane plasmatique (ex : modification des propriétés physico-chimiques de la membrane)",
+    "Interaction du récepteur aux corticoïdes avec d’autres protéines de signalisation intracytoplasmique associées au récepteur Ag des LyT (LyT ne pourrait plus être activé par l’antigène)",
+    "Interaction avec les mitochondries (machinerie apoptotique → apoptose de certains thymocytes)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Action des glucocorticoïdes sur les différents acteurs de l’immunité et de l’inflammation"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Immunité innée :",
+    "↘ de la phase vasculaire (inhibition des prostaglandines)",
+    "↘ de la phase cellulaire (inhibition des molécules d’adhésion, de l’afflux des leucocytes...)",
+    "Production de médiateurs anti-inflammatoires et inhibition de la synthèse des médiateurs pro-inflammatoires (favorisent la phase résolutive de l’inflammation)",
+    "Immunité adaptative :",
+    "Rend les cellules dendritiques tolérogènes et favorise le développement des LyT régulateurs (↘ HLAII, CD80/CD86 à la surface des cellules dendritiques et ↗ production IL-10/TGF B par les cellules dendritiques)",
+    "↘ de l’activation des LyT (inhibition de production IL-12 par les cellules dendritiques)",
+    "Survie et fonctions des LyT altérées",
+    "↘ de la migration tissulaire (diminution des molécules adhésives)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-pharmacocinetique",
+   "text": "4. Pharmacocinétique"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pharmacocinétique"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Bonne biodisponibilité par voie orale",
+    "Voie parentérale et voie locale possible",
+    "Vitesse de résorption variable",
+    "Transport dans le sang par la transcortine (CBG) dans 75 à 90% des cas par une liaison forte et spécifique, soit par l’albumine (liaison peu spécifique et de faible affinité)",
+    "Métabolisation hépatique",
+    "Elimination par voie urinaire sous forme de dérivés inactifs"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-indications",
+   "text": "5. Indications"
+  },
+  {
+   "type": "paragraph",
+   "text": "Nombreuses indications (liste non exhaustive)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "M aladies inflammatoires systémiques, vascularites sévères",
+    "Dermatoses inflammatoires",
+    "Maladie néoplasique et contexte de néoplasie : lymphomes, myélomes, œdème cérébral d’origine tumorale…",
+    "Maladies neurologiques : SEP, myasthénie…",
+    "Atteintes inflammatoires pleuropulmonaires : asthme…",
+    "Mais aussi : colites inflammatoires, hépatite chronique active auto-immune, prévention et traitement du rejet de greffe, maladie du greffon contre l’hôte, glomérulopathie évolutive, néphrose lipoïdique, purpura thrombopénique idiopathique, anémie hémolytique auto- immune …"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "6. Effets secondaires +++ (connaître les effets indésirables des corticoïdes !!)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Varient en fonction"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Terrain (âge, antécédents pathologiques, maladie)",
+    "Posologie quotidienne, dose totale, durée du traitement",
+    "Nature du corticoïde",
+    "Voie et mode d’administration"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": " Peuvent aboutir à un hypercorticisme iatrogène"
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets métaboliques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Essentiellement présents pour les ttt prolongés",
+    "Intolérance au glucose et diabète sucré :",
+    "Induction de l’apparition d’un diabète sucré",
+    "Aggravation d’un diabète préexistant",
+    "Rétention hydrosodée",
+    "Activité minéralocorticoïde résiduelle",
+    "Proportionnelle à la dose administrée",
+    "Hypokaliémie au cours des traitements prolongés"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets secondaires digestifs"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Risque d’ulcère gastroduodénal bien inférieur à celui des AINS",
+    "Association corticoïdes + AINS augmente le risque.",
+    "Plus rarement pancréatite aiguë, pancréatite chronique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets osseux"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ostéoporose",
+    "La perte osseuse est rapide et précoce, partiellement régressive à l’arrêt du traitement.",
+    "La déminéralisation est constante dès 0,1 mg/kg/j d’équivalent prednisolone",
+    "Ostéonécrose aseptique",
+    "En premier lieu la tête fémorale, mais aussi tête humérale, les condyles tibiaux",
+    "C’est un effet secondaire rare, mais grave par ses conséquences",
+    "Dépend de la dose, et peut survenir dès le début du traitement"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Atteintes musculaires"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Amyotrophie et myopathie cortisonique",
+    "Effet secondaire fréquent si traitements prolongés",
+    "Dépendant de la dose administrée",
+    "Plus marqué avec certains dérivés"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Répartition des graisses"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Obésité faciotronculaire",
+    "Prise de poids (augmentation de l’appétit) et répartition particulière des graisses (tronc, face, cou Buffalo neck)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets secondaires cutanés"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hirsutisme",
+    "Vergetures pourpres du tronc",
+    "Ecchymoses",
+    "Retard de cicatrisation",
+    "Acné",
+    "Fragilité cutanée parfois sévère"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets secondaires psychiatriques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Effet fréquent",
+    "Proportionnel à la dose administrée.",
+    "Effets stimulants, insomnie, troubles psychotiques",
+    "Le plus souvent sur le mode euphorique.",
+    "Décompensation grave d’une psychose maniaco-dépressive préexistante Effets secondaires oculaires",
+    "Cataracte postérieure fréquent.",
+    "Aggravation d’un glaucome aigu ou chronique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Retard de croissance"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Spécifique de l’enfant et de l’adolescent",
+    "C’est une conséquence redoutable de la corticothérapie prolongée chez l’enfant"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Immunosuppression"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Risque infectieux :",
+    "Bactéries de type pyogène ou à croissance lente, tuberculose ou mycobactéries atypiques",
+    "Virus : herpès, varicelle-zona, maladie de Kaposi (HHV8)",
+    "Parasites : anguillulose, pneumocystose, toxoplasmose, gale, aspergillose… Accidents de « sevrage » et hypocortisolisme endogène à l’arrêt brutal du traitement +++ (effet du rétrocontrôle négatif)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Réduire la posologie progressivement pour éviter une IRA"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "7. Résumé des effets secondaires → moyen mnémotechnique : CORTICOÏDES +++ (tombe au partiel)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Moyen mnémotechnique pour retenir les effets secondaires des corticoïdes :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cardio-vasculaires : HTA, athérosclérose accélérée, hyperlipidémie",
+    "Osseuses : ostéoporose et ONA",
+    "Rebond : réapparition/majoration des symptômes à l’arrêt",
+    "Troubles hydroélectrolytiques : rétention hydrosodée et hypokaliémie",
+    "Infectieuses : réactivation tuberculose, herpès, zona",
+    "Cutanée : retard de cicatrisation, atrophie, ecchymose, acné",
+    "Ophtalmo : glaucome, cataracte",
+    "Insomnie et troubles neuropsychiatriques : agitation, décompensation psychose",
+    "Diabète",
+    "Estomac : dyspepsie, UGD",
+    "Sevrage si arrêt brutal : asthénie, athromyalgies, hypoTA"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets secondaires Prévention"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rétention hydrosodée Oedèmes, HTA, prise de poids, hypoK Régime sans sel"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pancréas Diabète Diminution des sucres rapides"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ostéo-musculaire Ostéoporose, ostéomalacie, amyotrophie Prévention osseuse : Biphosohonates + Ca + Vit D"
+  },
+  {
+   "type": "paragraph",
+   "text": "Sensibilité aux infections Bact : BK, staph, mucotique Virale : herpes, zona, rubéole Parasitaire : anguillulose"
+  },
+  {
+   "type": "paragraph",
+   "text": "Antillais : TTT préventif systématique de l’anguillulose : Mintézole"
+  },
+  {
+   "type": "paragraph",
+   "text": "Athéromateuse HTA, poids, diabète, athérosclérose Arret du tabac, TTT HTA et diabète"
+  },
+  {
+   "type": "paragraph",
+   "text": "Sd cushinoide iatro surpoids, surcharge des graisses faciotronculaires"
+  },
+  {
+   "type": "paragraph",
+   "text": "Cutané atrophie cutané, vergetures, mauvaise cicatrisation, ecchymoses faciles, acné, éryhtrose, hypertrichose, infections"
+  },
+  {
+   "type": "paragraph",
+   "text": "Digestive UGD, diverticulose sigmoïdien, pancréatite dyseptique"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ophtalmo Cataracte, glaucome à angle ouvert"
+  },
+  {
+   "type": "paragraph",
+   "text": "Sevrage Sd sevrage : asthénie, dépendance psychique, insuffisance surrénalienne, rebond"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pas d'arrêt brutal"
+  },
+  {
+   "type": "paragraph",
+   "text": "Conclusion :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les antis inflammatoires sont représentés par 2 classes thérapeutiques :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "AINS",
+    "AI stéroïdiens Nombreuses indications dans les pathologies inflammatoires TTT pourvus de nombreux effets secondaires à connaître pour le suivi des patients ;"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Points-clefs"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le mode d’action des AINS passe par l’inhibition des cyclooxygénases",
+    "L’Aspirine peut être prescrite à faible dose en tant qu’antiagrégant plaquettaire",
+    "Propriétés des anti-inflammatoires : antipyrétique, anti-inflammatoire et analgésique",
+    "Les glucocorticoïdes naturels sont des hormones produites par les glandes surrénales en réponse à des stimuli de l’axe hypothalamo-hypophysaire sous contrôle de l’ACTH",
+    "Glucocorticoïdes synthétiques court-circuitent cet axe et exercent les mêmes effets par l’intermédiaire de récepteurs pléiotropes",
+    "Effet anti-inflammatoire des corticoïdes liés à la suppression de synthèse de molécules pro-inflammatoires/augmentation de synthèse de molécules anti-inflammatoires",
+    "Effet sur les différentes étapes de la réponse inflammatoire (phase vasculaire et cellulaire)",
+    "Glucocorticoïdes ont un mode d’action génomique (forcément plus lent) et non génomique (plus rapide)",
+    "Effets indésirables « CORTICOIDES » : privilégier des cures courtes durées, et faibles posologies.",
+    "Arrêt progressif si traitement chronique pour limiter le risque d'insuffisance surrénalienne."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-quizz",
+   "text": "IV. Quizz"
+  },
+  {
+   "type": "paragraph",
+   "text": "1. L’inflammation est divisée en 3 phases : vasculaire, cellulaire et phase de réparation"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-la-fibrine-intervient-dans-le-systeme-des-kinines",
+   "text": "2. La fibrine intervient dans le système des kinines"
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Les macrophages jouent un rôle clé dans la phase de résolution de l’inflammation 4. Les AINS salicylés ont un effet anti-agrégant plaquettaire surtout à forte dose."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-l-aspirine-doit-etre-evitee-chez-l-enfant-au-cours-d-un-sy",
+   "text": "5. L’aspirine doit être évitée chez l’enfant au cours d’un syndrome viral aigu."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "6-les-ains-non-salicyles-anti-cox2-ont-moins-d-effets-indesi",
+   "text": "6. Les AINS non salicylés anti-COX2 ont moins d’effets indésirables gastriques"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "7-les-anti-inflammatoires-steroidiens-ont-une-action-immunos",
+   "text": "7. Les anti-inflammatoires stéroïdiens ont une action immunosuppressive"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "8-un-des-principaux-effets-indesirables-des-corticoides-est-",
+   "text": "8. Un des principaux effets indésirables des corticoïdes est le diabète induit."
+  },
+  {
+   "type": "paragraph",
+   "text": "1 : Vrai – 2 : Vrai – 3 : Vrai – 4 : Faux : à faible dose – 5 : Vrai – 6 : Vrai – 7 : Vrai – 8 : Vrai"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-qcm-d-entrainement",
+   "text": "V. QCM d'entraînement"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 1. Concernant le mécanisme d’action des AIS et AINS, cocher la ou les bonnes réponses : A. L’inflammation comporte 2 phases : vasculaire et de cicatrisation B. L’IL-1, IL-6, IL-8 et IL-10 sont pro-inflammatoire C. Une inflammation chronique dure plus de 6 semaines D. L'haptoglobine et le fibrinogène possède un rythme circadien E. TNF-alpha possède une activité pro-coagulante"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 2. Concernant le mécanisme d’action des AIS et AINS, cocher la ou les bonnes réponses : A. L’acide salicylique bloque COX de manière irréversible. B. L’acide acétylsalicylique bloque COX de manière irréversible. C. Les AINS ont de nombreux effets indésirables notamment au niveau gastro-intestinal. D. Les corticoïdes agissent sur l’immunité adaptative en favorisant le développement des LyT régulateurs. E. Les corticoïdes ont peu d’effets secondaires sur l’organisme."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm-1-cde",
+   "text": "QCM 1 : CDE"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. FAUX, 3 phases : vasculaire, cellulaire et de cicatrisation/réparation B. FAUX, pas l’IL-10 C. VRAI D. VRAI E. VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm-2-bcd",
+   "text": "QCM 2 : BCD"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. FAUX, L’acide salicylique bloque COX de manière réversible B. VRAI C. VRAI D. VRAI E. FAUX, les corticoïdes ont beaucoup d’effets secondaires sur l’organisme (Cardio-vasculaire, Osseux, Rebond, Troubles hydroélectriques, Infectieux, Cutanés, Ophtalmo, Insomnie, Diabète, Estomac, Sevrage)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vi-acc-2024-2025",
+   "text": "VI. ACC 2024-2025"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 1 0. Quelles est (sont) la (ou les) proposition(s) exactes concernant les traitements anti-inflammatoires ? A. L’aspirine possède une action anti-inflammatoire à doses faible par inhibition de la synthèse des prostaglandines B. Les anti-inflammatoires stéroïdiens (corticoïdes) ont une action pléiotrope dans l’organisme C. Les corticoïdes ont une action génomique lente et une action non génomique rapide D. L’effet des corticoïdes ne se manifeste que sur l’immunité innée E. Les corticoïdes peuvent réprimer la transcription de gènes pro-inflammatoires"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 1 1. Quelles est (sont) la (ou les) proposition(s) exactes concernant la réponse inflammatoire A. C’est un phénomène physiologique très efficace pour lutter contre les infections B. Les plaquettes n’interviennent pas dans l’inflammation C. On parle de réponse inflammatoire chronique à partir de la 2eme semaine D. Les macrophages interviennent dans la phase de réparation tissulaire lors de l’extinction de la réponse inflammatoire E. L’état inflammatoire peut être exploré biologiquement grâce à la CRP produite par le foie"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponses"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm10-bce",
+   "text": "QCM10 : BCE"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm-11-ade",
+   "text": "QCM 11 : ADE"
+  }
+ ]
+}

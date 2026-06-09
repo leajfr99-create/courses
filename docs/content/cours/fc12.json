@@ -1,0 +1,1273 @@
+{
+ "slug": "fc12",
+ "code": "FC12",
+ "title": "Cibles et mécanismes d’action des immunosuppresseurs",
+ "prof": "Dr. Waeckel",
+ "sourceFile": "FC12-WAECKEL-Cibles-et-mecanismes-dac-tion-des-immunosuppresseurs-11-02(1).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "cibles-et-mecanismes-d-action-des",
+   "label": "CIBLES ET MÉCANISMES D’ACTION DES",
+   "level": 2
+  },
+  {
+   "id": "i-introduction",
+   "label": "I. Introduction",
+   "level": 2
+  },
+  {
+   "id": "1-historique",
+   "label": "1. Historique",
+   "level": 3
+  },
+  {
+   "id": "2-les-immunosuppresseurs",
+   "label": "2. Les immunosuppresseurs",
+   "level": 3
+  },
+  {
+   "id": "ii-les-effets-indesirables-de-l-immunosuppression",
+   "label": "II. Les effets indésirables de l’immunosuppression",
+   "level": 2
+  },
+  {
+   "id": "iii-les-differentes-classes-d-immunosuppresseurs-a-retenir",
+   "label": "III. Les différentes classes d’immunosuppresseurs (à retenir)",
+   "level": 2
+  },
+  {
+   "id": "1-les-glucocorticoides",
+   "label": "1) Les glucocorticoïdes",
+   "level": 3
+  },
+  {
+   "id": "2-les-inhibiteurs-de-l-activation-des-lt-empechent-les-lymph",
+   "label": "2) Les inhibiteurs de l’activation des LT → empêchent les lymphocytes T d’agir",
+   "level": 3
+  },
+  {
+   "id": "3-les-inhibiteurs-de-la-proliferation-des-lt-antiproliferati",
+   "label": "3) Les inhibiteurs de la prolifération des LT (= antiprolifératifs)",
+   "level": 3
+  },
+  {
+   "id": "4-les-anticorps-depletants",
+   "label": "4) Les anticorps déplétants",
+   "level": 3
+  },
+  {
+   "id": "1-les-glucocorticoides-2",
+   "label": "1. Les glucocorticoïdes",
+   "level": 3
+  },
+  {
+   "id": "2-les-inhibiteurs-de-l-activation-des-lymphocytes-t",
+   "label": "2. Les inhibiteurs de l’activation des lymphocytes T",
+   "level": 3
+  },
+  {
+   "id": "ciclosporine-neoral-ou-sandimmun",
+   "label": "CICLOSPORINE (NEORAL ou SANDIMMUN)",
+   "level": 2
+  },
+  {
+   "id": "tacrolimus-prograf-advagraf-fk506",
+   "label": "TACROLIMUS (PROGRAF®, ADVAGRAF®) FK506",
+   "level": 2
+  },
+  {
+   "id": "abatacept-et-belatacept",
+   "label": "ABATACEPT et BELATACEPT",
+   "level": 2
+  },
+  {
+   "id": "3-les-inhibiteurs-de-la-proliferation-des-lymphocytes-t-anti",
+   "label": "3. Les inhibiteurs de la prolifération des lymphocytes T = antiprolifératifs",
+   "level": 3
+  },
+  {
+   "id": "4-anticorps-depletant-provoque-destruction-cellulaire",
+   "label": "4. Anticorps déplétant (= provoque destruction cellulaire)",
+   "level": 3
+  },
+  {
+   "id": "iv-strategies-therapeutiques-en-transplantation-d-organes",
+   "label": "IV. Stratégies thérapeutiques en transplantation d’organes",
+   "level": 2
+  },
+  {
+   "id": "v-effets-secondaires-lies-a-l-immunosuppression",
+   "label": "V. Effets secondaires liés à l’immunosuppression",
+   "level": 2
+  },
+  {
+   "id": "1-les-infections",
+   "label": "1. Les infections",
+   "level": 3
+  },
+  {
+   "id": "2-les-cancers",
+   "label": "2. Les cancers",
+   "level": 3
+  },
+  {
+   "id": "vi-points-cles-ce-qu-il-y-a-a-retenir-pour-le-cours",
+   "label": "VI. Points clés (ce qu’il y a à retenir pour le cours)",
+   "level": 2
+  },
+  {
+   "id": "vii-qcm-d-entrainements",
+   "label": "VII. QCM d’entraînements",
+   "level": 2
+  },
+  {
+   "id": "qcm-1-ce",
+   "label": "QCM.1 : CE",
+   "level": 2
+  },
+  {
+   "id": "qcm-2-ad",
+   "label": "QCM.2 : AD",
+   "level": 2
+  },
+  {
+   "id": "qcm-3-ae",
+   "label": "QCM.3 : AE",
+   "level": 2
+  },
+  {
+   "id": "i-faux-leflunomide-inhibe-la-synthese-des-pyrimidines",
+   "label": "I. FAUX , leflunomide inhibe la synthèse des pyrimidines.",
+   "level": 2
+  },
+  {
+   "id": "qcm-4-ace",
+   "label": "QCM.4 : ACE",
+   "level": 2
+  },
+  {
+   "id": "i-faux-igg-polyclonales",
+   "label": "I. FAUX , IgG polyclonales",
+   "level": 2
+  },
+  {
+   "id": "acc-2024-2025",
+   "label": "ACC 2024-2025",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. WAECKEL Immunopathologie"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "cibles-et-mecanismes-d-action-des",
+   "text": "CIBLES ET MÉCANISMES D’ACTION DES"
+  },
+  {
+   "type": "paragraph",
+   "text": "IMMUNOSUPPRESSEURS"
+  },
+  {
+   "type": "paragraph",
+   "text": "Cette année pas de questions sur les effets indésirables SAUF infections et cancers. Bien retenir les indications, les différentes classes d’immunosuppresseurs et les mécanismes d’action. Si vous avez des questions : louis.waeckel@univ-st-etienne.fr"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-introduction",
+   "text": "I. Introduction"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-historique",
+   "text": "1. Historique"
+  },
+  {
+   "type": "paragraph",
+   "text": "1906 : Première xénogreffe (greffe inter-espèce) de rein de porc sur une femme → rejet en 3 jours Années suivantes : autres greffes (chèvre, singe…) → rejets quasi immédiats 1930 : première allogreffe (greffe intra-espèce) d’un rein humain décédé → rejet en quelques jours puis décès du patient 1952 : première greffe depuis un donneur vivant, apparenté (mère) → survie de 4 semaines 1954 : première greffe rénale réussie, entre 2 jumeaux → survie de 8 ans 1958 : découverte CMH (HLA chez l’Homme) qui permet alors de vérifier la compatibilité entre le donneur et le receveur"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Greffe entre jumeaux monozygote : parfaite compatibilité HLA (greffe réussie et survie). Ils ont le même code génétique donc les protéines HLA exprimées à la surface de leurs cellules sont identiques.",
+    "Greffe entre non-jumeaux : imparfaite incompatibilité du HLA (cause le rejet de greffe). Par exemple, entre membres de la même famille il existe une certaine compatibilité, mais qui est imparfaite. De ce fait, le SI du receveur (celui qui reçoit le greffon), va reconnaître le greffon comme un corps étranger, car les protéines HLA de celui-ci ne vont pas être reconnues comme étant du soi, et l’attaquer. Ainsi, pour éviter le rejet de greffe, il est nécessaire de bloquer le SI du receveur d’où l’importance des immunosuppresseurs."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "En résumé : La réussite d’un greffe va donc dépendre de la comptabilité HLA, càd que plus on a ces antigènes leucocytaires qui se rassemblement, plus le risque de rejet est faible."
+  },
+  {
+   "type": "paragraph",
+   "text": "Rema rque : dans les rares cas où la comp atibilité HLA est parfaite, il n’y aura pas besoin d’immunosuppresseurs (ex : jumeaux)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-les-immunosuppresseurs",
+   "text": "2. Les immunosuppresseurs"
+  },
+  {
+   "type": "paragraph",
+   "text": "L’indication principale pour la prescription d’immunosuppresseurs est la prévention du rejet de greffe (= transplantation d’un organe d’un individu à un autre)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils présentent une application importante en pathologie :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Traitement des maladies auto immunes (diminuer l’action du SI)",
+    "Transplantation d’organes (rein, cœur, foie, poumon)",
+    "Greffe de CSH (moelle osseuse)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-les-effets-indesirables-de-l-immunosuppression",
+   "text": "II. Les effets indésirables de l’immunosuppression"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il faut bien retenir que si on réprime le SI, on va empêcher son action principale qui est de combattre les infections et de combattre les cellules tumorales. Donc tout patient sous immunosuppresseurs à un risque accru de développer des infections ou un cancer de façon proportionnelle au degré et à la durée de l’immunosuppression."
+  },
+  {
+   "type": "paragraph",
+   "text": "La durée de traitement par immunosuppresseurs diffère selon le contexte"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Transplantation d’organes : immunosuppresseur à vie (car incompatibilité génétique permanente du CMH donneur/receveur. Le greffon est toujours considéré comme étranger.)",
+    "Maladie auto-immune et greffe de CSH : immunosuppresseur moyen ou long terme (« reset » du SI du receveur). La greffe de moelle osseuse à terme remplace le système immunitaire du patient, càd qu’à terme les lymphocytes du receveurs vont exprimer le HLA du donneur. Il va donc exister une forte incompatibilité HLA entre les 2 systèmes immunitaires parce que le système du donneur aura colonisé celui du receveur.",
+    "Chimiothérapie : immunosuppresseur à court ou moyen terme (ex : immunosuppresseurs antiprolifératifs)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-les-differentes-classes-d-immunosuppresseurs-a-retenir",
+   "text": "III. Les différentes classes d’immunosuppresseurs (à retenir)"
+  },
+  {
+   "type": "paragraph",
+   "text": "4 classes :"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-glucocorticoides",
+   "text": "1) Les glucocorticoïdes"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-les-inhibiteurs-de-l-activation-des-lt-empechent-les-lymph",
+   "text": "2) Les inhibiteurs de l’activation des LT → empêchent les lymphocytes T d’agir"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-les-inhibiteurs-de-la-proliferation-des-lt-antiproliferati",
+   "text": "3) Les inhibiteurs de la prolifération des LT (= antiprolifératifs)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-les-anticorps-depletants",
+   "text": "4) Les anticorps déplétants"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-glucocorticoides-2",
+   "text": "1. Les glucocorticoïdes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Cf cours Dr Berger sur les anti-inflammatoires du 11/02"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-les-inhibiteurs-de-l-activation-des-lymphocytes-t",
+   "text": "2. Les inhibiteurs de l’activation des lymphocytes T"
+  },
+  {
+   "type": "paragraph",
+   "text": "Si le lymphocyte T est inhibé alors il n’y a pas d’attaque du greffon par le système immunitaire."
+  },
+  {
+   "type": "paragraph",
+   "text": "Rappel : Les lymphocytes T ont besoin de 3 signaux pour s’activer :"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Les inhibiteurs de la calcineurine"
+  },
+  {
+   "type": "paragraph",
+   "text": "Signal 1 : stimulation TCR"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le TCR reconnaît son antigène spécifique présenter par une APC (cellule présentatrice d’antigène). La stimulation du TCR va donc entraîner une phosphorylation intra-cellulaire avec une augmentation de calcium intracellulaire qui va activer la calcineurine. La calcineurine va ainsi permettre la déphosphorylation du facteur de transcription NFAT qui migre dans le noyau pour se fixer sur des séquences régulatrices de gènes pour permettre la synthèse de cytokines et notamment de l’interleukine-2 (IL-2)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Une autre voie est possible pour stimuler la synthèse de cytokines : la stimulation du TCR va stimuler le DAG (Diacylglycérol) qui va activer le protéine kinase C (PKC), ce qui va permettre de dissocier le NFκB de son inhibiteur le IκB. Le NFκB va donc pouvoir migrer dans le noyau ce qui va induire la synthèse de cytokines et notamment de l’IL-2"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Immunosuppression du signal 1 : inhibition de la calcineurine"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibent l’activité de la calcineurine :",
+    "Pas d’action du NFAT",
+    "Pas de production d’IL-2",
+    "Pas d’activation du LT"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les deux inhibiteurs de la calcineurine utilisés sont la Ciclosporine et le Tacrolimus (=FK506)."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ciclosporine-neoral-ou-sandimmun",
+   "text": "CICLOSPORINE (NEORAL ou SANDIMMUN)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "paragraph",
+   "text": "Décapeptide cyclique lipophile isolée à partir d’un champignon. La ciclosporine va se fixer à des protéines endogènes dans la cellule. Cela forme un complexe avec la cyclophilline se liant à la calcineurine qui sera bloquée ce qui provoque :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibition de la production de nombreuses cytokines dont IL-2",
+    "Diminution de l’expression de protéines membranaires comme CD40",
+    "Induction de synthèse de TGF-β (cytokine très fortement anti inflammatoire)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Pharmacocinétique"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Index thérapeutique étroit (= médicament dont la concentration sanguine efficace est très proche de sa concentration toxique) donc nécessité de suivi sanguin très fréquent pour être sûr de ne pas être en zone toxique ( suivi thérapeutique pharmacologique).",
+    "Grande variabilité inter et intra-individuelle des concentrations sanguines, surtout lorsqu’il est associé avec un autre médicament."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemple :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Métabolisation hépatique : existence d’interaction médicamenteuse avec inhibiteur/activateur cytochrome, métabolisé par cytochrome P450 3A4 (CYP3A4). Selon les autres médicaments pris la capacité de métabolisation peut varier.",
+    "Si ciclosporine moins métabolisée, plus grande concentration dans le sang, donc toxicité potentielle.",
+    "Si inducteur du cytochrome, la cyclosporine risque d’être plus métabolisée donc plus facilement éliminé ce qui va favoriser un manque d’efficacité"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Liés à l’immunodépression : infections, cancers (peau, lymphome le plus fréquemment)",
+    "HTA",
+    "Néphrotoxicité aiguë ou chronique",
+    "Dyslipidémie",
+    "Hypertrophie gingivale (photo)",
+    "Hirsutisme"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "tacrolimus-prograf-advagraf-fk506",
+   "text": "TACROLIMUS (PROGRAF®, ADVAGRAF®) FK506"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Macrolide isolé à partir d’une bactérie. Non utilisé comme antibiotique.",
+    "Identique à la ciclosporine, sauf que la liaison se fait avec FKBP12 (FK506 binding protein).",
+    "NB : cyclophilline et FKBP font partie de la famille des immunophillines"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Pharmacocinétique"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Index thérapeutique étroit",
+    "Identique à la ciclosporine"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Identique à la ciclosporine sauf hypertrophie gingivale et hirsutisme",
+    "Diabète sucré",
+    "Tremblement",
+    "Alopécie réversible"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Les inhibiteurs des molécules de co-stimulation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Signal 2 : signal de costimulation"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Si l’activation du TCR est isolée (signal 1 seulement), on n’aura pas d’activation des lymphocytes T ce qui va entraîner une anergie lymphocytaire T → d’où la nécessité d’un signal de co-stimulation",
+    "Il existe des mécanismes de stimulation du signal de co-stimulation, c’est le cas de CD40 ou encore de CD40 ligand.",
+    "Mais également des mécanismes inhibiteurs du signal de co-stimulation, c’est le cas de PDL1 ou encore PDL2"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "=> L’objectif des immunosuppresseurs va donc être de jouer sur la balancer stimulation/inhibition des molécules de co- stimulation, car pour que les LT soient activer, il faut qu’il y ait plus de signaux de stimulation que de signaux d’inhibition.  L’idée va donc être de favoriser la balance qui va vers l’arrêt de l’activation"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "abatacept-et-belatacept",
+   "text": "ABATACEPT et BELATACEPT"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ce sont des protéines de fusions = protéines chimériques composées d’immunoglobulines ainsi que d’un fragment FC qui va leur conférer une plus grande demi-vie au sein de l’organisme. Ces protéines vont venir saturer le récepteur CD80/86 des CPA et donc bloquer la liaison avec le CD28 des LT. Ce sont des protéines chimériques mixte entre un fragment FC d’une immunoglobuline, ici IgG1, et une protéine d’intérêt, ici le CTLA4.",
+    "Le CTLA4 lorsqu’il se lie à ses molécules provoque une inhibition des lymphocytes. Une fois le médicament injecté, le CTLA4 va aller se fixer sur CD80/86 pour inhiber le lymphocyte.",
+    "CD80/86 c’est aussi la protéine B7. Le CD80 peut stimuler ou inhiber s’il interagit respectivement avec le CD28 ou le CTLA4",
+    "L’idée c’est que le médicament empêche la liaison car par compétition, il va se lier sur B7 au lieu du CD28. Donc il n’y a plus de signal de costimulation entre B7 et CD28 et donc ça inhibe l’activation du lymphocyte.",
+    "Physiologiquement, la protéine B7 (CD80 et CD86) a une + grande affinité́ pour CTLA-4 que pour CD28"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Abatacept : maladie auto-immune, auto-inflammatoire rhumatismes inflammatoires",
+    "Belatacept : prévention du rejet de greffe rénale"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Immunosuppression du signal 3 : inhibiteurs des mTOR et autres"
+  },
+  {
+   "type": "paragraph",
+   "text": "Signal 3 : Action de l’IL2 sur le récepteur CD25"
+  },
+  {
+   "type": "list",
+   "items": [
+    "CD25 : sous-unité α du récepteur à l’IL-2",
+    "IL-2 : facteur de croissance des lymphocytes T → il est synthétisé après l’action des signaux 1 et 2, ce qui va lui permettre de se lier au CD25 des LT (action autocrine et paracrine)",
+    "La liaison de l’IL-2 au CD25 enclenche le ème signal d’activation du lymphocyte T, avec activation du récepteur complet, transduction du signal, et prolifération des lymphocytes."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Progression du cycle cellulaire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’IL-2 (produit par le signal 1) va se lier sur le CD25 (= sous unité alpha su R à l’IL2) pour activer janus kinase 3 (JAK3, de la voie JAK-STAT) et PI3K qui convergeront vers la voie mTOR (facteur transcription).",
+    "mTOR est le régulateur central de la survie cellulaire qui permet passage de la phase G0 à G1 du cycle cellulaire et donc la prolifération cellulaire ainsi que la polarisation des lymphocytes CD4 vers la voie Th1/Th2/Th17/Treg"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "SIROLIMUS (rapamycine) et EVEROLIMUS : Inhibiteurs de mTOR"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ce sont des macrolides qui inhibent mTOR ce qui provoque un blocage du cycle cellulaire et empêche prolifération LT.",
+    "Classe différente du tacrolimus qui lui inhibe la calcineurine ."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Prévention du rejet de greffe (rénal, cardiaque…)",
+    "Propriétés antiprolifératives via blocage cycle cellulaire. C’est mis profit dans d’autre indication que la prévention du rejet de greffe comme par exemple avec les stents coronariens : enrobage de stents chez les patients ayant déjà fait un infarctus du myocarde par exemple, pour éviter la récurrence de cet infarctus.",
+    "Evérolimus sert aussi de traitement anticancéreux (sein, rein, tumeur neuroendocrine) et a une meilleure biodisponibilité (meilleure absorption).",
+    "Effets protecteurs vasculaires"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Lié à l’immunodépression : infections mais l’incidence des cancers serait diminuée par rapport aux autres immunosuppresseurs",
+    "Hématologiques : thrombopénie, anémie",
+    "Métaboliques : dyslipidémie",
+    "Cutanéo-muqueuses : ulcérations buccales, acné, retard de cicatrisation…",
+    "Pneumopathies interstitielles sévères Remarque : ne pas confondre avec le tacrolimus qui joue un rôle dans l’inhibition du signal 1"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "BASILIXIMAB : Anticorps anti CD25 anti-chaine alpha du R à l’IL2"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Fixation sur la sous unité alpha du récepteur à l’IL-2 (CD25)",
+    "Inhibition du signal d’activation induit par IL-2 (blocage de l’action de l’IL2), agit par compétition.",
+    "Il n’agit que sur les lymphocytes T activés.",
+    "Non déplétant = qui n’induit pas la destruction du lymphocyte.",
+    "Pas d’action sur les LT naïfs Indications ● Prévention de rejet aigu après transplantation rénale"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Tofacitinib : Inhibiteur de Jak 3"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Famille des Jakinibs (inhibe les JAK)",
+    "Empêche la phosphorylation de STAT5 et bloque le cycle cellulaire.",
+    "Inhibe la janus kinase 3 (JAK3)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pas d’indication en rejet de greffe mais dans d’autre pathologie auto-immune/inflammatoire :",
+    "Polyarthrite rhumatoïde",
+    "rhumatisme psoriasique",
+    "Rectocolite hémorragique, Maladie de Crohn (RCH qui est une MICI)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-les-inhibiteurs-de-la-proliferation-des-lymphocytes-t-anti",
+   "text": "3. Les inhibiteurs de la prolifération des lymphocytes T = antiprolifératifs"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les LT sont déjà activés on va agir sur la prolifération, sur la synthèse accrue d’ADN. Les antiprolifératifs visent à inhiber la synthèse d’ADN en empêchant la synthèse de base purique et pyrimidique (AGCD) et/ou en bloquant la réplication de l’ADN."
+  },
+  {
+   "type": "paragraph",
+   "text": "Methotrexate"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibiteur de la dihydrofolate réductase (enzyme)",
+    "Action antifolique (blocage du cycle des folates = antimétabolite)",
+    "Inhibition de la synthèse des bases nucléiques Classe des antimétabolites",
+    "Inhibition enzymatique par compétition, structure du méthotrexate ressemble à acide folique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Indication"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Greffe de CSH, cancers, hémopathies malignes, maladies inflammatoires (ex : polyarthrite rhumatoïde), psoriasis"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cancer",
+    "Insuffisance rénale car élimination urinaire",
+    "Myélosuppression entraînant cytopénie",
+    "Toxicité hépatique à surveiller bilan hépatique et NFS",
+    "Infection dues à l’immunosuppression Contre-indication ● Insuffisance rénale sévère car il est éliminé par le rein"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Azathioprine : IMUREL"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Métabolisé en 6-mecaptopurine (6-MP)",
+    "Inhibition de la synthèse de purines par inhibition enzymatique",
+    "Bloquent aussi la réplication de l’ADN Classe des antimétabolites"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Prévention du rejet de greffe",
+    "Maladie auto-immune (PR, lupus, MICI, …)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Infections",
+    "Cancers (peau, lymphome)",
+    "Toxicité hématologique (++ neutropénie)",
+    "Surveillance NFS et bilan hépatique",
+    "Importance du polymorphisme de la TPMP : chez les patients traités par azathioprine, la TPMP est une enzyme qui fonctionne très bien, 100% fonctionnelle. Chez d’autre, cette enzyme va moins bien marcher par polymorphisme donc le médicament est moins efficace. Une fois le traitement à l’azathioprine mis en place il y a systématiquement une mesure de l’activité TPMP et un génotypage pour voir si les patients sont éligible ou non au traitement."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Mycophénolate mofétil (CELLCEPT®) et acide mycophénolique (MYFORTIC®)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Molécule active : acide mycophénolique",
+    "Inhibition de l’inosine-5’-monophosphate -deshydrogenase (IMP)",
+    "Inhibition de la synthèse de novo des purines Indications ● Prévention des rejets de greffe"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cancers",
+    "Infections",
+    "Troubles hématologiques (leucopénie), digestif et hépatiques",
+    "Nécessité de surveiller la NFS et le bilan hépatique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Léflunomide Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibe la synthèse des pyrimidines en inhibant la synthèse des dihydroorotate déshydrogénase (DHODH) qui participe à la formation de base nucléique pyrimidique."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pas d’indication dans le rejet de greffe",
+    "Polyarthrite rhumatoïde",
+    "Rhumatisme psoriasique"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Infections",
+    "Toxicité hématologique et hépatiques",
+    "Alopécie",
+    "Pneumopathie interstitielle",
+    "Troubles cutanés"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Cyclophosphamide (ENDOXAN®) Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Agent alkylant de la famille des moutardes azotés",
+    "Alkylant car il se fixe directement sur le brin d’ADN pour alkyler l’ADN et bloquer la réplication."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cancers (fortes doses) par son effet antiprolifératif",
+    "Maladie auto-immune à faible dose telles que Polyarthrite Rhumatoïde ou Lupus."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Important pour l’examen :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Comprendre le mécanisme d’action et les cibles",
+    "S’il nous donne une molécule il faut savoir à quel est son mécanisme d’action et à quelle classe elle appartient"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-anticorps-depletant-provoque-destruction-cellulaire",
+   "text": "4. Anticorps déplétant (= provoque destruction cellulaire)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ac déplétants = lorsqu’ils se fixent sur la cellule (LT ou LB) ils vont entraîner une destruction de cette cellule."
+  },
+  {
+   "type": "paragraph",
+   "text": "Sérum anti-lymphocytaire (SAL)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Généralités"
+  },
+  {
+   "type": "list",
+   "items": [
+    "IgG polyclonales issues de lapin ou de cheval immunisé contre des thymocytes humains (LT humains)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "On a pris des animaux (lapin ou cheval) on leur a injecté des thymocytes humains (des précurseurs des LT), ils sont reconnus comme étranger dans les animaux qui créent des Ac. Ensuite on récupère du sang de ces animaux, on purifie les IgG polyclonales (anti-thymocytes humains) qu’ils ont fait pour pouvoir les injecter au patient. ⇨ Liaison aux LT puis recrutement des phagocytes et du complément.",
+    "Cela nous permet d’obtenir une lymphopénie profonde et rapide chez le patient.",
+    "Action cytolytique sur les LT importante"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Non pas utilisé le + souvent en prévention du rejet de greffe mais en traitement du rejet de greffe, aplasie médullaire."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets Indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hypersensibilité de type 1",
+    "Réaction allergique pouvant résulter en choc anaphylactique dans le pire des cas",
+    "Lympholyse et/ou activation lymphocytaire non spécifique avec libération de cytokines (dans les 72h suivant la perfusion) = syndromes de relargage cytokinique",
+    "Qui peut aller des Frissons, fièvre, vertiges, céphalées, nausées, vomissements, jusqu’à la dyspnée, hypotension",
+    "Hypersensibilité de type III",
+    "Entre 7 ème et 11 ème jour post-perfusion",
+    "Création d’un complexe immun dans les vaisseaux, reconnu comme étranger : maladie sérique",
+    "Gros risque d’infections",
+    "Cytopénies car plus de LT fonctionnels"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rituximab Généralité ● Anticorps monoclonal chimérique anti-CD20 (molécule sur le LB). Le plus utilisé."
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanisme d’action"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Déplétion massive et durable des lymphocytes B",
+    "Lymphopénie B profonde et durable (5-6 mois)",
+    "Pour pas qu’il ne crée des plasmocytes/Ac 4 mécanismes d’action du rituximab :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "ADCC (cytotoxicité dépendante des Ac) : il se fixe sur la cellule (LB) et grâce à son fragment Fc il va recruter des cellules effectrices comme les lymphocyte NK qui va être destructeur.",
+    "CDC (système dépendant du complément) : il se fixe sur la molécule CD20 et son fragment Fc, Fc va aller recruter des molécules du complément. La cascade du complément s’active et va détruire le LB.",
+    "Apoptose : En se fixant sur le CD20 il va provoquer une cascade intracellulaire au niveau de la cellule B et provoquer l’apoptose.",
+    "ADP : phagocytose médiée par les Ac. Grâce à son fragment Fc il recrute des macrophages pour phagocyter la cellule."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hémopathies B malignes",
+    "Maladie auto-immune (MAI)",
+    "Rejet de greffe aigu humoral",
+    "Avec ce traitement on fait des prises de sang pour compter le nombre de LB qu’il y a dans le sang afin de voir si le médicament est efficace. ⇨ Suivi de l’efficacité par décompte des LB sanguins"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Muromonab – CD3 (OKT3) Généralités ● Anticorps monoclonal murin (issu d’une sourie) ciblant le CD3 (spécifique du LT) Mécanisme d’action ● Déplétion des lymphocytes T"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Quasiment plus utilisé",
+    "Utilisation exceptionnelle dans le cadre rejet de greffe aigu particulièrement sévère ou récidivante."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Très immunogènes avec risque important de syndrome de libération de cytokines délétères pour le patient"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-strategies-therapeutiques-en-transplantation-d-organes",
+   "text": "IV. Stratégies thérapeutiques en transplantation d’organes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Prévention du rejet : Plusieurs stratégies thérapeutiques en fonction :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Du type de transplantation (greffe cœur poumon plus à risque que les greffes rénales)",
+    "De l’âge et l’allo-immunisation du receveur (plus le receveur est âgé ou plus il est allo-immunisé, plus il est à risque de faire un rejet de greffe). Allo-immunisation c’est être habitué à des éléments étrangers (ex : grossesse).",
+    "Des équipes soignantes et habitudes du praticien"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "3 phases de traitement car il est nécessaire d’avoir un niveau élevé d’immunosuppresseurs au moment de la transplantation puis une réduction de l’immunosuppression :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Phase d’induction : immunosuppression forte -> pendant les 1 ers jours",
+    "Phase de maintenance « pré-adaptative » -> 3-6 mois",
+    "Phase de maintenance « post-adaptative » ->6 mois à toute la vie"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Il est rare qu’on garde un greffon toute sa vie (même si on le garde longtemps) et cela malgré les immunosuppresseurs il y a toujours un petit rejet du greffon à bas bruit. Le greffon sera soit rejeté soit abîmé et donc non fonctionnel."
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemple d’une stratégie de prévention du rejet de greffe rénale :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Phase d’induction (1 ers jours) Phase pré-adaptative (3-6 mois) Phase post-adaptative (>6 mois)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibiteur calcineurine",
+    "MMF ou inhibiteur mTOR",
+    "Corticoïdes",
+    "SAL (risque élevé) ou basilimax (faible risque)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "On enlève des médocs et on diminue progressivement les corticoïdes",
+    "Inhibiteurs de la calcineurine",
+    "MMF ou inhibiteur de mTOR",
+    "Corticoïdes (doses diminuées)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Réduction des anti-calcineurines",
+    "Arrêt des corticoïdes et diminution des doses des autres médicaments",
+    "Maintien MMF ou inhibiteur de mTOR"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Associations médicamenteuses systématiques +++ pour : (à retenir)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Effets additifs ou synergiques permettant la diminution des posologies (blocage simultané de l’activation des LT et de la prolifération).",
+    "Limiter les effets secondaires",
+    "Molécules ayant les mêmes mécanismes d’action ou effets secondaires à ne pas associer (majoration des effets indésirables). Ex : pas de cyclosporine avec du tacrolimus car pas de majoration de l’efficacité mais effets indésirables.",
+    "But final : faire une immunosuppression chez le patient mais ne pas trop immunodéprimé pour éviter les infections et les cancers. Donc diminuer les posologies le plus rapidement possible pour atteindre la dose minimale efficace pour éviter le rejet. On tape fort, puis on diminue dès que possible la quantité des immunosuppresseurs : c’est pourquoi en phase d’induction on utilise le SL ou N. Ensuite, l’objectif principal est d’arrêter les corticoïdes mais cela se fait progressivement."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemple d’une greffe rénale au CHU"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-effets-secondaires-lies-a-l-immunosuppression",
+   "text": "V. Effets secondaires liés à l’immunosuppression"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-infections",
+   "text": "1. Les infections"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Causées par bactéries, virus, champignons, parasites",
+    "Dès la greffe il y a la nécessité d’une prophylaxie infectieuse systématique (vaccination, ATB ou ATV)",
+    "Facteurs conditionnant le risque infectieux :",
+    "Degré d’immunosuppression",
+    "Type d’organe greffé",
+    "Présence ou non de complications chirurgicales",
+    "Exposition aux agents pathogènes",
+    "Traitements prophylactiques",
+    "L’incidence des infections après transplantation d’organes diminue avec le temps car on diminue la posologie des médicaments immunosuppresseurs. Le plus gros risque infectieux est au début mais il reste présent tout au long de la vie du patient."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Au cours du 1 er mois post-transplantation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Principaux risques :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Infections nosocomiales (++ bactériennes, selon écologie de l’hôpital) et réactivation virale",
+    "Infection transmise par le donneur à travers le greffon",
+    "Réactivation d’une infection latente du receveur (CMV ou herpès : le virus reste en latence et se réactive lorsque le patient est ID)",
+    "Contamination du greffon en per-opératoire"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Entre le 2 ème et le ème mois post transplantation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Infections opportunistes et réactivations virales"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cytomégalovirus ++ (CMV) : médicament anti-CMV donnés en systématique",
+    "Mais aussi autres Herpesviridae (HSV, VZV, …), tuberculose, pneumocystose, cryptococcose = infections opportunistes (que l’on retrouve que chez les patients ID (ex : patient avec VIH))",
+    "Importance ++ de la prophylaxie anti-infectieuse"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Après 6 mois post transplantation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Infections communautaires et opportunistes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Peu de données épidémiologiques",
+    "Incidence des infections communautaires est superposable à la population générale : les patients bien réglés en termes d’immunosuppresseurs ne font pas plus d’infections que les autres en général. Cela est aussi dû au fait que ces patients pensent plus à se protéger."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-les-cancers",
+   "text": "2. Les cancers"
+  },
+  {
+   "type": "paragraph",
+   "text": "L’immunosuppression ouvre la porte aux cancers (cutanés et lymphomes ++ principalement) à cause de 2 mécanismes :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "diminution de l’immunité anti-tumorale",
+    "réplication de virus oncogènes (en se répliquant induit une modification de la cellule hôte). Exemple : EBV peut former des lymphomes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Certains immunosuppresseurs sont plus immunosuppresseurs et cancérigènes que d’autres : inhibiteurs de la calcineurine (cyclosporine, tacrolimus) et l’azathioprine. D’autres comme les inhibiteurs de mTOR et le mycophénolate présentent un risque cancérigène moins important."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vi-points-cles-ce-qu-il-y-a-a-retenir-pour-le-cours",
+   "text": "VI. Points clés (ce qu’il y a à retenir pour le cours)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Indications des immunosuppresseurs"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Prévention et traitement du rejet de greffe (organes, CSH, moelle osseuse)",
+    "Traitement de maladies auto-immunes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Classes d’immunosuppresseurs Corticoïdes Inhibiteurs de l’activation lymphocytaires"
+  },
+  {
+   "type": "paragraph",
+   "text": "1 ● Inhibiteur de la calcineurine (ciclosporine, tacrolimus) 2 ● Abatacept et bélatacept 3 ● Inhibiteurs de mTOR (sirolimus, évérolimus), de JAK3 (tofacitinib) et anti-CD25 (basiliximab) Antiprolifératifs ● Méthotrexate, azathioprine, mycophénolate, léflunomide, cyclophosphamide Anticorps déplétants"
+  },
+  {
+   "type": "list",
+   "items": [
+    "SAL, rituximab, OKT3"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Transplantation d’organes : Immunosuppresseurs à vie"
+  },
+  {
+   "type": "paragraph",
+   "text": "Stratégie thérapeutique"
+  },
+  {
+   "type": "paragraph",
+   "text": "Polythérapie en plusieurs phases"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Induction suivie d’une diminution progressive des posologies pour atteindre les doses minimales efficaces",
+    "Les médicaments aux mécanismes d’action similaires ne sont pas à associés (majoration des effets indésirables et pas de l’efficacité)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables liés à l’immunosuppression Infections ● Importance et nécessité d’une la prophylaxie anti-infectieuse"
+  },
+  {
+   "type": "paragraph",
+   "text": "Cancers"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Peau",
+    "Lymphome",
+    "Le risque de développer un cancer est proportionnel au degré et à la durée de l’immunosuppression"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Immunosuppression"
+  },
+  {
+   "type": "paragraph",
+   "text": "Diminution de l'immunité antitumorale"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réplication de virus oncongène"
+  },
+  {
+   "type": "paragraph",
+   "text": "HHV8 et sacrome de Kaposi, EBV et lymphome"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-qcm-d-entrainements",
+   "text": "VII. QCM d’entraînements"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM.1 A propos des cibles et mécanismes d’action des immunosuppresseurs, cocher la ou les bonnes réponse(s) : A. L’activation des lymphocytes T nécessite uniquement la stimulation du TCR B. Une transplantation d’organes nécessite un TTT à moyen ou long terme C. La ciclosporine permet l’inhibition de la production de nombreuses cytokines D. Abatacept est un inhibiteur de la calcineurine E. Le méthotrexate est CI lors d’une insuffisance rénale sévère"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM.2 A propos des cibles et mécanismes d’action des immunosuppresseurs, cocher la ou les bonnes réponse(s) : A. Les anticorps déplétants permettent la destruction cellulaire. B. Le sérum anti-lymphocytaire est utilisé uniquement pour le traitement du rejet des greffes et des aplasies médullaires. C. Le rituximab est un anticorps chimérique anti-CD20 (molécule sur le LT). D. Lors d’une transplantation d’organe, diminuer les posologies le plus rapidement possible pour atteindre la dose minimale efficace pour éviter le rejet. E. L’incidence des infections après transplantation d’organes augmente avec le temps."
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM.3 A propos des cibles et mécanismes d’action des immunosuppresseurs, cocher la ou les bonnes réponse(s) : A. Le CMH a été découvert en 1958. B. Les immunosuppresseurs sont utilisés pour les maladies auto-immunes et non contre les greffes de cellules hématopoïétique. C. Si les lymphocytes T sont activés alors il n’y a pas d’attaque du greffon par le système immunitaire. D. Le mycophénolate mofétil inhibe la synthèse des pyrimidines. E. Le méthotrexate est contre-indiqué insuffisance rénale sévère car il est éliminé par le rein"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM.4 A propos des cibles et mécanismes d’action des immunosuppresseurs, cocher la ou les bonnes réponse(s) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Les rituximab déplétion massive et durable des lymphocytes B B. Après 6 mois post-transplantation il y aura un risque d’infection nosocomiale. C. La voie ADP du rituximab est médiée par les Ac grâce à son Fc il recrute des macrophages. D. Le sérum anti-lymphocytaire utilise des IgM polyclonales issues de lapin ou de cheval immunisé E. Le risque de développer un cancer est proportionnel au degré et à la durée de l’immunosuppression"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm-1-ce",
+   "text": "QCM.1 : CE"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. FAUX , nécessite 3 signaux B. FAUX , nécessite un TTT à vie C. VRAI D. FAUX , c’est un inhibiteur de co-stimulation (2 ème signal) E. VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm-2-ad",
+   "text": "QCM.2 : AD"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. VRAI B. FAUX , Le sérum anti-lymphocytaire est utilisé en prévention et en traitement du rejet des greffes et des aplasies médullaires. C. FAUX , Le rituximab est un anticorps chimérique anti-CD20 (molécule sur le LB). D. VRAI E. FAUX , L’incidence des infections après transplantation d’organes diminue avec le temps."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm-3-ae",
+   "text": "QCM.3 : AE"
+  },
+  {
+   "type": "paragraph",
+   "text": "F. VRAI G. FAUX , Ils sont utilisés contre les greffes de cellules hématopoïétiques. H. FAUX , Si les lymphocytes T sont inactivés alors il n’y a pas d’attaque du greffon par le système immunitaire."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-faux-leflunomide-inhibe-la-synthese-des-pyrimidines",
+   "text": "I. FAUX , leflunomide inhibe la synthèse des pyrimidines."
+  },
+  {
+   "type": "paragraph",
+   "text": "J. VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm-4-ace",
+   "text": "QCM.4 : ACE"
+  },
+  {
+   "type": "paragraph",
+   "text": "F. VRAI G. FAUX , infection opportuniste et communautaire H. VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-faux-igg-polyclonales",
+   "text": "I. FAUX , IgG polyclonales"
+  },
+  {
+   "type": "paragraph",
+   "text": "J. VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "acc-2024-2025",
+   "text": "ACC 2024-2025"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM. 17 Concernant les affirmations suivantes sur les immunosuppresseurs, laquelle (ou lesquelles) est (sont) exacte(s) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Dans la prévention du rejet de greffe d’organes, des immunosuppresseurs aux mécanismes d’action similaires sont fréquemment associés B. Le tacrolimus est un inhibiteur de mTOR C. La prévention du rejet de greffe d’organes nécessite l’administration à vie d’immunosuppresseurs D. L’apparition d’infections est un effet indésirable fréquent des immunosuppresseurs E. La ciclosporine est un inhibiteur de la calcineurine"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponses : CDE Correction : A. PAS d’association d’immunosuppresseurs de mêm e classe ! B. ATTENTION : ne pas confondre le tacrolimus qui est un inhibiteur du signal 1 avec les inhibiteurs de mTOR du signal 3 qui sont le sirolimus et l’évérolimus"
+  }
+ ]
+}

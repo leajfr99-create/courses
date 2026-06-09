@@ -1,0 +1,1445 @@
+{
+ "slug": "fc13",
+ "code": "FC13",
+ "title": "Le bilan immunologique",
+ "prof": "Pr. Paul",
+ "sourceFile": "FC13-PAUL-Le-bilan-immunologique-16.02(1).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "comment-faire-un-bilan-immunologique-et-a-quelles",
+   "label": "COMMENT FAIRE UN BILAN IMMUNOLOGIQUE ET À QUELLES",
+   "level": 2
+  },
+  {
+   "id": "pathologies-s-adresse-t-il",
+   "label": "PATHOLOGIES S’ADRESSE-T-IL ?",
+   "level": 2
+  },
+  {
+   "id": "i-importance-du-bilan-immunitaire-bi-en-medecine-et-sa-reali",
+   "label": "I. Importance du bilan immunitaire (BI) en médecine et sa réalisation",
+   "level": 2
+  },
+  {
+   "id": "1-deficits-immunitaires",
+   "label": "1. Déficits immunitaires :",
+   "level": 3
+  },
+  {
+   "id": "2-dysfonctionnements-du-systeme-immunitaire",
+   "label": "2. Dysfonctionnements du système immunitaire",
+   "level": 3
+  },
+  {
+   "id": "4-suivi-des-biotherapies-ac-monoclonaux-en-pleine-expansion-",
+   "label": "4. Suivi des biothérapies (Ac monoclonaux) : en pleine expansion depuis 10 ans",
+   "level": 3
+  },
+  {
+   "id": "5-preparation-et-suivi-de-greffe",
+   "label": "5. Préparation et suivi de greffe",
+   "level": 3
+  },
+  {
+   "id": "6-suivi-du-statut-immunitaire-plus-rarement",
+   "label": "6. Suivi du statut immunitaire (plus rarement)",
+   "level": 3
+  },
+  {
+   "id": "ii-examen-clinique-bilan-general",
+   "label": "II. Examen clinique / Bilan général",
+   "level": 2
+  },
+  {
+   "id": "iii-diagnostic-d-un-deficit-immunitaire-di",
+   "label": "III. Diagnostic d’un déficit immunitaire (DI)",
+   "level": 2
+  },
+  {
+   "id": "1-signes-d-alarme-chez-l-adulte-et-l-enfant",
+   "label": "1) Signes d’alarme chez l’adulte et l’enfant",
+   "level": 3
+  },
+  {
+   "id": "1-patient-atteint",
+   "label": "1. Patient atteint",
+   "level": 3
+  },
+  {
+   "id": "3-differents-types-de-deficits",
+   "label": "3. Différents types de déficits",
+   "level": 3
+  },
+  {
+   "id": "4-symptomes",
+   "label": "4. Symptômes",
+   "level": 3
+  },
+  {
+   "id": "5-tests-diagnostiques-basiques-pour-mesurer-l-etat-du-defici",
+   "label": "5. Tests diagnostiques basiques : pour mesurer l’état du déficit immunitaire",
+   "level": 3
+  },
+  {
+   "id": "iv-dysfonctionnement-du-systeme-immunitaire-exploration-des-",
+   "label": "IV. Dysfonctionnement du système immunitaire : exploration des états inflammatoires",
+   "level": 2
+  },
+  {
+   "id": "1-numeration-formule-sanguine-nfs-hematologie",
+   "label": "1. Numération formule sanguine (NFS ; hématologie)",
+   "level": 3
+  },
+  {
+   "id": "3-immunofixation-immunoelectrophorese-biochimie",
+   "label": "3. Immunofixation/Immunoélectrophorèse (biochimie)",
+   "level": 3
+  },
+  {
+   "id": "5-immunophenotypage-hematologie",
+   "label": "5. Immunophénotypage (hématologie)",
+   "level": 3
+  },
+  {
+   "id": "v-diagnostic-des-activations-anormales-du-systeme-immunitair",
+   "label": "V. Diagnostic des activations anormales du système immunitaire :",
+   "level": 2
+  },
+  {
+   "id": "1-maladies-auto-immunes-mai",
+   "label": "1) Maladies auto-immunes (MAI)",
+   "level": 3
+  },
+  {
+   "id": "2-allergies",
+   "label": "2) Allergies",
+   "level": 3
+  },
+  {
+   "id": "crp",
+   "label": "CRP + ++ +++ ++ +",
+   "level": 2
+  },
+  {
+   "id": "2-recherche-d-une-cryoglobuline-ig-qui-precipite-a-froid",
+   "label": "2. Recherche d’une cryoglobuline (= Ig qui précipite à froid)",
+   "level": 3
+  },
+  {
+   "id": "vii-suivi-immunisation-vaccination",
+   "label": "VII. Suivi immunisation /vaccination",
+   "level": 2
+  },
+  {
+   "id": "viii-conclusion",
+   "label": "VIII. Conclusion",
+   "level": 2
+  },
+  {
+   "id": "1-a-faux",
+   "label": "1- A) FAUX",
+   "level": 2
+  },
+  {
+   "id": "2-a-vrai",
+   "label": "2- A) VRAI",
+   "level": 2
+  },
+  {
+   "id": "acc-2024",
+   "label": "ACC 2024 :",
+   "level": 2
+  },
+  {
+   "id": "question-n-20",
+   "label": "QUESTION N° 20 :",
+   "level": 2
+  },
+  {
+   "id": "a-faux",
+   "label": "A : FAUX",
+   "level": 2
+  },
+  {
+   "id": "b-vrai",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "c-faux",
+   "label": "C : FAUX",
+   "level": 2
+  },
+  {
+   "id": "d-faux",
+   "label": "D : FAUX",
+   "level": 2
+  },
+  {
+   "id": "e-faux",
+   "label": "E : FAUX",
+   "level": 2
+  },
+  {
+   "id": "acc-2023",
+   "label": "ACC 2023 :",
+   "level": 2
+  },
+  {
+   "id": "question-n-17",
+   "label": "QUESTION N° 17 :",
+   "level": 2
+  },
+  {
+   "id": "b-vrai-2",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "question-n-20-2",
+   "label": "QUESTION N° 20 :",
+   "level": 2
+  },
+  {
+   "id": "b-vrai-3",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "c-vrai",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-vrai",
+   "label": "D : VRAI",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. PAUL Immunopathologie Tom BEAL"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "comment-faire-un-bilan-immunologique-et-a-quelles",
+   "text": "COMMENT FAIRE UN BILAN IMMUNOLOGIQUE ET À QUELLES"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "pathologies-s-adresse-t-il",
+   "text": "PATHOLOGIES S’ADRESSE-T-IL ?"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-importance-du-bilan-immunitaire-bi-en-medecine-et-sa-reali",
+   "text": "I. Importance du bilan immunitaire (BI) en médecine et sa réalisation"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-deficits-immunitaires",
+   "text": "1. Déficits immunitaires :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Environ 1/10 000 naissances par an"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Congénital"
+  },
+  {
+   "type": "paragraph",
+   "text": "Problème de production quantitatif ou qualitatif pouvant toucher le système immunitaire inné ou adaptatif. Multi-infections de l’enfant (souvent 2-3 ans avec otites, infections respiratoires à répétition, avec antibiothérapie aux long cours). Il y a une suspicion de déficit immunitaire héréditaire d’autant plus qu’il y a des cas apparentés d’infections répétées dans la famille."
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Acquis"
+  },
+  {
+   "type": "paragraph",
+   "text": "Destruction (partielle ou complète) du système immunitaire par un agent pathogène. Surtout des infections chroniques (ex : HIV entraine immunodépression des LT CD4)."
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Utilité du bilan immunitaire (BI)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Comprendre la multiplication des infections et traiter les défauts du système immunitaire."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Rechercher un déficit en Anticorps à un des traitements possibles est l’injection d’Ig en IV : permet de restaurer un taux d’Ac satisfaisant",
+    "Rechercher un déficit en lymphocytes à traitement possible par greffe de moelle osseuse ou correction par thérapie génique (enfant bulle, déficit sévère)",
+    "Rechercher un déficit en LT CD4 à selon le taux on pourra moduler la trithérapie (exemple : pour le HIV, on peut faire un traitement le plus précocement possible à partir d’un certain taux de CD4 = à partir de 500 CD4/mm3, pas avant, pour limiter les résistances et éviter les mécanismes d’échappements)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-dysfonctionnements-du-systeme-immunitaire",
+   "text": "2. Dysfonctionnements du système immunitaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Accumulation incontrôlée"
+  },
+  {
+   "type": "paragraph",
+   "text": "Accumulation incontrôlée des cellules du système immunitaire provoquant des cancers comme des lymphomes, myélomes."
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Mécanisme d’échappement"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils rendent le système immunitaire inefficace vis à vis des agents infectieux et cellules cancéreuses (problématique pour des patients ayant un cancer, sous chimiothérapie)"
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Utilité du Bilan"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pour le cancer, le bilan immunitaire (BI) permet d’identifier la pathologie (ex : dosage de cytokines, phénotypage du lymphome = le caractériser, pour le traiter). Suivre l’efficacité des nouveaux traitements, comme les biothérapies qui visent à stimuler la réponse immunitaire (immunophénotypage spécifique) pour voir si la tumeur est répondeuse à l’immunothérapie et évaluer les risques d’effets secondaires (ex : anticorps monoclonaux peuvent être associer à des phénomènes d’immuno-activation importante « cytokine storm » entrainant une toxicité importante, notamment les anticorps PD1 dans le cancer du sein, du rein.)."
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Activation anormale du système immunitaire : bien plus fréquente que les 2 précédents"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Maladies auto-immunes +++ (maladies spécifiques ou non spécifiques d’organes)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Diabète de type I ; sclérose en plaque ; polyarthrite ; lupus ; maladie de Crohn, thyroïdite… Amplification des anticorps pathologiques IgG"
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Allergies"
+  },
+  {
+   "type": "paragraph",
+   "text": "Amplification des anticorps pathologiques IgE, hyperactivation de la réponse B"
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Utilité du BI"
+  },
+  {
+   "type": "paragraph",
+   "text": "Caractériser les pathologies (doser les auto-anticorps, IgE anti-allergène, syndrome inflammatoire) pour ensuite les traiter (immunosuppresseurs dans les maladies auto-immunes, désensibilisation pour les allergies), suivre les traitements. Les BI sont quasiment indispensables pour les maladies auto-immunes car elles se ressemblent toutes énormément d’un point de vue symptomatologique. De plus certains marqueurs sont aussi pronostiques (ex : Ac anti-ADN qu’on cherche à inactiver dans le cas du lupus)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-suivi-des-biotherapies-ac-monoclonaux-en-pleine-expansion-",
+   "text": "4. Suivi des biothérapies (Ac monoclonaux) : en pleine expansion depuis 10 ans"
+  },
+  {
+   "type": "paragraph",
+   "text": "Utilisées dans les maladies auto-immunes, cancer et hémopathies malignes, désensibilisation allergique, la neurologie. Beaucoup de biothérapies sont utilisées de manière empiriques (dose indépendamment du poids patient…) entrainant de temps en temps un problème de sécurisation. On essaie de plus en plus d’adapter ces traitements aux patients directement (ex : dosage du médicament dans le sang du patient pour adapter les doses)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Utilité du BI : Mesurer les quantités de biothérapies (anticorps thérapeutiques, drogues) pour adapter les doses à la situation du patient (médecine personnalisée). Identifier des marqueurs précoces d’échappement thérapeutique (patient peut s’immuniser contre les Ac administrés, environ 40% des cas) ou de toxicité (dans les maladies inflammatoires sert à moduler le traitement)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les BI sont très utiles car les biothérapies coutent très chères et ne sont pas toujours adaptées à la maladie ou au stade de la maladie (administrées à des gens chez qui elles n’ont aucun effet)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-preparation-et-suivi-de-greffe",
+   "text": "5. Préparation et suivi de greffe"
+  },
+  {
+   "type": "paragraph",
+   "text": "Importance du typage HLA (greffe, Maastricht) pour ne pas avoir de réaction contre le greffon"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "6-suivi-du-statut-immunitaire-plus-rarement",
+   "text": "6. Suivi du statut immunitaire (plus rarement)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Immunité post-infectieuse. Souvent dans les infections longues, par exemple la grippe longue ou le long COVID avec activation chronique du système immunitaire.",
+    "Suivi de l’efficacité vaccinal"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-examen-clinique-bilan-general",
+   "text": "II. Examen clinique / Bilan général"
+  },
+  {
+   "type": "paragraph",
+   "text": "Important car symptômes non spécifiques aux pathologies immunitaires avec souvent des fièvres modérées (38°C) au long cours (parfois plusieurs mois), des infection multi récidivant (surtout chez l’enfant). Le bilan biologique n’est pas suffisant pour déterminer une maladie. Il est toujours important de réaliser un examen clinique poussé et bien réalisé avant tout bilan biologique. Examen des organes lymphoïdes primaires et secondaires."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Recherche d’adénopathies",
+    "Examen des amygdales, du foie et de la rate",
+    "Recherche d’éruptions cutanées (eczéma, bulles…), notamment chez les personnes âgées"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Recherche de gonflements articulaires dans les maladies rhumatismales (avec du liquide notamment)",
+    "Recherche d’une ombre thymique sur la radiographie du médiastin supérieur chez le nouveau-né suspect de déficit immunitaire primitif."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Si l’examen clinique ne suffit pas et implique de devoir aller plus loin : biopsie ganglionnaire, médullaire, intestinale… permettant une étude morphologique et cytologique (étude anapath)."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-diagnostic-d-un-deficit-immunitaire-di",
+   "text": "III. Diagnostic d’un déficit immunitaire (DI)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-signes-d-alarme-chez-l-adulte-et-l-enfant",
+   "text": "1) Signes d’alarme chez l’adulte et l’enfant"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il est normal d’avoir des infections virales mais anormales d’en avoir une dizaine dans l’année (par exemple)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans ces situations, il faut faire :  Un examen physique (incluant taille et poids) et ATCD familiaux  Un hémogramme comprenant la différenciation des globules blancs  Un taux d’immunoglobulines"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-patient-atteint",
+   "text": "1. Patient atteint"
+  },
+  {
+   "type": "paragraph",
+   "text": "Beaucoup plus fréquent chez l’enfant (2-5 ans). Rare chez l’adulte : existe des déficits immunitaires léger avec symptômes beaucoup moins sévères. Chez ces patients avec déficit immunitaire, les infections sont plus difficiles à traiter, avec antibiotiques aux longs cours et avec des pathogènes peu commun avec leurs tranches d’âges.  Patient qui prend souvent (4-5 fois par an) des antibiotiques doit faire penser à un déficit immunitaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Diagnostic : recherche d’un agent pathogène (infections récurrentes ? complications ? ATB long cours … agents pathogènes ?)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Bactéries : souvent encapsulées chez les enfants, types Staphylococcus aureus, Haemophilus Pathogène intracellulaire (mycobactérie) Virus : Epstein Barr"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-differents-types-de-deficits",
+   "text": "3. Différents types de déficits"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Primitifs ou congénitaux (DIP) : 1/10 000 naissances"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Déficits en LB (50% des DIP) : hypo/agammaglobulinémie (exemple de la maladie de Bruton, déficit sélectif en IgA, hypo gamma passagère)",
+    "Déficits en LT (10% des DIP) : partiels ou complets liés à des mutations : déficits immunitaires combinés sévères (DICS) entrainant des problèmes dans le développement, l’activation, la fonction ou la régulation. À partir de septembre 2024 : Mise en place au niveau national d’un diagnostic complet de ces DICS à la naissance Moins fréquent mais plus sévère.",
+    "Déficits immunitaires communs variables DICV (20% des DIP) : défaut incomplet en LT/LB (symptômes pas évidents). Les anomalies sont partielles. Souvent sous-diagnostiqué.",
+    "Déficits en phagocytes souvent macrophages, neutrophiles (18% des DIP) : quantitatifs ou qualitatifs. Entraine un risque infectieux important notamment les mycobactéries. Infections avec bactéries encapsulées.",
+    "Anomalies du système du complément (< 2% des DIP) notamment du C2 (associées à des maladies de types lupus)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Acquis"
+  },
+  {
+   "type": "list",
+   "items": [
+    "VIH, infections chroniques à CMV et à EBV, hépatite C, parasitoses, tuberculose…",
+    "Tumeurs solides malignes, leucémies, lymphomes, gammapathies monoclonales.",
+    "Troubles métaboliques (diabète), maladies chroniques du rein, maladies auto-immunes, immunosuppression iatrogène pouvant donner des immunodéficiences transitoires ou générales."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-symptomes",
+   "text": "4. Symptômes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils sont assez courants et peu différents d’un patient à l’autre donc les maladies sont très complexes à diagnostiquer. Ils sont communs aux déficits primitifs et acquis :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Disposition aux infections, en général otites chez les enfants, sinusites, pneumopathies… Infections répétées par des pathogènes rares.",
+    "Abcès des organes internes/membrane des muqueuses.",
+    "Éruptions cutanées.",
+    "Complications vaccinales (surréaction ou non réaction, réactivation des vaccins vivants atténués).",
+    "Échec de l'antibiothérapie.",
+    "Retard de croissance et dermatite idiopathique chronique chez les nourrissons.",
+    "NB : souvent compliqué à diagnostiquer"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Un des symptômes les plus importants est la durée, si c’est très récurrent."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-tests-diagnostiques-basiques-pour-mesurer-l-etat-du-defici",
+   "text": "5. Tests diagnostiques basiques : pour mesurer l’état du déficit immunitaire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Numération globulaire et formule leucocytaire (NFS) : Recherche de changements quantitatifs, morphologiques.",
+    "Protéines sériques : IgG, IgA, IgM, IgE (sérologie) : 1ère étape pour identifier un problème immunitaire",
+    "Marqueurs inflammatoires : CRP souvent élevée, ferritine pour déterminer le caractère chronique de l’inflammation"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Étude de la réponse humorale"
+  },
+  {
+   "type": "paragraph",
+   "text": "Analyse des isotypes dans le sang. Attention à bien doser les Ig après les 6 premiers mois (immunité acquise par les anticorps maternels)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "1 ère étape : Pour analyser la réponse humorale : dosage pondéral des différentes classes Ig (G, A, M, E) par la néphélométrie. Selon le déficit (IgA, IgM, …), on diagnostique le déficit immunitaire On parle de déficit si : IgG < 1 g/L ; IgA < 0, 05 g/L ; IgM < 0,5 g/L (important pour diagnostiquer un myélome)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Ex :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "DICS avec disparition IgG, IgA, IgM",
+    "Syndrome d’hyper IgM (caractéristique du myélome ) : il peut y avoir des concentrations d’IgM à 4 à 5 g/L alors que les concentrations en IgA et IgG sont abaissées. La surproduction d’IgM peut devenir très problématique (taux supérieur à"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "15g/L) car les IgM vont avoir tendance à s’agglutiner dans le sang, rendant alors la circulation compliquée."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Syndrome d’hyper IgE : on peut penser à un diagnostic d’allergie ou à une infection parasitaire."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Technique de dosage : néphélométrie (technique de routine, très fréquente) Analyse quantitative par dosage pondéral des Ig par immunonéphél ométrie / immunoturbidimétrie : test mesurant les réactions de précipitation en milieu liquide. C’est un TEST QUANTITATIF, pas très spécifique."
+  },
+  {
+   "type": "paragraph",
+   "text": "La formation des complexes Ag/Ac entraîne une augmentation de la turbidité du milieu qui est proportionnelle à la quantité de l’antigène à doser. Les variations de turbidité du milieu sont mesurées à l’aide d’un néphélomètre qui envoie un faisceau laser à travers la cuve de sérum. L’augmentation de turbidité du milieu entraîne une déviation du faisceau qui est analysée et comparée à la déviation obtenue avec des quantités connues d’antigène. On en déduit la quantité d’antigène présente dans l’échantillon à doser, et donc cela permet de doser les Ig. Ce principe est couramment employé pour doser une multitude de protéines sériques comme par exemples les immunoglobulines, sous classes, les chaines légères ou les fractions du complément (C3, C4, FB)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "2 ème étape : ANALYSE QUALITATIVE Si cela ne se voit pas au niveau du taux d’Ig totales, on peut aussi rechercher des altérations des sous classes d’Ig (déficit fonctionnel). Le dosage des sous-classes est également réalisé par néphélométrie/turbidimétrie. En fonction de la quantité des sous-classes, on va classer les différents déficits."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les isotypes des IgG ne reconnaissent pas les mêmes motifs :  Les IgG 1 ciblent les antigènes protéiques et peptidiques (souvent infections pyogènes).  Les IgG 2 ciblent les polysaccharides (ex : infections des VAS comme pneumocoque)  Les IgG 3 ressemblent aux IgG1  Les IgG 4 sont plutôt reliées à la réponse allergique et associées à des taux élevés d’IgE Par exemple, si le patient a des infections à pneumocoques mais aucune infection virale, on va plutôt suspecter un déficit en IgG 2."
+  },
+  {
+   "type": "list",
+   "items": [
+    "3 ème étape : SPECIFICITE DES Ac (Les Ac sont-ils fonctionnels ? (On se pose la question si les 2 premières étapes n’ont rien donné) En cas de déficit fonctionnel et non quantitatif, la vaccination permet de jauger de la bonne fonctionnalité de la réponse humorale. Recherche d’Ac spécifiques (fonctionnalité des LB) par technique ELISA :",
+    "Ac contre un vaccin conjugué/inactivé, protéique (Diphtérie, Tétanos, Polio) = recherche surtout d’IgG1",
+    "Ac contre un vaccin polysaccharidique (Pneumo23, Méningo, …) = recherche surtout d’IgG2. Si la réponse immunitaire est absente, répéter l’immunisation (= on revaccine) et refaire le dosage (3 mois après) jusqu’à 3 fois. Si à l’issue du deuxième vaccin pas de réponse à on peut poser le diagnostic de déficit en lymphocytes."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Étude des LT"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le premier test de base est la NFS (numération de formule sanguine). Par une technique de cytométrie en flux, on va mesurer la présence de LT CD4/CD8 ou de LB. La cytométrie en flux permet de réaliser des immunophénotypages pour pouvoir diagnostiquer un déficit immunitaire congénital (analyse quantitative). On peut aussi mesurer, de manière qualitative, si les lymphocytes du patient sont fonctionnels. Il y a deux types de tests :  Prolifération avec mitogènes (= molécules qui vont induire la prolifération des Ly) et antigènes  Cytotoxicité Ils sont en bon état s’ils prolifèrent normalement avec des mitogènes, s’ils sont capables de lyser une cible."
+  },
+  {
+   "type": "paragraph",
+   "text": "Une autre catégorie de tests : les quantifierons ou test IGRA. On mesure la réponse T vis-à-vis d’un pathogène après stimulation par des antigènes (ex : tuberculose, CMV, SARS-COV2)"
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Étude des neutrophiles = déficit de l’immunité innée"
+  },
+  {
+   "type": "paragraph",
+   "text": " Analyse quantitative avec la NFS (doser 2 fois par semaine pendant 6 semaines) : on recherche des neutropénies, …  Neutropénie (<1500/µL)  Neutropénie sévère (<500/µL)"
+  },
+  {
+   "type": "paragraph",
+   "text": " Analyse fonctionnelle : test d’adhérence (présence de marqueurs de surface, anomalies d’adhésion, …), chimiotactisme, la phagocytose. Déficit en phagocytose : 1 cas sur 5 de ces déficits immunitaires, 18% des types (qui peut être quantitatif) C’est peu fréquent et retrouvé souvent chez les jeunes enfants."
+  },
+  {
+   "type": "paragraph",
+   "text": "d. Étude du complément = bilan de base dans l’étude des déficits immuns (ex : pathologies autoimmunes)"
+  },
+  {
+   "type": "paragraph",
+   "text": "On réalise souvent un dosage du complément lors de syndromes inflammatoires pour regarder une hyperactivation du complément, ou une hypocomplémentémie. En effet dans les pathologies auto immunes (Angioœdème) ont peut retrouver des déficits du complément (du C2, de la voie classique, voie des lectines, de la voie alterne du CAM) ou des déficits génétiques."
+  },
+  {
+   "type": "paragraph",
+   "text": "Déficit génétique important, souvent de la molécule C2 chez les jeunes enfants. Ils sont associés a des formes de lupus du nouveau-né ou jeune enfant."
+  },
+  {
+   "type": "paragraph",
+   "text": "L’étude du complément est plus courante, et assez poussée  Mesure de l’activité hémolytique du complément : test de sensibilisation des globules rouges de mouton par spectrophotométrie ou néphélométrie, test de lyse des liposomes  Activation de la voie alterne  Dosage pondéral des fractions C3/C4/FB/C1inh : néphélométrie  Dosage fonctionnel des fractions : enzymologie  Recherche de déficit (C2/C4) : biologie moléculaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "On mesure chaque voie par le biais des fractions, et en fonctions des différentes activations, on peut affiner le diagnostic."
+  },
+  {
+   "type": "paragraph",
+   "text": "Dosage de l'activité totale du complément par liposomes sur SPAPLUS : les liposomes contiennent une enzyme avec en surface un Ag sensibilisé par ajout du sérum contenant les Ac dirigés contre eux donc on a un liposome activable, on mesure la capacité du complément à la reconnaissance de celui-ci : s’il y a lyse du liposome, réaction enzymatique et dosage par turbidimétrie de l'enzyme libérée (G6PD) corrélée à l'activation fonctionnelle à dosage de l’activité totale de la voie classique et voie finale commune du complément. C’est une technique automatisée et rapide. Dosage de l’activité totale par liposome sur SPAPLUS : ✓ Technique automatisée et rapide ✓ Turbidimétrie ✓ Marquage CE ✓ Dosage de l’activité totale de la voie classique et voie finale commune du complément"
+  },
+  {
+   "type": "paragraph",
+   "text": "En fonction du bilan :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Si le complément est consommé : pathologie auto immune, hypocomplémentémie (activité fonctionnelle diminuée + si les deux fractions ont diminué = activation voie classique : infection, si fraction normale : déficit génétique notamment en C2)",
+    "Hypercomplémentémie : syndrome inflammatoire, cancer/hémopathies malignes, hépatites aiguës, infarctus du myocarde à la phase aigue"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "On mesure chaque voie par le biais des fractions, et en fonctions des différentes activations, on peut affiner le diagnostic."
+  },
+  {
+   "type": "paragraph",
+   "text": "Situations particulières :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Activation de la voie alterne : diagnostic d’une infection à Neisseria.",
+    "Activation de la voie classique avec diminution de la fraction C1 C2 et C4 : infection ou maladie auto immune, déficits acquis métaboliques.",
+    "Hypercomplémentémie : dans phase aiguë de l’inflammation, l’activité du complément augmente. Le C3 et C4 augmentent (hémopathie)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "La suractivation du complément est peu spécifique : elle est aussi bien retrouvée dans les syndromes inflammatoires que dans les cancers ou les hémopathies malignes. Ce qui nous intéresse le plus ce sont les hypocomplémentémies = la consommation du complément."
+  },
+  {
+   "type": "paragraph",
+   "text": "Schéma pas à retenir"
+  },
+  {
+   "type": "paragraph",
+   "text": "e. Synthèse : diagnostic d’un déficit immunitaire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Exploration de l’immunité humorale :"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CH50 = activité hémolytique"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dosage du complément",
+    "Dosage pondéral des immunoglobulines IgG/IgA/IgM",
+    "Dosage des sous-classes d’immunoglobulines IgG1, 2, 3, 4 et IgA 1, 2 : permet le diagnostic d’un déficit en LB marqué",
+    "Sérologie vaccinale (vaccins protéiques et vaccins polysaccharidiques) pour l’activité fonctionnelle. Recommandations de bases et initiales en pédiatrie"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Exploration de l’immunité cellulaire :",
+    "Phénotypage lymphocytaire LB/LT (par cytométrie en flux)",
+    "Test d’activation lymphocytaire (par cytométrie en flux)",
+    "Activité des neutrophiles (si infection bactérienne récurrente)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "L’HAS a récemment rajouté un test, dont le test de Guthrie/test TRECs, qui permet de dépister systématiquement les déficits immunitaires communs (DICS) chez les jeunes enfants. Ce test de Guthrie va permettre de mesurer l’activité des LT en mesurant les cercles de réplication des LT ou des LB par cytométrie en flux et a une très grande sensibilité.  Test systématisé à chaque naissance, fait à partir d’une goutte de sang du NN"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-dysfonctionnement-du-systeme-immunitaire-exploration-des-",
+   "text": "IV. Dysfonctionnement du système immunitaire : exploration des états inflammatoires"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-numeration-formule-sanguine-nfs-hematologie",
+   "text": "1. Numération formule sanguine (NFS ; hématologie)"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Hématie et anémie : 1 er marqueur observé"
+  },
+  {
+   "type": "paragraph",
+   "text": "L'anémie n'apparaît qu'après trois à quatre semaines d'inflammation. Elle reste souvent modérée (entre 8 et 11 g d'hémoglobine par dL), mais son intensité est en rapport avec la sévérité de l'affection. Habituellement, elle est normochrome et normocytaire, mais devient microcytaire si l'inflammation persiste. Plus l’anémie est importante, plus c’est sévère."
+  },
+  {
+   "type": "paragraph",
+   "text": "b. PNN et hyperleucocytose"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les endotoxines bactériennes stimulent la production d'IL-1 qui agit directement sur la moelle osseuse pour augmenter la"
+  },
+  {
+   "type": "paragraph",
+   "text": "production de polynucléaires neutrophiles (PNN). Cependant, dans certaines inflammations chroniques, on peut observer une leucopénie (lupus érythémateux systémique)."
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Plaquettes et thrombocytose"
+  },
+  {
+   "type": "paragraph",
+   "text": "Elle peut atteindre 10 6 plaquettes/mm 3 au cours du syndrome inflammatoire. L’hyperplaquettose est fréquemment observée dans la polyarthrite rhumatoïde où elle est corrélée à l'accélération de la VS (vitesse de sédimentation) et au taux de CRP. Elle a également été décrite dans d'autres connectivites comme le syndrome de Gougerot-Sjögren et dans l'arthrite chronique juvénile."
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Electrophorèse de protéines sériques (biochimie) en recherche d’un pic monoclonal"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La séparation électrophorétique du sérum humain est effectuée en milieu alcalin, elle produit selon le support utilisé 4 à 5 fractions bien individualisées : la fraction albumine (la plus importante) et quatre groupes de globulines de migration α1, α2, β et γ. On connait en fonction de la charge ce qui se trouve dans chaque pic.",
+    "Le foie produit les protéines de mobilité plus rapide que les γ-globulines (α1, α2, β). Le tissu lymphoïde sécrète les protéines migrant dans la zone des γ-globulines.",
+    "L’électrophorèse est à compléter par un dosage quantitatif des protéines totales du sérum.",
+    "Plus complet que la néphélémétrie Test de référence en termes de coût, de remboursement."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Albumine :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hypoalbuminémie : insuffisance hépatocellulaire (cirrhose, hépatites), inflammation, syndromes inflammatoires sévères, perte accrue de l'organisme : fuite urinaire (syndrome néphrotique), digestive (gastroentéropathie exsudative) ou cutanée (brûlure étendue), dénutrition chronique sévère.",
+    "Hyperalbuminémie : Peu significative"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Alpha 1-Globuline :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hypo-a1 globulinémie : insuffisance hépatocellulaire, dénutrition ou fuite protéique.",
+    "Hyper-a1 globulinémie : syndromes inflammatoires, protéines de la phase aiguë de l'inflammation (\"acute phase proteins\") : orosomucoïde et a1antitrypsine en zone a1, haptoglobine en zone a2."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Alpha 2-Globuline :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hypo-a2 globulinémie : insuffisance hépatocellulaire, dénutrition ou fuite protéique.",
+    "Hyper-a2 globulinémie : syndrome inflammatoire, par augmentation de l'haptoglobine, syndrome néphrotique."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Béta 1-Globuline :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hyper-b1 globulinémie : anémies ferriprives",
+    "Hyper-b2 globulinémie : syndrome inflammatoire chronique, obstruction biliaire intra- ou extra- hépatique (la zone *Hyper-b globulinémie : seule ou avec une hyper-g dans la cirrhose éthylique ou dans les immunoglobulines monoclonales (myélome, macroglobulinémie)",
+    "Hypo-b1 globulinémie : insuffisance hépatocellulaire, dénutrition ou fuite protéique, syndrome inflammatoire par consommation de C3."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Y-Globuline :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hyper-g globulinémie: polyclonales (augmentation diffuse) observées principalement dans les syndromes inflammatoires d'origine hépatique, infectieuse, ou auto-immuns. Monoclonales (pic étroit homogène) associées aux gammapathies bénignes, malignes (myélome ou maladie de Waldenström), ou d'accompagnement (leucémie lymphoïde chronique, lymphomes).",
+    "Hypo-g globulinémie déficits immunitaires primitifs isolés ou globaux (portant sur les 3 classes d'Ig), chez l'enfant ou l'adulte ; effet d’agents immuno -suppresseurs, chimiothérapie ou radiothérapie ; hypogammaglobulinémie du myélome à chaînes légères (Bence Jones)."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-immunofixation-immunoelectrophorese-biochimie",
+   "text": "3. Immunofixation/Immunoélectrophorèse (biochimie)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Permet l’identification des pics d’électrophorèse et des chaines d’intérêt pour le diagnostic des gammapathies monoclonales (myélome). Nécessite souvent une ponction dans la moelle."
+  },
+  {
+   "type": "paragraph",
+   "text": "Principe :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Identification du type d’Ac augmenté dans le sang.",
+    "Séparation des protéines par électrophorèse dans un gel d’agarose (sur plusieurs pistes).",
+    "Dépôt d’antisérums monospécifiques individuellement sur chaque piste et coloration des immuns complexes précipités."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "4. Dosage des chaînes lourdes et légères HevyLite et FreeLite (Immunoturbidimétrie, biochimie)"
+  },
+  {
+   "type": "paragraph",
+   "text": "La technique de référence pour mesurer différents symptômes (par ex : myélome). En fonction des taux d’Ac secrété par le myélome on va pouvoir recommander une biopsie s’ils sont très élevés."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-immunophenotypage-hematologie",
+   "text": "5. Immunophénotypage (hématologie)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans la moelle ou le sang, dès la suspicion du myélome"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-diagnostic-des-activations-anormales-du-systeme-immunitair",
+   "text": "V. Diagnostic des activations anormales du système immunitaire :"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-maladies-auto-immunes-mai",
+   "text": "1) Maladies auto-immunes (MAI)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Exploration du syndrome inflammatoire (VS/CRP/PCT, calpro ?)",
+    "Exploration du complément (CH50/C3/C4)",
+    "Recherche d’une cryoglobuline (globuline qui précipite à froid)",
+    "Recherche et dosage de Complexes Immuns Circulants C1Q ou C3 (ELISA, rôle pathogène des CIC dans la pathologie ?)",
+    "Recherche et identification d’auto-anticorps (ACAN ou Ac spécifiques d’organes, ANCA selon le contexte clinique)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-allergies",
+   "text": "2) Allergies"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Bilan d’allergie (test cutané, IgE totales, Histamine, Tryptase)",
+    "Recherche d’IgE spécifique",
+    "Test d’activation des basophiles"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "1. Exploration du syndrome inflammatoire et exploration du complément (CH50/C3/C4)"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Mesure de la vitesse de sédimentation : ne se fait presque plus = à oublier"
+  },
+  {
+   "type": "paragraph",
+   "text": "Simple à réaliser, on suspectait ou pas un syndrome d’inflammation en fonction du taux de sédimentation mais souvent non corrélé au reste, patients asymptomatiques avec vitesse de sédimentation élevée donc non conclusif."
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Protéines de l’inflammation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il est préférable d’associer un marqueur cinétique rapide et un marqueur cinétique lent"
+  },
+  {
+   "type": "paragraph",
+   "text": "CRP : protéine C-réactive"
+  },
+  {
+   "type": "paragraph",
+   "text": " Très utile, c’est très bon marqueur inflammatoire : stable pendant plusieurs jours.  La CRP est une protéine de cinétique rapide et de grande amplitude : apparait 12h après l’apparition du syndrome inflammatoire et est stable pendant quelques jours. Elle doit son nom au fait qu’elle précipite avec les polysaccharides du pneumocoque en présence de calcium. La production hépatocytaire de CRP est sous la dépendance de l’IL-6. Très bien corrélé avec Il6 : on peut la doser également.  Le taux sérique normal de CRP est inférieur à 5mg/mL et peut augmenter fortement (jusqu’à 50 fois la normale) au cours de nombreux états inflammatoires, infections bactériennes, mais pas au cours des infections virales.  La CRP plasmatique augmente rapidement, dès la 6ème heure au cours des états infectieux bactérien, elle est optimale à 24H. La dissociation entre une VS accélérée et une CRP normale constitue parfois un précieux indice diagnostique (lupus : la CRP n’augmente jamais contrairement aux autres malade auto immune).  Souvent associé à un marquer à cinétique lente comme l’haptoglobine ou le fibrinogène  Pathologies associées à une augmentation de la CRP : Infections bactériennes mais non virales, Connectivites sauf LES, Maladies inflammatoires cryptogénétiques de l’intestin sauf la rectocolite Hémorragique, inflammation d’origine métabolique (goutte, chondrocalcinose), Nécrose ishémique, Traumatisme, Sarcoidose, Cancers, Hémopathies."
+  },
+  {
+   "type": "paragraph",
+   "text": "Orosomucoïde  Elle est synthétisée dans le foie mais également par les PNNs, les lymphocytes et les monocytes.  Au cours du processus inflammatoire, son taux s’élève au bout de douze heures et plafonne en deux à trois jours."
+  },
+  {
+   "type": "paragraph",
+   "text": "α1antitrypsine"
+  },
+  {
+   "type": "paragraph",
+   "text": " Glycoprotéine synthétisée par le foie, mais les lymphocytes en produisent également de faibles quantités.  Le taux sérique d’α1-antitrypsine s’abaisse en cas de perte digestive.  En revanche, son taux s’élève au cours de maladies inflammatoires."
+  },
+  {
+   "type": "paragraph",
+   "text": "Haptoglobine  α2-globuline qui se complexe avec l’hémoglobine et est rapidement éliminée par le système des phagocytes mononucléés. Son taux sérique s’élève douze heures après le début du processus inflammatoire pour atteindre un maximum 24 à 36 heures plus tard. Cinétique lente"
+  },
+  {
+   "type": "paragraph",
+   "text": "Fibrinogène"
+  },
+  {
+   "type": "paragraph",
+   "text": " Glycoprotéine synthétisée par les hépatocytes et les mégacaryocytes qui joue un rôle majeur dans la coagulation. Son taux plasmatique normal est compris entre 2 et 4 g/L. Il augmente à la 24ème heure d’une inflammation aiguë et atteint son maximum en deux à trois jours. C’est l’excès de fibrinogène qui est en grande partie responsable de l’accélération de la VS. Cinétique lente"
+  },
+  {
+   "type": "paragraph",
+   "text": "β2microglobuline"
+  },
+  {
+   "type": "paragraph",
+   "text": " Libérée dans le sérum, filtrée par les glomérules rénaux, réabsorbée et catabolisée dans les tubes contournés proximaux. Son niveau sérique s'élève quand la filtration glomérulaire diminue ou quand sa production augmente comme au cours des tumeurs, des syndromes lymphoprolifératifs, des infections virales ou des maladies auto-immunes.  Bon marqueur de filtration glomérulaire : sert à évaluer l’efficacité de la dialyse (protéine de petite taille facilement éliminée par le rein)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le complément"
+  },
+  {
+   "type": "paragraph",
+   "text": " Il est au carrefour de l'inflammation.  L'hypercomplémentémie est constante quand l’inflammation n’est pas d’origine immunologique. Ce n’est pas le cas dans les maladies avec complexes immuns circulants (lupus systémique, maladie sérique...), puisque ce que l'on mesure est la résultante de deux phénomènes opposés : une synthèse accélérée et une consommation augmentée, la seconde l'emportant le plus souvent sur la première. La consommation du complément se juge sur le CH50 (lyse de globules rouges sensibilisés avec Ac anti-GR de mouton), et la concentration du C3 et du C4. Il est crucial de le mesurer !"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le composant amyloïde P (SAP)"
+  },
+  {
+   "type": "paragraph",
+   "text": " Glycoprotéine très proche de la CRP. Son taux sérique est de 33 ± 10 mg/L chez les sujets normaux et d'environ 100 mg/L en cas de cancer ou de syndrome inflammatoire chronique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Procalcitonine (PCT)"
+  },
+  {
+   "type": "paragraph",
+   "text": " Marqueur précoce (2-3h après apparition de l’inflammation)  Très utile des infections bactériennes puisqu’elle augmente au cours de celles-ci et non au cours des infections virales."
+  },
+  {
+   "type": "paragraph",
+   "text": "Cytokines  Marqueurs importants de l’inflammation (IL1, TNFα et IL6). Leur cinétique d’apparition est différente selon les cytokines. Intéressant en complément de la CRP dans certaines situations. Beaucoup utilisé pour le suivi des CAR T-cells, car très inflammatoire."
+  },
+  {
+   "type": "paragraph",
+   "text": "La calprotectine fécale ou sérique"
+  },
+  {
+   "type": "paragraph",
+   "text": " Libérée par les PNN dans l’intestin  Marqueur pronostic et diagnostique très intéressant et très facile à doser (= protéine) retrouvé dans les selles utilisées pour le diagnostic des maladies inflammatoire de l’intestin.  Il permet de suggérer le diagnostic de MICI ou de cancer colo-rectal, ou encore la maladie cœliaque. Son dosage est couramment utilisé et permet de limiter les coloscopies.  Pour le dosage :S’il y a beaucoup de cette protéine dans l’extrait fécal (déposé sur une bandelette), les anticorps vont se fixer, et la révélation se fait par des Ac = immunochromatographie. C’est un marqueur prédictif négatif s’il n’y est pas, on peut éliminer le diagnostic. La calprotectine sérique est un bon marqueur des formes sévères de covid19"
+  },
+  {
+   "type": "paragraph",
+   "text": "En résumé +++"
+  },
+  {
+   "type": "paragraph",
+   "text": "Important : CRP, procalcitonine = marqueur précoce, calprotectine fécale et le tableau +++"
+  },
+  {
+   "type": "paragraph",
+   "text": "Protéines Délai après le début de la réponse inflammatoire 6h 12h 1j 2-3j 1sem"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "crp",
+   "text": "CRP + ++ +++ ++ +"
+  },
+  {
+   "type": "paragraph",
+   "text": "Orosomucoïde + ++ +++ ++ Haptoglobine + + +++ + Fibrinogène / + ++ +"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-recherche-d-une-cryoglobuline-ig-qui-precipite-a-froid",
+   "text": "2. Recherche d’une cryoglobuline (= Ig qui précipite à froid)"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. 3 types"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Type 1 : Monoclonale (5-20g/L): ce sont les plus sévères (exemple : myélome multiple associés à un taux d’IgM très élevés, mauvais pronostic, problème de viscosité du sang du au taux d’IgM important)",
+    "Type 2 : Associées au facteur rhumatoïde, surtout retrouvées dans les infections chroniques",
+    "Type 3 : Polyclonales = mixtes : Retrouvées dans les infections chroniques (hépatite C par ex) et les maladies auto- immunes. Ce sont les plus favorables au patient car les taux sont plus faibles"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Méthode"
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est la partie pré-analytique qui est très importante. On prélève le sang du malade (il est important de garder le prélèvement lors du transport à 37°C) puis incubation au labo à 4°C pendant 4 à 7j. Si présence d’une cryoglobuline, formation d'un précipité et on réalise un dosage pour typer et quantifier"
+  },
+  {
+   "type": "paragraph",
+   "text": "les Ig. Diagnostic des maladies auto-immunes :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Recherche d’auto-anticorps (IgG) non spécifiques d’organes sur cellules Hep2 par immunofluorescence indirecte (Hep-2 Human epithelioma of larynx ; identification des AAN ou ACAN)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diagnostic des connectivites"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Recherche d’auto-anticorps (IgG) spécifiques d’organes sur coupes de tissus (rat, singe) par immunofluorescence indirecte (foie-rein-estomac, thyroïde, cervelet, endomysium, peau, nerf…)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diagnostic des maladies spécifiques d’organes (neuropathie, coeliac, MICI…)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Recherche d’auto-anticorps (IgG) spécifique du cytoplasme des neutrophiles (humain) par immunofluorescence indirecte"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diagnostic des vascularites"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Identification et dosage des auto-anticorps -ELISA/ELIA/RIA -Immunodot / Western Blot -Luminex"
+  },
+  {
+   "type": "paragraph",
+   "text": "Schéma pas à apprendre"
+  },
+  {
+   "type": "paragraph",
+   "text": "3 Technique qualitative : immunofluorescence"
+  },
+  {
+   "type": "paragraph",
+   "text": "Permet d’identifier le type d’anticorps et de voir contre quelle structure ils réagissent grâce à la fluorescence. On peut chercher des auto-anticorps contre tous, quasiment tous les tissus. L’immunofluorescence classique permet de déceler une réaction Ag / Ac sur des cellules en suspension, des frottis cellulaires, des microorganismes ou des coupes d’organes. Très sensible pas très spécifique"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Réaction Ag/Ac avec Ag ou Ac est révélé par un réactif couplé à un fluorochrome (FITC, PE, Cyanine 3-5, Alexa…)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Phase hétérogène, Sensibilité de l’ordre de 0,1 mg/L, spécifique Ag natifs tissulaires = technique de diagnostic",
+    "Révélation avec microscope à fluorescence"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "4 Technique quantitative : Immunodosage avec marqueur radioactif : plus trop utilisé"
+  },
+  {
+   "type": "paragraph",
+   "text": "2 types de techniques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Technique par compétition (défaut d’Ac, réaction à l’équilibre, signal décroissant en fct de la [Ag], RIA/EIA, peu spécifique, pour tous les Ag (même les haptènes)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dosage indirect (signal croissant en fonction de l’anticorps à doser, IF/ELISA, permet l’étude des classes et sous classes d’Ac."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Type de traceur utilisé :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Radioactif : 3H, 125I, 57Co (faible encombrement, signal direct, précision, déchets !!)",
+    "Enzymatique HRP, PAL, G6PD (simple, automatisable, hétérogène, signal faible,)",
+    "Fluorescent FITC, PE… (simple, stable, précis, sensible, quenching, compensation…)",
+    "Luminescent Luminol, Ester acridium… (stable, spécificité, quenching, signal court)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Elisa, Elia"
+  },
+  {
+   "type": "paragraph",
+   "text": "Très couramment utilisé"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Complexe Ag/Ac révélé par un Ag/Ac couplé à une enzyme (PAL, HRP, Luc, B-Gal) La révélation se fait à l’aide d’un substrat chromogène (spectrophotomètre) ou luminogène (chimioluminescence)",
+    "Immunofluorescence : L’immunofluorescence classique permet de déceler une réaction Ag / Ac sur des cellules en suspension, des frottis cellulaires, des microorganismes ou des coupes d’organe. Plus la réaction est forte, plus elle est colorée.",
+    "Immunodosage avec marqueur : Ag ou Ac lié à un marqueur de différent type (enzymatique, fluorescent, …)",
+    "Différents types : ELISA directe (dosage Ac ou Ag), ELISA indirecte (recherche d’Ac), ELISA compétitif (dosage d’un Ac) et ELISA sandwich (recherche d’Ag)",
+    "Applications : Recherche d’Ag bactériens, viraux, parasitaires ; dosages hormonaux ; dosage médicaments ; recherche d’anticorps MAI ; sérologies ; allergologie… Résultats qualitatifs, semi-quantitatifs ou quantitatifs"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "RIA = Radio Immuno Assay"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le complexe Ag/Ac est révélé par un réactif (Ag ou Ac) sur lequel un radio-isotope (Iode 125) est fixé. Technique la plus efficace aujourd’hui mais on l’utilise quasiment plus à part pour la recherche d’anticorps anti-ADN",
+    "Très spécifique et sensible",
+    "Test de référence"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "a) Allergie"
+  },
+  {
+   "type": "paragraph",
+   "text": "Immunodot / (Antigen Spot Test: indirect)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Petite membrane de nitrocellulose sur laquelle ont été déposés de nombreux antigènes de nombreuses maladies auto immunes. On pose le sérum du patient dessus et s’il a les anticorps, on peut les quantifier par scanner (très utile pour les allergies)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "*Contrairement au WB, les protéines ne sont pas transférées d’un gel d’acrylamide sur une membrane de nitrocellulose, mais sont directement appliquées sur des bandelettes sous forme de spots pour former des « dots ». *Le dépôt des antigènes peut se faire sous forme d’une petite tache ronde (dot-spot) ou en ligne fine (dot-line) *Adsorption sur nitrocellulose, ou sur PVDF *Capacité d’adsorption > ELISA *Fixation est rapide, voire instantanée, risque réduit de dénaturation des antigènes. *Très utilisé pour le diagnostic des MAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "Luminex"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Mesure de la fluorescence (Luminex 100™) à l’aide d’un fluorimètre en flux composé de 2 lasers.",
+    "Le premier laser (635 nm) excite les colorants internes orange et rouge qui émettent à deux longueurs d’onde très différentes, ce qui permet d’identifier la bille recouverte avec un Ag/Ac donné (Ag MAI, Ag infectieux, Ac anti-cytokine…) Le deuxième laser (532 nm) excite le fluorochrome sur l’anticorps de détection (en général PE).",
+    "Système analytique multiplex : Détection simultanée de plusieurs autoanticorps grâce à la possibilité de distinguer les billes porteuses des molécules complémentaires.",
+    "Fixation révélée par un conjugué fluorescent",
+    "Très bonne sensibilité, quantitatif",
+    "Technique de référence pour le HLA",
+    "Applications disponibles : -dosage de cytokines/chemokines -dosage d’auto-anticorps (ANCA, TPO/TG, AANs/Connectivite, FR, MC…) -HLA+++++ -Sérologie virale, bactérienne etc…"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Bilan d’allergie : Test cutané, IgE totale, histamine, tryptase",
+    "Recherche d’IgE spécifique",
+    "Test d’activation des basophiles : Dosage enzymes libre lors de la dégranulation des basophiles (histamine) VI. Suivi des biothérapies"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Très récent. Cela s’est développé car on s’est rendu compte qu’on traitait souvent les patients pour rien, que les traitements étaient toxiques."
+  },
+  {
+   "type": "paragraph",
+   "text": "Indication importante du bilan immunologique :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dosage des anticorps thérapeutiques sériques (ex : infliximab…)  Ex : infliximab  On cherche à identifier une valeur cible de médicaments pour une efficacité clinique, algorithme décisionnel ensuite pour l’adaptation thérapeutique : médecine personnalisée."
+  },
+  {
+   "type": "paragraph",
+   "text": "Recherche d’une immunisation contre le médicament (après échappement clinique)"
+  },
+  {
+   "type": "paragraph",
+   "text": " Algorithme décisionnel, ajout d’immunosuppresseur, switch thérapeutique, réaction à la perfusion.  L'intérêt est d’optimiser le traitement, ne pas insister si le patient est très immunisé contre un médicament. Nouveaux kits IVD Lisa tracker (BMD), Promonitor: Dosage du TNF, anticorps anti-TNF et anticorps anti-anticorps anti-TNF) Infliximab, Adalimumab, Etanercept, Golimumab, Vedolizumab, Rituximab, Avastin etc..) Dosage des anticorps HAMA (Human anti-mouse antibody)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Étude de l’efficacité d’anticorps déplétant  Cytométrie en flux, disparition d’une population cellulaire en particuli ex : Rituximab : anticorps qui déplètent LT)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Surveillance du traitement, désescalade thérapeutique ?  Notion médico-économique, suivi des scores de qualité de vie, réduction des risques infectieux (on met la dose la plus petite pour laquelle c’est efficace)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Efficacité des désensibilisations allergiques"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-suivi-immunisation-vaccination",
+   "text": "VII. Suivi immunisation /vaccination"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Beaucoup développé avec le covid",
+    "On mesure la réponse B (présence d’anticorps, présence d’anticorps neutralisants, nombre de cellules B mémoires) On mesure les Ac pour savoir si les personnes sont infectées (protéine spike non présente dans le vaccin) + test de neutralisation pour voir si les Ac sont encore fonctionnels + mesure des cellules B mémoire pour savoir si on est encore immunisé (très variable entre individu)",
+    "On peut aussi mesurer la réponse T, par phénotypage ou quantiferon, elispot T."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "viii-conclusion",
+   "text": "VIII. Conclusion"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Avant le moindre bilan biologique, il faut réaliser un bilan clinique poussé (ganglion/rate, éruption cutanée, douleurs articulaires, …).",
+    "Le bilan immunitaire permet de diagnostiquer les déficits immuns héréditaires (congénitaux ou acquis), les dysfonctionnements du système immunitaire, les activations anormales du système immunitaire, le suivi des biothérapies et la prise en charge des greffes.",
+    "Le diagnostic d’un déficit immun repose sur l’exploration de l’immunité humorale (étude du complément, dosage des Ig, dosage des sous classes Ig, sérologies vaccinales) et cellulaire (immunophénotypage, test d’activation)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Une activation anormale du système immunitaire peut aboutir à une maladie auto-immune ou une maladie allergique.",
+    "Le diagnostic d’une maladie auto-immune repose sur un bilan de base comportant une étude du syndrome inflammatoire (VS/CRP/complément), la recherche d’auto- anticorps spécifiques ou non spécifiques d’organes, une éventuelle recherche de cryoglobuline.",
+    "L’ensemble des techniques de dosage repose sur la reconnaissance Ag/Ac.",
+    "Le bilan immunitaire permet de suivre l’efficacité des biothérapies."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM d’entrainement 2025 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 1 : a) L’examen clinique est facultatif pour le diagnostic d’un déficit immunitaire b) La prise d’antibiotique au long cours doit faire penser à un déficit immunitaire c) Le diagnostic de déficit immunitaire est majoritairement fait chez l’adulte en raison d’un manque d’immunité acquise dans l’enfance d) La néphélométrie est un test qualitatif e) Le bilan de base pour mesurer l’état du déficit immunitaire est NFS, protéines sériques et les marqueurs inflammatoires"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 2 : a) Immunofluoresence est une technique pour quantifier les anticorps b) RIA est la technique quantitative de référence c) Le type 1 de cryglobulinémie est polyclonale d) Procalcitonine est un marqueur des infections virales e) L’activation du complément est peu spécifique"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponses : 1A) Faux : l’examen clinique est à faire avant tout examen biologique B) Vrai C) Faux : Il est effectué majoritairement chez l’enfant D) Faux : Test quantitatif E) Vrai"
+  },
+  {
+   "type": "paragraph",
+   "text": "2A) Faux : permet d’identifier le type d’Ac B) VRAI C) FAUX : monoclonale D) FAUX : bactériennes E) VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM d’entrainement 2026 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM1 : A. Le bilan biologique peut être réalisé sans examen clinique préalable B. Une prise d’antibiotiques 4–5 fois par an doit faire évoquer un déficit immunitaire C. Le diagnostic de déficit immunitaire est plus fréquent chez l’adulte que chez l’enfant D. Le bilan de première intention comprend NFS avec formule et dosage des immunoglobulines E. Le test de Guthrie permet un dépistage néonatal des DICS"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM2 : A. La néphélométrie est une technique quantitative basée sur la turbidité liée aux complexes Ag/Ac B. Un taux d’IgG < 1 g/L définit un déficit en IgG C. Les IgG2 sont principalement dirigées contre les antigènes polysaccharidiques D. Une absence de réponse après revaccination permet d’éliminer un déficit lymphocytaire E. Un syndrome d’hyper IgM peut entraîner un syndrome d’hyperviscosité"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponses :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "1-a-faux",
+   "text": "1- A) FAUX"
+  },
+  {
+   "type": "paragraph",
+   "text": "B) VRAI C) FAUX (plus fréquent chez l’enfant 2-5 ans) D) VRAI E) VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "2-a-vrai",
+   "text": "2- A) VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "B) VRAI C) VRAI D) FAUX (oriente vers un déficit fonctionnel) E) VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "acc-2024",
+   "text": "ACC 2024 :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-20",
+   "text": "QUESTION N° 20 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les affirmations suivantes sur les biothérapies, laquelle (ou lesquelles) est (sont) exacte(s) ? A. Chez l’Homme, il existe 4 classes (ou isotypes) d’immunoglobulines B. La portion Fab des immunoglobulines permet la reconnaissance de l’antigène C. Les anticorps monoclonaux sont plus immunogènes que les anticorps monoclonaux chimériques D. La voie orale constitue la voie d’administration préférentielle des Anticorps monoclonaux thérapeutiques E. Les biosimilaires sont des médicaments moins efficaces que les spécialités de référence"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-faux",
+   "text": "A : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-faux",
+   "text": "C : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-faux",
+   "text": "D : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "e-faux",
+   "text": "E : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "acc-2023",
+   "text": "ACC 2023 :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-17",
+   "text": "QUESTION N° 17 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les affirmations suivantes sur les biothérapies, laquelle (ou lesquelles) est (sont) exacte(s), choisir la (ou les) proposition(s) exacte(s) : A. Chez l’Homme, il existe 4 classes (ou isotypes) d'immunoglobulines B. La portion Fab des immunoglobulines permet la reconnaissance de l’antigène C.Les anticorps monoclonaux humanisés sont plus immunogènes que les anticorps monoclonaux chimériques D. La voie orale constitue la voie d'administration préférentielle des anticorps monoclonaux thérapeutiques E. Les biosimilaires sont des médicaments moins efficaces que les spécialités de référence"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : FAUX : Il existe 5 classes/isotypes d'immunoglobulines : IgG, IgM, IgA, IgD et IgE."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai-2",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "C : FAUX : Ils sont moins immunogènes que les anticorps monoclonaux chimériques, mais plus que les entièrement humanisés. D : FAUX : Ils sont injectés, non administrés par voie orale car l’acidité gastrique détruit la structure protéique des immunoglobulines. E : FAUX : Ce ne sont pas comme les génériques des copies exactes mais ils prouvent une immunogénicité comparable, une même efficacité et une même tolérance."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-20-2",
+   "text": "QUESTION N° 20 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Quelles est (sont) la (ou les) proposition(s) exactes concernant les déficits immunitaires communs variables (DICV), choisir la (ou les) proposition(s) exacte(s) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. C’est surtout une affection de l’adulte B. Ces maladies se révèlent parfois par une granulomatose faisant discuter le diagnostic d’une “sarcoïdose” C. L'hypogammaglobulinémie est constante et fait partie de la définition des DICV D. Dans les DICV, on note une fréquence élevée des cytopénies auto-immunes E. L’examen de “débrouillage” est l’électrophorèse de l’hémoglobine"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : FAUX : Affection de l’adolescent/ jeune adulte."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai-3",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-vrai",
+   "text": "D : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "E : FAUX : Evaluation des niveaux d'immunoglobulines (IgG, IgA, IgM) et éventuellement électrophorèse."
+  }
+ ]
+}

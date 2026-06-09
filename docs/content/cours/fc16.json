@@ -1,0 +1,78 @@
+{
+ "slug": "fc16",
+ "code": "FC16",
+ "title": "Cibles et mécanismes d’action des cytokines",
+ "prof": "Dr. Waeckel",
+ "sourceFile": "FC16-WAECKEL-Cibles-et-mecanismes-daction-des-cytokines-0103.docx(1).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "i-introduction",
+   "label": "I. Introduction",
+   "level": 2
+  },
+  {
+   "id": "iii-interleukines",
+   "label": "III. Interleukines",
+   "level": 2
+  },
+  {
+   "id": "g-csf-gm-csf",
+   "label": "G-CSF, GM-CSF)",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Cibles et mécanismes d’action des cytokines"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-introduction",
+   "text": "I. Introduction"
+  },
+  {
+   "type": "paragraph",
+   "text": "1. Définition Rq : C’est un nouveau cours mais le prof est passé très rapidement dessus. Les cytokines sont de petites protéines (8 à 80kDa) qui font partie du réseau de signalisation extracellulaire qui contrôle la réponse immunitaire. Elles peuvent avoir une action autocrine, paracrine ou endocrine. 2. Familles"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les CSF, interférons et interleukines sont les seuls utilisés actuellement chez l’Homme. Indications : Cancer Infections Maladies dysimmunitaires Elles provoquent des effets biologiques différents sur diverses cellules pléiotropie Faible demi-vie in vitro modifications structurelles (PEGylation) II. Interférons Ils interfèrent avec la réplication virale et possèdent un effet antitumoral. Il en existe 3 grand types : - Type I (IFN alpha et beta) - Type II (IFN gamma) - Type III (IFN lambda) Page 1/4"
+  },
+  {
+   "type": "paragraph",
+   "text": "1. IFN alpha Physiologiquement sécrété par les cellules dendritiques et les macrophages Indications : - Cancers solides et hématologiques o Diminuent l’expression des oncogènes et augmentent celles des gènes suppresseurs de tumeur o Stimulent les lymphocytes T antitumoraux et favorisent la maturation des cellules dendritiques - Hépatite B et C o Stimulation des lymphocytes NK, prolifération des lymphocytes T, maturation des cellules dendritiques 2. IFN beta Utilisé dans le traitement de la sclérose en plaques pour ses propriétés immunomodulatrices. Sclérose en plaques = maladie auto-immune par lésion de la gaine de myéline. 3. IFN gamma Il a un rôle de lutte contre les germes intra-cellulaires important. C’est un activateur puissant des macrophages. Il favorise la formation des granulomes. Indications : maladies rares comme granulomatose septique chronique (déficit génétique touchant le fonctionnement des polynucléaires) pour réduire la fréquence des infections graves chez ces patients."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-interleukines",
+   "text": "III. Interleukines"
+  },
+  {
+   "type": "paragraph",
+   "text": "La seule interleukine possédant une AMM est l’IL-2. C’est la cytokine clé pour l’activation et la prolifération des lymphocytes T. Utilisé pour des cancers du rein métastatique. Autres cytokines en cours d’essais : IL-7, IL-15, IL-21, IL-12, IL-10, … IV. CSF (colony-stimulating factor) Cas particulier : - Pas utilisé en tant que modulateur du système immunitaire - Pas de pléiotropie L’érythropoïétine (EPO) : physiologiquement synthétisée par le rein puis va au niveau de la moelle osseuse pour stimuler la synthèse des globules rouges, stimule la synthèse médullaire d’érythrocytes. L’EPO est utilisée pour les anémies d’origine rénale, suite à chimio…"
+  },
+  {
+   "type": "paragraph",
+   "text": "La production de polynucléaires neutrophiles stimulée par G-CSF et GM-CSF : granulocyte/macrophage colony stimulating factor. Le but est de réduire la durée et les complications des neutropénies. V. Conclusion Les cytokines sont des protéines clés de la réponse immunitaire. Les cytokines thérapeutiques font partie des biomédicaments. Certaines sont commercialisées sous forme PEGylée afin d’allonger leur demi-vie. Beaucoup d'essais sont en cours, mais actuellement seules les interférons, IL-2, EPO, G-CSF et GM-CSF ont une autorisation de mise sur le marché. Se sont des thérapies intéressantes mais elles ont aussi de nombreux effets indésirables dus à leur pléiotropie (sauf EPO,"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "g-csf-gm-csf",
+   "text": "G-CSF, GM-CSF)"
+  },
+  {
+   "type": "paragraph",
+   "text": "VI/QCM Question n°1 : Concernant les cytokines : A. Ce sont de petites protéines B. Elles font parti du réseau de signalisation intra-cellulaire qui contrôle la réponse immunitaire C. Toutes les familles de cytokines sont utilisées en thérapeutique D. Elles sont indiquées dans le traitement des cancers, maladies dysimmunitaires et infections E. Elles provoquent les mêmes effets biologiques sur toutes les cellules Question n°2 : A propos des cytokines : A. Les CSF sont utilisé en tant que modulateur du système immunitaire mais elles n’ont pas d’effet pléiotrope B. La seule interleukine possédant l’AMM est IL-2 C. IL-2 est la cytokine clé pour l’activation et la prolifération des lymphocytes B. D. Actuellement seules les interférons, IL-2, EPO, G-CSF et GM-CSF ont une autorisation de mise sur le marché E. La pléiotropie réduit les effets indésirables Question n°3 : Concernant les interférons : A. IFN beta est un interféron de type II. B. IFN lambda est un interféron de type III. C. IFN alpha est utilisé pour traiter l’hépatite B. D. IFN gamma est utilisé pour traiter la sclérose en plaque. E. IFN gamma est un activateur puissant des macrophages. Correction question n°1 : A. VRAI B. FAUX : elles font parti du réseau de signalisation extracellulaire qui contrôle la réponse immunitaire C. FAUX : seules les CSF, interférons et interleukines sont actuellement utilisées D. VRAI E. FAUX : elles provoquent des effets biologiques différents sur diverses cellules = pléiotropie Correction question n°2 : A. FAUX : Les CSF NE sont PAS utilisé en tant que modulateur du système immunitaire mais elles n’ont pas d’effet pléiotrope B. VRAI C. FAUX : IL-2 est la cytokine clé pour l’activation et la prolifération des lymphocytes T. D. VRAI E. FAUX : elle les augmente Correction question n°3 : A. FAUX : IFN beta est un interféron de type I. B. VRAI C. VRAI D. FAUX : IFN béta est utilisé pour traiter la sclérose en plaque. E. VRAI Année 2024 QUESTION N° 13 : Quelles sont les caractéristiques communes des cytokines ? A. Il s’agit de petites protéines B. Elles ont un effet pléiotropique C. Elles possèdent une action ciblée et unique Page 3/4"
+  },
+  {
+   "type": "paragraph",
+   "text": "D. Il s’agit de molécules membranaires E. Elles peuvent avoir une action endocrine Correction: A : VRAI B : VRAI (elles ont plusieurs actions systémiques) C : FAUX, cf B D : FAUX humoral E : VRAI Année 2019 QUESTION N° 10 : Quelles sont les caractéristiques communes des cytokines ? 1. Ce sont des grosses molécules 2. Elles ont une courte demi-vie 3. Elles peuvent être classées par leurs modes d’actions 4. Elles ont toujours une action paracrine 5. Elles ont une action spécifique sur un type cellulaire spécifique A : FAUX : elles ont des masses moléculaires moyenne de 8 à 50 kDa B : VRAI C : VRAI D : FAUX : elles peuvent avoir une action autocrine, paracrine et endocrine E : FAUX : elles sont moins spécifiques que par exemple les hormones , vrai non?/ non car effet pléiotropique gtt Page 4/4"
+  }
+ ]
+}

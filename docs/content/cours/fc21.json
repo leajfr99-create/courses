@@ -1,0 +1,667 @@
+{
+ "slug": "fc21",
+ "code": "FC21",
+ "title": "Lupus",
+ "prof": "Dr. Killian",
+ "sourceFile": "FC21-KILLIAN-Lupus-06-03-26(2).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "i-lupus-erythemateux-systemique-les-ou-dissemine",
+   "label": "I. Lupus Érythémateux Systémique (LES) ou Disséminé",
+   "level": 2
+  },
+  {
+   "id": "1-introduction",
+   "label": "1. Introduction",
+   "level": 3
+  },
+  {
+   "id": "2-criteres-de-classification-du-lupus-erythemateux-systemiqu",
+   "label": "2. Critères de classification du lupus érythémateux systémique (LES)",
+   "level": 3
+  },
+  {
+   "id": "3-quelques-exemples-de-lupus-erythemateux-dissemine",
+   "label": "3. Quelques exemples de lupus érythémateux disséminé",
+   "level": 3
+  },
+  {
+   "id": "4-physiopathologie-du-les",
+   "label": "4. Physiopathologie du LES",
+   "level": 3
+  },
+  {
+   "id": "ii-sapl-syndrome-des-anti-phospholipides",
+   "label": "II. SAPL : Syndrome des anti-phospholipides",
+   "level": 2
+  },
+  {
+   "id": "1-introduction-2",
+   "label": "1. Introduction",
+   "level": 3
+  },
+  {
+   "id": "2-physiopathologie",
+   "label": "2. Physiopathologie",
+   "level": 3
+  },
+  {
+   "id": "3-conclusion",
+   "label": "3. Conclusion",
+   "level": 3
+  },
+  {
+   "id": "1-le-lupus-est-une-maladie-auto-immune-specifique-d-organe",
+   "label": "1. Le lupus est une maladie auto-immune spécifique d’organe",
+   "level": 3
+  },
+  {
+   "id": "2-les-anticorps-anti-adnn-sont-systematiquement-retrouves-da",
+   "label": "2. Les anticorps anti-ADNn sont systématiquement retrouvés dans le LES",
+   "level": 3
+  },
+  {
+   "id": "3-les-anticorps-anti-sm-sont-les-specifiques-du-les",
+   "label": "3. Les anticorps anti-Sm sont les + spécifiques du LES",
+   "level": 3
+  },
+  {
+   "id": "4-la-physiopathogenie-est-liee-a-un-defaut-d-apoptose-des-co",
+   "label": "4. La physiopathogénie est liée à un défaut d’apoptose des corps apoptotiques",
+   "level": 3
+  },
+  {
+   "id": "5-cette-maladie-est-caracterisee-par-une-production-importan",
+   "label": "5. Cette maladie est caractérisée par une production importante d’IL10",
+   "level": 3
+  },
+  {
+   "id": "6-la-beta2-glycoproteine-1-est-normalement-sous-forme-circul",
+   "label": "6. La beta2 glycoprotéine 1 est normalement sous forme circulante",
+   "level": 3
+  },
+  {
+   "id": "reponse-1-e-reponse-2-bcde",
+   "label": "REPONSE 1 : E REPONSE 2 : BCDE",
+   "level": 2
+  },
+  {
+   "id": "question-n-18",
+   "label": "QUESTION N° 18 :",
+   "level": 2
+  },
+  {
+   "id": "a-faux",
+   "label": "A : FAUX",
+   "level": 2
+  },
+  {
+   "id": "b-vrai",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-vrai",
+   "label": "D : VRAI",
+   "level": 2
+  },
+  {
+   "id": "question-n-12",
+   "label": "QUESTION N° 12 :",
+   "level": 2
+  },
+  {
+   "id": "c-vrai",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-vrai-2",
+   "label": "D : VRAI",
+   "level": 2
+  },
+  {
+   "id": "e-vrai",
+   "label": "E : VRAI",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. KILLIAN Immunopathologie REBBADJ Inès"
+  },
+  {
+   "type": "paragraph",
+   "text": "Physiopathologie du lupus érythémateux systémique"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-lupus-erythemateux-systemique-les-ou-dissemine",
+   "text": "I. Lupus Érythémateux Systémique (LES) ou Disséminé"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-introduction",
+   "text": "1. Introduction"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Maladie auto-immune systémique",
+    "3 ème connectivite la plus fréquente (en 1 la Polyarthrite Rhumatoïde)",
+    "Rare =0,04 % (<1/2000) : 35-40/100.000 habitants",
+    "Surtout des femmes jeunes (9F/1H)",
+    "Forme pédiatrique et retardée mais rare",
+    "Atteintes diverses, Protéiforme : articulaire, cutanée, rénale, hématologique, neurologique, digestif (notamment en Asie)",
+    "Chronique avec des poussées",
+    "Évolution imprévisible, gravité variable"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-criteres-de-classification-du-lupus-erythemateux-systemiqu",
+   "text": "2. Critères de classification du lupus érythémateux systémique (LES)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Peau 1 Rash malaire 2 Lupus discoïde (rançon cicatriciel) 3 Photosensibilité 4 Ulcérations orales ou nasopharyngées (aphte) Articulations 5 Arthrites non érosives touchant au moins 2 articulations périphériques, caractérisées par une douleur, un gonflement ou un épanchement (si érosives penser à une PR) Sérites 6 Pleurésie ou péricardite Rein 7 Protéinurie persistante > 0.5 g/jour ou cylindrurie Neuro 8 Convulsions ou psychoses (en l’absence de cause médicamenteuse ou métabolique) Hémato 9 Atteinte hématologique :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Anémie hémolytique",
+    "Leucopénie < 4 000/µL constatée à 2 reprises",
+    "Lymphopénie < 1 500/µL constatée à 2 reprises ou",
+    "Thrombopénie < 100 000/µL, en l’absence de drogues cytopéniantes Auto-immunité 10 Titre anormal de facteurs antinucléaires par immunofluorescence (en l’absence de drogues inductrices) 11 Perturbations immunologiques :",
+    "Titre anormal d’anticorps anti-ADN natif",
+    "Anticorps anti-Sm, ou présence d’anticorps anti-phospholipides : sérologie syphilitique dissociée constaté à 2 reprises en 6 mois ou anticoagulant circulant de type lupique ou titre anormal d’anticorps anti-cardiolipine en IgG ou IgM."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Quatre critères simultanés ou successifs sont nécessaires pour classer la maladie comme un lupus systémique. Ne pas apprendre par cœur les critères de classifications Ce sont des critères de classifications et pas de diagnostic. Les symptômes se retrouvent dans d’autres pathologies donc l’absence d’autres causes amènent au diagnostic de lupus : On peut avoir plusieurs symptômes et ne pas avoir de lupus et à l’inverse n’avoir que quelques symptômes et être porteur de lupus (on peut avoir les anticorps sans avoir de symptômes, la maladie peut survenir plus tard)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-quelques-exemples-de-lupus-erythemateux-dissemine",
+   "text": "3. Quelques exemples de lupus érythémateux disséminé"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rash ou érythème malaire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "C’est une éruption qui touche préférentiellement les joues et le nez d’où le nom « lupus » qui fait référence au masque de loup. En général, c’est sensible au soleil",
+    "Il rougit lors des crises puis finit par passer"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Lésions touchant le décolleté et les mains"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le lupus touche majoritairement les régions photo-exposées",
+    "Il épargne en général les surfaces articulaires au niveau des IPP",
+    "Photo de droite : caractéristique de lupus subaiguë"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-physiopathologie-du-les",
+   "text": "4. Physiopathologie du LES"
+  },
+  {
+   "type": "paragraph",
+   "text": "Étiologie incomplètement comprise, complexe et multifactorielle car elle associe :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Facteurs génétiques",
+    "Facteurs environnementaux",
+    "Facteurs hormonaux"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Facteurs génétiques : Plusieurs éléments sont en faveur de cette hypothèse :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Agrégation familiale ATCD familial de LES ou de maladie de ce groupe (polyarthrite rhumatoïde par exemple) chez 10 à 12% des patients LES",
+    "24 à 69 % de concordance chez les jumeaux homozygotes (2 à 9% chez les hétérozygotes)",
+    "On a de très rares formes monogéniques qui arrivent très tôt dans la vie",
+    "Le lupus est donc une maladie polygénique. Beaucoup de gènes se regroupent entre maladies."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôle particulier des déficits en protéines de la voie classique du complément avec le LES :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "90% des déficits homozygotes en C1q (rare ++, à peu près 50% des cas)",
+    "75% des déficits homozygotes en C4 (rare)",
+    "10-30% des déficits homozygotes en C2 (1/20k) On a ainsi une sévérité croissante du LES selon la précocité du déficit (C1q>C4>>C2). Plus la mutation est précoce, plus le patient développe un lupus rare et sévère. Il y a un défaut de clairance des corps apoptotiques et des complexes immuns (voie classique du complément)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Le système du complément (rappel) : Peut être initié par différentes voies :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Voie classique",
+    "Voie des leptines",
+    "Voie alterne"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Déficit de la voie classique du complément : Les hypothèses en faveur du rôle du déficit de la voie classique du complément dans le développement du LES sont :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Mauvaise défense contre les triggers infectieux",
+    "Mauvaise clairance des complexes immuns",
+    "Activation de la voie classique limite la précipitation des CIC (complexes immuns circulants)",
+    "C1q, C4b et C3b favorisent l’élimination des CIC dans le foie et la rate en se fixant sur le récepteur CR1 des GR et de certaines cellules mono-nucléées du sang",
+    "La liaison covalente du C3b aux CIC limite leur extension",
+    "Mauvaise clairance des corps apoptotiques",
+    "C1q se lie aux kératinocytes apoptotiques",
+    "Impact de ces corps apoptotiques (rôle du déficit en C4) sur l’activation du compartiment myéloïde et la tolérance B"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôle des nucléases (DNAse) : Cas particulier de l’exonucléase TREX1 (3’ repair exonuclease 1) mutée qui a un rôle dans le syndrome d’Aicardi-Goutières TREX1 : exonucléase 3’-> 5’ cytosolique impliquée dans la digestion de l’ADN"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Accumulation de fragments d’ADN en cas de mutation qui va être capté par les TLR",
+    "Stimulation de l’immunité innée via des DNA sensors (TLR9, DAI, NLR) = production très importante d’IFNα +++",
+    "Ce syndrome est un syndrome génétique qui associe une encéphalopathie + fièvre + auto-immunité (lupus, SAPL, cytopénies)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Interféronopathies de type 1 :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Libération d’ADN : cible des LB auto réactifs"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Facteurs environnementaux : Seulement 24 à 69% de concordance chez les jumeaux homozygotes la génétique est nécessaire mais non suffisante. Les principaux facteurs environnementaux sont les agents infectieux, les médicaments et les rayons UV (leur mode d'action se ressemblent)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Agents infectieux"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôle suspecté car des « micro-épidémies » de LES ont été rapportées aux US dans les années 50. On retrouve souvent chez les patients soit une vaccination soit un agent infectieux pour autant c’est souvent dû à un facteur favorisant. Selon l’épidémiologie, plusieurs micro-organismes seraient impliqués dans les genèses ou les poussées."
+  },
+  {
+   "type": "paragraph",
+   "text": "Cas de l’Epstein Barr (EBV)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Virus de la mononucléose infectieuse dont on ne se débarrasse pas, il reste latent dans l’organisme. Produit des molécule stimulatrices de l’immunité"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Plus de séropositifs pour l’EBV chez les patients LES",
+    "Élévation des Ac anti-EBV avant les symptômes",
+    "Réponse T anti-EBV aberrante chez les patients",
+    "Charge virale sanguine EBV plus importante"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Impact de l’EBV sur le SI et rôle potentiel dans le LES -Mimétisme moléculaire : homologie entre les Ag Sm et EB Nuclear Antigen-1 (EBNA1)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Effet « bystander » = activation aspécifique des cellules au voisinage de la réaction immune spécifique. Si le milieu est déjà inflammatoire, la réaction s’étendra facilement, alors qu’un milieu plutôt anti-inflammatoire ne va pas autant s’emballer et contrôlera mieux l’infection.",
+    "« Epitope spreading » = libération d’auto-AG du fait de la destruction cellulaire liée à l’infection, entraînant plus d’inflammation et la libération d’autres auto-AG.",
+    "Activation lymphocytaire B (LB naïfs -> LB mémoires, dont les LB auto réactifs), notamment via LMP-1 (mime le signal induit par CD40), résistance à l’apoptose",
+    "Activation des pDC et production d’IFNα Ces mécanismes expliquent les liens entre l’EBV et le LES, pour autant il faut quand même un terrain de base pour développer le LES."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Médicaments"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les médicaments eux-mêmes ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Grande diversité des molécules impliquées mais manifestations clinique-biologiques proches",
+    "Apparitions après plusieurs mois ou années"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Implication de leurs métabolites oxydés : en tant que substrats de la myélopéroxydase et/ou des cytochromes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Capacité à lyser des cellules (autoAg/inflam)",
+    "Capacité d’interférer avec le système immunitaire (activation/diminution de la tolérance)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rayons UVs"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La photosensibilité est un des critères majeurs du lupus +++",
+    "UVB +++ (295-320nm) et UVA (320-40nm)",
+    "L’exposition aux UVs modifie la localisation et la chimie d’antigènes classique du lupus (ADN double brin, Ro/SSA, RNP) deviennent + immunogènes",
+    "Les UVs induisent l’apoptose des kératinocytes dont les corps apoptotiques contiennent ces Ag et vont être à l’origine d’une réponse immune",
+    "L’exposition ne donne pas que des lésions cutanées, elles peuvent donner par exemple des douleurs articulaires et des problèmes rénaux.",
+    "Il est conseillé aux patients lupiques d’éviter le soleil et de se protéger"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "d. Facteurs hormonaux :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Sexe ratio largement féminin,",
+    "Début du LES rare avant la puberté et après la ménopause, donc pendant l’activité hormonale +++ (principalement entre 20 et 30 ans)",
+    "Plus de LES dans le syndrome de Klinefelter (47 XXY),",
+    "Variation de l’activité du LES selon les variations hormonales féminines (contraception, grossesse, ménopause, THS). Importance d’être suivie comme il faut avec un lupus stable si l’on souhaite une contraception ou une grossesse. Les contraceptions oestro-progestatives sont contre-indiquées, on passe sur des progestatives seulement car on peut suspecter un rôle des œstrogènes dans le LES."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-sapl-syndrome-des-anti-phospholipides",
+   "text": "II. SAPL : Syndrome des anti-phospholipides"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le prof n’a pas fait cette partie et a précisé qu’elle ne tombera pas non plus à l’examen."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-introduction-2",
+   "text": "1. Introduction"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Soit primitif (50%) ou secondaire particulièrement au LES (35%)",
+    "Environ 1/3 des LES sont associés au SAPL",
+    "Sexe ratio variable : Prédominance des femmes",
+    "Primitif (3,5F/1H)",
+    "Secondaire (7F/1H)",
+    "La SAPL cible les phospholipides",
+    "Thrombose artérielles et/ou veineuses, formes obstétricales",
+    "Autres atteintes +/- rares : hématologique, valvulaire, viscérale par MAT"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "A retenir :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Si les patients ont juste des anticorps isolés mais pas de symptômes ce ne sont pas des maladies ce sont des anomalies biologiques, on ne traite pas. (C’est lors d’infection aiguë on peut synthétiser des AC anti-phospholipides mais qui n’ont pas de valeurs pathologiques)",
+    "En revanche, dans les cas où les patients ont tous les AC anti-Phospholipides mais pas de symptômes, on les traite car ils sont plus à risque de faire de thrombose ou formes obstétricales.",
+    "Si clinique compatible on dose la présence d’AC phospholipides et on les recontrôle 3 mois après. Ce sont les anticorps qui persistent qui peuvent être considérés comme pathogènes."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-physiopathologie",
+   "text": "2. Physiopathologie"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Anticorps anti-phospholipides",
+    "Immunoglobulines",
+    "Famille d’Ac reconnaissants des phospholipides anioniques et neutres ou certains de leurs cofacteurs protidiques.",
+    "Lupus anticoagulant (LA) ou Anticoagulant circulant (AC) = reconnaissent des PL liés à des facteurs protidiques (+ de risque) La recherche d’anticoagulant circulant est un test de coagulation avec le sérum du patient et différentes conditions riches en phospholipides : Le test donne une coagulation anormale (allongement du TCA) en présence d’AC et qu’on arrive à la corriger en enrichissant en phospholipides (= ce qui veut dire qu’il y a des anti phospholipides)",
+    "Anti-cardiolipine : reconnaissent le complexe cardiolipine/ β2GP1",
+    "Anti-β2GP1 : reconnaissent les facteurs protéiques directement."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-conclusion",
+   "text": "3. Conclusion"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le LES est une maladie rare, auto-immune dite systémique et chronique qui évolue par poussées",
+    "Le Les a une physiopathologie complexe, multifactorielles et partiellement comprise, qui associe facteurs génétiques (complément ++, nucléases), environnementaux (UVs ++, médicaments, pathogènes) et hormonaux (œstrogènes)",
+    "Le défaut d’élimination des complexes immuns et des corps apoptotiques semble être un mécanisme important du LES"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Tous les acteurs du système immunitaire semblent impliqués, avec en particulier une activation lymphocytaire B/TH2",
+    "Le SAPL est une maladie auto-immune systémique, primitive ou secondaire, dont les auto-anticorps ciblent les composants de la paroi vasculaire (B2GP1++, cardiolipine) ce qui favorise la survenue de thromboses"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Quizz :"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-le-lupus-est-une-maladie-auto-immune-specifique-d-organe",
+   "text": "1. Le lupus est une maladie auto-immune spécifique d’organe"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-les-anticorps-anti-adnn-sont-systematiquement-retrouves-da",
+   "text": "2. Les anticorps anti-ADNn sont systématiquement retrouvés dans le LES"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-les-anticorps-anti-sm-sont-les-specifiques-du-les",
+   "text": "3. Les anticorps anti-Sm sont les + spécifiques du LES"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-la-physiopathogenie-est-liee-a-un-defaut-d-apoptose-des-co",
+   "text": "4. La physiopathogénie est liée à un défaut d’apoptose des corps apoptotiques"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-cette-maladie-est-caracterisee-par-une-production-importan",
+   "text": "5. Cette maladie est caractérisée par une production importante d’IL10"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "6-la-beta2-glycoproteine-1-est-normalement-sous-forme-circul",
+   "text": "6. La beta2 glycoprotéine 1 est normalement sous forme circulante"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponses : 1.Le lupus est une maladie auto-immune spécifique d’organe FAUX c’est une connectivité où plusieurs organes peuvent être impliqués"
+  },
+  {
+   "type": "paragraph",
+   "text": "2.Les anticorps anti-ADNn sont systématiquement retrouvés dans le LES FAUX « fréquemment » retrouvés"
+  },
+  {
+   "type": "paragraph",
+   "text": "3-Les anticorps anti-Sm sont les + spécifiques du LES VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "4-La physiopathogénie est liée à un défaut d’apoptose des corps apoptotiques VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "5Cette maladie est caractérisée par une production importante d’IL10 FAUX IL10 est une cytokine anti-inflammatoire"
+  },
+  {
+   "type": "paragraph",
+   "text": "6-La beta2 glycoprotéine 1 est normalement sous forme circulante VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM :"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 1 : Cochez les réponses vraies : A. Quatre critères dans la classification du LES sont nécessaire pour diagnostiquer la maladie B. Le lupus ne peut pas toucher les enfants C. Les rash lupiques apparaissent en période de crises et ne disparaissent plus par la suite D. Il n’existe pas de forme monogénique du lupus E. Toutes les propositions précédentes sont fausses"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 2 : Cochez les réponses vraies : A. Dans le syndrome d’Aicardi-Goutières, la mutation d’une exonucléase entraine l’accumulation d’ADN et une stimulation du système immunitaire adaptatif qui produit une grande quantité d’IFNalpha B. Un déficit dans les protéines du système du complément peut entrainer une diminution de la clairance des complexes immuns, notamment les déficits en C1q, C4b et C3b C. Il existe des micro-organismes impliqués dans les poussés de Lupus D. Les UV peuvent entrainer une lyse cellulaire des kératinocytes et ainsi libérer des Ag qui seront à l’origine d’une réponse immune E. Les métabolites oxydés des médicaments peuvent entrainer une lyse cellulaire avec une libération des Ag qui peuvent être à l’origine d’une diminution de la tolérance périphérique"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "reponse-1-e-reponse-2-bcde",
+   "text": "REPONSE 1 : E REPONSE 2 : BCDE"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : Ce sont des critères de CLASSIFICAITON et non de diagnostic B : Il existe de rares cas de lupus pédiatriques C : Les rash apparaissent en période de crise puis disparaissent D : Il existe de rares cas de forme monogénique du lupus, mais la majorité est polygénique"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : Elle entraine une stimulation du système immunitaire innée"
+  },
+  {
+   "type": "paragraph",
+   "text": "ACC :"
+  },
+  {
+   "type": "paragraph",
+   "text": "2024 et 2023 :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-18",
+   "text": "QUESTION N° 18 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Quelles est (sont) la (ou les) proposition(s) exactes concernant les facteurs impliqués dans la physiopathologie du LES (Lupus Erythémateux Systémique) ? A. Il n’y a pas de facteur génétique impliqué dans la physiopathologie B. B. On peut observer des déficits du complément dans cette pathologie (notamment déficit en C1q, C2...) C. C. La physiopathologie s’explique par une accumulation de corps apoptotiques non dégradés à l’origine d’une rupture de tolérance D. D. Les complexes immuns circulants s’accumulent dans les tissus et notamment dans le rein E. On observe une diminution de l’interféron alpha dans cette pathologie"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-faux",
+   "text": "A : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "C : VRAI, mais pas que"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-vrai",
+   "text": "D : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "E : FAUX, augmentation très importante"
+  },
+  {
+   "type": "paragraph",
+   "text": "2022 :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-12",
+   "text": "QUESTION N° 12 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Quelles est (sont) la (ou les) proposition(s) exactes concernant les facteurs impliqués dans la physiopathologie du LES (Lupus Erythémateux Systémique) ? A. Le LES peut être associé à des facteurs génétiques B. Le LES n’est jamais associé à des déficits du complément C. La physiopathologie s’explique par une accumulation de corps apoptotiques non dégradés à l’origine d’une rupture de tolérance D. Les complexes immuns circulants s’accumulent dans le rein et occasionnent des lésions E. Le LES fait partie des Interferonopathies"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : A. VRAI B : Faux : déficit en la voie classique"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-vrai-2",
+   "text": "D : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "e-vrai",
+   "text": "E : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "2019 : 9 – Parmi les auto-anticorps suivants, lequel est aujourd’hui le plus spécifique du lupus ? A. A-facteur rhumatoïde de type IgM B. B-anticorps anti-ADN natif C. C-anticorps anti-cytoplasme des polynucléaires (ANCA) D. D-anticorps anti-transglutaminase IgG ou IgA E. E-anticorps anti-CCP (ou ACPA) Correction : B : VRAI"
+  }
+ ]
+}

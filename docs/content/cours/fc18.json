@@ -1,0 +1,814 @@
+{
+ "slug": "fc18",
+ "code": "FC18",
+ "title": "Introduction à l’étude des DIH",
+ "prof": "Pr. Stephan",
+ "sourceFile": "FC18-STEPHAN-Introduction à l’étude des DIH-25-02(3).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "i-le-systeme-immunitaire-un-equilibre",
+   "label": "I. Le système immunitaire : un équilibre",
+   "level": 2
+  },
+  {
+   "id": "1-quand-suspecter-une-anomalie-constitutionnelle-de-l-immuni",
+   "label": "1. Quand suspecter une anomalie constitutionnelle de l’immunité ?",
+   "level": 3
+  },
+  {
+   "id": "ii-quelques-rappels-sur-la-reponse-immunitaire",
+   "label": "II. Quelques rappels sur la réponse immunitaire",
+   "level": 2
+  },
+  {
+   "id": "1-l-immunite-innee",
+   "label": "1. L’immunité innée",
+   "level": 3
+  },
+  {
+   "id": "2-immunite-adaptative-a-mediation-cellulaire",
+   "label": "2. Immunité adaptative (à médiation cellulaire)",
+   "level": 3
+  },
+  {
+   "id": "iii-comment-affirmer-simplement-l-existence-d-un-dip",
+   "label": "III. Comment affirmer simplement l’existence d’un DIP ?",
+   "level": 2
+  },
+  {
+   "id": "iv-cas-cliniques",
+   "label": "IV. Cas cliniques",
+   "level": 2
+  },
+  {
+   "id": "pas-amygdale",
+   "label": "PAS AMYGDALE",
+   "level": 2
+  },
+  {
+   "id": "v-conduite-a-tenir-devant-un-dih",
+   "label": "V. Conduite à tenir devant un DIH",
+   "level": 2
+  },
+  {
+   "id": "vi-l-immunophenotypage",
+   "label": "VI. L’immunophénotypage",
+   "level": 2
+  },
+  {
+   "id": "1-etude-des-sous-populations-lymphocytaires-quantitatif",
+   "label": "1. Etude des sous-populations lymphocytaires (quantitatif)",
+   "level": 3
+  },
+  {
+   "id": "2-cytometrie-en-flux-utilise-qualitativement",
+   "label": "2. Cytométrie en flux utilisé qualitativement",
+   "level": 3
+  },
+  {
+   "id": "vii-scid-deficit-immunitaire-combine-severe",
+   "label": "VII. SCID : Déficit immunitaire combiné sévère",
+   "level": 2
+  },
+  {
+   "id": "viii-generalite-des-deficits-immunitaires-di",
+   "label": "VIII. Généralité des déficits immunitaires (DI)",
+   "level": 2
+  },
+  {
+   "id": "ix-les-deficits-immunitaires-communs-variables-de-l-adulte",
+   "label": "IX. Les déficits immunitaires communs variables de l’adulte",
+   "level": 2
+  },
+  {
+   "id": "x-les-dip-syndromiques",
+   "label": "X. Les DIP « syndromiques »",
+   "level": 2
+  },
+  {
+   "id": "3-rappels-sur-la-phagocytose",
+   "label": "3. Rappels sur la phagocytose",
+   "level": 3
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. STEPHAN Immunopathologie SACCONE Mathis Introduction à l’étude des DIH"
+  },
+  {
+   "type": "paragraph",
+   "text": "Objectifs :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Situations qui doivent faire penser à une erreur innée du SI",
+    "Quelques éléments d'immunologie pour 'sauver les meubles'",
+    "Les examens simples",
+    "Les examens moins simples... pour le diagnostic",
+    "Évoquer une maladie de Bruton devant une gammaglobulinémie",
+    "Reconnaître un déficit T",
+    "Les principes de la prise en charge",
+    "DIH = déficit immunitaire héréditaire"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-le-systeme-immunitaire-un-equilibre",
+   "text": "I. Le système immunitaire : un équilibre"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le Système immunitaire est un équilibre entre la tolérance vis-à-vis du soi et une réponse immunitaire efficace contre les Antigènes (Ag) du pathogène par les anticorps. Dans certains cas, la prédisposition génétique crée une réelle déficience du système immunitaire, on parle de maladies mendéliennes qui rendent vulnérable les personnes aux maladies infectieuses. C’est un système conservé par les espèces durant l’évolution car il joue un rôle fondamental pour la lutte contre des pathogènes dans un environnement hostile (grippe, parasites…). Il y a un paradoxe entre :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Lutter contre l’intrusion des pathogènes",
+    "La tolérance des Ags du soi."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Cet équilibre subtil peut être rompu."
+  },
+  {
+   "type": "paragraph",
+   "text": "On distingue 2 groupes de pathologies :"
+  },
+  {
+   "type": "paragraph",
+   "text": "\"Too little\" = déficit immunitaire primitifs (DIP) : Susceptibilité aux infections accrue : Il faut repérer ces patients pour leur proposer une thérapie curatrice. Il y en a de deux types :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Déficit immunitaire héréditaire (DIH) qui affecte des gènes spécifiques et qui se manifeste très tôt dans la vie du patient",
+    "Déficit acquis (ex : immunosuppresseur, corticoïdes, chimiothérapie)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "\"Too much\" : fonctionne de manière exacerbée"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Allergies : Réaction déclenchée par facteurs exogènes de l’environnement (BPCO)",
+    "Maladies auto-immunes : Réaction dirigée contre des constituants normaux de l’organisme, rupture de tolérance, (auto-antigènes) (diabète de type 1, SEP, lupus, polyarthrite rhumatoïde… SYSTÈME IMMUNITAIRE ADAPTATIF",
+    "Auto-inflammation : Situation pathologique, les cellules du système immunitaire innée sont actives en continu. SYSTÈME IMMUNITAIRE INNÉ",
+    "Réaction inopportune, dérégulée : Maladie périodique ou fièvre méditerranéenne familiale"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Il y a aussi la susceptibilité de développer des cancers : tumeurs familiales, lymphomes, leucémies qui peuvent avoir un caractère familial."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il s’agit donc de différencier :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les déficits immunitaires acquis (lors d’un traitement en chimiothérapie par ex.),",
+    "Les déficits immunitaires primitifs congénitaux constitutionnels, erreurs innées du SI qui se transmettent selon les lois mendéliennes. Ces maladies peuvent servir de modèles d’étude."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "En France, environ 400 enfants/an naissent chaque année avec un DIP (Déficit Immunitaire Primitif) et 7000/8000 personnes vivent avec. Il existe un registre de ces pathologies. Ces maladies sont des modèles d’étude utiles pour comprendre le système immunitaire en condition naturelle : son développement, sa fonction, sa régulation, la physiopathologie, la génétique impliquée. Plus de 460 gènes responsables et 430 maladies ont été recensées grâce à la génétique moléculaire. Le nombre de ces maladies est en constante augmentation ces dernières années grâce aux méthodes de séquençage plus efficace. Faire le diagnostic est utile pour établir un conseil génétique, thérapeutique ou un diagnostic anténatal (pouvoir proposer une IMG si besoin et prévoir les soins si naissance). Poser le bon diagnostic est très important car il s’agit d’une urgence thérapeutique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce sont des maladies corrigeables, par thérapie génique, antibiothérapie et transplantation de CSH."
+  },
+  {
+   "type": "paragraph",
+   "text": "Déficit immunitaire mendélien : par exemple lié à l’X dans l’hémophilie Déficit immunitaire Oligo génique : transmission plus irrégulière, sommation de mutation dans 2-3 gènes qui entrainent une anomalie de développement ou de fonction."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-quand-suspecter-une-anomalie-constitutionnelle-de-l-immuni",
+   "text": "1. Quand suspecter une anomalie constitutionnelle de l’immunité ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est-à-dire des perturbations générales du système immunitaire."
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Les situations qui doivent faire évoquer un déficit immunitaire primitif (DIP) chez l’enfant :"
+  },
+  {
+   "type": "paragraph",
+   "text": "13 signes à connaitre :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Plus de 8 otites par an",
+    "Plus de 2 sinusites par an",
+    "Plus de 2 mois de traitement antibiotique par an",
+    "Plus de 3 pneumonies",
+    "Ralentissement de la croissance",
+    "Des épisodes de fortes fièvres",
+    "Mycose cutanée ou muqueuse ; Chronique ou récidivante",
+    "Nécessité d’un traitement antibiotique en IV",
+    "2 infections sévère dans l’année",
+    "Cas d’immunodéficience dans la famille",
+    "Cytopénie auto-immune",
+    "Lymphomes dans la petite enfance ou cancer familiaux",
+    "Allergies alimentaires sévères"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les Ly T permettent la surveillance et lutte contre la prolifération des cellules néoplasiques. En cas de déficit immunitaire, on enlève la surveillance et ainsi on ne corrige pas les erreurs."
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Quand suspecter une anomalie constitutionnelle de l'immunité à l’âge adulte ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "Âge adulte car :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hérité d’une mutation « hypomorphe » : mutation atténuée qui n'entraîne pas l’absence de la protéine considérée mais juste la diminution de son expression (sinon ça aurait été une mutation nulle ou amorphe) = conséquences phénotypiques diminuées donc ils arrivent à l’âge adulte avec un déficit immunitaire pédiatrique (accumulation)",
+    "Déficit immunitaire commun variable : sac très hétérogène avec maladies de l’adulte toutes caractérisées par la même chose, un déficit de la production d’immunoglobuline alors que les LB sont présents = déficit essentiellement humoral"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Quelques précisions :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Très polymorphe",
+    "Toujours rechercher des cas familiaux",
+    "Infections à répétition comme chez l’enfant."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les DIP ne surviennent pas seulement chez l’enfant. Certains adultes voient leur système immunitaire se détériorer, révélant ainsi une maladie du système immunitaire."
+  },
+  {
+   "type": "paragraph",
+   "text": "En résumé : Le diagnostic précoce d’un DIH est important à réaliser car il permet l’instauration d’un traitement adapté et une réduction des complications infectieuses, des atteintes d’organe et du risque de décès. L’exploration doit être hiérarchisée."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-quelques-rappels-sur-la-reponse-immunitaire",
+   "text": "II. Quelques rappels sur la réponse immunitaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les conséquences sont différentes en fonction de si ça touche l’immunité innée ou adaptative (+ grave)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-l-immunite-innee",
+   "text": "1. L’immunité innée"
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est une reconnaissance large qui prépare le terrain pour l’immunité adaptative. L’immunité innée repose sur des mécanismes très conservés dans toutes les espèces. C’est une réponse de première ligne, basée sur la phagocytose par les PN et les Monocytes/macrophages. C’est une réponse rapide et non spécifique."
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Les polynucléaires et phagocytes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils participent à la phagocytose dans l’immunité innée et préparent l’immunité adaptative par présentation d’Ag. Ces cellules quittent le compartiment vasculaire et rejoignent le site infectieux pour mettre en place une réaction immunitaire immédiate. Libération de molécules microbiennes qui attirent et permettent l’afflux d’autres cellules : auto-amplification"
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Les protéines du complément"
+  },
+  {
+   "type": "paragraph",
+   "text": "Canal qui va perforer la membrane bactérienne grâce à des canaux MAC. Le système du complément repose sur une cascade protéolytique qui aboutit à la formation d'un complexe d'attaque membranaire par polymérisation du C9. Ce dernier va perforer la cellule infectée exprimant l'Ag à sa surface, et cela permet la destruction des bactéries également. Les protéines du complément sont des protéases : elles ont une action enzymatique. C’est pourquoi l’activation inopportune peut être très grave. Très utiles pour perforer les capsules protéiques."
+  },
+  {
+   "type": "paragraph",
+   "text": "On distingue 4 rôles principaux pour le complément :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cytolyse via le complexe d’attaque membranaire (lyse osmotique directe)",
+    "Phagocytose par opsonisation : les opsonines C3b et C4b se fixent sur les microorganismes ou les cellules étrangères. Elles favorisent la phagocytose.",
+    "Rôle dans l’inflammation : activité anaphylatoxique de C3a, C4a et C5a (fixation à la surface des mastocytes, basophiles et plaquettes pour initier la réponse inflammatoire). Une anaphylatoxine est un produit d'activation des protéines du complément pouvant provoquer ou amplifier les processus inflammatoires. Recrutement de nouvelles cellules via le chimiotactisme.",
+    "Transport et élimination de complexes immuns. Clairance des complexes immuns circulants."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-immunite-adaptative-a-mediation-cellulaire",
+   "text": "2. Immunité adaptative (à médiation cellulaire)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce type d’immunité est réalisée par les lymphocytes B et T possédants des récepteurs clonotypiques capables de reconnaître spécifiquement un Ag. Cette réponse met quelques jours à se mettre en place."
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Les Lymphocytes B"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils sécrètent les anticorps et sont utiles dans l’immunité humorale. La rate contient les LB faisant partie de l’immunité innée, capables de répondre sans contact préalable avec Ac reconnaissant les polysaccharides des pneumocoques. Cela permet la neutralisation, phagocytose et activation du complément."
+  },
+  {
+   "type": "paragraph",
+   "text": "Fonctions des Ac +++ :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Neutralisation des virus en les empêchant de pénétrer dans la cellule cible",
+    "Opsonisation",
+    "Immuno -surveillance : circulation pour détecter la survenue de cancer",
+    "ADCC avec la cellule NK (cytotoxicité dépendant des Ac)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "La vaccination = Ac thérapeutique (ex : patient très immunodéprimé qui attrape le covid : perfusion d’Ac neutralisant)"
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Les Lymphocytes T (déficit est le plus grave)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "lymphocyte CD4 (helper) : intermédiaires de la réponse immunitaire, activent d’autres cellules qui agiront de manière plus directe sur l’immunité (via la synthèse des cytokines ou interleukine). Les cytokines vont activer l’immunité innée. Ils permettent également la commutation de classe IgM à IgG (un lymphocyte B n’est pas capable de le faire seul = T-Dépendant.) Sont responsables de la synthèse de cytokines permettant l’activation des macrophages, l’inflammation, activation et la prolifération des lymphocytes T et B. La phagocytose est aussi renforcée par l’action du CD4. DONC si on a un déficit en CD4, la commutation de classe et la phagocytose sont réduites (ex : VIH). Il apparaît un déficit immunitaire humoral et le risque d’infections bactériennes est alors augmenté."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "lymphocyte CD8 (cytotoxique) : Utile notamment pour la défense antivirale, il détruit les cellules infectées en libérant des granzymes et perforines. S’il y a un déficit en CD8 le risque d’infections virales est augmenté."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "lymphocyte régulateur : Il a une action inhibitrice sur la cytotoxicité des lymphocytes T. Il a un rôle important dans la rupture de la réponse inflammatoire. Quand le pathogène est détruit, la réponse immunitaire doit s’arrêter. Il vient aussi du thymus. S’il y a un déficit de ces lymphocytes, l’immunité ne sera pas régulée et on aura des maladies immunitaire (ex : maladie de Crohn). Cela entraîne un excès de l’auto-inflammation, auto-immunité."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-comment-affirmer-simplement-l-existence-d-un-dip",
+   "text": "III. Comment affirmer simplement l’existence d’un DIP ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les examens à pratiquer en première intention en cas de déficit immunitaire :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "NFS : numération leucocytes, PN, lymphocytes, taille des plaquettes, anomalies morphologiques des GB. Si un enfant naît sans PN et fait une septicémie, on le voit à l’hémogramme. Toute lymphopénie persistante doit être explorée, même de découverte fortuite à l’hémogramme, plus particulièrement chez un nouveau-né (<3500/mm3) ou un nourrisson. Frottis possible pour morphologie des cellules.",
+    "Dosage IgG, IgA, IgM pour évaluer la réponse humorale de manière indirecte. Il n’y a que les IgG qui passe la barrière placentaire (protégé jusqu’à 3-6 mois). Les IgM de la mère ne passent pas cette barrière. S’ils sont présents, c’est qu’il y a une infection chez le nouveau-né. Il existe une fenêtre d’opportunité (liée à l’immaturité immunitaire) pour des infections banales. On ne parle pas de déficit immunitaire avant 2 ans.",
+    "Dosage des anticorps vaccinaux : pour évaluer si la réponse immunitaire est correcte après la vaccination. Interprétation difficile dans les premiers mois de vie car persistance des Ac maternels. On effectue donc le titrage des Ac vaccinaux après 6 mois. On dose ces Ac pour vérifier qu’on a augmenté le nombre d’Ac (preuve que tout fonctionne bien pour les LB et LT dans la réponse adaptative). Mais pas synonyme qu’il n’y ait pas de déficit immunitaire, seulement un argument.",
+    "Sérologie après une infection prouvée (ex : enfant qui a fait une varicelle doit avoir des Ac anti-varicelle).",
+    "Dosage des sous-classes d'IgG : 4 sous classes d’IgG qui dépendent de la partie constante. Certains patients ont un déficit en sous classes avec un taux d’IgG normal",
+    "Imagerie : chez le nourrisson le thymus est expansif et travaille beaucoup Rx thoracique : Thymus avec déficit T : pas d’ombre thymique (thymus vestigial) mais meilleur à l’échographie +++"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-cas-cliniques",
+   "text": "IV. Cas cliniques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Cas clinique N°1 : Foyer pulmonaire à répétition sur Rx = bord G du cœur effacé donc foyer (alvéolite)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "pas-amygdale",
+   "text": "PAS AMYGDALE"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pas d’immunoglobuline : 5-6g/L à cet âge-là normalement ⮚ Déficit immunitaire : Agammaglobulinémie ⮚ Substitution mensuellement par des Ig polyvalentes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Immunité humorale : LB donc il faut vérifier CD3+ : permet la signalisation et marqueur T CD19+ : marqueur B"
+  },
+  {
+   "type": "paragraph",
+   "text": "Couper la cytométrie en 4 parties :"
+  },
+  {
+   "type": "paragraph",
+   "text": "(Explication plus clair de la lecture des cytométries avec les cas suivants)"
+  },
+  {
+   "type": "paragraph",
+   "text": "er nuage de points : ni T ni B ème nuage de points fluorescent : marqueur T (nombre satisfaisant) (3) Pas de LB (4) Pas possible d’avoir les 2 marqueurs en même temps"
+  },
+  {
+   "type": "paragraph",
+   "text": "Déficit immunitaire B (humoral pur)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Une protéine est importante pour la transition, or pas de protéine = pas de fabrication de LB mature. Maladie est longtemps compatible avec la vie, on peut substituer par des immunoglobulines obtenues à partir du don du sang de façon répété."
+  },
+  {
+   "type": "paragraph",
+   "text": "Cas clinique N°2 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Enfant né de parents apparentés (cousins germains). Vaccination par le BCG en période néonatale. Cassure de la courbe pondérale vers 3 mois. Il est admis à l’hôpital au 4 ème mois pour une pneumopathie interstitielle sévère avec détresse respiratoire."
+  },
+  {
+   "type": "paragraph",
+   "text": "Examens biologiques :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’examen du LBA montre différents germes : Pneumocystis Jiroveci, BCG, Klebsiella, Haemophilus Influenzae.",
+    "Leucocytes 7,2G/L",
+    "Hb 11,4g/dL,",
+    "Plaquettes 517 G/L",
+    "PNN 4,9G/L",
+    "Lymphocytes 0,5G/L : réduction très importante des Ly! 3000 au moins ! (chiffre à connaitre)",
+    "Monocytes 1,1G/L",
+    "Anticorps vaccinaux nuls (alors que vacciné DTP)",
+    "IgA négatif (pas révélateur car le nourrisson a encore un SI immature),",
+    "IgG non dosable car période ou IgG mère encore présents"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rx thoracique : opacités alvéolaire, distension pulmonaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "⮚ Greffe en catastrophe qui n’a pas marché ⮚ Vaccin vivant (car même souche retrouvée) = CI en cas d’immunodépression ⮚ Enfant en déficit cellulaire combiné T + B"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question : Devons-nous vérifier que l’enfant n’est pas immunodéprimé"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il faut faire une cytométrie en flux. On utilise un Ac fluorescent anti CD45 (reconnaît tous les leucocytes). On obtient un nuage de points qui montrent la présence de lymphocytes B (par marquage de CD19) et l’absence de points pour les lymphocytes T (par marquage de CD3) et les NK (par marquage de CD16)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Tableau de Gauche : en ordonnés le marqueur des LB. Dans le carré, on retrouve des lymphocytes B. En dessous du carré des LB, on distingue un groupe de cellule CD45+ mais CD19-"
+  },
+  {
+   "type": "paragraph",
+   "text": "Tableau de droite : en abscisses, est mis en évidence le marqueur T. en ordonnée est mis en évidence les marqueurs NK En bas à gauche 1 les c n’exprime ni NK ni T, dans les carré en haut à gauche 2 et en bas à droite 3 il n’y a rien, l’enfant n’a pas de Lymphocytes NK, ni de LT. ⮚ Déficit immunitaire TNK - B+ ⮚ Présence de LB MAIS synthèse des Ac promu par la fonction auxiliaire des LT, donc LB dysfonctionnel ⮚ Donc déficit combiné sévère SCID (DICS : version française)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rappel : CD3 est propre au LT CD19 est propre au LB"
+  },
+  {
+   "type": "paragraph",
+   "text": "En cas de déficit en immunoglobuline sévère (humoral) :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Traitement immuno -substitutif 1 fois par mois (Immunoglobuline grâce au don de plasma)",
+    "Alternative possible auto-injection 1 fois par semaine en sous cutané"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-conduite-a-tenir-devant-un-dih",
+   "text": "V. Conduite à tenir devant un DIH"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Signe d’alerte de DIH : Infections ORL et des voies respiratoires hautes et basses, toutes les infections sévères et invasives (sepsis, méningites) à bactéries encapsulées, infections cutanées et tissulaires à bactéries pyogènes, d’autres signes cliniques d’alerte (auto-immunité, syndrome lymphoprolifératif, eczéma, allergie…) ⮚ Réalisation de l’hémogramme, dosage des Ig ⮚ Si anomalie notamment au niveau du taux de lymphocytes = phénotypage lymphocytaire et test de prolifération"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vi-l-immunophenotypage",
+   "text": "VI. L’immunophénotypage"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-etude-des-sous-populations-lymphocytaires-quantitatif",
+   "text": "1. Etude des sous-populations lymphocytaires (quantitatif)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Important à comprendre : Les Points correspondent à des cellules immunofluorescences :"
+  },
+  {
+   "type": "paragraph",
+   "text": "On retrouve « 4 cases »: En bas à gauche (1) les cellules qui n’expriment ni B ni T (aucune fluorescence) En bas à droite (2) sont mis en valeur les cellules exprimant des marqueurs LT En haut à gauche (3) les cellules avec le marqueur LB En haut à droite (4) les cellules qui coexpriment les 2 marqueurs testé (il n’y en a pas dans ce cas-là)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Utilisation de la cytométrie de flux classique qui permet de quantifier les taux des LT, LB, cellules NK mais ce n’est pas un examen qualitatif, donc faire attention car parfois LB et LT présents mais non fonctionnels ."
+  },
+  {
+   "type": "paragraph",
+   "text": "La cytométrie en flux (CMF) est une technique permettant de faire défiler des cellules à analyser devant le faisceau d'un laser. C'est la lumière réémise (par diffusion ou fluorescence) qui permet de classer et compter la population cellulaire. La fluorescence est apportée à la cellule par un fluorochrome couplé à un anticorps permettant de reconnaître telle ou telle population de cellule dans l’échantillon biologique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les anticorps (Ac) utilisés sont des Ac monoclonaux dirigés contre les molécules de surfaces, couplés à des molécules immuno fluorescentes. Les cellules sont ainsi marquées. Elles passent dans un tube capillaire, et sont ensuite dénombrées par le cytomètre de flux. Plusieurs marquages simultanés sont possibles, avec plusieurs couleurs. La CMF permet la détection ou l'identification des sous populations lymphocytaires impliquées dans l'immunité."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-cytometrie-en-flux-utilise-qualitativement",
+   "text": "2. Cytométrie en flux utilisé qualitativement"
+  },
+  {
+   "type": "paragraph",
+   "text": "Chaque division provoque une baisse de la fluorescence précédente :"
+  },
+  {
+   "type": "paragraph",
+   "text": "⮚ Le pic en violet sur le diagramme représente les cellules qui ne sont pas capable de se diviser en présence d’un antigène dans le milieu OU les cellules qui ne se sont pas encore divisées"
+  },
+  {
+   "type": "paragraph",
+   "text": "⮚ Les petits pics verts (1-6) représentent les cellules qui, mises en présence de l’antigène, sont capables de le reconnaître, de s’activer et de proliférer. On obtient alors plusieurs cellules, ce qui crée une dilution de la fluorescence."
+  },
+  {
+   "type": "paragraph",
+   "text": "On est capable d’objectiver que 6 mitoses. Chaque pic, traduit la division des cellules. Toutefois il y a activation et prolifération seulement s’il y a une reconnaissance préalable, cette exploration a de sens que s’il a été infecté par l’Ag ou vacciné."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-scid-deficit-immunitaire-combine-severe",
+   "text": "VII. SCID : Déficit immunitaire combiné sévère"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il s’agit d’enfants présentant un déficit immunitaire récessif de type TB+ NK- (comme dans le cas clinique ci-dessus). Autrefois, ces enfants étaient en confinements stériles. Cette maladie nécessite une greffe de moelle, il ne faut surtout pas injecter à ces enfants des vaccins vivants atténués."
+  },
+  {
+   "type": "paragraph",
+   "text": "Signes : Lymphopénies <3000/mm3, absence de thymus, il s’est atrophié par absence de colonisation par les lymphocytes T, aucun lymphocytes T Plusieurs sortes de SCID dans laquelle on peut aussi avoir des anomalies de LB et NK"
+  },
+  {
+   "type": "paragraph",
+   "text": "Phénotype clinique : rashes, diarrhées, pneumopathies alvéolo-interstitielles, mauvaise croissance pondérale, BCGite (si injection du vaccin BCG vivant)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pour que les cellules travaillent, il leur faut une instruction : sont donner par des cytokines ⮚ IL7 : fixation sur son récepteur pour activer les LT ⮚ IL15 : fixation sur son récepteur pour activer les NK"
+  },
+  {
+   "type": "paragraph",
+   "text": "En 1993, on découvre que leurs récepteurs sont formés de 2 chaînes, dont une commune : chaîne gamma commune JAK3 Dans les SCID, on a donc cherché une mutation sur cette chaîne gamma, elle expliquerait l’absence de signalisation pour les LT et NK. En 2001, Alain Fischer transfère la version normale de la chaîne gamma C chez certains de ces « bébés bulles », cette infection des cellules de l’enfant permet la transcription de la version normale et donc la synthèse de NK et LT (principe du transfert de gènes)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Dépistage :Test de Guthrie pas avant fin 2024."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "viii-generalite-des-deficits-immunitaires-di",
+   "text": "VIII. Généralité des déficits immunitaires (DI)"
+  },
+  {
+   "type": "paragraph",
+   "text": "-Les déficits en LT sont les plus graves car ils provoquent aussi un déficit en B. La fonction cytotoxique étant très importante pour la lutte contre les virus → ↑ de la susceptibilité aux infections !!"
+  },
+  {
+   "type": "paragraph",
+   "text": "-Les déficits de l’immunité régulatrice : il existe des déficits en LT régulateurs (stop ou arrête la réponse immunitaire) on peut alors avoir des manifestations auto-immunes ou auto-inflammatoires par perte de la tolérance. A la naissance, on réalise systématiquement le test de Guthrie afin de dépister 5 maladies rares (phénylcétonurie, l’hypothyroïdie congénitale, l’hyperplasie congénitale des surrénales, la drépanocytose, la mucoviscidose). Prélèvement de quelques gouttes de sang au niveau du talon du nourrisson (cinq gouttes de sang pour détecter cinq maladies)."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ix-les-deficits-immunitaires-communs-variables-de-l-adulte",
+   "text": "IX. Les déficits immunitaires communs variables de l’adulte"
+  },
+  {
+   "type": "paragraph",
+   "text": "Parmi les DIH humoraux prédominants, le déficit immunitaire commun variable (DICV) est le plus fréquent avec une prévalence de 1 cas sur 30 000 et un âge de révélation plus tardif que les autres DIH, souvent au moment de l'adolescence ou chez le jeune adulte."
+  },
+  {
+   "type": "paragraph",
+   "text": "Le déficit immunitaire commun variable est défini par une hypogammaglobulinémie globale, avec des IgG < 5g/L, dans la moitié des cas un déficit en IgA complet associé, et un déficit profond en IgM dans 20% des cas. Ces patients ont généralement un nombre normal de lymphocytes B, qui possèdent cependant un défaut de sécrétion d’immunoglobulines en réponse à l’antigène car problème de coopération entre LT et LB. On retrouve également défaut de cellules B mémoires. Le défaut fonctionnel des cellules T est variable selon les patients, mais le plus souvent modeste."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces défauts humoraux sont la cause d’infections à répétition , bactérienne le plus souvent, et touchent principalement les voies aériennes supérieures et inférieures (sinusites, rhinopharyngites, otites, bronchites et pneumonies), plus rarement le tractus digestif (Giardia, Campylobacter, Salmonella). Dans le déficit immunitaire commun variable, un syndrome tumoral (hyperplasie ganglionnaire, splénomégalie) est présent dans 40% des cas, et une maladie auto-immune est diagnostiquée chez 20% des patients."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "x-les-dip-syndromiques",
+   "text": "X. Les DIP « syndromiques »"
+  },
+  {
+   "type": "paragraph",
+   "text": "Certaines mutations de gènes vont engendrer des choses plus complexes : DI + autre chose. On parle dans ce cas, de gêne pléiotropique (à plusieurs fonctions !) : donc le déficit immunitaire peut être caché derrière plusieurs autres symptôme plus visibles et qui paraissent plus important au premier abord (malformations par exemple)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il faut donc l’évoquer devant un diagnostic complexe (exemple : dans un tableau de malformations)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "La T21 : on a un DI, susceptibilité particulière aux infections (virale ++) , lymphopénie T…",
+    "Le syndrome de DiGeorge (aussi fréquent que la T21) : Ce syndrome est caractérisé par une micro-délétion interstitielle de 22q11 (petit morceau du bras long du chromosome 22 perdu) : entrainant ainsi des anomalies très"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "particulières : Aplasie/Hypoplasie du thymus, syndrome dysmorphique très discret (philtrum un peu long, bouche"
+  },
+  {
+   "type": "paragraph",
+   "text": "en gueule de four, nez épaté et bulbeux, oreilles bas implantées et larges…), cardiopathies congénitales, et agénésie des parathyroïdes. (Thymus, gros vaisseaux et parathyroïdes). Réduction quantitative des populations lymphocytaire."
+  },
+  {
+   "type": "paragraph",
+   "text": "XI. Quand le bilan immunitaire est-il normal ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "Lorsque le bilan immunitaire de base est normal, on évoque une anomalie de la fonction."
+  },
+  {
+   "type": "list",
+   "items": [
+    "S’orienter en fonction du phénotype clinique +++ : si l’infection est importante et atypique !",
+    "Notamment du type d’infection rencontrée",
+    "D’éventuels ATCD familiaux",
+    "Conseils auprès des équipes spécialisées… Exemple :",
+    "Enfant de 18 mois avec fièvre permanente avec présence d’un abcès hépatique à staphylocoque doré",
+    "Bilan immunitaire de base (Hémogramme, dosage des Ig, phénotype lymphocytaire…) NORMAL.",
+    "Lymphocytes non fonctionnels ? Pas possible puisqu’il y a des Ig.",
+    "De plus, quand on a une infection à Staph., les premiers à intervenir sont les cellules phagocytaires : donc on pense à une anomalie des phagocytes . Examen à réaliser : étude des fonctions phagocytaires"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "La mère a les 2 types de population (les cellules phagocytaires fonctionnelles et les non fonctionnelles). C’est une maladie liée à l’X ."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-rappels-sur-la-phagocytose",
+   "text": "3. Rappels sur la phagocytose"
+  },
+  {
+   "type": "paragraph",
+   "text": "La phagocytose se fait par les PN qui sécrètent des radicaux libres de l’ H2O2 ainsi que HClO qui détruisent l’agent pathogène . Quand la bactérie est emprisonnée → activation d’un complexe multimoléculaire → NADPH-oxydase = EZ qui utilise le NADPH → libère des protons qui passent dans le phagolysosome → active et donne des radicaux O2- (très toxique pour la bactérie, en se transformant en H2O2 et encore en HClO. Tous ces substrats sont donc synthétisés grâce à un transfert d’H+ pour aboutir à une explosion oxydative ! Donc forcément si perte de fonction d’une molécule constituant l’EZ → pas de radicaux bactéricides → la bactérie continue de survivre dans les cellules = granulomatose septique chronique."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diagnostic : ✔ Historiquement on faisait des réductions de nitroblue de tétrazolium (= molécule incolore) : en la faisant manger par des PN (phagocytose ; donc activation des PNN), ces derniers fabriquent des radicaux qui font changer la couleur du nitroblue (devient bleu) On mettait ainsi en évidence la fonction phagocytaire. → Ainsi chez des patients qui ont un problème de phagocytose : pas de changement de couleur. ✔ On peut aussi faire un DGC en cytométrie de flux : un substrat émet de la fluorescence en présence de radicaux libres (de la DHR : dihydro-rhodamine). Le patient ayant un déficit complet, n’arrive pas à transformer la DHR."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "NB : LES PERSONNES SANS MONOCYTES/MACROPHAGES N’EXISTENT PAS : FOETO-LETAL !!! (Il existe que des anomalies qualitatives pour les monocytes/macrophages)"
+  },
+  {
+   "type": "paragraph",
+   "text": "XII. Maladie de Bruton (pédiatrique rare)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Immunodéficience primitive liée à l’X caractérisée par :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Absence de lymphocytes B matures",
+    "Déficit profond en immunoglobulines",
+    "Infections répétées"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Cause : mutation du gène BTK (Bruton Tyrosine kinase), pas de signalisation, pas de différenciation/de survie."
+  },
+  {
+   "type": "paragraph",
+   "text": "Mise en place d’un traitement substitutif."
+  },
+  {
+   "type": "paragraph",
+   "text": "XIII. Leucémie lymphoïde chronique Lymphocyte B tumoraux proliférants"
+  },
+  {
+   "type": "paragraph",
+   "text": "Traitement :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "On peut utiliser des inhibiteur BTK car on va empêcher l’activation et la survie des lymphocyte B"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XIV. Dépistage"
+  },
+  {
+   "type": "paragraph",
+   "text": "Nouveau : depuis avril 2025, ces déficits immunitaires sont dépistés, car il faut agir précocement et ne pas attendre une infection grave. (dépistage néonatal de 14 maladies génétique à partir d’une prise de sang)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Passage rapide sur l’utilisation récente de la thérapie génique pour le traitement des DIH : Un prélèvement de cellules souches est réalisé chez le patient. Ces cellules sont ensuite mises en contact avec un virus vecteur contenant la séquence génétique codant pour la protéine manquante. Après modification, les cellules sont réinjectées au patient afin de permettre l’expression de cette protéine et ainsi corriger le déficit immunitaire héréditaire (DIH). Dans les situations grave le traitement le plus adapté reste la greffe de moelle osseuse ."
+  },
+  {
+   "type": "paragraph",
+   "text": "ACC :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 1 : Concernant les examens à pratiquer en première intention en cas de déficit immunitaire, cochez la/(les) bonne(s) réponse(s) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : On effectue le titrage des Ac vaccinaux après 3 mois B : Une NFS doit-être réalisé C : On peut effectuer une radio thoracique pour explorer le thymus bien que l’échographie soit meilleur ` D : Le dosage IgG, IgA, IgM permet d’évaluer la réponse humorale de manière directe E : On réalise une sérologie après une infection prouvée"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 2 : Quelle sont les signes alertent d’un DIP chez l’enfant, cochez la/(les) bonne(s) réponse(s) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : Plus de 2 sinusites par an B : La nécessité d’un traitement antibiotique par voie IM C : Ralentissement de croissance D : 1 pneumonie par an E : L’histoire familiale immunodéficience"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction QCM 1:"
+  },
+  {
+   "type": "paragraph",
+   "text": "A :FAUX, On effectue le titrage des Ac vaccinaux après 6 mois B :VRAI C :VRAI D :FAUX, Le dosage IgG, IgA, IgM permet d’évaluer la réponse humorale de manière indirecte E :VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction QCM 2:"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : Vrai B : Faux, La nécessité d’un traitement antibiotique par voie IV C : Vrai D : Faux, 2 pneumonies par an E :Vrai"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question rédactionnelle 2024 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Décrire la stratégie de diagnostic immunologique des DIH congénitaux (2 points)"
+  },
+  {
+   "type": "paragraph",
+   "text": "-NFS pour regarder les anomalies quantitatives"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dosage IgG, A et M à faire également en post vaccinales et post infectieux avec la sérologie",
+    "si anomalie phénotypage lymphocytaire/test de prolifération/cytométrie en flux"
+   ]
+  }
+ ]
+}

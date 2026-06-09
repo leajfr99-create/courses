@@ -1,0 +1,509 @@
+{
+ "slug": "fc17",
+ "code": "FC17",
+ "title": "Anticorps thérapeutiques et protéines de fusion : cibles et mécanismes d’action",
+ "prof": "Dr. Waeckel",
+ "sourceFile": "FC17-WAECKEL-Anticorps-therapeutiques-et-proteines-de-fusion-cibles-et-mecanismes-dactions-01-03.docx(1).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "i-rappels-et-generalites",
+   "label": "I. Rappels et généralités",
+   "level": 2
+  },
+  {
+   "id": "1-structure-d-une-immunoglobuline",
+   "label": "1. Structure d’une immunoglobuline",
+   "level": 3
+  },
+  {
+   "id": "2-historique-a-annees-1890",
+   "label": "2. Historique a. Années 1890",
+   "level": 3
+  },
+  {
+   "id": "ii-immunogenicite-des-anticorps-therapeutiques",
+   "label": "II. Immunogénicité des anticorps thérapeutiques",
+   "level": 2
+  },
+  {
+   "id": "2-allotypie",
+   "label": "2. Allotypie",
+   "level": 3
+  },
+  {
+   "id": "iii-les-anticorps-monoclonaux-recombinants",
+   "label": "III. Les anticorps monoclonaux recombinants",
+   "level": 2
+  },
+  {
+   "id": "iv-pharmacocinetique-pharmacodynamique",
+   "label": "IV. Pharmacocinétique - Pharmacodynamique",
+   "level": 2
+  },
+  {
+   "id": "v-principaux-mecanismes-d-action-des-ac-therapeutiques-et-pr",
+   "label": "V. Principaux mécanismes d’action des Ac thérapeutiques et protéines de fusion",
+   "level": 2
+  },
+  {
+   "id": "3-mecanisme-antagoniste",
+   "label": "3. Mécanisme antagoniste",
+   "level": 3
+  },
+  {
+   "id": "4-mecanisme-d-action-des-anticorps-therapeutiques-cas-partic",
+   "label": "4. Mécanisme d’action des anticorps thérapeutiques : cas particuliers",
+   "level": 3
+  },
+  {
+   "id": "5-tolerance-des-anticorps-monoclonaux-et-proteines-de-fusion",
+   "label": "5. Tolérance des anticorps monoclonaux et protéines de fusion à portion Fc",
+   "level": 3
+  },
+  {
+   "id": "vii-biomedicaments-biotherapies",
+   "label": "VII. Biomédicaments/Biothérapies",
+   "level": 2
+  },
+  {
+   "id": "1-les-biosimilaires-commercialises-en-france",
+   "label": "1. Les biosimilaires commercialisés en France",
+   "level": 3
+  },
+  {
+   "id": "2-etude-comparant-biomedicament-de-reference-et-biosimilaire",
+   "label": "2. Étude comparant biomédicament de référence et biosimilaire",
+   "level": 3
+  },
+  {
+   "id": "viii-conclusion",
+   "label": "VIII. Conclusion (+++) :",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Anticorps thérapeutiques et protéines de fusion : cibles et mécanismes d’actions"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-rappels-et-generalites",
+   "text": "I. Rappels et généralités"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-structure-d-une-immunoglobuline",
+   "text": "1. Structure d’une immunoglobuline"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les anticorps sont des immunoglobulines. Un antigène est une molécule souvent étrangère à l’organisme, portant des épitopes de structure particulière et de petite taille. Il est reconnu par les sites de liaisons des Ac et il comporte différentes valences en fonction du nombre d'épitopes."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Un anticorps est une glycoprotéine avec structure de base en forme de Y, formée de deux chaînes lourdes et deux chaînes légères, comportant :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Des paratopes : ce sont les régions CDR (Complementarity Determining Regions) des chaînes lourdes et légères. Ils sont spécifiques d’un Ag, et variables d’un Ac à l’autre."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Une région Fc constante : elle porte les fonctions effectrices comme le recrutement du complément et le recrutement des phagocytes et des cellules cytotoxiques."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Une région Fab : elle sert à la reconnaissance de l’antigène."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Chez l’Homme, on retrouve 5 classes (ou isotypes) d’immunoglobulines : G, A, M, E et D. Au sein de ces classes, on retrouve également des sous-classes (IgG1, G2, G3, G4, IgA1 et A2…). Les IgG sont majoritairement utilisés en thérapeutique."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "La réaction Ag/Ac est une interaction entre l’épitope et le paratope. Ils doivent avoir une bonne complémentarité stérique (un maximum d’atomes en contact) pour que se forment les liaisons. Chaque paratope est spécifique d’un épitope."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-historique-a-annees-1890",
+   "text": "2. Historique a. Années 1890"
+  },
+  {
+   "type": "paragraph",
+   "text": "La sérothérapie consiste à injecter du sérum d’animaux comme le lapin, le cheval, immunisés contre un agent pathogène (Ex : diphtérie, tétanos, peste, méningocoque, …). Mais cette technique posait des problèmes notamment de tolérance et son efficacité était assez variable."
+  },
+  {
+   "type": "paragraph",
+   "text": "Par la suite, est apparue l’utilisation d’immunoglobulines polyclonales animales purifiées après immunisation de l’animal en question. Cette technique est encore utilisée aujourd’hui : les anti-venins de vipère sont constitués d’immunoglobulines équines."
+  },
+  {
+   "type": "paragraph",
+   "text": "1/14"
+  },
+  {
+   "type": "paragraph",
+   "text": "On s’est ensuite mis à utiliser des immunoglobulines polyclonales humaines purifiées après immunisation d’un humain pour une meilleure tolérance. Cette technique est encore utilisée pour le VHB, la rage, le tétanos. b. A partir de 1975 En 1975, les premiers anticorps monoclonaux murins sont produits grâce à la technologie des hybridomes. Un hybridome est créé à partir d’un lymphocyte B prélevé dans la rate d’une souris immunisée contre la maladie que l’on"
+  },
+  {
+   "type": "paragraph",
+   "text": "souhaite traiter. Ce lymphocyte B est fusionné avec une cellule de myélome, ce qui lui confère une immortalité, en plus de la production de l’anticorps spécifique du LB. Le clone voulu est sélectionné et mis en culture : on obtient ainsi une production d’Ac monoclonal. Un hybridome est donc une cellule produisant une grande quantité d’Ac monoclonaux. Cette technologie fut récompensée d’un prix Nobel de Médecine en 1984 car elle a révolutionné la prise en charge."
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Différence entre sérum polyclonal et anticorps monoclonal Un anticorps polyclonal reconnaît plusieurs épitopes. Un anticorps monoclonal est spécifique d’un épitope, c’est une population homogène d’anticorps issus d’un seul et unique clone de LB. A contrario, le sérum polyclonal lui reconnaît plusieurs épitopes. Les avantages des anticorps monoclonaux par rapport à un sérum polyclonal sont la plus grande affinité, la plus grande spécificité (moins d’effets indésirables), une production plus massive et constante (car peut être industrialisé)."
+  },
+  {
+   "type": "paragraph",
+   "text": "En 1986, le premier anticorps monoclonal thérapeutique sort, c’est le muromonab-CD3 (Orthoclone OKT3®) qui cible les CD3 présents sur les lymphocytes T. Il est indiqué dans la prévention du rejet de greffe. C’est un semi-échec car il est peu efficace, il a une faible demi-vie et est très immunogène."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-immunogenicite-des-anticorps-therapeutiques",
+   "text": "II. Immunogénicité des anticorps thérapeutiques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Après injection, les anticorps sont reconnus +/- fortement par le système immunitaire du patient. Immunogénicité = capacité à induire une réponse immunitaire → les déterminants de l’immunogénicité des anticorps sont: l’isotypie, l’allotypie et l’idiotypie 1. Isotypie Elle est déterminée par les régions constantes des chaînes lourdes. C’est le caractère commun à l’ensemble des individus d’une espèce. Il existe 5 isotypes chez l’Homme: G,A,M,E,D. 2/14"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les anticorps anti-isotypes sont responsables de l’échec des anticorps monoclonaux murins → HAMA = Human anti-mouse antibodies. Tous les Ac possèdent une immunogénicité et peuvent donc induire une réaction du patient."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-allotypie",
+   "text": "2. Allotypie"
+  },
+  {
+   "type": "paragraph",
+   "text": "Variation phénotypique (quelques acides aminés) à l’intérieur d’une même espèce (=intra-espèce). Un allotype donné est présent au sein d’un sous-groupe d’individus de la même espèce. Elle est déterminée par les régions constantes des chaînes lourdes et légères."
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Idiotypie Variation phénotypique de la région variable permettant la reconnaissance spécifique d’un antigène. Toute immunoglobuline possède un idiotype propre à la cellule B dont elle est issue. Petites variations pouvant être immunogènes."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-les-anticorps-monoclonaux-recombinants",
+   "text": "III. Les anticorps monoclonaux recombinants"
+  },
+  {
+   "type": "paragraph",
+   "text": "L’utilisation d’Ac produits chez la souris amène à la fabrication d’Ac humain anti-souris (HAMA) en réponse à leur introduction chez l’Homme. Cette forte immunogénicité conduit à une baisse de l’efficacité de ces Ac (clairance fortement augmentée) et a des effets indésirables (maladies sériques). Les anticorps monoclonaux recombinants sont faits par génie génétique. Le principe est de prendre un gène d’intérêt qui code pour la protéine que l’on veut, ici les anticorps monoclonaux, de le mettre dans un vecteur d’expression : le plasmide. On fait donc un vecteur recombinant que l’on va mettre dans une cellule hôte, par exemple animale, bactérie, insecte… et qui va servir de bio usine. Cette cellule va reconnaître le gène, le transcrire en ARN, le traduire en protéine et faire l’anticorps monoclonal."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Il y a donc une nécessité de trouver des stratégies pour diminuer cette immunogénicité, d’où le développement d’Ac:",
+    "Chimériques (domaines variables murins (souris) + domaines constants humains), o Humanisés (Région hypervariable CDR de souris + tout le reste de l’Ac est humain). o Entièrement humanisé / humain (mais qui conserve quand même une séquence d’AA étrangère pour l’organisme : l’idiotype).",
+    "Mais les Ac humanisés et humains exposent tout de même à la formation d’Ac anti-humain."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Terminologie des médicaments formulés à base de ces Ac : - Ac murins : -momab, - Ac chimériques : -ximab, - Ac humanisés : -zumab, - Ac humains : -mumab. (les plus utilisés actuellement) 3/14"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Grâce à la structure, on augmente fortement la possibilité d’administrer ces Ac et on réduit les problèmes d’antigénicité des Ac (ceux des souris sont peu fonctionnelles car la région Fc ne marche pas bien chez l’homme). On peut les administrer souvent car ils sont faiblement immunogènes tout en étant très fonctionnels. Les Ac murins entraînent la production d’HAMA (Human anti-murine antibodies), les Ac chimériques d’HACA (anti-chimeric), et les Ac humains d’AHA (anti-human)."
+  },
+  {
+   "type": "paragraph",
+   "text": "On emploiera plutôt les termes anti-infliximab, anti-rituximab, anti-tocilizumab etc. Ces anticorps constituent un problème pour le traitement de maladies chroniques. Tous les types d'Ac sont immunogènes. Les protéines de fusion : on enlève la partie Fab de l’immunoglobuline et on garde la partie constante pour avoir la partie effectrice que l’on fusionne à une protéine d’intérêt qui va avoir une certaine activité biologique. Suffixe -ercept. Ces traitements sont souvent regroupés en termes de biothérapie car fait par synthèse biologique et non chimique. C’est un marché en pleine expansion avec actuellement environ 500 molécules encore en essai clinique, très utilisées depuis les années 2000."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-pharmacocinetique-pharmacodynamique",
+   "text": "IV. Pharmacocinétique - Pharmacodynamique"
+  },
+  {
+   "type": "paragraph",
+   "text": "Comme en témoigne le schéma, on peut voir qu’une ou des modifications du fragment Fc impactent la demi-vie et les fonctions effectrices des anticorps. On peut aussi avoir des modifications post-traductionnelles ou des modifications de la glycosylation. De plus, lorsque le fragment Fc est reconnu par le FcRn (Fc neonatal receptor), la demi-vie et la durée d’efficacité est augmentée. Le récepteur FcRn est à la surface de certaines cellules : monocytes et cellules endothéliales. Il se lie au fragment Fc et permet la captation des anticorps, qui va permettre soit de le recycler (le plus longtemps possible pour qu’il puisse agir aussi longtemps), soit de le dégrader. Si on améliore ce recyclage, on augmente la demi-vie de l’Ig."
+  },
+  {
+   "type": "paragraph",
+   "text": "4/14"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces médicaments (biothérapies) sont administrés en injectable et non par voie orale car l’acidité gastrique détruit la structure protéique des immunoglobulines. Ces médicaments ne peuvent pas traverser la membrane plasmique car ils sont hydrophiles (et membrane hydrophobe), ils ont une action au niveau membranaire ou extracellulaire. Ils sont très spécifiques d’un antigène donné, ce qui limite les effets indésirables par effet « off-target », il agit spécifiquement sur sa cible à l’inverse des AINS par exemple, qui auront un effet “off-target” important car ils vont agir sur d’autres cibles “non"
+  },
+  {
+   "type": "paragraph",
+   "text": "prévues” à la base.Ce phénomène explique les nombreux effets indésirables associés aux AINS."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-principaux-mecanismes-d-action-des-ac-therapeutiques-et-pr",
+   "text": "V. Principaux mécanismes d’action des Ac thérapeutiques et protéines de fusion"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les principaux mécanismes d’action des anticorps thérapeutiques et des protéines de fusion sont:",
+    "Ac neutralisants o Ac cytolytiques o Ac antagonistes 1. Mécanisme neutralisant ● Ces Ac participent à la neutralisation d’antigènes solubles exogènes (toxines bactériennes, virus, venins et médicaments) et d’antigènes solubles endogènes (cytokines ou autres). Ils se fixent sur leur cible et neutralisent leur action."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Toxines bactériennes ● On utilise des Ig humaines polyclonales anti-tétaniques (GAMMATETANOS®), utilisées en suspicion et"
+  },
+  {
+   "type": "paragraph",
+   "text": "prévention du tétanos."
+  },
+  {
+   "type": "list",
+   "items": [
+    "On utilise le Raxibacumab contre l’anthrax (dans le cadre de bioterrorisme). b. Virus ● On utilise des Ig humaines polyclonales anti-VHB, anti-CMV.",
+    "On utilise le Palivizumab (SYNAGIS®) en prophylaxie contre le VRS (virus respiratoire syncytial).Touche ++ le nourrisson",
+    "Contre la protéine Spike du SARS-Cov-2 sont utilisés le Casirivimab et Imdevimab chez les patients avec Covid très sévère. c. Venins et médicaments",
+    "On utilise des anticorps en tant qu’antidote. Ce sont des Ac polyclonaux ou monoclonaux. d. Cytokines (soluble endogène) ● On utilise des anti-TNFα pour traiter les rhumatismes inflammatoires et les MICI. (cf partie sur les “anti-TNF”(utilisés +++ et révolution prise en charge de maladie inflammatoire)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "On utilise des anti-VEGF (facteurs de croissance des vaisseaux sanguins) pour traiter certains cancers (car néovasculaire +++ =) ce TTT pour limite la formation de vaisseaux et donc de métastases) et les formes exsudatives de DMLA (dégénérescence maculaire liée à l’âge), aussi appelé bevacizumab (AVASTIN®)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "On utilise des anti-IL-1β pour traiter la maladie de Still, les syndromes de fièvres périodiques, aussi appelé canakinumab (ILARIS®).",
+    "On utilise des anti-IL-12 et IL-23 pour le psoriasis, le rhumatisme psoriasique, la maladie de Crohn, aussi appelé ustekinumab (STELARA®). e. Molécules autres que des cytokines 5/14"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "On utilise des anti-IgE pour traiter l’asthme allergique persistant sévère, l’urticaire chronique, aussi appelé omalizumab (XOLAIR®).",
+    "On utilise des anti-fraction C5 du complément pour traiter l’hémoglobinurie paroxystique nocturne (HPN), le Syndrome Hémolytique et Urémique atypique (SHU), aussi appelé éculizumab (SOLIRIS®).",
+    "On utilise des anti-RANKL pour traiter l’ostéoporose, les tumeurs osseuses et les métastases osseuses, aussi appelé denosumab (PROLIA®, XGEVA®). Empêche l’action des ostéoclastes. 2. Anticorps cytolytiques Ces Ac participent à la destruction d’une cible cellulaire après liaison à un antigène membranaire spécifique. ● Il existe 4 mécanismes possibles : o ADCC : antibody-dependant cellular cytotoxicity : le FC se fixe sur cible",
+    "Cytotoxicité dépendante du complément : anticorps recrute lecomplément",
+    "La toxicité directe par induction de l’apoptose suite cascade intracellulaire",
+    "Phagocytose après opsonisation"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces mécanismes utilisent des Ac polyclonaux mais majoritairement des Ac monoclonaux de type IgG1 car c’est un isotype dont le fragment Fc active très bien le complément."
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Mécanisme cytolytique classique ● On utilise du sérum anti-lymphocytaire (THYMOGLOBULINE®, ATGAM®) en prévention des rejets de greffe et pour les aplasies médullaires. Il est composé d’IgG polyclonales issues de lapin ou de cheval immunisé contre des thymocytes humains."
+  },
+  {
+   "type": "list",
+   "items": [
+    "On utilise des Immunoglobulines anti-Rhésus D (ROPHYLAC®) en prévention de l’allo-immunisation fœto-maternelle Rh D. Il est composé d’IgG polyclonales humaines ciblant les érythrocytes Rhésus + issus du fœtus.Rappel: une femme Rh D- peut s’immuniser contre son foetus( s’il est RhD+) et fabriquer des anticorps qui s’attaqueront aux prochaines grossesses si les foetus sont également RhD+."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "On utilise le Rituximab (MABTHERA®) pour les hémopathies B malignes, polyarthrite rhumatoïde.... Il est composé d'une IgG1 monoclonale chimérique anti-CD20 induisant la destruction des lymphocytes B.",
+    "On utilise l’Alemtuzumab (CAMPATH®, LEMTRADA®) dans la leucémie lymphoïde chronique, sclérose en plaques. Il est composé d’IgG1 monoclonale humanisée anti-CD52, induisant la destruction des lymphocytes B et T. b. Mécanisme par conjugaison Conjugaison avec un radioisotope pour le traitement des lymphomes B : couplage de l’Ibritumomab tiuxétan (ZEVALIN®). On couple une IgG1 monoclonale murine anti-CD20 à de l’yttrium 90 (thérapeutique) ou à de l’indium 111 (imagerie) grâce au tiuxétan."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Conjugaison avec un composé cytotoxique pour les lymphomes : couplage du Brentuximab qui est une IgG1 monoclonale chimérique anti-CD30 avec un antimitotique nommé védotine."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-mecanisme-antagoniste",
+   "text": "3. Mécanisme antagoniste"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces anticorps se fixent sur un récepteur membranaire et bloquent la liaison avec son ligand. Une activité cytolytique additionnelle possible."
+  },
+  {
+   "type": "list",
+   "items": [
+    "On retrouve 4 grandes classes d’anticorps antagonistes :",
+    "Anticorps anti-récepteurs de cytokines et de facteurs de croissance o Anticorps anti-molécules d’adhésion 6/14"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Anticorps anti-molécules de costimulation lymphocytaire (Ac interférant avec les synapses immunologiques)",
+    "Anticorps anti-points de contrôle de l’activation lymphocytaire (Ac interférant avec les synapses immunologiques)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Anticorps anti-récepteur de cytokines et de facteur de croissance"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Anticorps qui bloquent complètement les récepteurs",
+    "Tocilizumab (ROACTEMRA®) ▪ IgG1 monoclonale humanisée bloquant le récepteur de l’IL-6 ▪ Indications : polyarthrite rhumatoïde, arthrite juvénile idiopathique, syndrome de relargage cytokinique (orage cytokinique= avec inflation très sévère voir même mortelle)",
+    "Si IL-6 trop fortement bloqué, on peut faire des immunodépressions o Trastuzumab (HERCEPTIN®) ▪ IgG1 monoclonale humanisée bloquant le récepteur HER2 ▪ Indications : cancers du sein surexprimant HER2 o Cétuximab (ERBITUX®) ▪ IgG1 monoclonale chimérique bloquant le récepteur EGFR (= facteur de croissance épidermoïde) Indications : cancers surexprimant EGFR (épidermoïde, colorectal) b. Anticorps anti-molécules d’adhésion o Natalizumab (TYSABRI®)",
+    "IgG4 monoclonale humanisée bloquant les intégrines α4β1 et α4β7 (empêchent la traversée des LB et LT la membrane du SNC et d’induire son attaque)",
+    "Indication : sclérose en plaques o Védolizumab (ENTYVIO®) ▪ IgG1 monoclonale humanisée bloquant les intégrines α4β7 (empêche que les lymphocytes passent et créent une inflammation de l’intestin)",
+    "Indications : maladie de Crohn, rectocolite hémorragique = MICI Rq: Lorsque l’on bloque des acteurs du système immunitaire, on risque une Immunodépression c. Anticorps anti-molécules de costimulation lymphocytaire o Abatacept (ORENCIA®) et Bélatacept (NULOJIX®)",
+    "Protéines de fusion (PFFc donc fini par “cept”) entre IgG1 et CTLA-4, qui vont se lier à CD80 et CD86 → empêche l’activation des lymphocytes T",
+    "Indications : rhumatisme inflammatoire (abatacept) et prévention du rejet de greffe rénale (bélatacept)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "d. Anticorps anti-points de contrôle de l’activation lymphocytaire (=anti-checkpoints inhibiteurs) o Nivolumab (OPDIVO®) et Pembrolizumab (KEYTRUDA®) ▪ IgG4 monoclonales bloquant la protéine PD-1 (rappel PD1=)inhibiteur donc on mets des PDL1 qui se fixe sur pd1 donc le bloque d’ou action immunostimualte)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Action immunostimulante pour détruire la tumeur ! ▪ Indications : cancers dont mélanome, cancer bronchique, lymphome de Hodgkin o Ipilimumab (YERVOY®) ▪ IgG1 monoclonale bloquant la protéine CTLA-4 ▪ Action immunostimulante ! ▪ Indications : mélanome avancé, carcinome rénal avancé 7/14"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Ici le but est d'empêcher l'inhibition. Ces Ac monoclonaux immunostimulants (contrairement aux Ac vus précédemment qui sont plutôt immunosuppresseurs) font partie de la grande famille des immunothérapies. Ces médicaments ont révolutionné la prise en charge de certains cancers (mélanome par exemple)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-mecanisme-d-action-des-anticorps-therapeutiques-cas-partic",
+   "text": "4. Mécanisme d’action des anticorps thérapeutiques : cas particuliers"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Les fragments Fab et F(ab’)2 Il n’y a pas de Fc donc leur demi-vie très courte (car pas de liaison possible au FcRn), ils ont une action neutralisante. → Ils sont employés comme antidote dans des situations aiguës comme intoxication aux digitaliques (DIGIFAB®, Fab polyclonal ovin) ou pour une envenimation aux vipères européennes (VIPERFAV®, F(ab’)2 polyclonal équin). → Ils sont aussi employés en local comme le ranibizumab (LUCENTIS®) en ciblant le VEGF pour les formes exsudatives de DMLA."
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Anticorps bi-spécifiques On retrouve le Blinatumomab (BLINCYTO®) pour la leucémie aiguë lymphoïde B. Ils sont de plus en en plus utilisés pour les cancers, en particulier les cancers hématologiques."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-tolerance-des-anticorps-monoclonaux-et-proteines-de-fusion",
+   "text": "5. Tolérance des anticorps monoclonaux et protéines de fusion à portion Fc"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Effets indésirables généraux On peut observer :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Des réactions immuno-allergiques -Le développement d’anticorps anti-médicament, conduisant à l’échappement thérapeutique - Des réactions à l’injection ou à la perfusion comme des œdèmes, douleurs, frissons - Des infections, réactivations virales, cancers : pour les Ac qui inhibent le système immunitaire 8/14"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Des manifestations auto-immunes : pour les Ac immunostimulant b. Effets indésirables spécifiques On peut observer :",
+    "Des éruptions acnéiformes paroxystiques avec le cétuximab (anti-EGFR) - Des cardiomyopathies avec le trastuzumab (anti-HER2) - Des hypertensions artérielles, hémorragies et thromboses avec le bevacizumab (anti-VEGF) - Des leucoencéphalopathies multifocales progressives chez les patients immunodéprimés (LEMP) avec le natalizumab (anti-intégrines) VI. Focus sur les anti-TNF (+++) 1. Généralités C’est une révolution de prise en charge de nombreuses maladies inflammatoires et auto-immunes chroniques, notamment en rhumatologie, gastroentérologie et dermatologie. Ils sont très utilisés, notamment en ambulatoire. Ce sont des médicaments très immunogènes avec l’apparition d’anticorps anti-médicaments avec risque de perte de réponse clinique. Il est nécessaire d’effectuer un suivi des concentrations sanguines du médicament et des anticorps anti-médicament. Ils sont indiqués pour les MICI, rhumatismes inflammatoires et le psoriasis."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "→ Ils peuvent tous lier la forme soluble du TNFα (action neutralisante) →Infliximab, adalimumab, golimumab et certolizumab peuvent lier la forme membranaire (action antagoniste). →Infliximab, adalimumab et golimumab sont cytolytiques. Ces médicaments sont à retenir. 2. Effets indésirables Il existe un risque très important de développement d’anticorps anti-médicament avec un gros risque d’échappement thérapeutique. De plus, les risques infectieux sont présents avec un risque de réactivation tuberculosique. (tuberculose latente = contre indication). La tuberculose lors de la première rencontre peut être contrôlée par le SI, au niveau pulmonaire sous forme de granulome. Le TNF alpha joue un rôle important dans la formation de ce granulome, si on met des anti-TNF alpha le granulome n’est plus contrôlé, ce qui provoque la maladie. Il est essentiel avant tout début de TTT par anti-TNF de tester si le patient présente une tuberculose latente. Il peut également y avoir des manifestations"
+  },
+  {
+   "type": "paragraph",
+   "text": "9/14"
+  },
+  {
+   "type": "paragraph",
+   "text": "auto-immunes notamment un lupus biologique."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-biomedicaments-biotherapies",
+   "text": "VII. Biomédicaments/Biothérapies"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les anticorps monoclonaux et dérivés font partie de la grande famille des biomédicaments/biothérapies. Un biomédicament est un produit biotechnologique, pharmaceuticalement actif et synthétisé par une source biologique (cellule vivante) ou extraite d'elle, et non obtenue par la chimie de synthèse car trop complexe à synthétiser."
+  },
+  {
+   "type": "paragraph",
+   "text": "➔ Attention, tous les biomédicaments ne sont pas des dérivés d’immunoglobulines (Ex : EPO). La variabilité des lots d’une biothérapie est très importante au cours du temps par rapport à une molécule chimique(car c’est une cellule qui l’a produit). Pas de modification d’efficacité ni d’immunogénicité apparente. Ex : infliximab. Pour les médicaments chimiques dont le brevet est expiré, il existe des médicaments génériques. Concernant les biomédicaments, on parle de biosimilaires. Un biosimilaire, contrairement aux génériques, n’est pas une copie exacte. Il faut prouver via une batterie d’études robustes et réglementées la biosimilarité (immunogénicité comparable, même efficacité et même tolérance). Ils sont utiles car beaucoup moins chers."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-biosimilaires-commercialises-en-france",
+   "text": "1. Les biosimilaires commercialisés en France"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-etude-comparant-biomedicament-de-reference-et-biosimilaire",
+   "text": "2. Étude comparant biomédicament de référence et biosimilaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "10/14"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "viii-conclusion",
+   "text": "VIII. Conclusion (+++) :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les anticorps thérapeutiques peuvent être polyclonaux ou monoclonaux.",
+    "Un anticorps thérapeutique peut être immunogène à cause de son isotype, son allotype et son idiotype. • L’humanisation plus ou moins complète des anticorps monoclonaux favorise leur efficacité et leur tolérance, mais un anticorps, tout humain qu’il soit, reste immogène. Retenir les notions d’anticorps monoclonaux murins, chimériques, humanisés et humains."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les anticorps thérapeutiques peuvent être complètement modifiés (protéines de fusion, Fab) afin d’améliorer leur pharmacodynamie et leur pharmacocinétique.",
+    "Les anticorps subissent de nombreuses modifications post-traductionnelles (glycosylations++). • • La portion Fc offre une longue demi-vie grâce à l’interaction avec le FcRn. • Les anticorps neutralisants agissent sur les Ag exogènes solubles (toxines bactériennes, virus, venins, médicaments) et sur les Ag endogènes solubles (cytokines, facteurs de croissance, ...).",
+    "Les anticorps antagonistes agissent sur les récepteurs, les molécules d’adhésion, la synapse immunologique (molécules de co-stimulation et d’inhibition).",
+    "Les anticorps cytolytiques sont des Ac polyclonaux ou IgG1. La portion Fc permet le recrutement de cellules effectrices et du complément.",
+    "Retenir les anti-TNF (+++) : indications, effets indésirables, nécessité d’un monitoring (taux résiduel et taux d’Ac anti -médicament).",
+    "Existence des biosimilaires, l’équivalent des médicaments génériques. • Tolérance : la majorité des Ac ont des activités immunosuppressives, avec les risques infectieux qui leur sont liés. Un petit groupe est immunostimulant, avec des risques d’induction d’une auto-immunité. Le prof a dit qu’il fallait retenir les mécanismes d’actions pour chaque médicament et bien connaître les EI des anti-TNF alpha. IX. QCM Question Année 2024-2025 QCM n°1 : A propos des anticorps A. Les Ac neutralisants peuvent cibler des médicaments, et des molécules de venin. B. Les Ac cytolytiques ont 3 mécanismes d’action différents. C. Pour mécanisme antagoniste les anticorps se fixent sur un récepteur membranaire et bloquent la liaison avec son ligand. D. Le Trastuzumab (HERCEPTIN®) est un anticorps anti-récepteur de cytokines et facteur de croissance. E. Toutes les propositions sont fausses QCM n°2 : A. Un anticorps thérapeutique peut être immunogène à cause de son isotype, son allotype et son idiotype. B. La portion Fc offre une longue demi-vie grâce à l’interaction avec le FcRn. C. Les anticorps cytolytiques sont des Ac polyclonaux ou IgG1. D. La majorité des Ac ont des activités immunosuppressives, avec les risques infectieux qui leur sont liés. E. Toutes les propositions sont vraies Q20 :Concernant les affirmations suivantes sur les biothérapies, laquelle (ou lesquelles) est (sont) exacte(s) A. Chez l’Homme, il existe 4 classes (ou isotypes) d’immunoglobulines B. La portion Fab des immunoglobulines permet la reconnaissance de l’antigène C. Les anticorps monoclonaux sont plus immunogènes que les anticorps monoclonaux chimériques D. La voie orale constitue la voie d’administration préférentielle des Anticorps monoclonaux thérapeutiques Page 11/14"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "E. Les biosimilaires sont des médicaments moins efficaces que les spécialités de référence Correction Question n°1 : ACD A. VRAI B. FAUX : il y en a 4 C. VRAI D. VRAI E. FAUX Correction Question n°2 : ABCDE A. VRAI B. VRAI C. VRAI D. VRAI E. VRAI Correction Q20 A : FAUX B : VRAI C : FAUX D : FAUX E : FAUX Question Année 2023-2024 QCM n°1 : A propos des anticorps monoclonaux : A. La région Fc est une région constante B. Chez l’Homme on retrouve 5 classes d’immunoglobulines G, A, M, E, T C. Les biothérapies sont uniquement injectables D. Les Ig humaines polyclonales anti-CMV sont utilisés en prévention du tétanos E. Toutes les propositions sont fausses QCM n°2 : A. Le sérum anti-lymphocytaire est utilisé en prévention des rejets de greffe B. Il existe 4 grandes classes d’anticorps antagonistes C. Les Ac immunostimulants font partie de la grande famille des immunothérapies D. Les éruptions acnéiformes paroxystiques sont un effet indésirable du cétuximab E. Toutes les propositions sont vraies Q 18 : Concernant les affirmations suivantes sur les biothérapies, laquelle (ou lesquelles) est (sont) exacte(s), choisir la (ou les) proposition(s) exacte(s) : A. La majorité des anticorps monoclonaux thérapeutiques sont de classe IgA B. Les anticorps monoclonaux recombinants sont produits et purifiés à partir d’hybridomes C. Les anticorps polyclonaux sont plus spécifiques que les anticorps monoclonaux D. Le monitoring des anti-TNF peut se faire par mesure de leurs concentrations sanguines E. L’humanisation des anticorps monoclonaux favorise leur efficacité et leur tolérance Correction Question n°1 : AC A. VRAI B. FAUX : Chez l’Homme on retrouve 5 classes d’immunoglobulines G, A, M, E, D C. VRAI Page 12/14"
+  },
+  {
+   "type": "paragraph",
+   "text": "D. FAUX : Ce sont les Ig humaines polyclonales anti-tétaniques qui sont utilisés en prévention du tétanos E. FAUX Correction Question n°2 : E A. FAUX : cf E B. FAUX : cf E C. FAUX : cf E D. FAUX : cf E E. VRAI Correction Q18 A : FAUX : La majorité des anticorps monoclonaux thérapeutiques sont de classe IgG. B : FAUX : Les anticorps monoclonaux recombinants sont produits par génie génétique. C : FAUX : Les anticorps monoclonaux sont plus spécifiques que les polyclonaux, ils ont une meilleure affinité et une production plus massive et constante. D : VRAI E : VRAI Question Année 2022-2023 Question n°1 : A propos des anticorps monoclonaux : A. Les idiotypes est une variation phénotypique de la région constante B. L’allotypie est une variation phénotypique à l’intérieur d’une même espèce C. Certains Anticorps ne possèdent pas une immunogénicité D. Dans les protéines de fusions, on enlève la partie Fab de l’immunoglobuline et on garde la partie constante E. Les biothérapies sont des molécules chimiques prise par voie orale Question n°2 : Concernant les anti-TNF : A. Ils peuvent tous lier la forme soluble du TNF-beta B. Ils sont au nombre de 4 : infliximab, adalimumab, golimumab et certolizumab C. Il existe un risque très important de développement d’anticorps anti-médicaments D. Il existe aussi un risque infectieux E. Toutes les propositions sont fausses QUESTION N° 16 :Concernant les affirmations suivantes sur les biothérapies, laquelle (ou lesquelles) est (sont) exacte(s) ? A. Les anticorps neutralisants peuvent cibler des toxines bactériennes B. Les anti-TNF sont utilisés dans le traitement des maladies inflammatoires chroniques de l’intestin (MICI) C. La reconnaissance de la portion Fc de l’anticorps par le FcRn diminue la demi-vie de l’anticorps dans l’organisme D. Les biosimilaires sont des médicaments plus coûteux que les spécialités de référence E. Les anticorps polyclonaux sont plus spécifiques que les anticorps monoclonaux QUESTION N° 24 Concernant les affirmations suivantes sur les biothérapies, laquelle (ou lesquelles) est (sont) exacte(s) ? A. Les anti-TNF sont peu immunogènes B. Les traitements par anti-TNF nécessitent un monitoring de leurs concentrations sanguines résiduelles C. L’humanisation des anticorps monoclonaux favorise leur efficacité et leur tolérance D. L’idiotypie est déterminée par les régions constantes des chaînes lourdes E. Les anticorps thérapeutiques peuvent être complètement modifiés afin d’améliorer leur propriétés pharmacodynamiques et pharmacocinétiques Page 13/14"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction Question n°1 : BD A. FAUX : variation de la région variable B. VRAI C. FAUX : Tous les Anticorps possèdent une immunogénicité D. VRAI E. FAUX : les biothérapies sont des molécules NON chimiques et injectable Correction Question n°2 : CD A. FAUX : ils peuvent tous lier la forme soluble du TNF-alpha B. FAUX : ils sont au nombre de 5, etanercept en plus C. VRAI D. VRAI E. FAUX Correction Q16 A : VRAI B : VRAI C : FAUX : il augmente la demie-vie D : FAUX : moins coûteux E : FAUX : c’est l’inverse Correction Q24 A : FAUX : Très immunogènes B : VRAI C : VRAI D : FAUX : Par les régions variables (c’est ce qui permet de reconnaître l’ag spécifique) E : VRAI PS: on a pas trouvé d’autres ACC Page 14/14"
+  }
+ ]
+}

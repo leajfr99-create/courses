@@ -1,0 +1,1772 @@
+{
+ "slug": "fc10",
+ "code": "FC10",
+ "title": "Mécanisme d’action des vaccins et rôles des adjuvants",
+ "prof": "Pr. Paul",
+ "sourceFile": "FC10-PAUL-mecanisme-daction-des-vaccins-et-roles-des-adjuvants(3).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "i-introduction",
+   "label": "I. Introduction",
+   "level": 2
+  },
+  {
+   "id": "2-definition-de-la-vaccination",
+   "label": "2. Définition de la vaccination",
+   "level": 3
+  },
+  {
+   "id": "ii-les-differents-types-de-vaccins",
+   "label": "II. Les différents types de vaccins",
+   "level": 2
+  },
+  {
+   "id": "1-evolution-de-la-vaccination",
+   "label": "1. Évolution de la vaccination",
+   "level": 3
+  },
+  {
+   "id": "iii-classification-des-vaccins",
+   "label": "III. Classification des vaccins",
+   "level": 2
+  },
+  {
+   "id": "iv-vaccins-vivants-attenues",
+   "label": "IV. Vaccins vivants atténués",
+   "level": 2
+  },
+  {
+   "id": "1-on-prend-le-virus",
+   "label": "1. On prend le virus",
+   "level": 3
+  },
+  {
+   "id": "2-on-le-replique-in-vitro-dans-une-plaque-de-culture-cellula",
+   "label": "2. On le réplique in vitro dans une plaque de culture cellulaire.",
+   "level": 3
+  },
+  {
+   "id": "3-dans-ce-milieu-de-culture-il-n-est-pas-dans-de-bonnes-cond",
+   "label": "3. Dans ce milieu de culture, il n’est pas dans de bonnes conditions (par",
+   "level": 3
+  },
+  {
+   "id": "4-donc-il-se-replique-mais-pas-tres-bien-de-ce-fait-il-a-ten",
+   "label": "4. Donc il se réplique mais pas très bien, de ce fait, il a tendance à muter",
+   "level": 3
+  },
+  {
+   "id": "5-on-fait-ceci-beaucoup-de-fois",
+   "label": "5. On fait ceci beaucoup de fois",
+   "level": 3
+  },
+  {
+   "id": "6-a-la-fin-on-produit-un-virus-qui-ne-ressemble-plus-trop-a-",
+   "label": "6. A la fin, on produit un virus qui ne ressemble plus trop à ce qu’il était",
+   "level": 3
+  },
+  {
+   "id": "7-on-va-l-utiliser-chez-l-homme-car-il-ne-va-pas-se-replique",
+   "label": "7. On va l’utiliser chez l’homme car il ne va pas se répliquer. En tout cas il",
+   "level": 3
+  },
+  {
+   "id": "avantages-inconvenients",
+   "label": "AVANTAGES INCONVENIENTS",
+   "level": 2
+  },
+  {
+   "id": "v-vaccins-inactives",
+   "label": "V. Vaccins inactivés",
+   "level": 2
+  },
+  {
+   "id": "1-histoire-des-vaccins-vivants-inactives",
+   "label": "1. Histoire des vaccins vivants inactivés",
+   "level": 3
+  },
+  {
+   "id": "2-types-de-vaccins-inactives",
+   "label": "2. Types de vaccins inactivés",
+   "level": 3
+  },
+  {
+   "id": "3-vaccins-vivants-inactives-entiers",
+   "label": "3. Vaccins vivants inactivés entiers",
+   "level": 3
+  },
+  {
+   "id": "4-vaccins-inactives-particulaires",
+   "label": "4. Vaccins inactivés particulaires",
+   "level": 3
+  },
+  {
+   "id": "5-avantages-et-inconvenients-des-vaccins-inactives",
+   "label": "5. Avantages et inconvénients des vaccins inactivés",
+   "level": 3
+  },
+  {
+   "id": "avantages-inconvenients-2",
+   "label": "AVANTAGES INCONVENIENTS",
+   "level": 2
+  },
+  {
+   "id": "a-retenir",
+   "label": "A RETENIR :",
+   "level": 2
+  },
+  {
+   "id": "vi-composants-vaccinaux",
+   "label": "VI. Composants vaccinaux",
+   "level": 2
+  },
+  {
+   "id": "1-les-adjuvants",
+   "label": "1. Les adjuvants",
+   "level": 3
+  },
+  {
+   "id": "vii-vaccin-et-auto-immunite",
+   "label": "VII. Vaccin et auto-immunité",
+   "level": 2
+  },
+  {
+   "id": "viii-voies-d-administration",
+   "label": "VIII. Voies d’administration",
+   "level": 2
+  },
+  {
+   "id": "ix-comment-favoriser-le-developpement-d-une-bonne-reponse-a-",
+   "label": "IX. Comment favoriser le développement d’une bonne réponse à médiation cellulaire ?",
+   "level": 2
+  },
+  {
+   "id": "x-champs-d-application-de-la-vaccination",
+   "label": "X. Champs d’application de la vaccination",
+   "level": 2
+  },
+  {
+   "id": "1-les-enjeux",
+   "label": "1. Les enjeux",
+   "level": 3
+  },
+  {
+   "id": "2-vaccination-contre-la-grippe",
+   "label": "2. Vaccination contre la grippe",
+   "level": 3
+  },
+  {
+   "id": "3-vaccination-et-grossesse",
+   "label": "3. Vaccination et grossesse",
+   "level": 3
+  },
+  {
+   "id": "4-vaccination-hpv",
+   "label": "4. Vaccination HPV",
+   "level": 3
+  },
+  {
+   "id": "5-maladies-emergentes-vaccin-contre-ebola",
+   "label": "5. Maladies émergentes : vaccin contre Ébola",
+   "level": 3
+  },
+  {
+   "id": "6-vaccin-contre-la-malaria",
+   "label": "6. Vaccin contre la malaria",
+   "level": 3
+  },
+  {
+   "id": "i-faux-les-vaccins-viraux-et-bacteriens-vivants-sont-contre-",
+   "label": "I. FAUX : Les vaccins viraux et bactériens vivants sont contre indiqué chez les ID et femmes enceintes.",
+   "level": 2
+  },
+  {
+   "id": "question-n-12",
+   "label": "QUESTION N° 12 :",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. PAUL Immunopathologie Margot COTTE Mécanisme d’action des vaccins et rôle des adjuvants Le diapo est disponible sur moodle. Les infos en gris clair n’ont pas été dites mais sont présentes sur le diapo."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-introduction",
+   "text": "I. Introduction"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La vaccination est un domaine qui se développe de plus en plus.",
+    "C’est un sujet important à communiquer aux patients (bénéfices et risques). La vaccination ne marche que s’il y a une adhésion importante de la population (notion de collectivité et non d’individualité).",
+    "Importance de l’information, de la comprendre et d’aborder le dialogue car il s’agit d’une arme thérapeutique importante.",
+    "Seulement 25% des médecins du CHU sont vaccinés contre la grippe cette année donc encore une éducation à faire",
+    "Beaucoup de vaccins sont très efficaces (notamment chez les enfants) mais ne sont pas suffisamment recommandés par les médecins ex : rougeole, HPV"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccination : succès de l’immunologie"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccination est une pratique non récente Politique de santé mondiale En France la vaccination contre HPV s’améliore mais n’a pas été très efficace au début Principe : induire une immunité pour lutter contre une réinfection. Certaines maladies ne peuvent pas être éradiquées par les vaccins car ils ne sont pas réalisés donc il y a une persistance des maladies dans ces pays-là. Cela peut donc mener à des épidémies dans des pays qui étaient pourtant vaccinés (car le virus aura subi des mutations le rendant plus virulent)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La vaccination a fait ses preuves car elle a permis de lutter, voire d’éradiquer, de nombreuses maladies : Diphtérie, Poliomyélite, Rougeole, éradication de la Variole ⇨ Le vaccin ça fonctionne !"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Égypte Antique"
+  },
+  {
+   "type": "list",
+   "items": [
+    "3000 avant JC : les Égyptiens reniflaient des croûtes de variole de vache pour se protéger de la variole humaine = première preuve de vaccination.",
+    "Repris en Chine et en Inde autour du 16 ème siècle sous une forme plus évoluée"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "1796"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Jenner se rend compte que les éleveurs qui avaient des vaches infectées par la variole s’immunisaient",
+    "Jenner est à l’origine du commencement de la vaccination : → Injection du pus de vache pour immuniser les personnes (virus vivant)",
+    "Suite à ça il y a eu une ère où ils ont fait de la variolisation (= on prenait les liquides des animaux infectés par la variole de la vache pour les injecter et immunisé les personnes) 1880-1900 Généralisation de la vaccination de la variole"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "1980 Éradication de la variole (dernier cas en 1977 en Somalie), il resterait un fragment de la variole qui a été purifié. Première preuve d’éradication d’une maladie infectieuse grâce à la vaccination. 1983 Déclaration de l’OMS pour l’éradication de la variole."
+  },
+  {
+   "type": "paragraph",
+   "text": "1881"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Louis Pasteur travaille sur le bacille anthracis (maladie du charbon) pendant les guerres francoallemandes",
+    "En collaboration avec le médecin Robert Koch, il remarque que si le bacille est cultivé à 45°C, il perd de sa virulence ⇨ Il prend cette forme atténuée pour le vaccin"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "1885"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Louis pasteur : 1er à dire que des pathogènes pouvaient infecter l’homme et conduire à des maladies",
+    "Il développe un des premiers vaccins contre la rage (à partir de tissu nerveux séché de lapin il faisait une culture du virus qu’il réinjectait chez des patients).",
+    "Il teste avec succès son vaccin antirabique sur un sujet humain. ⇨ Le 6 juillet 1885, le vaccin a été administré à Joseph Meister, un garçon de 9 ans qui avait été attaqué par un chien atteint de la rage. Le garçon a survécu et a évité de contracter la rage"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "1921"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccination antituberculeuse (BCG) par Calmette et Guerin."
+  },
+  {
+   "type": "list",
+   "items": [
+    "De 1905 à 1921, atténuation progressive d’une souche de Mycobacterium bovins en faisant 200 à 300 passages en culture",
+    "21 juillet 1921 : Première vaccination humaine d’un nouveau-né.",
+    "Le BCG demeure une arme essentielle dans la prévention de la tuberculose chez les jeunes enfants (très efficace)",
+    "Moins efficace chez les adultes (des études sont en cours pour en trouver un meilleur)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "1955-1960"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vaccin contre la polio par Sabin et Salk",
+    "Ils ont pris des souches sauvages, les ont fait muter jusqu’à trouver une forme moins virulente (70 passages en culture nécessaire pour l’atténuer)",
+    "Vaccin très efficace et sans doute le plus efficace qui pourrait protéger la planète entière car il est simple à produire",
+    "Certains états islamistes du Nord (Nigéria...) vont interdire la vaccination pour des convictions religieuses : ⇨ Malgré un vaccin très efficace, la polio n’est pas éradiquée de la planète."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "L‘histoire de la vaccination s’est faite étape par étape, on est passé de vaccins très immunogènes (donc gros problème de sécurité car ils n’étaient pas atténués) à des vaccins atténués (donc beaucoup moins dangereux) ● Plus on a amélioré la sécurité, plus on a réduit l’immunogénicité des vaccins"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-definition-de-la-vaccination",
+   "text": "2. Définition de la vaccination"
+  },
+  {
+   "type": "paragraph",
+   "text": "Définition du vaccin"
+  },
+  {
+   "type": "paragraph",
+   "text": "Un vaccin est un morceau de pathogène qui a pour but d’induire chez la personne ou l’animal qu’on vaccine, une réponse immunitaire. Il est :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Spécifique d’un agent pathogène",
+    "Capable de le protéger contre l’infection naturelle ou d’en atténuer les conséquences",
+    "Les vaccins à ARN sont aussi des vaccins (ex : SARS-CoV2 est un virus à ARN et donc l’ARNm est une préparation antigénique)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Étymologie “vacca”, vache en latin Nom donné en l’honneur de Jenner et son travail sur la variole de la vache"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Généralisation du terme par Pasteur, en l’honneur de Jenner"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Objectifs"
+  },
+  {
+   "type": "paragraph",
+   "text": "Processus immunitaire qui va stimuler la réponse immunitaire adaptative pour protéger contre les infections de différents pathogènes Induire une immunisation active (différent de l’immunisation passive (= transfert d’anticorps d’un individu à l’autre)) Réponse immunitaire après exposition à un antigène"
+  },
+  {
+   "type": "paragraph",
+   "text": "1) 2) Réponse primaire, rapide, avec beaucoup d’IgM Réponse secondaire à l’aide la mémoire immunitaire, beaucoup plus rapide et plus puissante, avec beaucoup d’IgG"
+  },
+  {
+   "type": "paragraph",
+   "text": "1 . Histoire de la vaccination"
+  },
+  {
+   "type": "paragraph",
+   "text": "Principe de la vaccination"
+  },
+  {
+   "type": "paragraph",
+   "text": "Induction d’une immunité active"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Immunité et mémoire immunologique similaire à l’infection naturelle mais sans aucun risque de la maladie Réponse mémoire",
+    "Permet la reconnaissance et la réponse rapide contre le pathogène - Prévient et minimise l’effet de la maladie"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-les-differents-types-de-vaccins",
+   "text": "II. Les différents types de vaccins"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-evolution-de-la-vaccination",
+   "text": "1. Évolution de la vaccination"
+  },
+  {
+   "type": "paragraph",
+   "text": "Deux types de vaccination"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccination prophylactique"
+  },
+  {
+   "type": "paragraph",
+   "text": "On traite une personne qui n’a jamais été en contact avec un agents pathogène : l’objectif est de préparer le système immunitaire à une infection potentielle en induisant des cellules effectrices"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccination thérapeutique"
+  },
+  {
+   "type": "paragraph",
+   "text": "= Comme pour les cancers, infection chronique (ex : hépatite) La personne à ici déjà été en contact avec l’agent pathogène : l’objectif est de réactiver les cellules effectrices non efficaces pour les rendre de nouveau efficace."
+  },
+  {
+   "type": "paragraph",
+   "text": "Développement des vaccins"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vivant atténuée : Variole, Rage, Tuberculose, Grippe (première version), Fièvre Jaune, Polio, Rougeole, Rubéole, Oreillon… ⇨ Présentent des risques car le vaccin est vivant donc risque pathogène++",
+    "Vaccins inactivés : Diphtérie, Typhoïde, Tétanos, Choléra, Coqueluche, Hépatite A… ⇨ Moins d’effet indésirable",
+    "Vaccins sous unitaires purifiées : fragment du virus au lieu de le prendre en entier : Coqueluche, Hépatite B",
+    "Vaccins recombinants : on utilise les gènes des pathogènes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "En 2023 en France"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccins antiviraux"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccins viraux inertes Vaccins viraux vivants"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Entier inactivé :",
+    "Grippe injectable",
+    "Polio injectable",
+    "Hépatite A",
+    "Rage",
+    "Encéphalite japonaise",
+    "Encéphalite à tiques",
+    "Protéine recombinante : Hépatite B, HPV"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Rougeole, Oreillons, Rubéole = ROR",
+    "Rotavirus",
+    "Varicelle, zona",
+    "Fièvre jaune",
+    "FluMist (lutte contre la grippe)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccins antibactériens"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccins bactériens inertes Vaccins bactériens vivants"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vaccins complets : Leptospirose, Choléra",
+    "Vaccins sous unitaires : Tétanos, Diphtérie",
+    "Vaccins polyosidiques : Pneumocoque, Typhoïde",
+    "Vaccins conjugués : Pneumocoque conjugué, méningo conjugué",
+    "Vaccins protéiques : Coqueluche acellulaire"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "BCG"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les vaccins viraux et bactériens vivants sont contre indiqués chez les ID et femmes enceintes mais sont utilisés chez les enfants."
+  },
+  {
+   "type": "paragraph",
+   "text": "En France en 2024 les règles changent :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Obligation d’avoir des vaccins DTP séparés ET phase de vaccination obligatoire (et donc remboursée) recommandée pour améliorer la couverture vaccinale."
+  },
+  {
+   "type": "paragraph",
+   "text": "Couverture vaccinale de la rougeole"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Épidémie en France (mais pas que) en 2017, les régions les plus touchées sont celles présentant le plus de loby anti-vaccins (Ardèche, les Hautes-Alpes).",
+    "Mauvaise couverture vaccinale qui descend en dessous des 65% alors que l’objectif est de 95% risque d’épidémie, et de mort liée à la rougeole.",
+    "Problème avec des falsifications au niveau du carnet vaccinal fait par les médecins généralistes pour les enfants"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Couverture vaccinale en France"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Actuellement hétérogène au sein du territoire et en fonction des vaccins.",
+    "Environ 70% couverture vaccinale pour des vaccins obligatoires et dont la couverture devrait être à 85%",
+    "Moins bien vaccinés que les autres pays européens"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-classification-des-vaccins",
+   "text": "III. Classification des vaccins"
+  },
+  {
+   "type": "paragraph",
+   "text": "Formes classiques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccin entier inactivé ● Polio Vaccins vivants atténués ● MMR, Covid Vaccins sous unitaires ● Hépatite B Virus à particules ● HPV Nouvelles générations Vaccin à ARN"
+  },
+  {
+   "type": "paragraph",
+   "text": "Adénovirus"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-vaccins-vivants-attenues",
+   "text": "IV. Vaccins vivants atténués"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce sont des vaccins très immunogènes mais surtout très efficaces (souvent toute la vie)."
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Méthodes d’atténuation du vaccin vivant atténué"
+  },
+  {
+   "type": "paragraph",
+   "text": "Méthodes d’atténuation"
+  },
+  {
+   "type": "paragraph",
+   "text": "19 ème siècle"
+  },
+  {
+   "type": "paragraph",
+   "text": "Par atténuation physique (cas de la rage) On chauffe le virus, on le met sous le soleil ou sous une lampe à ultraviolet Par passage dans des œufs embryonnés (BCG, fièvre jaune) Moyen de production en grande quantité Toujours utilisé 20 ème siècle Par atténuation physiologique (cas du BCG) On passe le virus un certain nombre de fois en culture"
+  },
+  {
+   "type": "paragraph",
+   "text": "Fonctionnement :"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-on-prend-le-virus",
+   "text": "1. On prend le virus"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-on-le-replique-in-vitro-dans-une-plaque-de-culture-cellula",
+   "text": "2. On le réplique in vitro dans une plaque de culture cellulaire."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-dans-ce-milieu-de-culture-il-n-est-pas-dans-de-bonnes-cond",
+   "text": "3. Dans ce milieu de culture, il n’est pas dans de bonnes conditions (par"
+  },
+  {
+   "type": "paragraph",
+   "text": "exemple on lui enlève du tryptophane, du sucre…)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-donc-il-se-replique-mais-pas-tres-bien-de-ce-fait-il-a-ten",
+   "text": "4. Donc il se réplique mais pas très bien, de ce fait, il a tendance à muter"
+  },
+  {
+   "type": "paragraph",
+   "text": "un peu."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-on-fait-ceci-beaucoup-de-fois",
+   "text": "5. On fait ceci beaucoup de fois"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "6-a-la-fin-on-produit-un-virus-qui-ne-ressemble-plus-trop-a-",
+   "text": "6. A la fin, on produit un virus qui ne ressemble plus trop à ce qu’il était"
+  },
+  {
+   "type": "paragraph",
+   "text": "au départ, il est maintenant atténué car il y a perte de protéines de virulence."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "7-on-va-l-utiliser-chez-l-homme-car-il-ne-va-pas-se-replique",
+   "text": "7. On va l’utiliser chez l’homme car il ne va pas se répliquer. En tout cas il"
+  },
+  {
+   "type": "paragraph",
+   "text": "est incapable de reproduire la maladie."
+  },
+  {
+   "type": "list",
+   "items": [
+    "On génère ainsi plein de variants qu’on injecte chez l’animal.",
+    "Lorsque l’animal n’est pas malade, on estime que le virus est suffisamment atténué."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Avantages et inconvénients des virus vivants atténués"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "avantages-inconvenients",
+   "text": "AVANTAGES INCONVENIENTS"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Forme ATTÉNUÉE du pathogène (proche d’une infection naturelle donc assez immunogène)",
+    "Ne cause pas la maladie mais induit une immunité protectrice",
+    "Réponse immune similaire à l’infection naturelle",
+    "Habituellement efficace avec une seule dose",
+    "Meilleure sollicitation de l’immunité cellulaire",
+    "Induction d’une immunité locale",
+    "Absence d’adjuvant",
+    "Peu couteux"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Atténuation parfois incomplète",
+    "Doivent franchir les barrières naturelles de défense de l’organisme qui rendent l’immunisation aléatoire",
+    "Ne sont pas dépourvus de risques infectieux (réversion du virus polio, BCGites, vaccine généralisée), des interférences peuvent survenir entre les virus naturels apparentés et le virus vaccinal.",
+    "Pas d’administration aux patients immunodéprimés ou aux femmes enceintes",
+    "Allergisants (car ils sont produits dans des œufs embryonnés. Il est donc important de se renseigner sur une éventuelle allergie à l’œuf)",
+    "Contamination possible des cultures par des agents indésirables",
+    "Interférence avec les anticorps circulants",
+    "Manipulation délicate",
+    "Instable (stockage et transport difficile)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-vaccins-inactives",
+   "text": "V. Vaccins inactivés"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-histoire-des-vaccins-vivants-inactives",
+   "text": "1. Histoire des vaccins vivants inactivés"
+  },
+  {
+   "type": "list",
+   "items": [
+    "On a eu plusieurs phases. Il y a d’abord eu les vaccins tués car plus facile à faire."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Avec l’ingénierie de la biologie cellulaire, on s’est rendu compte que dans les bactéries on avait à la surface de certaines des toxines (diphtérique, cholérique ect.), des sucres très immunogènes (pneumocoque, méningocoques), et des protéines très immunogènes (coqueluche)  Extraction et fragmentation : découverte de deux fractions (protéine et surface)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-types-de-vaccins-inactives",
+   "text": "2. Types de vaccins inactivés"
+  },
+  {
+   "type": "paragraph",
+   "text": "Types de vaccins inactivés"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccins entiers"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Virus entier",
+    "Bactérie entière"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccins particulaires"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce sont des fragments de bactéries ou de virus qui sont immunogènes mais beaucoup moins que la bactérie ou le virus entier, permet de produire en grand quantité, ils peuvent être :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Protéique",
+    "Basé sur les polysaccharides (sucres)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-vaccins-vivants-inactives-entiers",
+   "text": "3. Vaccins vivants inactivés entiers"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccins inactivés entie rs"
+  },
+  {
+   "type": "paragraph",
+   "text": "On tue le virus ou la bactérie par :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inactivation physique : avec de la chaleur ou parfois avec des UV"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inactivation chimique : avec du formalgéhyde ou du b- propriolactone"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-vaccins-inactives-particulaires",
+   "text": "4. Vaccins inactivés particulaires"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccins bactériens sous-unités/recombinants"
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemple de Bordetella pertussis (coqueluche) Elle comporte 3 Ag de surface :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Toxoïde pertussis",
+    "Hémagglutinine filamenteuse",
+    "Pertactine Le vaccin contre la coqueluche (acellulaire pertussis) est un mélange de ces trois protéines qui sont purifiées."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemples"
+  },
+  {
+   "type": "paragraph",
+   "text": "Covid ➔ Protéine Spike Hépatite B Grippe ➔ Hémagglutinine Coqueluche Pertussis acellulaire Lyme Principe"
+  },
+  {
+   "type": "list",
+   "items": [
+    "On séquence le génome du virus",
+    "On repère les Ag de surface (enveloppe par exemple)",
+    "On les clone dans un plasmide (vecteur d’expression)",
+    "On produit cet antigène dans différents systèmes d’expressions (levures, bactéries…) - On injecte cette protéine avec un adjuvant = vaccin"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Il y a moins d’effets secondaires, moins de pathogènes mais cela est beaucoup moins immunogènes car il n’y a qu’un seul antigène d’où l’utilisation d’adjuvant pour booster la réponse."
+  },
+  {
+   "type": "paragraph",
+   "text": "Toxoïdes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Beaucoup de bactérie ont des toxines infectées qui vont rendre malades. Exemple : la toxine diphtérique est celle qui permet à la diphtérie de pénétrer dans les cellules épithéliales et induit une cascade catalytique importante et une synthèse de protéine pro-inflammatoire On a donc utilisé cette toxine et on a enlevé les groupes toxiques qui sont à la surface de la toxine pour créer des toxoïdes. Ceci est une modification chimique. L’intérêt est d’inhiber la liaison de la toxine à son récepteur en enlevant la fraction toxique. Donc on a plus les évènements secondaires liés à cette liaison."
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemples"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Tétanos",
+    "Diphtérie"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Vaccins polysaccharidiques (bactéries)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccins polysaccharidiques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Polysaccharide pur"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Permet d’avoir des vaccins thymo-indépendant",
+    "Forte affinité pour le BCR",
+    "Cela permet de se lier très facilement au récepteur des cellules B et de produire beaucoup d’IgM",
+    "Cependant cela n’induit pratiquement jamais la réponse CD4 car ces sucres ne sont pas des peptides, donc ils ne sont pas présentés par le CMH. Ces polysaccharides purs sont peu immunogènes chez les enfants et l’effet est de courte durée (il faut les refaire tous les 5 ans) Presque plus utilisé et remplacé par les vaccins polysaccharidiques conjugués"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Principe :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le polysaccharide se fixe sur le BCR",
+    "Production d’Ac par le LB correspondant au BCR",
+    "Production surtout d’IgM et un peu d’IgG",
+    "Au bout d’un moment, ça s’éteint et ce n’est plus très efficace"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemples de vaccins : pneumocoque, méningocoque"
+  },
+  {
+   "type": "paragraph",
+   "text": "Polysaccharide conjugué"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils ont remplacé les polysaccharides purs car les polysaccharides purs produisent essentiellement des IgM alors que les polysaccharides conjugués produisent essentiellement des IgG"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ici, on prend des sucres, on y met un morceau de protéines pour avoir une réponse CD4 supplémentaire",
+    "Activation de la mémoire immunitaire"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pour faciliter les polysaccharides purs, on a créé les polysaccharides conjugués",
+    "On prend le polysaccharide en question et on rajoute une protéine porteuse",
+    "Ensemble, ils sont présentés par les cellules B aux cellules CD4",
+    "Production d’IgG+++",
+    "On a donc une immunité mémoire"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemples de vaccins : Haemophilus influenza, pneumocoque"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-avantages-et-inconvenients-des-vaccins-inactives",
+   "text": "5. Avantages et inconvénients des vaccins inactivés"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "avantages-inconvenients-2",
+   "text": "AVANTAGES INCONVENIENTS"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ne peuvent plus se répliquer Interférence minimale avec les anticorps circulants Bonne sécurité d’utilisation"
+  },
+  {
+   "type": "paragraph",
+   "text": "Inactivation complète à contrôler Généralement pas aussi efficace que les vaccins vivants Requiert généralement 3-5 doses (pas de réplication) Réponse immune généralement humorale (car pas de réplication)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Médiocre stimulation de l’immunité cellulaire et locale"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hypersensibilisation"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Taux d’anticorps diminuent avec le temps"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Présence d’adjuvant"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-retenir",
+   "text": "A RETENIR :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les vaccins vivants atténués sont généralement plus efficaces mais ils peuvent être dangereux donc il vaut mieux privilégier la sécurité (en utilisant d’autres vaccins) à l’immunogénicité"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vi-composants-vaccinaux",
+   "text": "VI. Composants vaccinaux"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les vaccins ne sont pas représentés uniquement par l’Ag. Il y a également les agents de conjugaison (notamment dans les vaccins conjugués) avec des protéines (tétanos, diphtérie).",
+    "Les vaccins sont composés :",
+    "Agents de conjugaison",
+    "De fluides en suspension (eau, tampons salin, mélange de milieu de culture (qui peuvent donner lieu à des allergies)",
+    "D’agents stabilisants (notamment le thiomersal souvent accusé de toxicité et de maladies) surtout dans les vaccins multidoses",
+    "D’adjuvants"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-adjuvants",
+   "text": "1. Les adjuvants"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les adjuvants"
+  },
+  {
+   "type": "paragraph",
+   "text": "Définition Étymologie : vient du latin « adjuvare », qui veut dire assister Ce sont des molécules qui facilitent la présentation antigénique, qui facilite la prise en charge de l’antigène et qui améliore leur distribution au moment de la vaccination"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôles"
+  },
+  {
+   "type": "paragraph",
+   "text": "Protéger le vaccin :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Permet au vaccin de rester suffisamment longtemps à l’endroit où on l’injecte pour pouvoir engendrer une réponse immunitaire",
+    "Les adjuvants comme l’aluminium vont protéger le vaccin en ralentissant sa dégradation. Stimuler la réponse immunitaire :",
+    "Dans les vaccins qui sont peu immunogènes notamment",
+    "Augmentation/accélération de la réponse immunitaire spécifique et de sa longévité",
+    "Améliore la présentation de l’antigène et sa distribution",
+    "Améliorer la réponse immunitaire chez les immunodéficients (les immunodéprimés, les personnes-âgées, les enfants)",
+    "Réduit la quantité d’antigène nécessaire en maintenant l’efficacité (très utile lors de pandémie) : « dose pairing »"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Catégories"
+  },
+  {
+   "type": "paragraph",
+   "text": "Molécules physicochimiques : retardent la dégradation de l’antigène"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Sels minéraux (aluminiums)",
+    "Huiles (émulsions) Immunostimulantes :",
+    "Ligands de l’immunité innée"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-vaccin-et-auto-immunite",
+   "text": "VII. Vaccin et auto-immunité"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôle des vaccins dans la rupture de la tolérance de soi"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pourquoi les gens se méfient de la vaccination ?",
+    "Il y a eu beaucoup de débats sur la vaccination et les maladies auto-immunes. Les deux ne sont pas très éloignés.",
+    "On va vers une maladie auto-immune quand on brise la tolérance vis-à-vis du soi. Donc si on stimule trop fortement la réponse immunitaire avec un vaccin, il y a un risque d’induire des maladies auto-immunes."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hypothèse physiopathologique :",
+    "On peut briser la tolérance du soi pendant une infection. Certains pathogènes ont des Ag qui ressemblent beaucoup aux Ag du soi. Par conséquent si certains pathogènes ont des Ag qui ressemblent beaucoup aux Ag du soi, alors il y a des vaccins qui utilisent des Ag qui"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "ressemblent beaucoup aux Ag du soi."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les risques sont donc :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les adjuvants qui peuvent lever la tolérance du soi",
+    "Les Ag injectés qui ressemblent beaucoup aux Ag du soi",
+    "Dépendant des personnes chez qui on injecte le vaccin"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Scandales"
+  },
+  {
+   "type": "paragraph",
+   "text": "Syndrome de Guillain-Barré (=BGS) et vaccin antigrippal (controverse des années 70) Apparition de syndrome neurologique plus prévalent chez les gens vaccinés par ce vaccin"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les études de sa tolérance"
+  },
+  {
+   "type": "list",
+   "items": [
+    "1 ère étude montre qu’il y a un risque : x7 + de chance de développer un GB si on est vacciné.",
+    "Depuis, une vingtaine d’études ont invalidé ce fait :"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Aucune incidence accrue du BGS après vaccination antigrippale, antiméningocoque et antipoliomyélitique"
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets des composés"
+  },
+  {
+   "type": "paragraph",
+   "text": "On a suspecté :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Sels d’aluminium : Les seules réactions secondaires sont des douleurs locales au site d’injection",
+    "Squalène : adjuvant, dérivé d’huile de requin (émulsion très immunogène)",
+    "Thiomersal : cette controverse a eu un seul avantage, c’est qu’elle a permis d’éliminer l’utilisation du Thiomersal dans les vaccins"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Finalement ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Corrélation ne veut pas forcément dire causalité.",
+    "Ce n’est pas parce qu’on observe quelque chose à un moment donné que ça en est la cause.",
+    "Il faut prendre en compte, lors des études, tous les facteurs différents entre les populations (âge, comorbidités ect…)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Sclérose en plaque et vaccin anti-VHB"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Première étude : Montre l’apparition de manifestation neurologique démyélinisante chez les personnes vaccinées contre l’hépatite B, ce qui aboutit à un arrêt de la vaccination HB."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Depuis, des études prospectives ont été conduites : pas de confirmation. Démontre que la vaccination Hépatite B n’induisait pas la SEP. Mais le mal avait été fait, dans l’esprit de la population c’est un vaccin compliqué. Autisme et vaccin MMR (rougeole, rubéole, oreillons)",
+    "L’autisme est un sujet très sensible pour les populations. C’est ce qui permit à Wakefield, médecin anglais, d’avoir autant d’impact lorsqu’il publia un article décrivant cette vaccination MMR.",
+    "Pour son étude il s’est basé sur une corrélation entre la courbe de la vaccination MMR et celle de l’autisme.",
+    "Mais, son étude est complétement biaisée car le dépistage systématique de l’autisme commence au même moment que la vaccination MMR. Une augmentation similaire est donc ininterprétable.",
+    "Retrait en 2018 de son article mais cela a pris beaucoup de temps et a fait beaucoup de mal"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "La narcolepsie (vraie mise en cause du vaccin)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Seul épisode en date vraiment relié à la vaccination. En 2014, après la vaccination H1N1 (vaccin adjuvanté) :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Incidence de la narcolepsie augmente significativement chez certaines personnes vaccinées",
+    "On fait alors le lien entre la vaccination et un possible syndrome auto-immun.",
+    "Hypothèse :",
+    "Narcolepsie est dû à une protéine permettant l’endormissement : hypocrétine",
+    "Recherche de mimétisme moléculaire : dans certains lots de vaccin H1N1 on retrouve un épitope similaire à une protéine responsable de la régulation de l’endormissement (hypocrétine). Hypothèse retenue : Le vaccin induisait une narcolepsie par mimétisme moléculaire. Après changement de la composition plus de problème de narcolepsie. Syndrome ASIA Utilisation de l’aluminium et myofasciite à macrophage"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "= Syndrome auto-immunitaire/inflammatoire induit par les adjuvants Aluminium comme adjuvant :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Persiste au point d’injection mas Bénéfice/Risque en faveur de l’utilisation des sels d’aluminium",
+    "Peu d’alternatives",
+    "Des millions de personnes vaccinées",
+    "Manque d’évidence sur la Myofasciite à macrophage",
+    "Selon le prof : Syndrome ASIA regroupe toutes les causes psychosomatiques possible (ex : fatigue, mal aux muscles, courbature (un peu tout et n’importe quoi)) et vont les corréler avec les adjuvants si vous vous êtes fait vaccinés pas longtemps avant, le prof ne dit pas que c’est n’importe quoi mais que c’est difficile de prouver que les adjuvants peuvent causer tous ces symptômes, c’est un syndrome très utilisé comme argument par les anti-vaccins Lien d’un film ARTE sur les anti-vaccins que le prof a conseillé : https://www.youtube.com/watch?v=9XZ_3gusYL4"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "viii-voies-d-administration",
+   "text": "VIII. Voies d’administration"
+  },
+  {
+   "type": "paragraph",
+   "text": "Voies d’administration"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les vaccins peuvent être administrés par"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Voie parentérale (la plus classique)",
+    "Voie intramusculaire",
+    "Voie sous-cutanée",
+    "Voie muqueuse Voie muqueuse Des recherches sont en cours pour optimiser cette voie d’administration"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Voie en cours d’évaluation"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Voie intradermique",
+    "Voie transcutanée",
+    "Voie intranasale",
+    "Voie IV/IR",
+    "Voie sublinguale",
+    "Voie oculaire"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ix-comment-favoriser-le-developpement-d-une-bonne-reponse-a-",
+   "text": "IX. Comment favoriser le développement d’une bonne réponse à médiation cellulaire ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "(passé vite)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Utilisation d’adjuvants",
+    "Améliorer la présentation des antigènes vaccinaux par des molécules CMH I (très difficile avec des vaccins tués ou particulaires)",
+    "Vecteurs viraux recombinants (poxvirus, adénovirus essentiellement) ● Vaccins DNA",
+    "Sélection d’épitopes (protéasome, stratégies de « ring-épitopes »)",
+    "Multi-vaccination (stratégie de « prime-boost »)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "x-champs-d-application-de-la-vaccination",
+   "text": "X. Champs d’application de la vaccination"
+  },
+  {
+   "type": "paragraph",
+   "text": "La vaccination va bien au-delà des maladies infectieuses. Champs d’application de la vaccination"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Maladies infectieuses (ex : tuberculose, Flu, malaria, hépatite…)",
+    "Cancers (BRCA1, RCC...)",
+    "Allergies (immunothérapie...)",
+    "Auto-immunités (vascularite...)",
+    "Maladies neurologiques",
+    "Fumeur (vaccin en cours sur la nicotine)",
+    "Dentaire"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vétérinaire"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XI. Les vaccins et leurs enjeux en 2025"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-enjeux",
+   "text": "1. Les enjeux"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les enjeux de la vaccination Aujourd’hui on essaye de développer des vaccins pour être plus efficace."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il y a un réel enjeu sur :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les infections :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Représentent 30% des causes de décès",
+    "2 ème cause de décès dans le monde",
+    "Émergence de souches multi-résistantes aux ATB (car aujourd’hui on utilise beaucoup les antibiotiques) La problématique de l’hésitation vaccinale :",
+    "Améliorer la compréhension de la vaccination",
+    "1 des 2 priorités de l’OMS Les situations sur lesquelles on n’arrive pas à maîtriser l’efficacité des vaccins. On n’est pas très bon pour induire une bonne immunité pour :",
+    "Les âges extrêmes de la vie (personne-âgé, bébés)",
+    "Durant la grossesse",
+    "Chez les personnes immunodéprimées",
+    "Les infections émergentes",
+    "Les infections liées aux soins"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "A titre informatif uniquement"
+  },
+  {
+   "type": "paragraph",
+   "text": "Maladies infectieuses ne disposant pas de vaccin efficace ou suffisamment efficace en 2024 et donc à fort potentiel épidémique :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Chlamydia",
+    "CMV",
+    "Charbon",
+    "Chikungunya",
+    "Clostridium difficile",
+    "Dengue (Vaccin existe mais favorise l’infection wtf)",
+    "EBV",
+    "Ebola",
+    "Helicobacter pylori",
+    "Hépatite C",
+    "Herpès",
+    "HIV"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Lyme",
+    "Malaria",
+    "Mers /Sars",
+    "Shigella",
+    "SRAS",
+    "Staph Aureus",
+    "Streptocoque B",
+    "Tuberculose",
+    "VRS",
+    "West Nile Virus",
+    "Virus Zika",
+    "ZVL",
+    "Coqueluche, Grippe, Typhoide"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-vaccination-contre-la-grippe",
+   "text": "2. Vaccination contre la grippe"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccination contre la grippe L’efficacité de la vaccination antigrippale n’est pas optimale (en plus de fortement varier chaque année), même chez les enfants et les jeunes adultes."
+  },
+  {
+   "type": "paragraph",
+   "text": "Variation de l’efficacité en fonction"
+  },
+  {
+   "type": "list",
+   "items": [
+    "De la souche",
+    "De l’adéquation de la composition du vaccin aux virus circulants",
+    "Du terrain : moindre efficacité chez le sujet âgé et l’immunodéprimé"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Solution pour augmenter l’immunogénicité aux âges extrêmes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vaccin fortement dosé (vaccin “high dose”) même si cela a un coût",
+    "Vaccin adjuvanté",
+    "Vaccin intradermique ou transdermique"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-vaccination-et-grossesse",
+   "text": "3. Vaccination et grossesse"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vaccination et grossesse"
+  },
+  {
+   "type": "paragraph",
+   "text": "Notion variable"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dans le passé, pendant très longtemps, on pensait qu’il ne fallait pas vacciner les femmes enceintes car risques tératogènes.",
+    "Aujourd’hui on va de plus en plus recommander de vacciner les femmes enceintes pour protéger les nouveaux nés. On sait qu’aujourd’hui on peut vacciner pendant les 2 premiers trimestres sans aucun risque",
+    "La première à avoir été faite est la vaccination contre le méningocoque",
+    "Ce vaccin protège la mère mais aussi 40% des bébés pendant 3 à 6 mois"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Perspectives De nos jours il y a de nombreuses stratégies qui arrivent :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Streptocoque B",
+    "VRS"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-vaccination-hpv",
+   "text": "4. Vaccination HPV"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La vaccination HPV demande une communication importante car elle réduit l’incidence des cancers de plus de 98%. Cependant la couverture vaccinale en France n’est que de 18%.",
+    "Preuve d’efficacité de 97,4%",
+    "Il est fortement recommandé même s’il ne fait partie de la liste des vaccins obligatoires !"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-maladies-emergentes-vaccin-contre-ebola",
+   "text": "5. Maladies émergentes : vaccin contre Ébola"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ces vaccins marchent très bien ➔ 100% d’efficacité",
+    "On n’en parle pas beaucoup car il touche peu de personnes",
+    "Utilisé fréquemment quand il y a des cas en Afrique en utilisant la méthode vaccination en anneau (=on vaccine l’environnement pour éviter la dissémination)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "6-vaccin-contre-la-malaria",
+   "text": "6. Vaccin contre la malaria"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les vaccins ne marchent pas malgré de nombreux essais.",
+    "Étude : vaccin R21 démontre 70% d’efficacité MAIS en combinaison avec des traitements chimiques"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XII. Vaccination de précision"
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’efficacité vaccinale est très hétérogène et on sait aujourd’hui qu’il y a beaucoup de facteurs intrinsèques :",
+    "Les femmes répondent mieux (hormones ?)",
+    "Tabac, alcool",
+    "Nutrition",
+    "Facteurs autour de la naissance des enfants",
+    "Activité physique",
+    "Vivre en ville ou à la campagne"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "La médecine de précision consiste à adapter le traitement médical aux caractéristiques individuelles de chaque patient."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XIII. Chronovaccination"
+  },
+  {
+   "type": "list",
+   "items": [
+    "On s’est rendu compte que le matin le système immunitaire est « au repos » et est donc très peu inflammatoire donc lorsque l’on vaccine le matin vers 9h cela marche mieux."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XIV. Impact du microbiote sur l’efficacité vaccinale"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La faible diversité du microbiote des enfants et des personnes âgées corrèle avec un statut immunologique altéré et une réponse vaccinale suboptimale Toutes les populations répondant mal sont caractérisées par le fait d’avoir une diversité du microbiote très faible",
+    "Solution : restaurer le microbiote Transplantation fécale"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XV. LA sixième révolution des vaccins est en cours"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Correspond à l’ère des vaccins génétiquement modifiés",
+    "Plein de développement sont en cours",
+    "On développe ce qu’on appelle le CHIM (=on teste les vaccins chez des gens à qui on va provoquer des infections) c’est un modèle d’évaluation clinique qui est très contrôlé, cela permet de gagner en rapidité"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XVI. La révolution des vaccins ARNm"
+  },
+  {
+   "type": "list",
+   "items": [
+    "C’est vraiment une révolution",
+    "On se demande s’ils peuvent être les vaccins qui vont être efficace contre tous les pathogènes",
+    "Finalement on se rend compte qu’ils ne permettent pas de tout soigner car il y a beaucoup de vaccins qui ne marchent pas (ex : la grippe, HIV)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XVII. Voie mucosale"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Différentes manières d’administrer par voie mucosale :",
+    "Voie orale (comprimés)",
+    "Respiratoire (nez, aérosol ++)",
+    "Voie vaginale (pour les infections sexuelles",
+    "Voie oculaire",
+    "Important car la majorité des pathogènes arrive par voie mucosale et on sait que presque tous les vaccins d’aujourd’hui sont incapables d’induire une réponse mucosale.  Il faut donc ciblée ces voies d’administration"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Comment fait-on :",
+    "Spray",
+    "Gélules qui se dissoudent",
+    "Adjuvants qui adhèrent sur les cellules",
+    "Nanoparticules qui vont au niveau de l’épithélium"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XVIII. Hésitation vaccinale"
+  },
+  {
+   "type": "paragraph",
+   "text": "Vacciner contre l’hésitation vaccinale"
+  },
+  {
+   "type": "paragraph",
+   "text": "Hésitation de la part du patient"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hésitation vis-à-vis de la décision de se vacciner ou de faire vacciner ses enfants",
+    "La plupart du temps pour des raisons obscures"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Nombreux facteurs"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vaccin victime de son succès",
+    "Polémiques sur les EI attribués aux vaccins : autisme, allergies…",
+    "Manque de confiance dans les autorités de santé",
+    "Vaccins profitent aux industriels",
+    "Préférence des produits « naturels »"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Hésitation de la part du médecin 16 à 43%"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils sont parfois hésitants :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Parce qu’ils sont mal formés",
+    "Parce qu’ils ne sont pas impliqués dans la stratégie de vaccination",
+    "Parce qu’ils ont la sensation d’effets indésirables fréquents - Parce qu’ils ont un doute sur l’utilité du vaccin"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils vont recommander :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les vaccins dont ils se sentent à l’aise pour expliquer les bénéfices et les risques",
+    "Les vaccins, s’ils ont confiance dans les sources officielles d’information"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le problème de l’hésitation vaccinale est que malgré des vaccins existants et efficaces, les populations sont sujettes à des épidémies car elles refusent de se faire vacciner.",
+    "Il faut bien communiquer entre professionnels mais surtout avec nos patients à propos de l’importance des vaccins."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XIX. Conclusion"
+  },
+  {
+   "type": "paragraph",
+   "text": "Points clés"
+  },
+  {
+   "type": "paragraph",
+   "text": "Point clés"
+  },
+  {
+   "type": "paragraph",
+   "text": "Qu’est-ce qu’un vaccin ? Principes de la vaccination (prime, boost, maturation) Différents types de vaccins Composition L’utilité des adjuvants"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Nouvelles stratégies de vaccination"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Sécurité/veille vaccinale : Maintenir une surveillance comme pour n’importe quel médicament"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hésitation vaccinale : continuer de lutter"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XX. QCM de cette année"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 1 : Quelles sont la ou les réponse(s) vraie(s) ? A. Un vaccin est spécifique d’un agent pathogène B. Le but du vaccin est d’induire une immunisation active C. La vaccination thérapeutique permet de traiter une personne qui n’a jamais été en contact avec un agent pathogène D. L’objectif de la vaccination thérapeutique est de réactiver les cellules effectrices efficaces pour les rendre non efficace. E. Le vaccin vivant atténué a moins d’effet indésirable que les vaccins inactivés."
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 2 : Quelles sont la ou les réponse(s) vraie(s) ? A. Les vaccins polysaccharidiques purs sont peu immunogènes chez les enfants B. Les vaccins polysaccharidiques purs n’ont pas besoin de rappel C. Les vaccins polysaccharidiques conjugués produisent essentiellement des IgM D. Les vaccins inactivés ont une bonne sécurité d’utilisation et sont généralement aussi efficaces que les vaccins vivants E. Il vaut mieux privilégier la sécurité à l’immunogénicité"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 1 : AB A. VRAI B. VRAI C. FAUX : La vaccination prophylactique permet de traiter une personne qui n’a jamais été en contact avec un agent pathogène D. FAUX : L’objectif est de réactiver les cellules effectrices non efficaces pour les rendre de nouveau efficace E. FAUX : Le vaccin vivant atténué a plus d’effet indésirable que les vaccins inactivés."
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 2 : AE A. VRAI B. FAUX : il faut les refaire tous les 5 ans C. FAUX : Les vaccins conjugués produisent essentiellement des IgG D. FAUX : Les vaccins inactivés ont une bonne sécurité d’utilisation et sont généralement PAS aussi efficaces que les vaccins vivants E. VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "XXI. QCM de l’année dernière"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 1 : Quelles sont la ou les réponse(s) vraie(s) ? A. Un vaccin est une préparation antigénique qui a pour but d’induire chez la personne ou l’animal qu’on vaccine, une réponse immunitaire B. L’objectif de la vaccination est d’induire une immunisation passive C. Il existe deux types de vaccination : prophylactique et thérapeutique D. Les vaccins viraux et bactériens atténués sont contre indiqué chez les ID et femmes enceintes. E. La couverture vaccinale en France est homogène au sein du territoire et pour les différents vaccins."
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 2 : Quelles sont la ou les réponse(s) vraie(s) ? A. Les vaccins vivants atténués ne peuvent pas être administrés chez la femme enceinte mais peuvent être administrés durant une chimiothérapie B. Les vaccins vivants atténués sont plus immunogènes que les vaccins inactivés C. Les polysaccharides purs produisent essentiellement des IgG alors que les polysaccharides conjugués produisent essentiellement des IgM D. Un vaccin inactivé nécessite l’injection de plusieurs doses E. Les adjuvants comme l’aluminium permettent de protéger le vaccin mais diminue la réponse immunitaire Correction :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 1 : AC F. VRAI G. FAUX : Induire une immunisation active H. VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-faux-les-vaccins-viraux-et-bacteriens-vivants-sont-contre-",
+   "text": "I. FAUX : Les vaccins viraux et bactériens vivants sont contre indiqué chez les ID et femmes enceintes."
+  },
+  {
+   "type": "paragraph",
+   "text": "J. FAUX : La couverture vaccinale en France est hétérogène au sein du territoire et pour les différents vaccins."
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 2 : BD A. FAUX : une personne sous chimio est une personne immunodéprimée. On n’administre pas de vaccins vivants attenues chez une personne immunodéprimée B. VRAI C. FAUX : Les polysaccharides purs produisent essentiellement des IgM alors que les polysaccharides conjugués produisent essentiellement des IgG D. VRAI E. FAUX : Les adjuvants protéger le vaccin ET stimule la réponse immunitaire *"
+  },
+  {
+   "type": "paragraph",
+   "text": "Quels sont les différents types de vaccins ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Les différents types de vaccins sont les vaccins préventifs, les vaccins thérapeutiques, les vaccins prophylactiques et les vaccins curatifs. B. Les différents types de vaccins sont les vaccins bactériens, les vaccins viraux, les vaccins fongiques et les vaccins parasitaires. C. Les différents types de vaccins sont les vaccins vivants atténués, les vaccins inactivés, les vaccins sous-unitaires purifiés et les vaccins recombinants. D. Les différents types de vaccins sont les vaccins traditionnels, les vaccins alternatifs, les vaccins expérimentaux et les vaccins naturels. E. Les différents types de vaccins sont les vaccins chimiques, les vaccins naturels, les vaccins génétiques et les vaccins biologiques."
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse C"
+  },
+  {
+   "type": "paragraph",
+   "text": "Quelle est la réponse immunitaire après exposition à un antigène ? A. La réponse immunitaire après exposition à un antigène se divise en une réponse primaire, rapide, avec beaucoup d'IgM, et une réponse secondaire, encore plus lente et moins puissante, avec beaucoup d'IgG. B. La réponse immunitaire après exposition à un antigène se divise en une réponse primaire, lente, avec beaucoup d'IgG, et une réponse secondaire, encore plus lente et moins puissante, avec beaucoup d'IgM. C. La réponse immunitaire après exposition à un antigène se divise en une réponse primaire, rapide, avec beaucoup d'IgM, et une réponse secondaire, encore plus rapide et plus puissante, avec beaucoup d'IgG. D. La réponse immunitaire après exposition à un antigène se divise en une réponse primaire, lente, avec beaucoup d'IgM, et une réponse secondaire, encore plus lente et moins puissante, avec beaucoup d'IgG. E. La réponse immunitaire après exposition à un antigène se divise en une réponse primaire, rapide, avec beaucoup d'IgG, et une réponse secondaire, encore plus rapide et plus puissante, avec beaucoup d'IgM."
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse C"
+  },
+  {
+   "type": "paragraph",
+   "text": "ACC :"
+  },
+  {
+   "type": "paragraph",
+   "text": "2024 : Question 17 : Concernant la vaccination, la première injection vaccinale (primo-vaccination) induit majoritairement : A. Une forte réponse IgM B. Des cytokines pro-inflammatoires C. Une réponse IgE D. Une forte réponse IgG E. La production de lymphocytes B mémoires"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse : ABE"
+  },
+  {
+   "type": "paragraph",
+   "text": "2023 : Question 4 : Concernant la vaccination, qu’induit majoritairement la première injection vaccinale ? (primo-vaccination) A – des lymphocytes T régulateurs B – une forte réponse IgM C – des phénomènes de tolérance immunitaire D – une forte réponse IgD E – l’activation des lymphocytes B"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse : BE"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 6 : Concernant la vaccination, quel(s) est (sont) les proposition(s) exacte(s) ? A. La vaccination vise à mimer une infection"
+  },
+  {
+   "type": "paragraph",
+   "text": "B. La vaccination est basée sur l’utilisation de tout ou partie d’un agent pathogène C. La vaccination fonctionne très bien chez les nouveaux nés D. La vaccination fonctionne très bien chez les personnes âgées E. La vaccination peut être basée sur l’utilisation de virus vivants"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse : ABCE"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 7 : Concernant la vaccination, quel(s) est (sont) le(s) avantage(s) des adjuvants ? A. Améliorent l’efficacité du vaccin chez les personnes âgées B. Diminuent l’inflammation C. Diminuent la toxicité du vaccin D. Améliorent la biodisponibilité du vaccin E. Permettent une meilleure conservation du vaccin"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse : ADE"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 22 : Garçon 5 mois. 1er enfant né de parents apparentés au 1er degré. Vaccination à jour."
+  },
+  {
+   "type": "paragraph",
+   "text": "Vacciné à la naissance par le BCG. Cassure de la courbe pondérale. Pneumopathie alvéolo-interstitielle, Hypoxie. Dans le lavage bronchoalvéolaire, présence de Pn Jirovecii,"
+  },
+  {
+   "type": "paragraph",
+   "text": "Haemophilus influenzae B, BCG et Klebsiella. Leucocytes 7,2 G/L ; hémoglobine 11,4 g/L ; polynucléaires 4,9 G/L ; lymphocytes 0,5 g/L ; Ig A, G & M et anticorps vaccinaux nuls. Indiquez les affirmations justes : A. Le BCG est un vaccin ‘tué’ B. Pn Jirovecii est un champignon opportuniste C. Le chiffre de lymphocyte est normal pour l’âge D. Les IgA sont ininterprétable à cet âge de la vie E. Le diagnostic est celui de déficit immunitaire combiné sévère"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse : BE"
+  },
+  {
+   "type": "paragraph",
+   "text": "2022 :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-12",
+   "text": "QUESTION N° 12 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Un très jeune nourrisson de 5 mois ayant déjà bénéficié de 2 rappels de vaccination Diphtérie Tétanos Polio Haemophilus Pneumocoque est admis en réanimation pour une détresse respiratoire grave liée à une pneumopathie interstitielle. La numération met en évidence une lymphopénie à 200 lymphocytes/μL. Vous évoquez immédiatement un déficit immunitaire primitif. Quel(s) examen(s) de base vous paraisse(nt) approprié(s) ? A. Étude de la réponse vaccinale après réalisation d’un BCG B. Immunophénotypage des sous populations lymphocytaires T, B, NK par cytométrie en flux C. Etude des fonctions bactéricides du polynucléaire neutrophile D. Examens microbiologiques : hémocultures, aspirations rhinopharyngées E. Dosage des anticorps vaccinaux (diphtérie, tétanos, polio...)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Répons : BCDE"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 13 : Quelles est (sont) la (ou les) proposition(s) exactes concernant les recommandations vaccinales chez la mère et l’ enfant ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. la vaccination ROR (Rougeole, Oreillons, Rubéole) doit absolument être faite au cours de la grossesse si la femme n ’est pas immunisée B. les vaccinations à vaccins vivants sont indiquées au cours de la grossesse"
+  },
+  {
+   "type": "paragraph",
+   "text": "C. le vaccin anti-grippal peut être réalisé au cours de la grossesse D. la vaccination anti-coqueluche est recommandée dans l’entourage du jeune enfant pour le protéger E. La première injection de vaccin DTP (Diphtérie, tétanos, Poliomyélite) désormais obligatoire est réalisée à l’âge de 6 mois"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse : CD"
+  }
+ ]
+}

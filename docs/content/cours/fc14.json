@@ -1,0 +1,765 @@
+{
+ "slug": "fc14",
+ "code": "FC14",
+ "title": "Immunopathologie du VIH",
+ "prof": "Pr. Longet",
+ "sourceFile": "FC14-Pr Longet-immunopathologie-VIH-17_02(3).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "1-decouverte-vih",
+   "label": "1. Découverte VIH",
+   "level": 3
+  },
+  {
+   "id": "2-vih-1-et-2",
+   "label": "2. VIH 1 et 2",
+   "level": 3
+  },
+  {
+   "id": "3-origines-et-distribution",
+   "label": "3. Origines et distribution",
+   "level": 3
+  },
+  {
+   "id": "1-entree-et-transport-du-virus-dans-les-cellules-immunitaire",
+   "label": "1. Entrée et transport du virus dans les cellules immunitaires",
+   "level": 3
+  },
+  {
+   "id": "video-1",
+   "label": "VIDÉO 1 :",
+   "level": 2
+  },
+  {
+   "id": "1-attachement-liaison-gp120-au-recepteur-cd4",
+   "label": "1. Attachement : liaison GP120 au récepteur CD4",
+   "level": 3
+  },
+  {
+   "id": "2-liaison-au-co-recepteur",
+   "label": "2. Liaison au co récepteur",
+   "level": 3
+  },
+  {
+   "id": "3-fusion-l-enveloppe-du-vih-fusionne-avec-la-membrane",
+   "label": "3. Fusion : l’enveloppe du VIH fusionne avec la membrane",
+   "level": 3
+  },
+  {
+   "id": "video-2",
+   "label": "VIDEO 2 :",
+   "level": 2
+  },
+  {
+   "id": "2-reponses-immunitaires-anti-vih-et-leurs-limites",
+   "label": "2. Réponses immunitaires anti-VIH et leurs limites",
+   "level": 3
+  },
+  {
+   "id": "1-cas-exposes-non-infectes-heni",
+   "label": "1. Cas exposés non infectés (HENI)",
+   "level": 3
+  },
+  {
+   "id": "3-perspective-d-un-vaccin",
+   "label": "3. Perspective d’un vaccin",
+   "level": 3
+  },
+  {
+   "id": "a-retenir",
+   "label": "À RETENIR",
+   "level": 2
+  },
+  {
+   "id": "question-n-14",
+   "label": "QUESTION N° 14 :",
+   "level": 2
+  },
+  {
+   "id": "a-vrai",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "b-vrai",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-vrai",
+   "label": "D : VRAI",
+   "level": 2
+  },
+  {
+   "id": "a-vrai-2",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "b-vrai-2",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "c-vrai",
+   "label": "C : VRAI",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. Longet Immunopathologie HILLAIRE Aurore Immunopathologie de l’infection par le VIH"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le VIH reste aujourd’hui encore source de challenge (vaccins en cours de développement). IVIH"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-decouverte-vih",
+   "text": "1. Découverte VIH"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce virus a été découvert aux États-Unis dans les années 80 sous forme de problèmes respiratoires (pneumonies atypiques avec mort rapide). Des jeunes hommes ont des maladies dues à des pathogènes opportunistes = typiquement chez les immunodéprimés (Pneumocystis, Cytomegalovirus, Candida ). Elles touchaient principalement des jeunes adultes, notamment dans la communauté homosexuelle. Ce virus historique va rassembler pour la première fois toute la population afin de lutter et de trouver une solution. Le patient va prendre du pouvoir par rapport à sa maladie : collaboration médecin, chercheur, patient guidant la recherche. Aujourd’hui au niveau mondial ce sont plus les femmes qui sont touchées."
+  },
+  {
+   "type": "paragraph",
+   "text": "Deux théories ont émergé dans les années 80 :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Virus qui crée des leucémies : HTLV (professeur Gallo)",
+    "Autres types de virus : rétrovirus qui induit un syndrome d’immunodéficience (groupe Pasteur car activité de reverse transcriptase qu’ils ont trouvé en étudiant les cas) Bonne théorie : HIV, découverte d’une activité reverse transcriptase dans les cellules infectées par le VIH"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-vih-1-et-2",
+   "text": "2. VIH 1 et 2"
+  },
+  {
+   "type": "paragraph",
+   "text": "VIH :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Virus à ARN simple brin. C’est un rétrovirus.",
+    "Enveloppe : Protéines virales externes : GP120 : important pour l’entrée du virus dans la cellule, attachement du virus aux cellules, GP41 : fusion",
+    "Antigène P24 : immunogénicité, utilisée dans le développement de vaccin, concerne la capside,",
+    "Rétrovirus (=virus dont le matériel génétique est de l’ARN qui est transcrit en ADN par une enzyme interne particulière : la reverse transcriptase)",
+    "Très grande variabilité génétique, ce qui lui confère une importante diversité."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Il en existe 2 grands types :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "VIH 1 : le plus présent dans le monde (98%) avec des groupes 0, P, N, M (avec des sous groupes en plus).",
+    "VIH 2 : différence dans le génome, impacte la virulence (vpu facteur plus virulent remplacé par vpx moins virulent) : moins contagieux, groupes A à I donc une grande diversité. À noter que le virion est la forme finale du virus responsable de l’infection. Le VIH mute souvent car ARN simple brin donc lors d’erreurs les réparations en se font pas vraiment et lui permettent d’évoluer rapidement. Cela est aussi à l’origine des difficultés à faire un vaccin."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Plusieurs facteurs codants à différents endroits : GAG code pour la matrice, nucléocapside, P24 (à l’intérieur). Éléments qui codent pour l’enveloppe (externes). Mais aussi au niveau enzymatique des éléments qui codent pour : protéase, rétro transcriptase. Et des protéines facteurs de restriction : font que la cellule infectée est au profit du virus, plus de relâchement de virion…. Ces protéines sont essentielles pour la virulence du virus."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-origines-et-distribution",
+   "text": "3. Origines et distribution"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Il s’agit d’une zoonose (primate non humain) qui provient du singe (plusieurs échanges) Singe : HIV 1 groupe M et N Gorille : HIV 1 groupe O et P Cercocebus (petit singe): HIV 2 Ainsi il y a eu plusieurs passage de l’animal à l’humain."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "La carte ci-contre montre que selon les régions, on a des sous types de virus différent (non détaillé simplement pour illustrer)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Aujourd’hui on a des traitements qui rendent l’ARN non détectable. En 2024, environ :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "40 millions de personnes vivent avec le VIH dans le monde (2/3 en région africaine).",
+    "1.3 million de personnes ont été infectées.",
+    "630 000 personnes sont décédées de maladies liées au sida dans le monde. Dans les pays africains beaucoup de personnes non diagnostiquées et donc non traitées."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Objectifs : 90% diagnostiqués, 90% traités, 90% avec une charge indétectable Depuis le début de l’infection"
+  },
+  {
+   "type": "list",
+   "items": [
+    "85.6 millions de personnes infectées dont 42 millions de décès dus à des maladies liées au sida."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "En 2023 en France"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Entre 4200 et 5700 personnes ont découvert leur statut de séropositivité.",
+    "Pourcentage encore élevé de découverte tardive de l’infection.",
+    "Baisse observée en 2020 en raison de la COVID-19, mais cette tendance est biaisée par une diminution des diagnostics durant cette période.",
+    "Augmentation des cas chez les femmes, diminution chez les hommes homosexuels."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "IIPremières étapes de l’infection par le VIH"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-entree-et-transport-du-virus-dans-les-cellules-immunitaire",
+   "text": "1. Entrée et transport du virus dans les cellules immunitaires"
+  },
+  {
+   "type": "paragraph",
+   "text": "a) Sites d’entrées : les muqueuses"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le virus peut entrer par notre système gastro-intestinal, le système reproducteur masculin/féminin. Il existe des barrières et défenses afin de nous protéger comme le mucus, les cellules NK, les cytokines, les hormones, le microbiote, le PH, les jonctions serrées… Épithélium : Monostratifié (gastrointestinal) ou pluristratifié (génital). Il y a des effets directs ou indirectes qui favorisent l’infections : inflammation, microbiote, abrasion de la muqueuse, type d’épithélium… Tout cela (les inflammations persistantes) favorisent l’infection au HIV."
+  },
+  {
+   "type": "paragraph",
+   "text": "Une fois que les cellules sont infectées le virus se transmet à travers plusieurs mécanismes : entre cellules épithéliales proches, par des transcytoses avec des vésicules, par transmigration par les cellules dendritiques, ou à cause d’une abrasion physique et le virus rentre directement (le plus facile pour le virus)."
+  },
+  {
+   "type": "paragraph",
+   "text": "b) Entrée et réplication du virus VIH dans les cellules immunitaires"
+  },
+  {
+   "type": "paragraph",
+   "text": "1Infection du virus :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Passe la barrière épithéliale, le virus se reproduit dans les cellules",
+    "Production de virions et envahissement du corps 2- Transcytose : Traverse la cellule épithéliale 3- Transmigration : Cellules détritiques à la jonction entre les cellules épithéliales, transporte le virus 4- Réplication au niveau des macrophages Ces quatre points n’ont pas été redonnés cet ordre mais reprend les idées expliquées au-dessus par la professeur."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Si lésion de la muqueuse, passage direct du virus sans les étapes précédentes."
+  },
+  {
+   "type": "paragraph",
+   "text": "HIV infecte surtout certaines cellules :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Lymphocytes TCD4 activés puisque le CD4 est un récepteur du VIH, responsable de la création d’un réservoir pour le virus.",
+    "En primo-infection, le VIH infecte surtout des cellules qui se multiplient beaucoup/ très réactif (CD4)",
+    "En second temps comme les TCD4 quiescentes, résidentes, stade G0 ou G1, début des réservoirs",
+    "Infection d’autres cellules : macrophages, détritiques car expriment aussi récepteur CD4"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Lymphocyte CD4 :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Entrée : liaison du virus au Rc CD4 via GP120 (extérieur du virus)",
+    "Après cette première liaison, GP120 change de conformation ce qui lui permet de faire une seconde liaison avec le Co récepteur (présent sur les cellules humaines) : CCR5 ou CXCR4 , certains ont un tropisme plutôt pour l’un ou l’autre de ces co récepteurs en fonction de la souche.",
+    "Liaison entre GP41 et membrane : fusion entre virus et membrane L CD4 ou cellule cible",
+    "Le virus va utiliser ces cellules pour se reproduire. Au départ CD4 actives utilisées mais ensuite ce sont les CD4 quiescentes (cellules immunitaires mémoires D affectées)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Le graphique montre qu’au début beaucoup d’ARN viral puis mise en place du traitement et donc diminution du taux au niveau du plasma. Mais les cellules quiescentes restent infectées : réservoir du virus."
+  },
+  {
+   "type": "paragraph",
+   "text": "Liaison virus et membrane de la cellule."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "video-1",
+   "text": "VIDÉO 1 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce virus infecte les cellules du système immunitaire pour se reproduire. Une particule unique du virus VIH : le virion est composé d’une enveloppe protectrice, d’un corps viral/nucléocapside, d’un génome . L’enveloppe virale est constituée de deux couches lipidiques et de deux types de glycoprotéines : la GP120 (qui agit avec les récepteurs CD4 des cellules hôtes humaines) et la gp41. La capside quant à elle contient le génome composé de deux copies identiques d’ARN. Trois enzymes sont aussi nécessaires à la réplication : la transcriptase inverse, l’intégrase et la protéase. Le VIH est un rétrovirus qui va transcrire son ARN en ADN à partir de la transcriptase inverse. Cet ADN est incorporé dans l’ADN des cellules cibles (les cellules TCD4 et les macrophages) par des intégrases. Les cellules hôtes présentent à leur surface les récepteurs CD4. Le processus d’entrée du VIH comprend trois étapes principales :"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-attachement-liaison-gp120-au-recepteur-cd4",
+   "text": "1. Attachement : liaison GP120 au récepteur CD4"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-liaison-au-co-recepteur",
+   "text": "2. Liaison au co récepteur"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-fusion-l-enveloppe-du-vih-fusionne-avec-la-membrane",
+   "text": "3. Fusion : l’enveloppe du VIH fusionne avec la membrane"
+  },
+  {
+   "type": "paragraph",
+   "text": "cellulaire humaine grâce à une modification structurelle et un arrimage de la protéine d’enveloppe GP41. Un phénomène de fusion/lyse créé alors un trou ou pore dans la membrane de de la cellule permettant ainsi à la capside virale de pénétrer dans la cellule hôte. Une fois fusion entre cellule et virus l’ARN du virus est transcrit en ADN via la reverse transcriptase, puis intégré dans le génome de la cellule (intégrase) ce qui entraîne la production de virions par synthèse des protéines virales."
+  },
+  {
+   "type": "paragraph",
+   "text": "c) Transfert du VIH de cellules à cellules"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le virus utilise la cellule pour se reproduire et essaie de déjouer les défenses de la cellule qui sont capables de limiter l’intégration, la transcription… Il existe différents modes de transmission de cellule à virus comme les synapses, les pseudopodes, filopodes ou encore par de multiples contacts entre cellules infectées et non infectées."
+  },
+  {
+   "type": "paragraph",
+   "text": "d) Transport immunitaire du virus depuis les muqueuses"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le VIH peut pénétrer à travers les muqueuses humides comme le tractus génital féminin, le rectum, le gland du pénis et l’urètre. Le sang, les fluides contenant du sang, les sécrétions génitales et le lait maternel sont les fluides infectieux d’une personne contaminée par le VIH. Durant l’infection aiguë, le virus prédominant est le R5. Après son entrée le virus est probablement capté par les cellules dendritiques et les macrophages et est transporté́ vers les ganglions lymphatiques les plus proches où il est présenté aux cellules B et T, abondantes dans les ganglions. Au début de l’infection, le VIH va rester concentré dans les ganglions. À noter que la présence de ganglions enflés sera parfois le seul signe de la présence du virus durant les premiers mois ou années. Présence d’un réservoir important du virus au niveau intestinal."
+  },
+  {
+   "type": "paragraph",
+   "text": "SI : réponse innée puis adaptative (qui arrive en même temps que le virus commence à beaucoup se répliquer). e) Multiplication et transfert de cellules"
+  },
+  {
+   "type": "paragraph",
+   "text": "Communication entre cellules, transfert du virus :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Synapse virologique",
+    "Contact",
+    "Pseudopodes",
+    "Filopodes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Dissémination dans le corps :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Via les ganglions lymphatiques (enflés)",
+    "Surtout au niveau intestinal : tissu réservoir majeur du VIH Transport du virus dans les ganglions lymphatiques permet l’expansion de l’infection : les CD4 actifs sont alors infectés. Ensuite par le système sanguin, les virus vont pouvoir aller créer des réservoirs et notamment au niveau intestinal. Les CD4 partent en apoptose/ relarguent les prions."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "f) Réservoirs viraux"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le principal réservoir du VIH est constitué des lymphocytes T CD4 et plus précisément les cellules souches. Ce sont les cellules mémoires centrales, conditionnelles ou effectrices qui sont attaquées alors que les cellules naïves sont moins fréquemment infectées. C’est un processus dynamique. Ex : Tissu réservoir principal : système intestinal, Lymphocytes Th17"
+  },
+  {
+   "type": "paragraph",
+   "text": "On parle de Resting Immun Cells = les cellules mémoires, impliquées dans les réservoirs. Mais pas seulement, il peut y avoir des rebonds. Les réservoirs sont dynamiques, ce n’est pas quelque chose d’endormie, c’est comme un cycle avec des rebonds. En fonction de la période, différentes cellules sont impliquées avec une chronologie particulière : Phase précoce (établissement des réservoirs)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "TH17 (muqueuse intestinale)",
+    "T folliculaires (ganglions) → Infection massive et rapide Phase chronique sous traitement",
+    "Le virus circulant chute",
+    "Les réservoirs (subset) persistent surtout dans :",
+    "T CD4 mémoire centrale",
+    "Mémoire transitionnelle Lors d’un rebond viral",
+    "Activation immunitaire",
+    "Cellules effectrices activées",
+    "Production virale à partir de clones infectés"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Cela donne encore plus de difficultés dans la compréhension et la mise en place de traitement étant donné des m écanismes divers qui sont très hétérogènes d’un patient à l’autre."
+  },
+  {
+   "type": "paragraph",
+   "text": "g) Antirétroviraux et mécanismes d’action"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pour un traitement efficace, on essaie d’allier plusieurs antirétroviraux afin d’agir sur les différentes étapes d’attaque du virus :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibiteurs de fusion",
+    "Inhibiteurs de la reverse transcriptase (donc inhibiteurs enzymatiques)",
+    "Antiprotéases qui affectent la traduction des protéines",
+    "Interleukines qui peuvent stimuler le système immunitaire mais n'agissent pas directement sur le virus"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "video-2",
+   "text": "VIDEO 2 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il existe 4 classes d’anti rétro viraux : 1) Les inhibiteurs d’entrée qui comprennent 3 sous classes différentes en fonction de leur mécanisme d’action : inhibiteurs d’attachement (empêchent l’attachement du virus à la membrane externe de la cellule hôte CD4), les inhibiteurs des co-récepteurs (agissant en empêchant l’interaction VIH-co récepteurs) et les inhibiteurs de fusion (empêchant la fusion du VIH avec une cellule du CD4 ses produits se lient avec le GP41 ce qui empêche donc le virus de rentrer dans la cellule). 2) Les inhibiteurs de la transcriptase inverse qui comprend 2 catégories : INTI (inhibiteurs nucléosidiques et nucléotidiques de la transcriptase inverse, ces INTI sont des analogues de base nucléiques, en compétition avec les bases nucléiques et inhibent l’action de la transcriptase inverse, or cela interrompt l’élongation de la chaîne) et les INNTI (inhibiteurs non nucléosidiques et nucléotidiques de la transcriptase inverse, ils se lient à la transcriptase inverse et empêchent de faire son rôle) 3) Les inhibiteurs d’intégrase (intégration permet maintient et stabilité du virus et pour une expression optimale du génome viral) 4) Les inhibiteurs de protéase, la protéase permet formation de nouvelles particules virales, donc en la bloquant on empêche la fabrication de nouveaux virions infectants. BUT commun : ne plus infecter de nouvelles cellules cibles."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-reponses-immunitaires-anti-vih-et-leurs-limites",
+   "text": "2. Réponses immunitaires anti-VIH et leurs limites"
+  },
+  {
+   "type": "paragraph",
+   "text": "a) Réponse immunitaire innée"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dès la primo infection, il y a une réponse des cellules NK avec un contrôle mais aussi un dérèglement. Certaines deviennent des cellules mémoires mais c’est encore mal expliqué."
+  },
+  {
+   "type": "paragraph",
+   "text": "Cellules NK :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Si liaison avec une cellule qui ne présente pas de CMH I, dégranulation et mécanisme de cytotoxicité. Mais au bout d’un moment on a une dérégulation de ces cellules-là."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Ensuite il y a l’intervention des cellules dendritiques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les cellules dendritiques plasmacytoïdes : elles détectent HIV et précisément l’ARN via le TLR7 ce qui les active et produit des cytokines pros inflammatoires, IFN 1 et 3. Il n’y a pas de réplication du virus dedans donc pas de fusion."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les cellules dendritiques conventionnelles / classique de type 1 et 2 : Les cellules dendritiques peuvent détecter le virus de plusieurs façons. Lorsque le VIH infecte une cellule, son ARN est rétrotranscrit en ADN. Cet ADN viral présent dans le cytosol peut être reconnu par le capteur cGAS, ce qui déclenche une réponse antivirale avec production d’interférons de type I. Par ailleurs, l’ARN viral peut être reconnu dans les endosomes par les récepteurs TLR7 et TLR8, ce qui entraîne la production de cytokines inflammatoires et l’activation du système immunitaire."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les cDC2 peuvent être infectées par le virus. Elles produisent alors des cytokines qui alertent les autres cellules immunitaires. En mourant, elles libèrent des antigènes viraux. Ces antigènes peuvent être captés par les cDC1, qui sont spécialisées dans la présentation d’antigènes via le CMH de classe I (cross-présentation). Grâce notamment à l’activation via TLR7/8, elles activent les lymphocytes CD8 cytotoxiques. Ainsi, il existe une coopération entre cDC2 (infection, production de cytokines, source d’antigènes) et cDC1 (présentation antigénique et activation des CD8), permettant la mise en place de la réponse cytotoxique antivirale. Donc les cellules dendritiques de classes 2 conventionnelles peuvent répliquer et fusionner avec le virus."
+  },
+  {
+   "type": "paragraph",
+   "text": "b) Réponse immunitaire adaptative : Limitée par la grande variabilité du virus"
+  },
+  {
+   "type": "paragraph",
+   "text": "Cette réponse est limitée par la grande variabilité du virus (phénomène de « masking » (par glycosylation, conformation changée, masquée tout cela va perturber le SI et la reconnaissance). Les anticorps (Ac) ont du mal à reconnaître les antigènes (Ag) et donc le virus. Les lymphocytes B participent à la réponse humorale en produisant des anticorps neutralisants. Ces derniers sont toutefois faibles et tardifs, notamment contre la protéine gp120. Leur présence est utile pour le diagnostic. La réponse des LB est altérée par le virus et diminuée par la reconnaissance des anticorps par le virus. Le système B mémoire va essayer de toujours s’adapter à un virus qui ne fait que des modifications ce qui va engendrer un épuisement."
+  },
+  {
+   "type": "paragraph",
+   "text": "Face à l’infection du VIH : mécanismes d’évasions"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Environ 20% des personnes produisent des Ac crossréactifs (utilisation pour la création de vaccin, recherche) Environ 1% vont produire des Ac largement neutralisants, qui peuvent être une voie d’exploration pour un potentiel traitement. Lié au fait que le virus ne fait que changer donc le SI essaie de s’adapter : il va donner des Ac neutralisants sur un large panel de virus. Si on transfert ces Ac aux primates non humains puis qu’on les infecte avec le virus cela les protège. Cela permet de contrer l’infection. Il y a beaucoup de travaux sur ça. Ce serait comme une vaccination qui serait passive (Ac largement neutralisant). Le mieux serait de pouvoir rendre ces vaccins actif : vaccin engendrant la fabrication de ce type d’Ac."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les LT CD4, ils sont le chef d’orchestre de la réponse immunitaire. Ils jouent un rôle dans :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La double production IL-2 et IFN gamma associée au contrôle viral.",
+    "Ils sont dirigés plutôt contre le p24 (capside du VIH) et le p17 (matrice du VIH)",
+    "Ils disparaissent rapidement car ils sont la cible privilégiée du virus"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Latence : Mise en place des réservoirs. Pendant cette période de latence, il n’y a pas de transcription et traduction : la chromatine va se fermer donc la transcription ne se fait plus. L’ADN est présent mais non transcrit, mais à tout moment, une réactivation peut survenir, notamment en cas d'affaiblissement des défenses immunitaires. Si les personnes sont traitées il n’y aura pas cette étape-là de réactivation mais les réservoirs seront toujours là."
+  },
+  {
+   "type": "paragraph",
+   "text": "c) Réponses CD8 anti-VIH"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils sont les effecteurs antiviraux majeurs, dès J4. Ils permettent le contrôle initial de la virémie en primo-infection (acute phase). Le nombre de CD8 anti-VIH est important car ces cellules sont polyclonales donc dirigées contre plusieurs protéines. Leur valeur peut atteindre jusqu'à 20 fois la valeur normale tandis que le taux de CD4 diminue fortement. Améliorer réponse CD8, générer des IgA neutralisants au niveau de la muqueuse est une bonne piste de recherche. Le VIH peut échapper au contrôle des CD8 :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La réponse des CD8 au niveau des muqueuses peut être faible et tardive.",
+    "Rapidement, il y a des mutations des épitopes ciblés par les CD8",
+    "Avec le temps, il y a un défaut de maturation et capacités fonctionnelles diminuées"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "d) Cinétique du virus"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le SI contre en partie l’infection, les réponses CD8 se mettent en place, il y a des Ac, la virémie diminue, mais une infection sous-jacente, et on va perdre des CD4, au niveau plasmatique hausse du virus. Le temps d’apparition du SIDA dépend d’une personne à l’autre peut prendre des années. Mais dépend aussi du type de virus."
+  },
+  {
+   "type": "paragraph",
+   "text": "e) Déplétion en cellules CD4"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les LT CD4 augmentent au début jusqu’à ce qu’ils soient presque tous infectés. Les CD8 vont tuer les cellules infectées or ce sont justement les CD4 : SI se retourne contre nous."
+  },
+  {
+   "type": "paragraph",
+   "text": "f) Limites"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le système immunitaire est vite dépassé́ :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Épuisement du système immunitaire (SIDA) en l’absence de traitement antirétroviral",
+    "Super infections possibles."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "IIIFacteurs de l’hôte influençant la transmission ou la progression de l’infection par le VIH"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-cas-exposes-non-infectes-heni",
+   "text": "1. Cas exposés non infectés (HENI)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il existe une délétion de 32 paires de bases dans le gène de CCR5 ce qui empêche le virus de pénétrer dans les cellules cibles."
+  },
+  {
+   "type": "paragraph",
+   "text": "Actuellement, 7 personnes en rémission dans le monde : à la suite d’un cancer, ces patients ont reçu une greffe de moelle osseuse d’un donneur qui avait la mutation CCR5"
+  },
+  {
+   "type": "paragraph",
+   "text": "Au niveau de l’immunité́ cellulaire :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Augmentation de l’activité́ des cellules NK",
+    "Fortes réponses spécifiques Th cells et CTL",
+    "Augmentation de la sécrétion de facteurs inhibiteurs du VIH par les cellules T spécifiques du VIH (débattu) Au niveau de l’immunité́ humorale :",
+    "IgA /IgG anti-VIH + neutralisants dans les muqueuses/sang",
+    "Auto-anticorps contre CCR5, CD4 ou HLA"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Cela dépend d’un ensemble de facteurs génétiques et immunitaires. Les mécanismes varient entre les individus, selon leur origine, leur environnement et peut être la voie d'exposition au VIH. L’origine de ces réponses reste encore mal comprise."
+  },
+  {
+   "type": "paragraph",
+   "text": "D’autres suppositions : des CMH de classe 1 : types 27/57 et 35/53 : peut-être présentent mieux le virus. Peut-être que certaines CD8 sont plus poly fonctionnelles."
+  },
+  {
+   "type": "paragraph",
+   "text": "Asymptomatique à long terme"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les contrôleurs du VIH (élites) : des patients séropositifs infectés par le VIH connu depuis plus de 10ans mais qui ne développent pas le SIDA en l'absence de tout traitement On les retrouve plus fréquemment avec le VIH de type 2, chez les femmes africaines. Dépend de la réponse CD8."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-perspective-d-un-vaccin",
+   "text": "3. Perspective d’un vaccin"
+  },
+  {
+   "type": "paragraph",
+   "text": "Celle-ci est difficile du fait de la grande variabilité du virus. Il n’existe actuellement pas de vaccin capable de protéger un individu contre les différents sous-types du VIH. De nombreux essais sont en cours mais un seul a donné des résultats chez l’Homme :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "« RV144 trial » mené́ en Thaïlande en 2009 semble avoir réduit le risque d’infection de 30% (après 42 mois) mais les mécanismes à l’origine d’une protection partielle sont encore mal compris. Ils ont essayé de l’améliorer en ajoutant un adjuvant, d’utiliser d’autres Ag (stratégie mosaïque) mais ces essais ont été un échec."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Un vaccin « idéal » devrait probablement être capable d’induire des anticorps neutralisants dans les muqueuses (rôle probable des IgA) et d’induire des réponses durables des cellules T CD8 cytotoxiques et T CD4 anti-VIH. Il faudrait donc plusieurs Ag à large spectre."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-retenir",
+   "text": "À RETENIR"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La transmission du virus VIH se fait par voie sexuelle, sanguine et de la mère à l'enfant, proportionnellement à la charge virale du liquide contaminant.",
+    "Le virus cible les cellules CD4 en utilisant cette molécule comme porte d'entrée.",
+    "La lymphopénie CD4 aboutit à un état d'immunodépression cellulaire et humorale.",
+    "Il existe une réponse lymphocytaire B contre le VIH qui conduit à la production d'anticorps utiles pour le diagnostic mais peu efficaces contre l'infection (à part les bNAbs).",
+    "Les réponses antivirales Th1 sont rapidement suboptimales et épuisent le système immunitaire.",
+    "Les cellules dendritiques myéloïdes des muqueuses facilitent l'infection.",
+    "La perte de cellules CD4 est majeure au niveau intestinal et irréversible.",
+    "Les capacités de restauration immunitaire du thymus s'épuisent progressivement au cours de l'infection.",
+    "Les traitements antirétroviraux bloquent les étapes du cycle viral de façon transitoire, mais les tentatives de vaccination sont pour l'instant inefficaces. Ci-dessus présent sur le diapo mais non dit par la prof. Elle a juste ajouté que : la Prep permet aussi d’éviter l’infection."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Elle nous a aussi fait une ouverture à la fin du cours : Certaines personnes (qui étaient positives au VIH) ont été guéries par don de moelle osseuse : le donneur avait la mutation CCR5, car tout le répertoire se refait mais quels sont réellement les mécanismes ? Ces mécanismes ne sont pas connus mais restent une voie possible pour la recherche."
+  },
+  {
+   "type": "paragraph",
+   "text": "Question de la fin du cours : Quelqu’un au stade SIDA peut-il retrouver une immunité compétente avec le traitement ? Réponse : Avec les traitements l’immunité du patient reprend si il n’y a pas encore eu d’autres conséquences (infection, cancer)."
+  },
+  {
+   "type": "paragraph",
+   "text": "ACC :"
+  },
+  {
+   "type": "paragraph",
+   "text": "2024 : QROC 2 Expliquez l’entrée du VIH dans les muqueuses et son entrée dans les cellules immunitaires (4 points)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : 1. Infection de la muqueuse :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Passe la barrière épithéliale, le virus se reproduit dans les cellules",
+    "Production de virions et envahissement du corps 2. Transcytose : Traverse la cellule épithéliale 3. Transmigration : Cellules dendritiques à la jonction entre les cellules épithéliales, transporte le virus 4. Réplication au niveau des macrophages Passage du virus majorée par l’altération des muqueuses : Si lésion de la muqueuse, passage direct du virus sans les étapes précédentes. Lymphocyte CD4 :",
+    "Entrée : liaison du virus au Rc CD4 via GP120 (extérieur du virus)",
+    "Liaison GP120 et Co récepteur : CCR5 ou CXCR4",
+    "Liaison entre GP41 et membrane : fusion entre virus et membrane LT CD4 ou cellule cible"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "2022 :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-14",
+   "text": "QUESTION N° 14 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A quoi est associée la phase symptomatique du SIDA ? (cocher la ou les proposition(s) exacte(s)) A. À une augmentation de la charge virale du VIH dans le sang B. À une forte diminution des lymphocytes T CD4 C. À une diminution de la charge virale du VIH dans le sang D. À une immunosuppression importante pouvant faciliter les infections opportunistes E. À une forte diminution des lymphocytes T CD8"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "C : FAUX : Stade SIDA = terminale : virémie remonte car toutes les défenses sont épuisées (CD4 et CD8), ce qui entraine une immunosuppression"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-vrai",
+   "text": "D : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "E : VRAI: par épuisement"
+  },
+  {
+   "type": "paragraph",
+   "text": "2019 : 12 – La multiplication du virus VIH dans la cellule hôte nécessite : A -une transcription inverse de l'ARN viral en ADN B-une traduction de l'ADN viral en ARN messager C-l'intervention d'une transcriptase inverse d'origine virale sur l'ARN du VIH, pour le traduire en protéines D -l'intervention d'une transcriptase inverse d'origine humaine sur l'ARN viral, pour le convertir en ADN E-une transcription inverse de l’ADN en ARN viral"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai-2",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "B : FAUX : C’est un virus à ARN C : FAUX: pour le convertir en ADN D : FAUX : La RT est d’origine virale E : FAUX: cf A"
+  },
+  {
+   "type": "paragraph",
+   "text": "13 – La primo-infection à VIH : A -se traduit par l'apparition de maladies opportunistes B-se traduit par des symptômes voisins de ceux de la grippe. C-correspond à une intense augmentation de la charge virale D -est caractérisée par une augmentation de l'activité des lymphocytes T CD8+ cytotoxiques E-est caractérisée par une augmentation importante du taux de lymphocytes T CD4+"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : A : FAUX : au stade SIDA"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai-2",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "D : VRAI : effecteurs antiviraux majeurs E : FAUX : Disparaissent rapidement car ils sont la cible du virus"
+  }
+ ]
+}

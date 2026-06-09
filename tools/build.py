@@ -18,6 +18,7 @@ import os
 import re
 import sys
 import datetime
+import unicodedata
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import pdf_extract  # noqa: E402
@@ -65,6 +66,74 @@ LESSONS = [
      "title": "Mécanismes d’action des immunoglobulines polyvalentes",
      "shortTitle": "Immunoglobulines (IgIV)",
      "file": "FC06-Maillard-Meěcanismes d’action des immunoglobulines polyvalentes-23.01.pdf"},
+    {"slug": "fc07", "code": "FC07", "order": 8, "prof": "Dr. Lefèvre",
+     "title": "Hypersensibilité immédiate et désensibilisation",
+     "shortTitle": "Hypersensibilité immédiate",
+     "file": "FC7-LEFEBRE-Hypersensibilite-immediate-et-desensibilisation-26-01(1).pdf"},
+    {"slug": "fc08", "code": "FC08", "order": 9, "prof": "Dr. Lefèvre",
+     "title": "Physiopathologie des eczémas",
+     "shortTitle": "Eczémas",
+     "file": "FC8-LEFEVRE-Physiopathologie-des-eczémas-27-01(1).pdf"},
+    {"slug": "fc09", "code": "FC09", "order": 10, "prof": "Pr. Paul",
+     "title": "Immunité antitumorale et immunothérapie",
+     "shortTitle": "Immunité antitumorale",
+     "file": "FC9-PAUL-Immunité_Antitumorale_et_Immunothérapie-05.02(2).pdf"},
+    {"slug": "fc10", "code": "FC10", "order": 11, "prof": "Pr. Paul",
+     "title": "Mécanisme d’action des vaccins et rôles des adjuvants",
+     "shortTitle": "Vaccins & adjuvants",
+     "file": "FC10-PAUL-mecanisme-daction-des-vaccins-et-roles-des-adjuvants(3).pdf"},
+    {"slug": "fc11", "code": "FC11", "order": 12, "prof": "Pr. Berger",
+     "title": "Réponse inflammatoire et mécanismes d’action des AINS et AIS",
+     "shortTitle": "Inflammation, AINS & AIS",
+     "file": "FC11-BERGER-Réponse inflammatoire et Mécanismes d'action des AINS et AIS-11.02 (1)(1).pdf"},
+    {"slug": "fc12", "code": "FC12", "order": 13, "prof": "Dr. Waeckel",
+     "title": "Cibles et mécanismes d’action des immunosuppresseurs",
+     "shortTitle": "Immunosuppresseurs",
+     "file": "FC12-WAECKEL-Cibles-et-mecanismes-dac-tion-des-immunosuppresseurs-11-02(1).pdf"},
+    {"slug": "fc13", "code": "FC13", "order": 14, "prof": "Pr. Paul",
+     "title": "Le bilan immunologique",
+     "shortTitle": "Bilan immunologique",
+     "file": "FC13-PAUL-Le-bilan-immunologique-16.02(1).pdf"},
+    {"slug": "fc14", "code": "FC14", "order": 15, "prof": "Pr. Longet",
+     "title": "Immunopathologie du VIH",
+     "shortTitle": "Immunopathologie VIH",
+     "file": "FC14-Pr Longet-immunopathologie-VIH-17_02(3).pdf"},
+    {"slug": "fc15", "code": "FC15", "order": 16, "prof": "Pr. Mariat",
+     "title": "Mécanisme de rejet de greffe",
+     "shortTitle": "Rejet de greffe",
+     "file": "FC15-Mariat-Mecanisme-de-rejet-de-greffe-20-02(3).pdf"},
+    {"slug": "fc16", "code": "FC16", "order": 17, "prof": "Dr. Waeckel",
+     "title": "Cibles et mécanismes d’action des cytokines",
+     "shortTitle": "Cytokines",
+     "file": "FC16-WAECKEL-Cibles-et-mecanismes-daction-des-cytokines-0103.docx(1).pdf"},
+    {"slug": "fc17", "code": "FC17", "order": 18, "prof": "Dr. Waeckel",
+     "title": "Anticorps thérapeutiques et protéines de fusion : cibles et mécanismes d’action",
+     "shortTitle": "Anticorps thérapeutiques",
+     "file": "FC17-WAECKEL-Anticorps-therapeutiques-et-proteines-de-fusion-cibles-et-mecanismes-dactions-01-03.docx(1).pdf"},
+    {"slug": "fc18", "code": "FC18", "order": 19, "prof": "Pr. Stephan",
+     "title": "Introduction à l’étude des DIH",
+     "shortTitle": "Déficits immunitaires (DIH)",
+     "file": "FC18-STEPHAN-Introduction à l’étude des DIH-25-02(3).pdf"},
+    {"slug": "fc19", "code": "FC19", "order": 20, "prof": "Pr. Maillard",
+     "title": "Complément et complexes immuns",
+     "shortTitle": "Complément & complexes immuns",
+     "file": "FC19-MAILLARD-Complement-et-complexes-immuns-27.02(2).pdf"},
+    {"slug": "fc20", "code": "FC20", "order": 21, "prof": "Pr. Berger",
+     "title": "Physiopathologie des MICI",
+     "shortTitle": "MICI",
+     "file": "FC20-BERGER-Physiopathologie-des-MICI-02.03(2).pdf"},
+    {"slug": "fc21", "code": "FC21", "order": 22, "prof": "Dr. Killian",
+     "title": "Lupus",
+     "shortTitle": "Lupus",
+     "file": "FC21-KILLIAN-Lupus-06-03-26(2).pdf"},
+    {"slug": "fc22", "code": "FC22", "order": 23, "prof": "Dr. Héan",
+     "title": "Introduction à la neuro-immunologie",
+     "shortTitle": "Neuro-immunologie",
+     "file": "FC22-HEAN-Introduction à la neuro-immunologie-12-03-2026(1).pdf"},
+    {"slug": "fc23", "code": "FC23", "order": 24, "prof": "Pr. Longet",
+     "title": "Immunopathologie des infections longues",
+     "shortTitle": "Infections longues",
+     "file": "FC23- LONGET_ Immunopathologie des infections _longues_(2).pdf"},
 ]
 
 ANNALES = [
@@ -241,6 +310,19 @@ def _garbled_ratio(text):
     return bad / len(text)
 
 
+def _resolve_file(name):
+    """Trouve un PDF dans ROOT en tolérant les différences de normalisation Unicode
+    (NFC/NFD) entre les métadonnées et le système de fichiers."""
+    direct = os.path.join(ROOT, name)
+    if os.path.exists(direct):
+        return direct
+    target = unicodedata.normalize("NFC", name)
+    for f in os.listdir(ROOT):
+        if unicodedata.normalize("NFC", f) == target:
+            return os.path.join(ROOT, f)
+    return None
+
+
 def build_cours(lesson, report=False):
     # Ne jamais écraser un résumé rédigé à la main (marqué "curated": true).
     out_existing = os.path.join(COURS_DIR, lesson["slug"] + ".json")
@@ -252,8 +334,8 @@ def build_cours(lesson, report=False):
                     return "curated"
         except Exception:
             pass
-    path = os.path.join(ROOT, lesson["file"])
-    if not os.path.exists(path):
+    path = _resolve_file(lesson["file"])
+    if not path:
         print(f"  [!] PDF introuvable : {lesson['file']}")
         return None
     pages = pdf_extract.extract_pages(path)

@@ -1,0 +1,1471 @@
+{
+ "slug": "fc20",
+ "code": "FC20",
+ "title": "Physiopathologie des MICI",
+ "prof": "Pr. Berger",
+ "sourceFile": "FC20-BERGER-Physiopathologie-des-MICI-02.03(2).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "i-introduction",
+   "label": "I. Introduction",
+   "level": 2
+  },
+  {
+   "id": "ii-rappels-immunite-muqueuse-cf-cours-s-paul",
+   "label": "II. Rappels immunité muqueuse (cf cours S. PAUL)",
+   "level": 2
+  },
+  {
+   "id": "1-la-barriere-epitheliale",
+   "label": "1. La barrière épithéliale",
+   "level": 3
+  },
+  {
+   "id": "2-reponse-adaptative",
+   "label": "2. Réponse adaptative",
+   "level": 3
+  },
+  {
+   "id": "3-homeostasie-intestinale",
+   "label": "3. Homéostasie intestinale",
+   "level": 3
+  },
+  {
+   "id": "iii-physiopathologie-de-la-maladie-de-crohn",
+   "label": "III. Physiopathologie de la maladie de Crohn",
+   "level": 2
+  },
+  {
+   "id": "2-facteurs-genetiques",
+   "label": "2. Facteurs génétiques",
+   "level": 3
+  },
+  {
+   "id": "nod2-card15",
+   "label": "NOD2 (CARD15) :",
+   "level": 2
+  },
+  {
+   "id": "3-facteurs-environnementaux",
+   "label": "3. Facteurs environnementaux",
+   "level": 3
+  },
+  {
+   "id": "4-facteurs-immunitaires",
+   "label": "4. Facteurs immunitaires",
+   "level": 3
+  },
+  {
+   "id": "5-en-resume-physiopathologie-multifactorielle",
+   "label": "5. En résumé : Physiopathologie multifactorielle +++",
+   "level": 3
+  },
+  {
+   "id": "iv-physiopathologie-de-la-rectocolite-hemorragique",
+   "label": "IV. Physiopathologie de la rectocolite hémorragique",
+   "level": 2
+  },
+  {
+   "id": "1-facteurs-genetiques",
+   "label": "1. Facteurs génétiques",
+   "level": 3
+  },
+  {
+   "id": "2-facteurs-environnementaux",
+   "label": "2. Facteurs environnementaux",
+   "level": 3
+  },
+  {
+   "id": "3-immunite",
+   "label": "3. Immunité",
+   "level": 3
+  },
+  {
+   "id": "v-physiopathologie",
+   "label": "V. Physiopathologie",
+   "level": 2
+  },
+  {
+   "id": "1-diminution-secretion-mucus-peptides-anti-microbiens-dysbio",
+   "label": "1. Diminution sécrétion mucus, peptides anti-microbiens-> Dysbiose",
+   "level": 3
+  },
+  {
+   "id": "vi-diagnostic",
+   "label": "VI. Diagnostic",
+   "level": 2
+  },
+  {
+   "id": "vii-traitements-des-mici",
+   "label": "VII. Traitements des MICI",
+   "level": 2
+  },
+  {
+   "id": "viii-mici-bibliographie",
+   "label": "VIII. MICI, bibliographie",
+   "level": 2
+  },
+  {
+   "id": "ix-conclusion",
+   "label": "IX. Conclusion",
+   "level": 2
+  },
+  {
+   "id": "1-les-pays-les-plus-touches-par-la-mc",
+   "label": "1) Les pays les plus touchés par la MC :",
+   "level": 3
+  },
+  {
+   "id": "2-quels-sont-les-facteurs-associes-aux-mici",
+   "label": "2) Quels sont les facteurs associes aux MICI",
+   "level": 3
+  },
+  {
+   "id": "3-quelle-mici-est-majoritairement-a-orientation-th1",
+   "label": "3) Quelle MICI est majoritairement à orientation TH1",
+   "level": 3
+  },
+  {
+   "id": "4-le-tabac-a-t-il-un-effet-deletere-dans-la-maladie-de-crohn",
+   "label": "4) Le tabac a-t-il un effet délétère dans la maladie de Crohn ?",
+   "level": 3
+  },
+  {
+   "id": "5-quels-dosages-biologiques-sont-utiles-dans-le-suivi-des-mi",
+   "label": "5) Quels dosages biologiques sont utiles dans le suivi des MICI ?",
+   "level": 3
+  },
+  {
+   "id": "7-quel-est-cette-pathologie",
+   "label": "7) Quel est cette pathologie ?",
+   "level": 3
+  },
+  {
+   "id": "x-qcm-d-entrainement",
+   "label": "X. QCM d’entrainement :",
+   "level": 2
+  },
+  {
+   "id": "question-n-1",
+   "label": "QUESTION N° 1 :",
+   "level": 2
+  },
+  {
+   "id": "a-vrai",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "b-vrai",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-vrai",
+   "label": "D : VRAI",
+   "level": 2
+  },
+  {
+   "id": "e-vrai",
+   "label": "E : VRAI",
+   "level": 2
+  },
+  {
+   "id": "question-n-2",
+   "label": "QUESTION N° 2 :",
+   "level": 2
+  },
+  {
+   "id": "a-vrai-2",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-vrai-2",
+   "label": "D : VRAI",
+   "level": 2
+  },
+  {
+   "id": "correction",
+   "label": "CORRECTION :",
+   "level": 2
+  },
+  {
+   "id": "a-faux",
+   "label": "A : FAUX",
+   "level": 2
+  },
+  {
+   "id": "b-vrai-2",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "c-vrai",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-faux",
+   "label": "D : FAUX",
+   "level": 2
+  },
+  {
+   "id": "e-vrai-2",
+   "label": "E : VRAI",
+   "level": 2
+  },
+  {
+   "id": "correc-tion",
+   "label": "CORREC TION",
+   "level": 2
+  },
+  {
+   "id": "a-faux-2",
+   "label": "A : FAUX",
+   "level": 2
+  },
+  {
+   "id": "c-vrai-2",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-vrai-3",
+   "label": "D : VRAI",
+   "level": 2
+  },
+  {
+   "id": "a-vrai-3",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "c-vrai-3",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "a-vrai-4",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "c-vrai-4",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "corre-ction",
+   "label": "CORRE CTION :",
+   "level": 2
+  },
+  {
+   "id": "a-vrai-5",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "b-vrai-3",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "e-vrai-3",
+   "label": "E : VRAI",
+   "level": 2
+  },
+  {
+   "id": "correc-tion-2",
+   "label": "CORREC TION",
+   "level": 2
+  },
+  {
+   "id": "a-vrai-6",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "c-vrai-5",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-vrai-4",
+   "label": "D : VRAI",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. BERGER Immunopathologie Laurine PUCHE Physiopathologie des maladies inflammatoires chroniques de l’intestin"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-introduction",
+   "text": "I. Introduction"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les maladies inflammatoires chroniques de l’intestin (MICI) résultent de l’inflammation chronique intermittente ou continue d’une partie du tube digestif.",
+    "Problème de santé publique (1/1000 en France)",
+    "Évolution par poussées inflammatoires de durée et intensité variables, majoritairement des sujets jeunes (20/30ans).",
+    "Symptômes principaux : douleurs abdominales, diarrhées.",
+    "2 formes principales sont décrites :",
+    "La maladie de Crohn (peut toucher tout le segment digestif de manière discontinue, de la bouche jusqu’à l’anus)",
+    "La rectocolite hémorragique (rectum toujours, iléon sain, lésions continues)",
+    "En + Colites indéterminées (on ne peut pas toutes les classer)",
+    "Malgré quelques points communs, il s’agit de 2 entités bien distinctes tant sur le plan physiopathologique, clinique, histologique et thérapeutique."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Maladie de Crohn Rectocolite hémorragique Anatomo - pathologie"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Granulome épithélioïde gigantocellulaire, spécifique (50%)",
+    "Ulcérations plus ou moins profondes, fissures, inflammation pariétale, fibrose cicatricielle"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Lésions non spécifiques : ulcérations, infiltrats inflammatoires polymorphes (éosinophiles), abcès cryptiques, pseudo- polypes Localisation ● Iléon terminal, côlon droit",
+    "Tous niveaux, y compris oeso-gastro-duodéno- jéjunal, lésions anopérianales"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Atteinte rectale plus ou moins étendue en amont (pancolite)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Évolution ● Imprévisible, chronique par poussées, 90 % de rechutes à 7 ans"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Sténoses, fistules, abcès (atteinte anale plus commune dans la MC)",
+    "Complications nutritionnelles et thérapeutiques",
+    "Risque de cancérisation plu important"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Rémissions et rechutes itératives",
+    "Formes graves : colectasie, septicémie, anémie aiguë",
+    "Sténoses, perforation, cancérisation"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Clinique ● Poussées"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diarrhée chronique banale ou colique (sang, pus, glaires)",
+    "Douleurs (Fosse iliaque droite)",
+    "Atteinte anale (fissure, abcès, fistule)",
+    "Aphtes buccaux parfois",
+    "Altération état général, retard staturo-pondéral",
+    "Syndrome inflammatoire, fièvre, anémie, (AC anti-saccharomyces cerevisiae (60%))"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Poussées",
+    "Diarrhée sanglante",
+    "Douleurs abdominales",
+    "Syndrome rectal",
+    "Aphtes buccaux parfois",
+    "Stagnation pondérale",
+    "Syndrome inflammatoire, fièvre, anémie ; (p- ANCA (80%))"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Manifestations extradigestives"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Arthrites périphériques (20%)",
+    "Érythème noueux, pyoderma gangrenosum, hippocratisme digital, atteinte oculaire"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Arthrites périphériques (20%)",
+    "Érythème noueux, pyoderma gangrenosum, atteinte oculaire rare",
+    "Cholangite sclérosante progressive (assez fréquente) (Ne pas connaître le tableau par cœur)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Interactions complexes :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Maladies multifactorielles (association de facteurs génétiques, environnementaux, immunitaires), dont la cause précise est inconnue.",
+    "Intérêt de connaître la physiopathologie pour développer de nouveaux traitements → anti-cytokiniques."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-rappels-immunite-muqueuse-cf-cours-s-paul",
+   "text": "II. Rappels immunité muqueuse (cf cours S. PAUL)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les muqueuses ont une surface importante (400m²) en contact avec l'environnement. Ce sont les principales portes d'entrée des pathogènes. → Tissus lymphoïdes associés aux muqueuses (MALT) nécessitent une réponse immune rapide et efficace. La densité bactérienne est très importante dans le tube digestif, elle est croissante de l’œsophage jusqu’au rectum."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-la-barriere-epitheliale",
+   "text": "1. La barrière épithéliale"
+  },
+  {
+   "type": "paragraph",
+   "text": "GALT : tissu lymphoïde associé à la muqueuse digestive"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Protection mécanique :",
+    "Renouvellement de l’épithélium",
+    "Formation de jonctions serrées intercellulaires : protéines transmembranaires (claudine et occludine) qui permettent l’adhérence des cellules entre-elles et empêchent le passage de micro-organismes et la diffusion des protéines membranaires de la face basale vers la face apicale.",
+    "Formation du glycocalix (mucines) (qui comprend une couche épaisse de mucus) = semi-perméable diminuant l'accessibilité aux cellules épithéliales et des mucines empêchent l’adhésion des bactéries à la paroi épithéliale"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "La synthèse de peptides antimicrobiens :",
+    "α-défensines, lysozymes synthétisés par les cellules de Paneth présentes au fond des cryptes.",
+    "β-défensines d’expression ubiquitaire.",
+    "Ces peptides lysent la membrane bactérienne et permettent de contrôler la flore commensale de l’intestin"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Participation à l’immunité innée : les cellules épithéliales peuvent reconnaître des microorganismes et induire une réponse inflammatoire.",
+    "Expression de récepteurs de l’immunité innée (TLR, NOD intra-cellulaires).",
+    "Synthèse d’IL8 qui attire les neutrophiles. NB : bactéries commensales inhibent la voie de signalisation NF-kappa B"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Autres récepteurs de l’immunité innée : NOD (nucleotide oligomerization domain receptors) : important dans la physiopathologie de ses pathologies. Ce sont des récepteurs (TLR) intra-cytoplasmiques reconnaissant des composants bactériens anormalement présents dans le cytoplasme des cellules (peptidoglycane, flagelline) et permettent l’activation des voies de transduction et des gènes impliqués dans l’inflammation. Reconnaissent le MDP ce qui active la réponse inflammatoire. C’est un type particulier de TLR."
+  },
+  {
+   "type": "paragraph",
+   "text": "DAMPS (Danger Associated Molecular Pattern) : Signal de danger émis par la cellule stressée, capacité d’activer les PRR lorsqu’il reconnaisse les PAMPS porté par les pathogène. Ces signaux ont un rôle dans MICI, en permettant de faire perpétuer l’état d’inflammation muqueuse (taux élevés chez patients MICI) Potentiels bio marqueurs : calprotectine fécale (protéine cytosolique contenue dans les PNN et libérée lors d’un stress cellulaire) Distinction inflammation intestinale/ troubles fonctionnels intestinaux car souvent les symptômes sont similaires."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-reponse-adaptative",
+   "text": "2. Réponse adaptative"
+  },
+  {
+   "type": "paragraph",
+   "text": "Au niveau du grêle, le GALT peut être divisé en deux parties :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Lymphocytes diffus.",
+    "Des sites plus organisés : les plaques de Peyer, les ganglions mésentériques (ganglions lymphatiques drainants) et les follicules lymphoïdes individuels. Les fonds des cryptes sont normalement stériles (protection cellules souches)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effecteurs immunitaires de la muqueuse intestinale :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Zoom au niveau de la plaque de Peyer : site d’induction de la réponse immune :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Filtre à antigène par les cellules M ou traversée de l’épithélium associé aux follicules (bordure en brosse – marquée, synthétise moins d’enzymes).",
+    "Prise en charge par une CPA et migration jusqu’à un ganglion lymphatique mésentérique.",
+    "Présentation de l’antigène aux lymphocytes naïfs spécifiques de l’antigène au niveau des follicules lymphoïdes",
+    "Retour des lymphocytes effecteurs vers la muqueuse (lamina propria + lymphocytes intra-épithéliaux) « homing »."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-homeostasie-intestinale",
+   "text": "3. Homéostasie intestinale"
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est un environnement très tolérogène Cellules dendritiques de la muqueuse intestinale :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Synthèse de forts taux de TGF-B et IL-10",
+    "Induction de lymphocytes T régulateurs Induction d’une tolérance :",
+    "Par la barrière physique, peptides antimicrobiens, les IgA."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Profil cytokines : L’IL-10 et le TGF-b (anti-inflammatoire) représentent un environnement immunosuppressif par induction de lymphocytes T régulateurs."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-physiopathologie-de-la-maladie-de-crohn",
+   "text": "III. Physiopathologie de la maladie de Crohn"
+  },
+  {
+   "type": "paragraph",
+   "text": "Origine de la maladie encore mal connue. Réponse immunitaire anormale dirigée contre la propre flore intestinale survenant chez un malade génétiquement déterminé."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-facteurs-genetiques",
+   "text": "2. Facteurs génétiques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Caractère familial connu depuis longtemps"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Concordance chez les jumeaux homozygotes (35%-58%)",
+    "Différences ethniques (forte incidence chez les juifs ashkénazes) Etudes génomiques étendues :",
+    "71 loci de susceptibilité génétique, regroupés sur 17 chromosomes : composante génétique forte",
+    "Ne pourraient expliquer qu’environ 20% du caractère héritable de la MC Prédisposition familiale Crohn-RCH (17 loci de susceptibilité génétique en commun entre les 2 pathologies)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Gène impliqué ayant un rôle dans la réponse de l'immunité innée et adaptative :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "NOD2 (protéine CARD15+++) (A connaitre) : il a un rôle très important dans l’immunité innée",
+    "ATG16L1 (RCH +++) : autophagie",
+    "IL23R (rôle activation Th17)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "nod2-card15",
+   "text": "NOD2 (CARD15) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Nucleotide-Binding oligomerization domain (NOD) like receptors (NLR) Premier gène de susceptibilité découvert pour la maladie de Crohn. 3 mutations majeures et une 30aine de mineures"
+  },
+  {
+   "type": "list",
+   "items": [
+    "50% des malades ont une mutation sur un chromosome (hétérozygote) et 15% une mutation sur les 2 chromosomes (homozygote)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Risque d’avoir une maladie de Crohn :",
+    "X 1,5 - 3 (mutation hétérozygote)",
+    "X 40 (mutation homozygote)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Facteur de risque le plus important",
+    "Code pour récepteur présent dans le cytoplasme des cellules de Paneth ➔ Reconnaissance d’éléments bactériens",
+    "Gène codant pour une protéine située dans les cellules de Paneth, macrophages et cellules dendritiques"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "4 domaines :",
+    "LRR : interaction avec des composants bactériens (muramyl dipeptide MDP)",
+    "NBD : oligomérisation",
+    "2 CARDs : effecteurs (activation apoptose, voie NFKb..)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Reconnaissance des bactéries gram positifs et négatifs car ils codent pour des Rc présent dans le cytoplasme des cellules de Paneth.",
+    "Améliore la présentation de l’antigène et l’activation lymphocytaire → Lien immunité adaptative",
+    "Pourrait intervenir dans la régulation de l'inflammation induite par les bactéries"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Maladie de Crohn : Mutation dans la portion distale, notamment dans le domaine LRR -> inflammation chronique et dérégulée contre les bactéries endogènes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Mais attention : il y a d’autres gènes impliqués"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-facteurs-environnementaux",
+   "text": "3. Facteurs environnementaux"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Importance de l'environnement suggéré par l'augmentation du taux d'incidence :",
+    "Chez des groupes ethniques moins touchés auparavant (asiatiques, hispaniques)",
+    "Chez les immigrés",
+    "Importance de l’environnement pendant l’enfance++",
+    "Migrations de populations : enfants acquièrent le niveau de risque du pays d’accueil (‡ parents)",
+    "Gradient Nord>Sud, Est>Ouest, urbain>rural lié à l’industrialisation et à l’occidentalisation du mode de vie."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Hygiène de vie"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Tabac :",
+    "Effet délétère important",
+    "Augmente le risque de développer une MC (Risque Relatif=2)",
+    "Aggrave la MC",
+    "Augmente les risques de récidives, de chirurgie",
+    "Nécessité augmentée d'immunosuppresseurs, moins bonne réponse au Remicade (anti-TNFalpha)",
+    "L'arrêt du tabac permet de réduire de moitié ces risques de récidive",
+    "Mécanisme en cause ? : Nicotine, monoxyde de carbone ne sont surement pas liés",
+    "Ne peut pas expliquer entièrement les variations de la prévalence et de l’incidence de la maladie  Ex: Asie, Afrique faible prévalence alors que fumeurs++, ≠ Canada, Suède forte prévalence mais fumeurs +/-"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Alimentation :",
+    "Consommation de sucres (sodas, chocolat...), graisses poly insaturées, protéines animales…",
+    "A l’inverse, effet protecteur des fibres, fruits, légumes.",
+    "Importance de la qualité de l’eau.",
+    "Carence en vitamine D : Influence sur le microbiote intestinal ?"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Autres :",
+    "pollution",
+    "certains traitements (ATB, AINS, contraceptifs oraux)",
+    "sédentarité",
+    "augmentation de l’hygiène domestique",
+    "environnement petite enfance (baisse de l'allaitement, infections digestives fréquentes, exposition répétée aux ATB)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": " Tous ces facteurs entraînent une dysbiose"
+  },
+  {
+   "type": "paragraph",
+   "text": "b. M icrobiote intestinal et facteurs infectieux"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ensemble des micro-organismes vivant dans l’intestin (10 14 bactéries) : flore intestinale",
+    "10 14 bactéries = 10 fois le nombre de cellules de l'organisme",
+    "> 500 espèces réparties le long du système digestif",
+    "Dépendant de facteurs environnementaux (alimentation, hygiène, traitements...),",
+    "Chaque individu possède un microbiote qui lui est propre, il se constitue durant les premières années de la vie (mature entre 2-4 ans). Mais la proportion des différents phyla (lignées) est relativement conservée entre les individus…"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Majorité de bactéries anaérobies strictes avec 3 lignées majeures : 30 à 40% de Phylum Bacteroidetes, 60 à 75% de Phylum Firmicutes, 1 à 5% de Phylum Actinobacteria."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans la MC, on note :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diminution de la diversité du microbiote.",
+    "Notamment diminution des phyla Firmicutes et Bacteroides.",
+    "Réduction de Faecalibacterium prausnitzii (Firmicute) associé à une augmentation du risque de récurrence post-opératoire de MC iléal.",
+    "Augmentation de la quantité de bactéries associées à la muqueuse.",
+    "Augmentation d’entérobactéries.",
+    "Présence de souches d'E. coli adhérentes et invasives."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "MC survient souvent après une gastroentérite Au niveau bactérien on retrouve :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Espèces bactériennes adhérentes (E.Coli).",
+    "Mycobacterium avium paratuberculosis (MAP) :",
+    "Entérite granulomateuse chez le bovin",
+    "Identifié dans les tissus CD",
+    "Loci de susceptibilité dans des gènes impliquant la clairance des mycobactéries",
+    "Mais pas d'effet des anti-tuberculeux sur MC Viral : non confirmé"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-facteurs-immunitaires",
+   "text": "4. Facteurs immunitaires"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Barrière intestinale plus perméable C’est la 1 ère ligne de défense : cellules épithéliales recouvertes par un biofilm de mucus."
+  },
+  {
+   "type": "list",
+   "items": [
+    "La mucine est secrétée par les cellules caliciformes et est insuffisante voire inexistante dans la MC, lié à une diminution de l’expression des gènes MUC1, MUC19 et PTGER4 entrainant donc un mauvais frein vis-à-vis des agents pathogènes.",
+    "Jonctions serrées plus lâches : augmentation de la perméabilité (expression claudines abaissée qui permettent l'ancrage des cellules entre elles) et accès des antigènes de la lumière intestinale à la lamina propria (riche en cellules immunitaires).",
+    "Les cellules de Paneth participent à la défense de la muqueuse par la sécrétion de peptides antimicrobiens (α- défensines). Une mutation du gène ATG16L (gène qui contrôle également l'autophagie) donne des granules non fonctionnels, peu nombreuses et dysmorphiques."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Perturbation de l’immunité innée Distribution et fonctions aberrantes des cellules dendritiques :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Augmentation des pCD dans la muqueuse du colon enflammé ainsi que dans les ganglions lymphatiques mésentériques.",
+    "Augmentation expression CD40/CD86 (phénotype activé)",
+    "Augmentation sécrétion TNF-a, IL-6, IL-8",
+    "Expression augmentée des TLR2 et TLR 4.",
+    "Réponse au lipopolysaccharide (LPS) exagérée",
+    "Polymorphismes IL-23R dans la MC : induit une sécrétion IL17 et IFN-γ par les lymphocytes innés.",
+    "Initie/perpétue la cascade inflammatoire. Contraire à leur action tolérogène habituelle. Distribution et phénotype corrélé à l'activité de la maladie Polymorphismes IL-23R dans la MC : induit une sécrétion d’IL17 et IFN-y par les lymphocytes innés"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Autophagie"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Processus physiologique et biologique permettant la dégradation par le lysosome de constituants cellulaires (agrégats protéiques, organites endommagés, bactéries intra-cellulaires…)",
+    "Permet le « Recyclage cytoplasme »"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Autophagie inefficace dans la MC : mutations des gènes ATG16L1 et IRGM impliqués dans l’autophagie Persistance de bactéries pathogènes intra-cellulaires"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "NOD2 polymorphismes :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Autophagie inefficace",
+    "Baisse de la transcription d’IL10",
+    "Plus faible réponse au Muramyl DiPeptide"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Perturbation de l’immunité adaptative"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A l'état normal, on a une balance Th17/Treg.",
+    "L’inflammation intestinale est médiée et perpétuée par le système immunitaire adaptatif, mais probablement pas débutée par celui ci",
+    "Déséquilibre de la balance entre cellules T effectrices (TH1/TH17) et lymphocytes T régulateurs. MC = réponse essentiellement Th1 = efficacité des anti-TNF alpha (infliximab) et anti Il12-23 (ustekinumab)"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Mutations gène IL10 Récepteur homozygote",
+    "Enfant formes sévères et précoces de MC",
+    "Blocage du signal induit par l’IL10",
+    "Augmentation de la sécrétion de TNF-α et d’autres cytokines pro-inflammatoires",
+    "Recrutement rapide et rétention inappropriée de leucocytes",
+    "Manque d’IgA au niveau muqueux (loci associés)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-en-resume-physiopathologie-multifactorielle",
+   "text": "5. En résumé : Physiopathologie multifactorielle +++"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Facteurs environnementaux :",
+    "Alimentation et microbiote",
+    "Antibiotiques",
+    "Hygiène domestique",
+    "Facteurs génétiques :",
+    "Gènes de susceptibilité (NOD 2+++)",
+    "Conséquences sur la perméabilité intestinale, immunité innée, adaptative, autophagie",
+    "Déséquilibre du microbiote intestinal (« dysbiose ») Intérêt de la transplantation fécale ?",
+    "Anomalie des cellules épithéliales :",
+    "Cellules de Paneth : défectueuses, pas capable de produire les peptides antimicrobiens",
+    "Défaut d’autophagie",
+    "Perméabilité intestinale augmentée"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-physiopathologie-de-la-rectocolite-hemorragique",
+   "text": "IV. Physiopathologie de la rectocolite hémorragique"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-facteurs-genetiques",
+   "text": "1. Facteurs génétiques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Antécédent familial de MICI : le plus important facteur de risque. 5,7-15% des patients ont un parent du 1er degré atteint.",
+    "Concordance chez les jumeaux homozygotes : 6-13%.",
+    "Certains gènes différents de la MC mais domaine de l’immunité innée/adaptative et barrière épithéliale."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-facteurs-environnementaux",
+   "text": "2. Facteurs environnementaux"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Tabac : effet protecteur contre la RH +++ (inverse MC)",
+    "Risque 2,5 fois plus faible chez les fumeurs",
+    "Evolution bénigne de la maladie chez les fumeurs",
+    "Augmentation de l’activité de la maladie en cas d’arrêt du tabac mais pas d’explication Hypothèse : augmentation de l'épaisseur du mucus et diminution de la perméabilité muqueuse."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Infections gastro intestinales :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Salmonella, Shigella, Campylobacter… Double le risque de RH",
+    "Changement dans la flore intestinale ?"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Appendicectomie (surtout dans l'enfance) et Allaitement de l’enfant pendant > 3 mois ont un effet protecteur."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Industrialisation, augmentation de l’hygiène… augmentent le risque"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Différences avec Crohn :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Tabagisme +++",
+    "Apparition + tardive de 10 à 15 ans → mécanismes physiopathologiques opposés pour certaines voies biologiques"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-immunite",
+   "text": "3. Immunité"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Innée"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Barrière épithéliale :",
+    "Diminution de la synthèse des mucines",
+    "Altération de la sulfatation de la mucine 2",
+    "Régulation défectueuse des jonctions serrées",
+    "Implication du dérèglement du microbiote",
+    "Augmentation du nombre et de l’activation des cellules dendritiques",
+    "Augmentation des TLR4 : polymorphismes TLR4 (facteurs de risques importants)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Adaptative"
+  },
+  {
+   "type": "list",
+   "items": [
+    "On note un déséquilibre de la balance entre lymphocytes régulateurs et effecteurs :",
+    "Augmentation des cellules T Natural killer dans la lamina propria",
+    "Production par les NK de cytokines Th2 : IL 4, IL13",
+    "Mutations de l’IL10 R : absence de la voie de signalisation IL10, association avec des RH sévères",
+    "Augmentation du TNF-α",
+    "Recrutement des lymphocytes circulants",
+    "Augmentation des facteurs chimio-attractants (CXCL8)",
+    "Rôle des cytokines pro-inflammatoires dans l'expression des molécules d'adhésion (MadCAM-1)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Perméabilité intestinale (facteurs env, génétiques…) Inflammation digestive Th2 (recrutement Ly…) Translocation bactérienne favorisée Activation de la réponse immune"
+  },
+  {
+   "type": "paragraph",
+   "text": "RH : réponse Th2 (donc différent de MC : TH1)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-physiopathologie",
+   "text": "V. Physiopathologie"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-diminution-secretion-mucus-peptides-anti-microbiens-dysbio",
+   "text": "1. Diminution sécrétion mucus, peptides anti-microbiens-> Dysbiose"
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Perte de protection induite par bactéries commensales > invasion de la lamina propria par des bactéries pathogènes 3. Activation excessive du SI muqueux (inflammation chronique avec augmentation cytokines pro-lnf) > migration des DC matures vers les ganglions lymphatiques mésentériques différenciation des LyTCD4 naïfs en LyTCD4 effecteurs Th2-> amplification de l’inflammation (activation des LyB sécréteurs |gA et lgG) 4. Recrutement des lymphocytes dans la muqueuse intestinale favorisé par interaction alpha4beta7 (Lymphocytes) et MADCAM1 (cellules endothéliales) très exprimé dans le tissu enflammé"
+  },
+  {
+   "type": "paragraph",
+   "text": "↗ perméabilité intestinale"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vi-diagnostic",
+   "text": "VI. Diagnostic"
+  },
+  {
+   "type": "list",
+   "items": [
+    "ANCA (anticorps anti-cytoplasme des PNN) (retrouvé aussi dans les vascularites) dans les RH et les ASCA (anticorps anti- saccharomyces cerevisiae) dans la MC : anticorps n’ont pas du tout la même fréquence dans les deux pathologies.",
+    "On a aussi des marqueurs du syndrome inflammatoire comme CRP et la calprotectine fécale en cas de poussée mais non spécifique des MICI."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Dosé en routine = pANCA, ANCAx, ASCA (recherché par d’autres techniques)"
+  },
+  {
+   "type": "paragraph",
+   "text": "ASCA : plutôt Crohn ANCAx et pANCA : plutôt RCH"
+  },
+  {
+   "type": "paragraph",
+   "text": "Nouveau marqueur : anti intégrine anti alphaVbeta6 (va se développer dans les années à venir)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-traitements-des-mici",
+   "text": "VII. Traitements des MICI"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ordre dans lequel ils sont donnés :",
+    "Salicylés (anti-inflammatoires)",
+    "Corticoïdes : éviter de les utiliser au long cours",
+    "Immunosuppresseurs",
+    "Biothérapies",
+    "Chirurgie (résections, morbidités +++)",
+    "Transplantation fécale étude en cours, guérison clinique dans 30% des cas et amélioration dans 60% à 70% des cas. Espoir mais peu de patients dans ces études. Larges études nécessaires."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "viii-mici-bibliographie",
+   "text": "VIII. MICI, bibliographie"
+  },
+  {
+   "type": "paragraph",
+   "text": "Facteurs environnementaux et MICI – Revue européenne (qu’elle mettra sur ENT)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "FDR :",
+    "Crohn : tabac, contraception orale, antibiothérapie, amygdalectomie, appendicectomie (probable)",
+    "RCH : contraception orale, migration dans une région de forte prévalence",
+    "Association possible : consommation de graisses animales",
+    "Facteurs protecteurs :",
+    "Crohn : allaitement (enfant), arrêt tabac",
+    "RCH : appendicectomie"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ix-conclusion",
+   "text": "IX. Conclusion"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La maladie de Crohn et la Rectocolite Hémorragique sont les 2 formes principales des MICI.",
+    "Ces 2 pathologies présentent des similitudes mais elles diffèrent sur de nombreux plans (physiopathologie, diagnostic, pronostic, thérapeutique...)",
+    "Leur physiopathologie associe des facteurs génétiques, environnementaux et un dérèglement du système immunitaire.",
+    "Importance de connaître la physiopathologie pour mettre au point de nouveaux outils diagnostics et de nouveaux traitements."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Points clés :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "MC et RH : Réponse immunitaire anormale dirigée contre la propre flore intestinale survenant chez un malade génétiquement déterminé",
+    "MC et RH : Augmentation de la perméabilité intestinale",
+    "MC : NOD2 comme facteur de prédisposition génétique +++",
+    "Rôle ambiguë du tabac : délétère dans la MC, protecteur dans la RH (QCM+++)",
+    "MC : Réponse TH1",
+    "RH : Réponse TH2"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Physiopathologie multifactorielle :",
+    "Facteurs environnementaux (alimentation, microbiote, antibiotiques, hygiène domestique).",
+    "Facteurs génétiques : gènes de susceptibilité (NOD2+++), conséquences sur la perméabilité intestinale, immunité innée, adaptative, autophagie.",
+    "Déséquilibre du microbiote intestinal (« dysbiose »)",
+    "Anomalies des cellules épithéliales",
+    "Perméabilité intestinale augmentée"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Quizz"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-pays-les-plus-touches-par-la-mc",
+   "text": "1) Les pays les plus touchés par la MC :"
+  },
+  {
+   "type": "paragraph",
+   "text": "APays du nord de l’Europe BPays du sud de l’Europe CPays d’Afrique"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-quels-sont-les-facteurs-associes-aux-mici",
+   "text": "2) Quels sont les facteurs associes aux MICI"
+  },
+  {
+   "type": "paragraph",
+   "text": "AAlimentation BTabac CGénétique DComposition du microbiote intestinal"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-quelle-mici-est-majoritairement-a-orientation-th1",
+   "text": "3) Quelle MICI est majoritairement à orientation TH1"
+  },
+  {
+   "type": "paragraph",
+   "text": "->……….. ?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-le-tabac-a-t-il-un-effet-deletere-dans-la-maladie-de-crohn",
+   "text": "4) Le tabac a-t-il un effet délétère dans la maladie de Crohn ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "OUI/NON"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-quels-dosages-biologiques-sont-utiles-dans-le-suivi-des-mi",
+   "text": "5) Quels dosages biologiques sont utiles dans le suivi des MICI ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "ACalprotectine fécale BASCA CANCA D-ACAN"
+  },
+  {
+   "type": "paragraph",
+   "text": "6) Dans quelle MICI les mutations du gène NOD2 sont-elles fréquemment retrouvées ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "->……….. ?"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "7-quel-est-cette-pathologie",
+   "text": "7) Quel est cette pathologie ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponse : 1A 2ABCD 3Crohn 4OUI 5ABC 6Crohn 7Crohn"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "x-qcm-d-entrainement",
+   "text": "X. QCM d’entrainement :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-1",
+   "text": "QUESTION N° 1 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les MICI, choisir la (ou les) proposition(s) exacte(s) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. La maladie de Crohn est une maladie multifactorielle. B. La mutation de NOD2 a un fort impact dans la maladie de Crohn, c’est un gène qui code pour des récepteurs des cellules de Paneth. C. Le tabac a un rôle protecteur dans la maladie de Crohn. D. Dans la maladie de Crohn, la barrière épithéliale est plus perméable que la normale. E. Dans la maladie de Crohn il y a une dysbiose."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "C : FAUX : le tabac a un rôle délétère dans le MC."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-vrai",
+   "text": "D : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "e-vrai",
+   "text": "E : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-2",
+   "text": "QUESTION N° 2 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les MICI, choisir la (ou les) proposition(s) exacte(s) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. La rectocolite hémorragique entraine une réponse TH2. B. L’ANCA et l’ASCA sont dosé uniquement si le bilan de routine est anormal. C. La calprotectine est spécifique des MICI. D. Dans la maladie de Crohn on remarque une diminution de la diversité du microbiote. E. La mucine est produite en trop grand quantité dans la maladie de Crohn."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai-2",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "B : FAUX : L’ANCA et l’ASCA sont dosé en routine. C : FAUX : La calprotectine est non spécifique des MICI."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-vrai-2",
+   "text": "D : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "E : FAUX : la mucine est presque absente dans la maladie de Crohn."
+  },
+  {
+   "type": "paragraph",
+   "text": "ACC :"
+  },
+  {
+   "type": "paragraph",
+   "text": "2024 Concernant les Maladies Inflammatoires Chroniques de l’Intestin (MICI) : A. Le microbiote intestinal n’est pas modifié chez les sujets malades B. La barrière intestinale est plus perméable chez les patients atteints de MICI que chez les sujets sains C. Les mutations de NOD2 sont fréquemment retrouvées chez les patients atteints de maladie de Crohn D. Dans les MICI on observe une réponse tolérogène au niveau intestinal E. Les MICI sont des pathologies multifactorielles avec un rôle important des facteurs environnementaux"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "correction",
+   "text": "CORRECTION :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-faux",
+   "text": "A : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai-2",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-faux",
+   "text": "D : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "e-vrai-2",
+   "text": "E : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les Maladies Inflammatoires Chroniques de l’Intestin (MICI) : A. On n’observe pas de perturbation de l’immunité innée dans ces pathologies B. La maladie de Crohn est caractérisée par une réponse essentiellement Th2 C. L’alimentation peut jouer un rôle dans la physiopathologie des MICI par modification du microbiote D. Une utilisation importante d’antibiotiques peut jouer un rôle dans la physiopathologie des MICI par modification du microbiote E. La maladie de Crohn peut être considérée comme une maladie génétique à transmission récessive"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "correc-tion",
+   "text": "CORREC TION"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-faux-2",
+   "text": "A : FAUX"
+  },
+  {
+   "type": "paragraph",
+   "text": "B : FAUX, réponse Th1 prédominante, réponse Th2 dans la rectocolite hémorragique."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai-2",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-vrai-3",
+   "text": "D : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "E : FAUX : présence de gènes de prédisposition seulement."
+  },
+  {
+   "type": "paragraph",
+   "text": "2023 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Quelles est (sont) la (ou les) proposition(s) exactes concernant les MICI, choisir la (ou les) proposition(s) exacte(s) : A. Les MICI résultent d’une inflammation chronique du tube digestif B. On observe une augmentation de la diversité du microbiote dans les MICI C. Le gène NOD2 code pour un récepteur présent dans le cytoplasme des cellules de Paneth D. L’incidence de la maladie de Crohn est plus importante dans la tranche d’âge 60-80 ans E. L’atteinte peut aller jusqu’aux segments duodénaux dans la maladie de Crohn"
+  },
+  {
+   "type": "paragraph",
+   "text": "CORRECTION"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai-3",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "B : FAUX : On a une diminution de la diversité du microbiote dans les MICI (dysbiose)."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai-3",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "D : FAUX : La MC touche les 20-30 ans. E : vrai : La MC va de la bouche à l’anus. / VRAI du coup non ? VRAI pour moi aussi “peut”-> oui"
+  },
+  {
+   "type": "paragraph",
+   "text": "2022 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Quelles est (sont) la (ou les) proposition(s) exactes concernant la physiopathologie des MICI ? A. Le microbiote intestinal est modifié chez les sujets malades B. Seule l’immunité adaptative est perturbée dans ces pathologies C. La barrière intestinale est plus perméable chez les patients atteints de MICI que chez les sujets sains D. La maladie de Crohn est caractérisée par une réponse essentiellement Th2 E. Les mutations de NOD2 sont uniquement retrouvées chez les patients atteints de rectocolite hémorragique"
+  },
+  {
+   "type": "paragraph",
+   "text": "CORRECTION"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai-4",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "B : FAUX : l’immunité innée aussi (barrière épithéliale, cellules dendritiques avec phénotype activé)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai-4",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "D : FAUX : TH1 pour MC et Th2 pour RCH E : FAUX : NOD2 muté chez les patient MC"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les affirmations suivantes les affirmations suivantes sur les MICI, laquelle (ou lesquelles) est (sont) exacte(s) ? A. Les cellules de Paneth ont des fonctions altérées dans la maladie de Crohn B. Les cellules dendritiques ont un phénotype activé dans l’intestin des patients avec une MICI C. L’autophagie est plus efficace chez les sujets avec une MICI D. Au cours des MICI, il y a un déséquilibre de la réponse immune en faveur d’une tolérance immune plus importante E. Des mutations du gène du récepteur de l’Interleukine 10 sont possibles au cours des MICI et entraînent des formes plus sévères de la maladie"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "corre-ction",
+   "text": "CORRE CTION :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai-5",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai-3",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "C : FAUX : Autophagie n’est pas efficace dans la Maladie de Crohn D : FAUX : Le déséquilibre de la balance est en faveur de la réponse inflammatoires (donc moins tolérogène)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "e-vrai-3",
+   "text": "E : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les affirmations suivantes sur les MICI, laquelle (ou lesquelles) est (sont) exacte(s) ? ALa sécrétion de mucine est insuffisante dans la maladie de Crohn BLes traitements par anticorps anti-TNF alpha ne peuvent pas être utilisés dans les MICI COn observe des groupes ethniques avec une plus forte incidence de ces pathologies DLe gène NOD2 code pour un récepteur intervenant dans la reconnaissance d’éléments bactériens ELa réponse aux traitements de la maladie de Crohn est meilleure chez les fumeurs"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "correc-tion-2",
+   "text": "CORREC TION"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai-6",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "B : FAUX : Les anti-TNF sont efficaces"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai-5",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-vrai-4",
+   "text": "D : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "E : FAUX : Dans MC le tabac est délétère ; dans la RCH il est bénéfique"
+  }
+ ]
+}

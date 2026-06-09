@@ -1,0 +1,320 @@
+{
+ "slug": "fc19",
+ "code": "FC19",
+ "title": "Complément et complexes immuns",
+ "prof": "Pr. Maillard",
+ "sourceFile": "FC19-MAILLARD-Complement-et-complexes-immuns-27.02(2).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "fc19-complement-et-complexes-immuns",
+   "label": "FC19-COMPLÉMENT ET COMPLEXES IMMUNS",
+   "level": 2
+  },
+  {
+   "id": "i-rappels-sur-le-complement-1-mecanisme-general",
+   "label": "I. Rappels sur le complément 1. Mécanisme général",
+   "level": 2
+  },
+  {
+   "id": "ii-les-complexes-immuns-ci-la-formation-de-complexes-immuns-",
+   "label": "II. Les complexes immuns (CI) La formation de complexes immuns (CI) est un phénomène physiologique : en permanence on a des CI en faible quantité. Un CI se produit à chaque fois qu’un antigène (Ag) est reconnu par un anticorps (Ac) = couple Ac/Ag. L’objectif est de",
+   "level": 2
+  },
+  {
+   "id": "iv-glomerulonephrites-les-glomerulonephrites-definition-mala",
+   "label": "IV. Glomérulonéphrites Les glomérulonéphrites Définition ▪ Maladie inflammatoire du rein qui touche les glomérules ▪ Très souvent à CI 17/22",
+   "level": 2
+  },
+  {
+   "id": "v-bilan-points-forts",
+   "label": "V. Bilan & Points forts",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "fc19-complement-et-complexes-immuns",
+   "text": "FC19-COMPLÉMENT ET COMPLEXES IMMUNS"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-rappels-sur-le-complement-1-mecanisme-general",
+   "text": "I. Rappels sur le complément 1. Mécanisme général"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le système du complément est une structure pathogène qui se créé et qui contient certains motifs. Ces motifs sont appelés des patterns de reconnaissance qui peuvent être des antigènes qui font des structures moléculaires qui peuvent être reconnues par des molécules de reconnaissance du complément (C1q qui reconnaît certains Ag, structures glycosidiques typiquement bactériennes, MBL, ficoline…). Il y a la voie alterne qui est particulière : le C3 qui s’hydrolyse spontanément en permanence à un niveau assez faible. Ce C3, quand il est hydrolysé, contient une liaison qui va se coller à n’importe quelle surface à côté et s’il n’y a rien pour l’inactiver, il active la voie alterne. Nos cellules eucaryotes ont toutes des inhibiteurs à leurs surfaces pour éviter l’activation de cette voie alterne mais les bactéries n’ont pas ces systèmes-là, il devient aussi défaillant sur des cellules tumorales, infectées par des virus."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ensuite, il y a une cascade d’activation qui vont créer des C3 convertases propres à chacune des voies. La voie classique et la voie des lectines ont la même C3 convertase parce que MBL et ficoline agissent de la même manière que le C1q mais celle de la voie alterne est différente car elle fait suite à l’accumulation de facteurs sur le C3a."
+  },
+  {
+   "type": "paragraph",
+   "text": "Quel que soit le type de molécule et la voie, on aboutit à une C3 convertase puis C5 convertase, qui participe à la formation du complexe d’attaque membranaire qui vont faire des trous dans les cellules. ⇒ 3 voies pour aboutir à des mêmes fonctions effectrices, le but étant de lyser les cellules pathogènes. Quelle est la fonction spécifique des voies ? - Voie classique : gestion des complexes immuns (CI)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Voie des lectines : détection de motifs bactériens directement - Voie alterne : activée en absence d’inhibiteurs Donc tout ça aboutit à la formation du complexe membranaire qui fait des trous dans les cellules à proximité mais pas seulement : permet d’avoir des motifs de reconnaissance via des récepteurs du complément pour des cellules inflammatoires qui vont notamment venir faire la phagocytose."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Certains éléments liés à l’activation du complément, tels que des petites molécules notamment C3a et C5a (anaphylatoxines), jouent un rôle de cytokines pro inflammatoire qui vont recruter des cellules inflammatoires. 1/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "Toutes ces fonctions font que le complément est connecté à l’immunité adaptative : à la fois au début, en permettant l’instauration d’une inflammation en milieu avec des pathogènes, des éléments qui activent ce complément et qui sont typiquement du non-soi, et également comme effecteurs d’une immunité adaptative qui s’est déroulée jusqu’au bout et qui a produit des Ac. Ces Ac se fixant sur les Ag entraînent l’activation de la voie classique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Le complément est à la fois un élément de l’immunité innée mais aussi une aide à l’immunité adaptative."
+  },
+  {
+   "type": "paragraph",
+   "text": "Notion importante : système de régulation car en cas d’excès de fonctionnement du complément, il peut être autodestructeur : maladies auto-immunes se développent. Il existe des systèmes de régulation notamment des protéines : protéines membranaires cellulaires (CD59, CD45) mais aussi circulantes (facteurs H et I +++)."
+  },
+  {
+   "type": "paragraph",
+   "text": "2/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Rôles du complément Les rôles du complément sont à bien assimiler pour pouvoir comprendre les pathologies. Chaque fonction est permise par une des protéines du complément."
+  },
+  {
+   "type": "paragraph",
+   "text": "3/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il y a une régulation au niveau de la voie alterne qui joue un rôle d’amplification. Il s’agit de la voie la plus importante à réguler. Un grand nombre de protéines sont chargées de réguler cette voie."
+  },
+  {
+   "type": "paragraph",
+   "text": "Pour vous montrer que cette régulation est hyper importante, il existe des pathologies qui sont liées à l’activation excessive du complément : 3. Exemple de l’hémoglobinurie paroxystique nocturne Très rare, on ne verra probablement jamais sauf si on est hémato Mutation acquise au sein des progéniteurs hématopoïétiques de la lignée myéloïde (gène PIG-A) : l’enzyme qui code pour la production du glycosylphosphatidylinositol (GPI) est défaillante donc ce GPI n’est pas produit. Le GPI a de nombreux rôles notamment un rôle d’ancrage membranaire de protéines de régulation de la voie alterne du complément notamment CD55 ou CD59 (régulateurs de la voie alterne). Donc, en l’absence de CD55 (ou DAF) et CD59 (ou MIRL) qui sont des inhibiteurs naturels du complément (C3b et C5b respectivement) présents sur les GR, on a une attaque permanente du complément, voie alterne activée. En l’absence CD55/CD59, on aura une hémolyse intravasculaire avec de nombreuses conséquences cliniques. - Cytopénies : d’une part un progéniteur muté donc +/- défaillant entraine une forme de myélodysplasie, mais surtout lié à l’attaque du complément"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Anémie par destruction des hématies (hémolyse) = libération du contenu des hématies (toxique notamment hémoglobine très oxydante lorsqu’elle est circulante)",
+    "Système pour neutraliser la toxicité de l’hémoglobine circulante mais s’il y a trop d’hémolyse, ça dépasse les capacités d’inhibition.",
+    "Si devient chronique, sera filtrée par les glomérules rénaux et va colorer les urines (rouges) ▪ Hémoglobine toxique pour les tubes rénaux > IR - Thrombopénie La bonne compréhension de cette maladie a permis d’obtenir un TTT ciblé = bloquer l’activation du complément notamment par le blocage du complexe d’attaque membranaire : Ac monoclonal anti C5. Empêcher la formation de complexe d’attaques membranaires. Néanmoins, ça n’enlève pas le clone responsable donc l’autre risque de cette maladie = évolution vers la leucémie."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "4/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "Tout ça pour montrer qu’en l’absence de CD55, CD59, on a des manifestations pathologiques et que non traitée elle est redoutable. Diapo : - Clinique liée à l’accumulation d’Hémoglobine : o Douleurs dues à la vasoconstriction entraînée par la dégradation du NO o +/- urines matinales foncées (pH + acide) due à l’hémoglobine dans le plasma o HTA o Insuffisance rénale due à la toxicité de l’hémoglobine pour le rein (hémosidérose) Historiquement : la nuit le pH sanguin baisse ce qui favorise l’hémolyse = urine rouge le matin - Évènements thrombo-emboliques (absence de CD55 et CD59 sur les plaquettes, autres molécules absentes, débris cellulaires, tonus vasculaire…) dans l’abdomen, au niveau d’un cathéter…"
+  },
+  {
+   "type": "list",
+   "items": [
+    "TTT des formes sévères : eculizumab (anti-C5) 4. Exemple du SHU : syndrome hémolytique et urémique Syndrome Hémolytique et Urémique : ensemble de maladies avec activation de la coagulation dans les petits vaisseaux = thromboses Sous partie des microangiopathies thrombotiques qui correspondent à des lésions de cellules endothéliales entraînant des thromboses microcirculatoires"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Le plus souvent lié à un stress des cellules endothéliales qui sont attaquées par différents processus. Chacun de ces processus étant une maladie particulière. Le diagnostic se fait par une anémie hémolytique mécanique (GR se cassent lors du passage) / thrombopénie / atteinte d’organes. Si on fait un frottis sanguin à ces patients : GR cassés = schizocytes Il y a une thrombopénie de consommation de plaquettes et des dysfonctions d’organes (en grande partie au niveau des reins +++, mais aussi du cerveau, cœur…). Cela correspond à une attaque de complément sur l'endothélium du patient porteur de la mutation génétique (atteinte du gène qui code pour la régulation de la voie alterne du complément). C’est un phénomène qui reste très rare. SHU typique = enfant qui mange des steaks pas bien décongelés (E. Coli en cause, certaines souches produisent une toxine qui a une toxicité pour l’endothélium qui cause le SHU) > scandales sanitaires. A) SHU atypique : mutation du complément 5/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "NB : le facteur H est l’endroit où il y"
+  },
+  {
+   "type": "paragraph",
+   "text": "a le plus de mutation. Tableau chez enfant, adulte jeune : même clinique mais sans lien avec E. Coli Les SHU atypiques sont liés à des anomalies génétiques qui portent sur les gènes qui codent pour les protéines de régulation du complément (CD46, facteur H, facteur I, activatrice du C3 = grand nombre de mutations identifiées). Ces anomalies génétiques entraînent un défaut de régulation du complément et de l’inflammation sur la cellule endothéliale (=stress). Le traitement est aussi l’Eculizumab (Ac monoclonal anti-C5) qui bloque le complexe d’attaque membranaire et ainsi l’agression des cellules endothéliales par le complément. ⇒ La régulation du complément est très très importante car la déficience de régulation donne des maladies rares. Si la mutation touchait toutes nos cellules, ça ne serait pas vivable et serait mortel très vite. Malgré la redondance des protéines de régulation, on arrive quand même à avoir des maladies."
+  },
+  {
+   "type": "paragraph",
+   "text": "Le complément est à l’interface de beaucoup de choses et donc dans toutes les maladies que nous allons voir, il aura son rôle également notamment les CI : on a dit tout à l’heure que la voie classique était activée par les Ac, dans les complexes immuns typiquement on a des Ac qui activent la voie classique."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-les-complexes-immuns-ci-la-formation-de-complexes-immuns-",
+   "text": "II. Les complexes immuns (CI) La formation de complexes immuns (CI) est un phénomène physiologique : en permanence on a des CI en faible quantité. Un CI se produit à chaque fois qu’un antigène (Ag) est reconnu par un anticorps (Ac) = couple Ac/Ag. L’objectif est de"
+  },
+  {
+   "type": "paragraph",
+   "text": "faciliter l'élimination de l’Ag. Le plus souvent, ils activent le complément. L’objectif étant de faciliter l’élimination (=la clairance) de l’Ag notamment par phagocytose des complexes immuns. 1. Formation La quantité de complexes immuns dépend de différents facteurs qui permettent leur formation (IMPORTANT) : - L’antigène : nature, valence (plus le nombre de valence augmente plus le nombre de complexes immuns fixés sera important), quantité, isotype, propriétés physicochimiques"
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’anticorps (nature, affinité pour l’Ag, capacité à précipiter, solubilité, capacité à fixer le complément lié à isotype et N-glycosylation)",
+    "Du rapport de leurs concentrations !!! (Notion de stœchiométrie) 6/22"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Le devenir physiologique des CI à terme, à la fin de l’infection Internalisation et destruction assurées par les cellules phagocytaires, via les récepteurs aux fragments constants (Fc) des Ac ➔ Activation de la voie classique du complément et destruction des cellules auxquelles les CI sont liés. 3. Les différentes actions des CI"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils peuvent être médiateurs de l’inflammation et éventuellement générer des maladies. - Activation des plaquettes : les plaquettes sont sensibles à l’état d’inflammation et portent des TLR capables de s’activer dans un état d’inflammation = thrombose favorisée"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Recrutement des macrophages très important : phagocytose, présentation Ag, production de cytokines = amplification CI = pro inflammatoires 4. Les maladies à CI Leur formation pathologique a été rangée dans la classification de Gell et Coombs. L’hypersensibilité à complexes immuns est de type 3. Délai : 3-10h (à prendre avec des pincettes, n’est pas précis) Rappel : hypersensibilité = réaction intense, inappropriée, dangereuse, même à des doses très faibles qui chez les individus normaux ne s’accompagne d’aucune manifestation. Peut-être due à une bactérie, un médicament, un auto-Ac… (cela est synonyme de l’allergie dans le langage courant)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "a) Propriétés 7/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les pathologies à complexes immuns sont secondaires à : - Des anomalies de formation des CI (trop grand nombre=excès) → auto-immunité - Des anomalies du complément (car solubilise les CI) : empêchent la clairance des complexes immuns, ex : lupus - Des anomalies des cellules responsables de la clairance de ces CI (GR, cellules mononuclées du foie et de la rate) : les cellules normalement responsables de la clairance des complexes immuns sont défaillantes Il peut y avoir ces 3 anomalies en même temps pour une maladie. On voit la complexité, la difficulté de prédire l’arrivée d’une maladie à CI. L’importance des réactions dépend du nombre, de la taille, de la distribution (tissulaire ou circulant) des CI dans l’organisme et de la capacité du système phagocytaire à les éliminer. Les lésions sont induites par les dépôts de CI circulants (notamment dans les vaisseaux sanguins) et/ou par la formation de CI in situ. Glomérulonéphrite : du fait de la filtration, les CI vont se déposer dans les glomérules o Reins très sensibles aux dépôts dû à un changement de calibre brutal Les facteurs (circulatoires) qui influencent les dépôts sont : - La perméabilité vasculaire ++ (liée à la libération de substances vaso-actives) : hyperperméabilité vasculaire facilite le passage des CI vers les tissus."
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’HTA et turbulences vasculaires (expliquent la présence préférentielle de dépôts dans certaines zones : capillaires glomérulaires, bifurcations, plexus choroïdes...) Les facteurs qui influencent la localisation des dépôts sont : - Rôle de l’affinité de certains Ag pour certains tissus o Ex : lupus érythémateux systémique et rein, polyarthrite rhumatoïde et articulations. - Rôle de la taille des CI o Ex : au niveau rénal, les petits CI peuvent traverser la membrane glomérulaire alors que les grands CI s’accumulent au niveau endothélial.",
+    "= Plus la taille est importante plus les dégâts sont importants. b) Maladies à CI Il en existe 3 grands groupes : - Infections chroniques ou persistantes : exemple de la périarthrite noueuse et hépatite B. - Maladies auto-immunes (PAN = vascularites à Cryo) (Ag du soi = auto-Ag). - Administration de substances antigéniques (Ag exogènes) : par exemple lié à un médicament."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "8/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "c) Exemple de la maladie sérique Maladie sérique Définition ▪ Exemple typique de maladie à CI. ▪ C’est une forme généralisée d’hypersensibilité de type III o C’est-à-dire qu’elle est déclenchée par un médicament, l’administration d’une substance antigénique. Elle est liée à la formation et au dépôt de complexes immuns Ag-Ac, à l’activation du complément et au recrutement de PNN. Physiopathologie 1) Injection d’Ag (ligne rouge) o L’Ag est en général une protéine étrangère (injection), une Ig étrangère et elle provient généralement du plasma. 2) Réponse anticorps qui met 10 à 15 jours pour se faire (ligne bleu) 3) Va arriver un moment où il va y avoir un croisement entre Ag et Ac. La stœchiométrie entre les deux va permettre la formation de ces CI. o Il va avoir un pic de CI qui va être très aiguë, limité dans le temps o Les CI vont entraîner une vascularite généralisée 4) Activation et consommation de la voie classique du complément par les CI entraînant la chute du taux C4 qui va ensuite se restaurer. 5) Recrutement des PNN"
+  },
+  {
+   "type": "paragraph",
+   "text": "Historique ▪ La maladie sérique a été décrite en 1906 par Arthus. ▪ Elle est la conséquence du succès de la « sérum-thérapie » ou sérothérapie antidiphtérique mise au point par Emil von Behring et Émile Roux à partir de sérum de chevaux vaccinés. Le principal problème est que les Ig n’ont pas les mêmes séquences d’AA et ont tendance à se comporter comme des Ag (c’est 9/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "non du soi), provoquant l’apparition d’Ac anti Ig de cheval ce qui va provoquer une accumulation de CI. ▪ Plus tard, dans les années 80, on a utilisé des Ac monoclonaux murins (peuvent être reconnus par les Ac). ▪ Aujourd’hui bien plus rarement avec les Ac monoclonaux chimériques > humanisés> humain. Tableau clinique ▪ Survient 10 jours après la première administration, ou en quelques heures si c’est la 2 ème administration et que des Ac sont déjà formés. ▪ Fièvre, AEG, poly adénopathies, éruption cutanée = purpura, atteinte articulaire, atteinte rénale. Évolution ▪ Arrêter toute transfusion de ce traitement évolution favorable et aidée par la cortisone. Points importants : - Le complément est un ensemble de protéines sériques inactives sous forme circulantes, qui vont s’activer en cascade après liaison à leur cible, pour entraîner la formation de différents effecteurs (opsonines, anaphylatoxines, MAC)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les 3 voies (classique/lectines/alterne) impliquent différentes protéines mais aboutissent toutes à la lyse de C3 et C5.",
+    "Rôle central du complément entre immunités innée et adaptative - La formation de complexes immuns (Ag + Ac + C) est un mécanisme physiologique de la lutte anti-infectieuse. - Il existe 3 groupes de pathologies où l’excès (trop de formation ou défaut d’élimination) de CI est pathologique et dont les symptômes dépendent de la localisation des dépôts de CI.",
+    "La maladie sérique est une forme généralisée, historique, d’hypersensibilité de type 3, causée par une protéine étrangère. III. Les vascularites Les vascularites Définition ▪ « Groupe d’affections caractérisées par une atteinte inflammatoire des vaisseaux sanguins artériels, capillaires et veineux conduisant à une altération de la paroi vasculaire, qui intéresse aussi bien l’endothélium que la média (motricité) ou l’adventice (intégration structurelle dans l’organe concerné) » ▪ Certaines vascularites sont des maladies à CI. ▪ C’est une maladie inflammatoire des vaisseaux, qui pourra toucher toutes les tuniques des vaisseaux et qui peut potentiellement toucher n’importe quel vaisseau. 10/22"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Mécanismes ▪ Complexes Immuns : o Par exemple : purpura rhumatoïde, vascularite leucocytoclasique, maladie sérique, forme vascularite du lupus… ▪ Auto Ac contre un élément circulant des vaisseaux : o Par exemple : vascularite à ANCA (auto Ac contre les PNN Les PNN pendant leur circulation intra vasculaire vont dégranuler et libérer leurs composants pro-inflammatoires, pro oxydatifs qui vont attaquer la paroi du vaisseau). ▪ Immunité cellulaire : o Par exemple : maladie de Horton et maladie de Takayasu. Comment aborder les vascularites ? ▪ On classifie ces vascularites selon la taille des vaisseaux concernés : veinules, artérioles ou les gros vaisseaux."
+  },
+  {
+   "type": "list",
+   "items": [
+    "De gauche à droite vous avez : o Les vascularites des gros vaisseaux type aorte ou artère temporale : artérites gigantocellulaire maladie de Horton, maladie de Takayasu. o Les vascularites des moyens vaisseaux polyarthrite ou périarthrite, maladie de Kawasaki (touche les enfants et les artères coronaires). o Les vascularites des petits vaisseaux : Soit à CI (vascularite à IgA, vascularite cryoglobuline). Soit à ANCA (granulomatose avec polyangéite, la granulomatose éosinophilique avec polyangéite et polyangéite microscopique). 11/22"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "1. Maladie de Horton Maladie de Horton Définition ▪ Artérite des gros vaisseaux : en particulier l’artère temporale (branche terminale de l’artère carotide externe) ou l’aorte ⇒ Inflammation type giganto-cellulaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "Clinique ▪ Maladie très inflammatoire qui va donner : fièvre, AEG, céphalées, arthralgie pseudo rhizomélique (PPR) o Il existe un lien très fort entre la maladie de Horton et la PPR Complications ▪ Sévérité quand atteinte branches de la carotide interne car elle vascularise le cerveau o Risque d’AVC o Risque de névrite optique ischémique antérieure aiguë (NOIA) ▪ Atteinte de l’aorte ▪ Atteinte de la langue Pathogénie"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Quand on fait une coupe de l’artère temporale, tous les petits points noirs autour sont des lymphocytes, on voit aussi des cellules géantes (au niveau des zones “vides” montrées par les flèches noires) liées à la fusion de plusieurs macrophages. o Intervention de l’immunité cellulaire avec notamment de INF gamma (médiateur clé de la maladie) qui est propice à cette formation de granulome gigantocellulaire. ▪ Implication des TLR via les PAMPs, émission de pseudopodes qui captent les Ag et interagissent avec les LT ce qui conduit à une réaction immunitaire 12/22"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "cellulaire médiée par les LT : IL6 (élévation cRP), IL1, 12, 17 et 23 et au final INF gamma qui activent les macrophages jusqu’à leur fusion et la formation de cellules géantes. L’endothélium est activé, ce qui provoque la thrombose. Diagnostique ▪ Le moyen le plus fiable de faire le diagnostic de la maladie de Horton est la biopsie o L’histologie classique est des granulomes géants. Résumé ▪ La maladie de Horton est une artérite des gros vaisseaux, les malades ne vont pas bien, ils ont de la fièvre, ils sont fatigués, ils sont inflammatoires, CRP élevée, et ils vont avoir des manifestations au niveau de leur artère temporale notamment des céphalées. Ce qui est redoutable chez ces patients c’est l’atteinte de l’artère carotide interne lié aux AVC, névrite optique et l’atteinte de l’aorte TTT ▪ Cortisone 2. Vascularite à ANCA Vascularite à ANCA Définition ▪ Maladie redoutable, si on ne fait pas le diagnostic et qu’on ne traite pas c’est 90% de mortalité. Quand on traite c’est moins de 10% de mortalité. ▪ Vascularite des petits vaisseaux (qu’on voit au microscope quand on fait des biopsies) avec un rôle central d’auto Ac et des Ac ANCA. o ANCA = Anticorps Anti-Cytoplasme des PNN ▪ Ce sont des maladies générales qui sont sévères spontanément létales, les patients perdent du poids, ont de la fièvre, ont mal dans les articulations et ont des atteintes des organes touchés par ces vascularites. o Peut toucher potentiellement tous les organes. Diagnostic ⇨ Immunofluorescence indirecte : ▪ Principe : 1) Fixe PNN sur lame 2) On fait agir le sérum du patient 3) On lave pour conserver que ce qui est fixé donc spécifique 4) Révélation par un Ac (anti Ig) secondaire marqué par un fluorochrome 5) Fluorescence en vert met en évidence la présence d’Ac ▪ Résultat : 13/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans les 2 cas, le cytoplasme des cellules brille en vert. - Fluorescence diffuse du cytoplasme : c-ANCA - Fluorescence cytoplasmique mais périnucléaire : p-ANCA - Résultat négatif : tout reste noir ⇨ ELISA : ▪ Principe : détection 1 Ag particulier présent dans le cytoplasme des PNN : le plus souvent : anti-protéinase 3 ou anti-myélopéroxydase. Toutes les deux sont des enzymes qui catalysent la réaction oxydative dans la dégranulation. ▪ Résultat : - Si détecte anti-protéinase 3 on aura un c-ANCA en immunofluorescence - Si détecte des anti-myélopéroxydase on aura un p-ANCA en immunofluorescence Physiopathologie ▪ Le PNN peut parfois avoir une petite infection, qui déclenche la procédure. Il y a besoin d’un peu de priming par les cytokines pro inflammatoires des PNN pour qu’ils développent leurs phénotypes inflammatoires. Les ANCA vont s’attaquer aux PNN ce qui va déclencher une activation de ce PNN en prolongeant leur cytoplasme (NET) et activation du complément. o Protéinase 3 et Myélopéroxydase sont présents dans les granules des PNN pour faire une attaque oxydative. Suite à la présence des auto Ac, il va y avoir une dégranulation des PNN, une activation de ces PNN en plein dans le vaisseau sans que ce soit déclenché par un pathogène particulier, sans que ce soit ordonné. ▪ Les organes qui contiennent le plus de capillaires par rapport à la masse vont être les plus touchés par exemple les reins 14/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "Liaison Ac ANCA et Ag Activation des PNN Émission de prolongement cytoplasmique appelés NETs et qui activent le complément Nécrose des parois capillaires Réaction inflammatoire autour de la nécrose : prolifération de cellules en périphérie de la nécrose. Clinique ▪ Syndrome général : fièvre, myalgies, AEG, inflammation, anémie ▪ Signes rénaux : GNRP = glomérulonéphrite (GN) rapidement progressive ▪ Signes extra rénaux : pulmonaire, ORL, ophtalmo, neuro (multinévrite), purpura vasculaire ⇨ Tous les organes peuvent être atteints !! TTT ▪ Corticoïdes à forte dose + un immunosuppresseur lourd (cyclophosphamine ou ritiximab) +/- plasmaphérèse Sous-types ▪ Il existe différents sous-types de vascularites à ANCA mais qui ont des spectres en commun : La micropolyangéite et la polyangéïte granulomateuse."
+  },
+  {
+   "type": "paragraph",
+   "text": "Le professeur a surtout insisté sur la ligne ANCA dans ce tableau. ▪ Manifestation typique : atteinte ORL, pneumo et rénale o ORL : Scanner qui montre une rhino sinusite avec atteinte parfois des os 15/22"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pulmonaire : hémorragies alvéolaires avec des infiltrats ou des granulomes qui donne des aspects de nodule qui pourront s’excaver o Biopsie rénale : en haut floculus normal et en bas un croissant = prolifération des cellules qui longe la membrane"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Cryoglobulinémie Cryoglobulinémie Définition ▪ Formation de cryoprécipitats à froid : moins de 37°C. ▪ Protéines qui précipitent si elles sont à moins de 37° et ainsi activent la voie classique du complément. o Le froid rend insoluble ces Ig ▪ Maladie à CI (mais aussi vascularite) : o Les Ac vont reconnaître leurs Ag en général c’est un Ac contre un autre Ac (une IgM anti IgG par exemple), ce qui va former des CI Ac/Ac. Clinique ▪ Purpura : la peau c’est ce qui est le plus sensible au froid ▪ Syndrome de Raynaud : vasoconstriction de vaisseaux des doigts ▪ Arthralgies : polyarthrite ▪ Sévérité = atteinte des nerfs = polynévrites (nerf sciatique poplité externe typiquement) ▪ Atteinte d’organes internes : notamment les reins (glomérulonéphrite) Physiopathologie ▪ Ces CI vont activer le complément et il va avoir une baisse du taux de C4 (effondré) car il est consommé par les CI. Diagnostic ▪ Prélèvement du sang du patient et le garder au-dessus de 37°C (étuve) jusqu’au laboratoire. Au laboratoire, dans un cryotube on va baisser la température pour voir s’il y a un précipitat qui va apparaître. Une fois qu’on a le cryoprécipité on va le typer et savoir de quoi il est fait. Types ▪ Si c’est une Ig monoclonale uniquement typiquement une IgM, on parle de type 1 16/22"
+  },
+  {
+   "type": "list",
+   "items": [
+    "C’est une maladie hématologique sous-jacente, un clone plasmocytaire (myélome). ▪ Si c’est une IgM monoclonale et une IgG polyclonale, on parle de type 2. o Maladies infectieuses : hépatite C +++, Hépatite B, MAI (lupus), syndromes lymphoprolifératifs ▪ Si c’est polyclonal (IgM, IgG et/ou IgA), on parle de type 3 o Maladies infectieuses : hépatite C +++, Hépatite B, MAI (lupus), maladie néoplasique, hépatopathie chronique Hépatite C ▪ Entraîne la production d’Ac pour lutter contre l’hépatite C ▪ Clinique : purpura, glomérulonéphrite membrano proliférative (les glomérules sont pleins = prolifération de capillaire) ce qui entraîne une protéinurie massive, un syndrome néphrotique et une insuffisance rénale."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-glomerulonephrites-les-glomerulonephrites-definition-mala",
+   "text": "IV. Glomérulonéphrites Les glomérulonéphrites Définition ▪ Maladie inflammatoire du rein qui touche les glomérules ▪ Très souvent à CI 17/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "2 types de lésion ▪ Prolifération : les cellules normales du glomérule vont se mettre à proliférer. o Prolifération au niveau du mésangium (zone entre les vaisseaux), o Prolifération des cellules qui bordent la capsule de Bowman (extracapillaire) vascularite à ANCA o Prolifération au sein des petits capillaires (endocapillaire) ▪ Dépôts de CI : on va chercher avec des antisérums des IgG, des IgA, des IgM et du complément. On va caractériser le type en immunomarquage et leur position vis-à-vis de la membrane basale glomérulaire o Extramembraneux (glomérulonéphrite extra membraneuse) o Intramembraneux (dans la MB) o Endomembraneux (sous la MB) o Mésangiaux (maladie de Berger)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Diagnostic ▪ Pour les proliférations, on utilise la microscopie optique classique avec une coloration généraliste. ▪ Pour les dépôts, on utilise l’immunohistochimie avec des antisérums. Types ▪ Glomérulonéphrite à lésion glomérulaire minime c’est une atteinte uniquement du podocyte ce qui fait qu’en MO on ne voit rien d’anormal entraîne un syndrome néphrotique, des œdèmes ▪ Hyalinose (dépôt de matériel type collagène ou il ne devrait pas) segmentaire focal : les dépôts prennent une couleur hyaline = rose pâle ▪ Néphropathie à IgA : dépôts d’IgA dans le mésangium ▪ Glomérulonéphrite extra membraneuse : dépôt IgG et C3 extramembraneux ▪ Glomérulonéphrite extracapillaire : cellules de la capsule de Bowman qui vont proliférer. ▪ Amylose 18/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "Néphropathie à IgA ▪ Glomérulonéphrite la plus fréquente dans le monde aussi appelée maladie de Berger (sera vue l’année prochaine plus précisément mais retenir HÉMATURIE). ▪ Débute chez l’adulte jeune surtout chez les hommes. ▪ Symptômes : hématurie glomérulaire +++ (sang dans les urines visible dans 30% des cas par le patient), protéinurie glomérulaire (albumine dans les urines), +/- insuffisance cardiaque, HTA, DFG altéré. ▪ C’est une atteinte inflammatoire qui touche les muqueuses productrices d’IgA qui vont créer des CI qui vont se déposer dans les reins et qui vont entraîner des hématuries pendant les infections ORL. ▪ Diagnostic : hématuries (macroscopique récidivante, microscopique isolée, associée à une protéinurie) ▪ Évolution : Dans cette maladie, 30 à 50% des patient évoluent vers l’insuffisance rénale terminale avec dialyse ou greffe rénale. Purpura rhumatoïde ▪ Maladie à complexes immuns IgA avec atteinte vascularitique ▪ Elle a une expression extra-rénale bien plus importante que dans la néphropathie à IgA : - Purpura vasculaire +++ - Atteinte articulaire, polyarthrite aiguë - Atteinte rénale : protéinurie, IR - Atteinte digestive - Touche principalement enfants 19/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "Néphropathie : glomérulonéphrite extramembraneuse ▪ Protéinurie massive < 3g/j et hypoalbuminémie → syndrome néphrotique ▪ Oedèmes, hypertension et +/- IR ▪ Diagnostic par biopsie rénale"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pathogénie : auto-Ac : anti-PLA2R +++, antiTHSD7A4 o de type IgG4 +++"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-bilan-points-forts",
+   "text": "V. Bilan & Points forts"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vascularites = maladies générales",
+    "Mécanismes multiples : cellulaire, humoral, complexes immuns, auto Ac - Activation du complément = effecteur important",
+    "Glomérulonéphrites",
+    "Vascularite des petits vaisseaux - Dépôts immuns : auto-immunité (= auto AC non médié par les complexes immuns) ou complexes immuns",
+    "Reins et complément : exemple du SHUa VI- QCM d'entraînement de l’année dernière : Q1 : Quelles sont la ou les propositions(s) exacte(s) ? A- En cas d’excès de fonctionnement du complément, des maladies auto-immunes se développent. B- Dans le système du complément, la voie des lectines est une voie permanente contrairement à la voie classique et la voie alterne. C- La première conséquence de l’Hémoglobinurie Paroxystique Nocturne (HPN) est l’insuffisance rénale. D- On traite l’HPN avec l’éculizumab. E- L’atteinte de l’artère ophtalmique NOIA qui conduit à une nécrose d’une partie du nerf optique est une complication de la maladie de Kawasaki. Q2 : Quelles sont la ou les propositions(s) exacte(s) ? A- Le délai de la réaction de type III (hypersensibilité à complexes immuns) est de 24 à 48h 20/22"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "BLa perméabilité vasculaire est le seul facteur qui influence les dépôts des complexes immuns. CLes facteurs qui influencent la localisation des dépôts sont l’affinité de certains Ag pour certains tissus ainsi que la taille des CI. DIl y a 2 grands groupes de maladies à complexe immuns : les infections chroniques/persistantes ainsi que les Maladies auto-immunes. EConcernant les vascularites, les maladies de Polyarthrite noueuse et Kawasaki concernent les gros et moyens vaisseaux. Q3 : Quelles sont la ou les propositions(s) exacte(s) ? ALa voie classique participe à l’immunité innée. BQuel que soit le type de molécule et la voie, on aboutit à une C3 convertase. CLe complexe d’attaque membranaire est responsable de l’activation de l’inflammation. DEn cas d’excès de fonctionnement du complément, des cancers se développent. EMBL, C1q, C3b, C4b et C5a augmentent la présentation antigénique. Q4 : Quelles sont la ou les propositions(s) exacte(s) ? ALa maladie sérique est une forme généralisée d’hypersensibilité de type III causée par une protéine étrangère. BLes vascularites sont caractérisées par une atteinte inflammatoire des vaisseaux sanguins conduisant à une altération de la paroi veineuse. CLa maladie de Horton est une artérite gigantocellulaire des moyens vaisseaux, en particulier l’artère temporale ou l’aorte. DLes glomérulonéphrites sont des maladies inflammatoires du rein qui touchent les glomérules. ELe purpura rhumatoïde est une maladie à complexes immuns IgA avec atteinte vascularitique. Réponses : Q1 : A, D AVRAI BFAUX : c’est la voie alterne qui est une voie en permanence activée CFAUX : c’est la cytopénie. L’IR est une conséquence clinique liée à l’accumulation de l’hémoglobine (donc conséquence, mais pas la première) DVRAI EFAUX : de Horton. Q2 : C AFAUX : 3 à 10H BFAUX : il y a aussi L’HTA et turbulences vasculaires, même si la perméabilité reste le facteur principal. CVRAI DFAUX : il y a aussi l’administration de substances antigéniques (Ag exogènes), par exemple lié à un médicament EFAUX : elles concernent les moyens vaisseaux. Horton, Takayasu concernent les gros vaisseaux. Q3 : BE A : C’est l’immunité adaptative. C : Il est responsable de la lyse de l’agent pathogène. D : Ce sont des maladies auto-immunes qui se développent Q4 : ADE B : Les vascularites sont caractérisées par une atteinte inflammatoire des vaisseaux sanguins conduisant à une altération de la paroi artérielle. C : La maladie de Horton est une artérite giganto cellulaire des gros vaisseaux, en particulier l’artère temporale ou l’aorte. VIIQCM de cette année : Q1 : A propos des vascularites : A. Il existe 3 types de mécanismes : à CI, les auto Ac et l’immunité cellulaire. B. La maladie de Horton touche les petits vaisseaux. C. Une des complications de la maladie de Horton est l’atteinte de l’artère carotide externe. D. Dans les vascularites à ANCA, si on détecte une anti-protéinase 3 en immunofluorescence, on aura un c-ANCA en ELISA. 21/22"
+  },
+  {
+   "type": "paragraph",
+   "text": "E. La cryoblobulinémie se diagnostique grâce à la formation de cryoprécipitats à froid. Correction : AE B : La maladie de Horton touche les gros vaisseaux. C : Une des complications de la maladie de Horton est l’atteinte de l’artère carotide interne. D : Dans les vascularites à ANCA, si on détecte une anti-protéinase 3 en ELISA, on aura un c-ANCA en immunofluorescence. Q2 : Concernant l’hémoglobinurie paroxystique nocturne A. Il s’agit d’une mutation constitutionnelle B. Le TTT est l’Ac monoclonal anti C5 C. Un des risques est la leucémie D. En l’absence de CD55 et CD29, on a une attaque permanente du complément E. Il y a un risque d’IR Correction : BCE A : acquise D : CD55 et CD59 ACC : 2022 : QUESTION N° 17 : Concernant les affirmations suivantes sur le complément, laquelle (ou lesquelles) est (sont) exacte(s) ? 5. La voie alterne du complément est activée par les facteurs I et H 6. La production de C3a et C5a réduit le chimiotactisme de cellules inflammatoires vers le lieu d’activation 7. Le C4b et le C3b ne facilitent pas la phagocytose (opsonisation) 8. Le complément réduit la clairance (= élimination) des complexes immuns circulants 9. Le mécanisme effecteur principal est la formation de complexes C5b-9 entraînant des pores dans la membrane plasmique de la cellule-cible A : FAUX : ce sont des inhibiteurs B : FAUX C : FAUX : ils facilitent la phagocytose D : FAUX : il l’augmente E : VRAI 2018 : QUESTION N° 17 : Concernant les vascularites : Comme ils sont dirigés contre des composants des granules des polynucléaires neutrophiles, les anticorps anti-cytoplasme des polynucléaires neutrophiles (ANCA) entrainent une immunodépression sévère Les ANCA sont particulièrement utiles dans le diagnostic étiologique d’une vascularite systémique Les résultats de l’analyse des ANCA en immunofluorescence indirecte, suffit pour poser le diagnostic de vascularite à ANCA Les autres types d’ANCA, en dehors des anticorps anti-PR3 et anti-MPO, ne sont pas utiles au diagnostic de vascularite Le syndrome pneumo-rénal (hémorragie alvéolaire et glomérulonéphrite), est un classique de l’atteinte capillaire dans les vascularites des petits vaisseaux A : FAUX : ils entraînent une inflammation sévère B : VRAI C : FAUX on a aussi besoin de ELISA D : FAUX E : VRAI 22/22"
+  }
+ ]
+}
