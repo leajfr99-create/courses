@@ -1,0 +1,719 @@
+{
+ "slug": "fc04a",
+ "code": "FC04a",
+ "title": "Physiopathologie de la polyarthrite rhumatoïde",
+ "prof": "Pr. Marotte",
+ "sourceFile": "FC04a-MAROTTE-Physiopathologie-de-la-polyarthrite-rhumatoide-21.02.pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "physiopathologie-de-la-polyarthrite-rhumatoide-partie-1",
+   "label": "PHYSIOPATHOLOGIE DE LA POLYARTHRITE RHUMATOIDE : PARTIE 1",
+   "level": 2
+  },
+  {
+   "id": "i-polyarthrite-rhumatoide-pr",
+   "label": "I. Polyarthrite rhumatoïde (=PR)",
+   "level": 2
+  },
+  {
+   "id": "1-introduction",
+   "label": "1. Introduction",
+   "level": 3
+  },
+  {
+   "id": "2-maladies-auto-immunes-mai",
+   "label": "2. Maladies auto immunes (=MAI).",
+   "level": 3
+  },
+  {
+   "id": "3-imagerie-de-la-pr",
+   "label": "3. Imagerie de la PR :",
+   "level": 3
+  },
+  {
+   "id": "a-retenir",
+   "label": "A RETENIR",
+   "level": 2
+  },
+  {
+   "id": "4-mecanismes-physiopathologiques-de-la-pr",
+   "label": "4. Mécanismes physiopathologiques de la PR :",
+   "level": 3
+  },
+  {
+   "id": "1-en-presence-de-facteurs-genetiques-et-environnementaux-rep",
+   "label": "1. En présence de facteurs génétiques et environnementaux : réponse immunitaire",
+   "level": 3
+  },
+  {
+   "id": "2-sans-ttt-risque-de-destruction-articulaire-massive-osteopo",
+   "label": "2. Sans ttt : risque de destruction articulaire massive, ostéoporose, lymphome…",
+   "level": 3
+  },
+  {
+   "id": "5-criteres-de-diagnostic-de-la-pr-acr-eular-niveau-europeen",
+   "label": "5. Critères de diagnostic de la PR : ACR/ EULAR (niveau européen)",
+   "level": 3
+  },
+  {
+   "id": "6-declenchement-de-la-pr",
+   "label": "6. Déclenchement de la PR",
+   "level": 3
+  },
+  {
+   "id": "a-retenir-2",
+   "label": "A RETENIR",
+   "level": 2
+  },
+  {
+   "id": "7-acpa-avant-la-pr",
+   "label": "7. ACPA avant la PR :",
+   "level": 3
+  },
+  {
+   "id": "a-retenir-3",
+   "label": "A RETENIR",
+   "level": 2
+  },
+  {
+   "id": "8-les-processus-d-auto-immunisation-dans-la-pr",
+   "label": "8. Les processus d’auto-immunisation dans la PR",
+   "level": 3
+  },
+  {
+   "id": "9-physiopathologie-la-pr",
+   "label": "9. Physiopathologie la PR",
+   "level": 3
+  },
+  {
+   "id": "10-traitements-de-la-pr",
+   "label": "10. Traitements de la PR.",
+   "level": 3
+  },
+  {
+   "id": "ii-qcm",
+   "label": "II. QCM",
+   "level": 2
+  },
+  {
+   "id": "acc-2022",
+   "label": "ACC 2022 :",
+   "level": 2
+  },
+  {
+   "id": "question-n-3",
+   "label": "QUESTION N° 3 :",
+   "level": 2
+  },
+  {
+   "id": "b-faux",
+   "label": "B : FAUX",
+   "level": 2
+  },
+  {
+   "id": "d-faux",
+   "label": "D : FAUX",
+   "level": 2
+  },
+  {
+   "id": "e-faux",
+   "label": "E : FAUX",
+   "level": 2
+  },
+  {
+   "id": "question-n-25",
+   "label": "QUESTION N° 25 :",
+   "level": 2
+  },
+  {
+   "id": "d-il-17",
+   "label": "D. IL-17",
+   "level": 2
+  },
+  {
+   "id": "e-il-23",
+   "label": "E. IL-23",
+   "level": 2
+  },
+  {
+   "id": "b-faux-2",
+   "label": "B : FAUX",
+   "level": 2
+  },
+  {
+   "id": "c-vrai",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-faux-2",
+   "label": "D : FAUX",
+   "level": 2
+  },
+  {
+   "id": "e-faux-2",
+   "label": "E : FAUX",
+   "level": 2
+  },
+  {
+   "id": "qroc-1-2023-2024",
+   "label": "QROC 1 2023-2024 :",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. Marotte Immunopathologie CROZIER—FRIEDRICH Adélie"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "physiopathologie-de-la-polyarthrite-rhumatoide-partie-1",
+   "text": "PHYSIOPATHOLOGIE DE LA POLYARTHRITE RHUMATOIDE : PARTIE 1"
+  },
+  {
+   "type": "paragraph",
+   "text": "Tout ce qui est en italique n’a pas été abordé cette année, on vous le laisse pour une meilleure compréhension du cours."
+  },
+  {
+   "type": "paragraph",
+   "text": "Introduction de début de cours : oral : Dans toutes maladies inflammatoires et auto-immunes, il y a des facteurs environnementaux et génétiques (HLA) qui entrent en jeu."
+  },
+  {
+   "type": "list",
+   "items": [
+    "HLA 1 (exemples : A, B ou C) 1 lettre",
+    "HLA 2 (exemples : DR, DP, DQ) 2 lettres Dans la PR, un HLA spécifique code pour la séquence peptide : QKRAA et l’épitope partagé entre différents HLA de classe 2 est associé à la PR.",
+    "PR : HLA 2",
+    "SpA : HLA B27 (1)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rappel : A quoi sert le système immunitaire ? À se défendre contre les agressions extérieures, le syndrome inflammatoire permet donc de « guérir ». Tous les systèmes immunitaires sont fabriqués par l’os, après on retrouve une maturation soit au niveau de la MO (LB) soit au niveau du thymus (LT). Le système immunitaire doit être composé de rétrocontrôles pour réguler son action. L’objectif est de préserver le soi du non soi."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-polyarthrite-rhumatoide-pr",
+   "text": "I. Polyarthrite rhumatoïde (=PR)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-introduction",
+   "text": "1. Introduction"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rhumatisme inflammatoire le plus fréquent dans le monde."
+  },
+  {
+   "type": "list",
+   "items": [
+    "PR : prévalence = 0,5% en France et 1% dans le monde avec une médiane de survenue à 50 ans.",
+    "PR = destruction des articulations.",
+    "SI : permet défense contre cellules cancéreuses, agents infectieux et pollution.",
+    "Provoque une atteinte distale, bilatérale et symétrique (ne touche pas les épaules ou les hanches par exemple)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-maladies-auto-immunes-mai",
+   "text": "2. Maladies auto immunes (=MAI)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les MAI peuvent atteindre des articulations et tous les acteurs du SI sont dans l’os."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Facteurs génétiques : intrinsèque, plus la maladie se développe tôt dans la vie, plus cette composante génétique est importante.",
+    "Facteurs environnementaux : extérieurs, plus ils sont nombreux, plus la maladie arrive tardivement. Même exposition aux facteurs environnementaux que nos parents/frères et sœurs. (Pollution, tabagisme, bactéries, virus : provoque l’activation des cellules qui n’ont pas à être activés dans l’articulation : perte des rétrocontrôles)",
+    "Effet cumulatif des facteurs génétiques et environnementaux : apparition de la maladie."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans la PR il y a des cellules inflammatoires qui vont dans les articulations, alors que normalement il y en a peu."
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans la membrane synoviale il y a des synoviocytes de type A = macrophage et de type B = fibroblaste. Les lymphocytes envahissent la membrane synoviale et il y a un retentissement avec les synoviocytes de type B qui acquièrent un phénotype tumoral, ce qui aboutit à une inflammation, un gonflement et la destruction de l’os et du cartilage. La perte de fonction va être due à l’inflammation et, est liée aux dommages irréversibles visibles en radiologie."
+  },
+  {
+   "type": "paragraph",
+   "text": "Avec l’inflammation, on retrouve une perte de fonctions ainsi que des dégâts osseux."
+  },
+  {
+   "type": "paragraph",
+   "text": "Sans inflammation : courbe à 0. Avec inflammation : Perte de fonction. Sur le long terme : le handicap va être corrélé aux destructions des articulations."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-imagerie-de-la-pr",
+   "text": "3. Imagerie de la PR :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Radiologie standard des mains et des poignets : Radio pied : os grignoté par les ostéoclastes Rayons X arrêtés par l’os car il y a du Ca2+, le cartilage n’étant pas calcifié donc les rayons X traversent. Donc dans la polyarthrite rhumatoïde (destruction du cartilage), les rayons X ne traversent plus et donc sont arrêtés, hyper opacité."
+  },
+  {
+   "type": "paragraph",
+   "text": "ð Léger pincement (disparition du cartilage) entre la palette radiale et les os du carpe à droite."
+  },
+  {
+   "type": "paragraph",
+   "text": "Anomalie au niveau de MCP 2 : Perte de l’interligne = perte du cartilage dû à la PR."
+  },
+  {
+   "type": "paragraph",
+   "text": "Déformation progressive"
+  },
+  {
+   "type": "paragraph",
+   "text": "A Gauche : main normale. A droite : main d’une PR."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-retenir",
+   "text": "A RETENIR"
+  },
+  {
+   "type": "paragraph",
+   "text": "Signe pathognomonique de la PR : Érosion en radiographie (surtout au niveau de la tête du 5 ème métatarse)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-mecanismes-physiopathologiques-de-la-pr",
+   "text": "4. Mécanismes physiopathologiques de la PR :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Échelle de temps : développement de l’anomalie"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-en-presence-de-facteurs-genetiques-et-environnementaux-rep",
+   "text": "1. En présence de facteurs génétiques et environnementaux : réponse immunitaire"
+  },
+  {
+   "type": "paragraph",
+   "text": "(Anticorps très spécifiques jusqu’à 10 ans avant le début des symptômes : anomalies biologiques)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-sans-ttt-risque-de-destruction-articulaire-massive-osteopo",
+   "text": "2. Sans ttt : risque de destruction articulaire massive, ostéoporose, lymphome…"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ne pas attendre que l’érosion apparaisse, il faut diagnostiquer au plus vite et prescrire le traitement de fond de la PR (retenir) = Méthotrexate 1 er"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-criteres-de-diagnostic-de-la-pr-acr-eular-niveau-europeen",
+   "text": "5. Critères de diagnostic de la PR : ACR/ EULAR (niveau européen)"
+  },
+  {
+   "type": "paragraph",
+   "text": "La PR débute avec un gonflement articulaire (image ci – contre). Avec les traitements actuels, les patients atteints de PR doivent rester à ce stade."
+  },
+  {
+   "type": "paragraph",
+   "text": "Pour le diagnostic, il faut :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Un gonflement articulaire (=synovite) mis en évidence par un expert",
+    "L’absence de diagnostic différentiel : problèmes traumatiques, lupus (exposition femme jeune soleil), goutte",
+    "Érosion sur radiographie",
+    "Si pas d’érosion sur radio : établir un score à point (Retenir les 4 critères (2 cliniques et 2 biologiques) ci - dessous)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Si le score est supérieur ou égal à 6 : Traitement par du méthotrexate"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rappel : Les cellules qui synthétisent les anticorps : le LB mature transformé en plasmocyte."
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans la PR, il y a une CPA qui exprime le HLA classe II (chromosome 6 bras court) qui active la réaction inflammatoire (QCM++ sur HLA I et II)."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "6-declenchement-de-la-pr",
+   "text": "6. Déclenchement de la PR"
+  },
+  {
+   "type": "paragraph",
+   "text": "La CPA présente un peptide via le HLA : le HLA de classe I (1 lettre, ex : HLA B27), le HLA de classe II (2 lettres)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Facteurs génétiques : Dans la PR c’est plutôt le HLA II DRB1 (deux lettres donc bien un type 2) donc on a des AG particuliers qu’on ne connaît pas mais qui activent une cascade de l’inflammation qui sont des cibles thérapeutiques. Les LB vont sécréter des facteurs : le facteur rhumatoïde et les Anti-CCP, associés à la maladie mais pas forcément pathogène, ACPA activent les ostéoclastes et inhibent les ostéoblastes. Le HLA classe II interagit avec certains peptides présentés, le plus souvent des peptides citrullinés. Au niveau du HLA classe II, on peut avoir une zone DRB1 qui code pour la zone QQRAA codant pour l’épitope partagé qui va restreindre la présentation de certains peptides. Forte probabilité d’avoir une PR et une forme plus sévère avec la présence de HLA DRB1 (+ d’épitope partagé).",
+    "Cet épitope partagé est retrouvé dans 1/3 de la population générale et 2/3 des patients atteints de PR."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Comparaison France/Syrie : Le HLA DRB1 a un poids moins important en Syrie. En Syrie, on observe donc moins d’impact de l’épitope partagé. En revanche, les facteurs environnementaux interviennent plus fréquemment (hygiène)."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-retenir-2",
+   "text": "A RETENIR"
+  },
+  {
+   "type": "paragraph",
+   "text": "Existence d’un épitope partagé (HLA II DRB1) et donc d’une prédisposition génétique à la PR"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "7-acpa-avant-la-pr",
+   "text": "7. ACPA avant la PR :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les ACPA (Ac antiPeptide citrulliné) & la citrullination :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Étude rétrospective (don du sang des patients) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "La synthèse des ACPA est retrouvée dans 50% des cas de PR. Cette synthèse peut apparaitre jusqu’à 10 ans avant l’apparition de la maladie. Il existe donc une phase de pré polyarthrite rhumatoïde. Le processus de présentation de l’antigène prend du temps. Les ACPA peuvent activer les ostéoclastes. Ainsi, la présentation de l’Ag se met en place avant l’apparition de la maladie."
+  },
+  {
+   "type": "paragraph",
+   "text": "Il existe deux marqueurs biologiques immunologiques importants à doser :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "ACPA (Ac anti-peptide citrulline) : Ac spécifique de la PR.",
+    "Facteur rhumatoïde (Auto Ac (de classe IgM) anti IgG) : non-spécifique de la PR = IgM à activité anti IgG"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rappel : IgG = les plus fréquentes (monomérique), IgM infection récente (pentamérique) et IgA dans les muqueuses (dimérique)."
+  },
+  {
+   "type": "paragraph",
+   "text": "a. La citrullination :"
+  },
+  {
+   "type": "paragraph",
+   "text": "C’est une maturation post-traductionnelle."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Passage de l’ARGININE à CITRULLINE (acide aminé non traduit) via PAD (enzyme de maturation).",
+    "C’est un processus physiologique, naturel mais à faible dose. Il existe 3 sources qui provoquent une forte citrullination : tabagisme (et pollution) au niveau du poumon, germe (bactérie) au niveau gingival, NETose."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "La NETose (hypercitrullination) : type de mort cellulaire"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La NETose est un type de mort cellulaire utilisé par les PNN pour éliminer les bactéries.",
+    "La NETose correspond à une forme de mort cellulaire active, permettant le relargage dans le compartiment extracellulaire d’une structure fibreuse formée de chromatine aux propriétés antibactériennes (=> Histones qui peuvent être citrullinés, de façon à optimiser la défense immunitaire).",
+    "Les NETs (Neutrophil Extracellular TRAPs) contiennent des histones, de l’ADN, de l’élastase, des granules antimicrobiennes, des protéines cytoplasmiques telles que la PAD4."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "L’hypercitrullination entraine une synthèse d’ACPA."
+  },
+  {
+   "type": "paragraph",
+   "text": "Le tabac : (ACPA et poumons)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Expression de protéines citrullinées par les macrophages des poumons du fumeur. Le tabac induit donc une inflammation, ainsi que l’activation de la PAD et l’apparition des ACPA induisant une rupture de la tolérance périphérique.",
+    "Fumer est donc un facteur de risque de la PR",
+    "Même si le patient est atteint de la PR, il faut tout de même l’inciter à arrêter de fumer car le tabac entraine une diminution de réponse aux traitements"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Poumon et ACPA : présence d’ACPA dans les crachats de PR (lien dans la parodontopathie)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Une bactérie (Porphyroonas gingivalis) et la maladie parodontale :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Similitudes entre la maladie parodontale et la polyarthrite rhumatoïde ≈ même physiopathologie :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Gencives un peu œdématiées, gonflement articulaire = Atteinte de l’os qui soutient la dent",
+    "Seul agent infectieux qui a la particularité d’avoir une enzyme PAD et qui permet de citrulliner, ainsi que des protases qui libèrent des arginines qui vont être citrullinées."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "On observe plus (+) d’ACPA chez les non tabagiques que chez les tabagiques associé à la présence d’AC anti CCP."
+  },
+  {
+   "type": "paragraph",
+   "text": "Lien entre la génétique et le tabagisme :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-retenir-3",
+   "text": "A RETENIR"
+  },
+  {
+   "type": "paragraph",
+   "text": "Facteurs d’hypercitrullination (= FdR PR) : tabac, NETose et germe (PG)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Actualisation du système immunitaire : Acteurs que l’on peut inhiber pour réduire l’inflammation synoviale :"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "8-les-processus-d-auto-immunisation-dans-la-pr",
+   "text": "8. Les processus d’auto-immunisation dans la PR"
+  },
+  {
+   "type": "paragraph",
+   "text": "Plusieurs facteurs en lien avec la PR :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Génétiques : Gène PNTP22 et HLA-DRB1",
+    "Environnement : Tabac et Infection Ces facteurs induisent la production d’ACPA et donc la PR."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "9-physiopathologie-la-pr",
+   "text": "9. Physiopathologie la PR"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Avant le début de la maladie = Phase pré-clinique avec activation du Système Immunitaire (SI) = apparition des facteurs rhumatoïdes, Ac anti-peptides citrullinés etc.",
+    "Apparition des symptômes, douleur =diagnostique",
+    "Réponse inflammatoire"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "10-traitements-de-la-pr",
+   "text": "10. Traitements de la PR."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Traitement symptomatique :",
+    "Antalgique, AINS",
+    "Corticothérapie"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Traitement de fond :",
+    "Méthotrexate 1 er intention",
+    "Classique synthétique : voie de signalisation via jack kinases",
+    "Biologique : inhibe LT, Il-6 gènes CSF"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Le traitement de référence (Méthotrexate) inhibe toutes cellules se renouvelant rapidement : action sur les fibroblastes Si échec du Méthotrexate, traitements plus ciblés efficients : cible l’IL-6, IL-1, TNF, GM-CSF, LT, LB"
+  },
+  {
+   "type": "paragraph",
+   "text": "A retenir du cours :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Facteurs génétiques sont associés à la PR : épitopes partagés",
+    "Existence de facteurs spécifiques (ACPA) et non spécifiques (facteurs rhumatoïdes) (Facteur biologique et facteur rhumatoïde qui est une IgM anti activité IgG)",
+    "ACPA",
+    "3 moyens d’excès de citrullination : tabac, NETose et germe (PG) QCM +++",
+    "Synthèse ACPA peut commencer jusqu’à 10 ans avant les premiers symptômes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Bilan :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-qcm",
+   "text": "II. QCM"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM1 : Cocher les réponses justes : A. La présence de facteur génétique implique que la maladie se développe plus tôt. B. Nous avons la même exposition aux facteurs environnementaux que nos parents. C. Les synoviocytes de type A sont des fibroblastes. D. La perte de fonction est due à l’inflammation. E. Pour diagnostiquer une PR il faut retrouver une synovite accompagnée d’une radiographie typique."
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 2 : Cocher les réponses justes : A. HLA II DRB1 est un facteur génétique de déclenchement de la PR. B. La synthèse d’ACPA apparaît 10 ans après les débuts de la maladie. C. L’hypercitrullination entraîne la synthèse d’ACPA. D. Le pannus synthétise que du RANKL. E. Les métalloprotéinases sont responsable des trous dans l’os"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : QCM 1 : Cocher les réponses justes : ABDE A. VRAI B. VRAI C. FAUX : Ce sont des macrophages. D. VRAI E. VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM 2 : Cocher les réponses justes : AC A. VRAI B. FAUX : 10 ans avant C. VRAI D. FAUX : Synthétise aussi des métalloprotéinases. E. FAUX : Sont responsable des pincements diffus"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pas d’ACC en 2024 et 2023 concernant ce cours"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "acc-2022",
+   "text": "ACC 2022 :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-3",
+   "text": "QUESTION N° 3 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Parmi les auto-anticorps suivants, lequel (lesquels) est/sont aujourd’hui le (les) plus spécifique(s) d’une polyarthrite rhumatoïde ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Anticorps anti-CCP (ou ACPA) B. Anticorps anti-nucléaires C. Anticorps anti-cytoplasme des polynucléaires (ANCA) D. Anticorps anti-transglutaminase E. Anticorps anti-ADN natif"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponses : A : VRAI : le seul facteur spécifique de la PR (les facteurs rhumatoïdes ne sont pas spécifiques)"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-faux",
+   "text": "B : FAUX"
+  },
+  {
+   "type": "paragraph",
+   "text": "C : FAUX : On dose ANCA pour les RCH"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-faux",
+   "text": "D : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "e-faux",
+   "text": "E : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-25",
+   "text": "QUESTION N° 25 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Parmi les cytokines suivantes, lesquelles peuvent être ciblées au cours de la polyarthrite rhumatoïde ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. TNFα B. IL-2 C. IL-6"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-il-17",
+   "text": "D. IL-17"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "e-il-23",
+   "text": "E. IL-23"
+  },
+  {
+   "type": "paragraph",
+   "text": "Réponses : A : VRAI : TNF-a ; IL 1 et 6 et TGF-B"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-faux-2",
+   "text": "B : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-faux-2",
+   "text": "D : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "e-faux-2",
+   "text": "E : FAUX"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qroc-1-2023-2024",
+   "text": "QROC 1 2023-2024 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Expliquer à partir de l’activation du système immunitaire, les éléments précliniques de la polyarthrite rhumatoïde. (4 points) Maturation post-traductionnelle appelée Citrunillation (passage d’Arginine à Citrulline) induisant la formation d’ACPA (Anticorps AntiPeptide Citrulinné) et de facteur rhumatoïde. Cette citrunillation est un processus physiologique à faible dose en temps normal mais qui augmente avec l’exposition au tabac, à un germe précis (Prophyroonas gingivalis) et aux NEToses excessives."
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "slug": "fc04a",
+ "title": "QCM — Polyarthrite rhumatoïde (PR)",
+ "unofficialKey": false,
+ "questions": [
+  {
+   "id": "fc04a-q01",
+   "lesson": "fc04a",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Quelle est la présentation articulaire typique de la polyarthrite rhumatoïde ?",
+   "options": [
+    "Atteinte distale, bilatérale et symétrique",
+    "Atteinte proximale touchant surtout les épaules et les hanches",
+    "Atteinte unilatérale d'une seule grosse articulation",
+    "Atteinte axiale du rachis et des sacro-iliaques",
+    "Atteinte asymétrique et migratrice"
+   ],
+   "correct": [0],
+   "hint": "La PR épargne classiquement les épaules et les hanches.",
+   "explanation": "La PR provoque une atteinte distale, bilatérale et symétrique (mains, poignets, pieds) ; elle ne touche pas typiquement les épaules ou les hanches. L'atteinte axiale est plutôt celle des spondylarthrites.",
+   "tags": ["clinique"],
+   "source": "FC04a — Introduction"
+  },
+  {
+   "id": "fc04a-q02",
+   "lesson": "fc04a",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Quel est le signe pathognomonique de la PR sur la radiographie ?",
+   "options": [
+    "L'érosion osseuse (notamment à la tête du 5ᵉ métatarse)",
+    "Une construction osseuse (syndesmophytes)",
+    "Une calcification des parties molles",
+    "Une fracture de fatigue",
+    "Une ostéocondensation diffuse"
+   ],
+   "correct": [0],
+   "hint": "C'est une destruction, pas une construction osseuse.",
+   "explanation": "Le signe pathognomonique de la PR est l'érosion osseuse en radiographie, surtout au niveau de la tête du 5ᵉ métatarse. Il ne faut toutefois pas attendre l'érosion pour traiter.",
+   "tags": ["imagerie"],
+   "source": "FC04a — À retenir"
+  },
+  {
+   "id": "fc04a-q03",
+   "lesson": "fc04a",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Quel est le traitement de fond de première intention de la PR ?",
+   "options": ["Le méthotrexate", "Un AINS", "Une corticothérapie au long cours", "Un anti-TNFα d'emblée", "Le rituximab"],
+   "correct": [0],
+   "hint": "C'est un immunosuppresseur classique synthétique, agissant sur les cellules à renouvellement rapide.",
+   "explanation": "Le méthotrexate est le traitement de fond de 1ʳᵉ intention. Les antalgiques, AINS et corticoïdes sont symptomatiques. En cas d'échec, on cible TNFα, IL-6, IL-1, GM-CSF, LT, LB ou les JAK.",
+   "tags": ["traitement"],
+   "source": "FC04a — Traitements"
+  },
+  {
+   "id": "fc04a-q04",
+   "lesson": "fc04a",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Dans la membrane synoviale, à quoi correspondent les synoviocytes de type A et de type B ?",
+   "options": [
+    "Type A = macrophages ; Type B = fibroblastes",
+    "Type A = fibroblastes ; Type B = macrophages",
+    "Type A = lymphocytes ; Type B = plasmocytes",
+    "Type A = ostéoclastes ; Type B = ostéoblastes",
+    "Type A = cellules dendritiques ; Type B = NK"
+   ],
+   "correct": [0],
+   "hint": "« A » comme macrophage (cellule de l'immunité), « B » comme fibroblaste.",
+   "explanation": "Les synoviocytes de type A sont des macrophages, ceux de type B des fibroblastes. Dans la PR, les synoviocytes B acquièrent un phénotype « tumoral » (pannus) responsable de l'inflammation et de la destruction ostéo-cartilagineuse.",
+   "tags": ["physiopathologie", "synoviale"],
+   "source": "FC04a — MAI"
+  },
+  {
+   "id": "fc04a-q05",
+   "lesson": "fc04a",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quel auto-anticorps est le plus spécifique de la polyarthrite rhumatoïde ?",
+   "options": [
+    "Les anticorps anti-CCP (ACPA)",
+    "Les anticorps anti-nucléaires",
+    "Les ANCA (anti-cytoplasme des polynucléaires)",
+    "Les anticorps anti-transglutaminase",
+    "Les anticorps anti-ADN natif"
+   ],
+   "correct": [0],
+   "hint": "C'est l'anticorps dirigé contre les peptides citrullinés.",
+   "explanation": "Les ACPA (anti-peptides citrullinés / anti-CCP) sont les plus spécifiques de la PR. Le facteur rhumatoïde (IgM anti-IgG) est sensible mais non spécifique. Les anti-ADN natif évoquent le lupus, les ANCA les vascularites.",
+   "tags": ["biologie", "ACPA", "annale"],
+   "source": "FC04a — ACC 2022 Q3"
+  },
+  {
+   "id": "fc04a-q06",
+   "lesson": "fc04a",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Le facteur rhumatoïde correspond à :",
+   "options": [
+    "Un auto-anticorps de classe IgM dirigé contre les IgG",
+    "Un anticorps spécifique des peptides citrullinés",
+    "Une enzyme de citrullination",
+    "Un anticorps anti-ADN",
+    "Une cytokine pro-inflammatoire"
+   ],
+   "correct": [0],
+   "hint": "« IgM à activité anti-IgG ».",
+   "explanation": "Le facteur rhumatoïde est un auto-anticorps de classe IgM dirigé contre le fragment Fc des IgG. Il n'est pas spécifique de la PR (contrairement aux ACPA).",
+   "tags": ["biologie", "facteur rhumatoïde"],
+   "source": "FC04a — ACPA avant la PR"
+  },
+  {
+   "id": "fc04a-q07",
+   "lesson": "fc04a",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quel allèle HLA constitue le principal facteur génétique de prédisposition à la PR ?",
+   "options": [
+    "HLA de classe II DRB1 (épitope partagé)",
+    "HLA de classe I B27",
+    "HLA de classe I A2",
+    "HLA de classe II DQ2",
+    "Aucun, la PR n'a pas de composante génétique"
+   ],
+   "correct": [0],
+   "hint": "Deux lettres = classe II ; l'épitope partagé est codé par DRB1.",
+   "explanation": "La PR est associée au HLA de classe II DRB1 portant l'« épitope partagé » (séquence QKRAA/QQRAA). Cet épitope est présent chez ~1/3 de la population générale et 2/3 des patients PR. (HLA-B27 = spondylarthrites.)",
+   "tags": ["génétique", "HLA"],
+   "source": "FC04a — Déclenchement"
+  },
+  {
+   "id": "fc04a-q08",
+   "lesson": "fc04a",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Quelles sont les trois sources d'hypercitrullination, facteurs de risque de PR ?",
+   "options": [
+    "Le tabac",
+    "La NETose",
+    "Le germe Porphyromonas gingivalis (maladie parodontale)",
+    "La consommation de gluten",
+    "L'exposition solaire"
+   ],
+   "correct": [0, 1, 2],
+   "hint": "Poumon, gencive, polynucléaire neutrophile.",
+   "explanation": "Les 3 sources d'hypercitrullination (FdR de PR) sont : le tabac (poumon), la NETose (PNN) et le germe Porphyromonas gingivalis (parodontopathie). L'hypercitrullination entraîne la synthèse d'ACPA.",
+   "tags": ["citrullination", "facteurs de risque"],
+   "source": "FC04a — À retenir"
+  },
+  {
+   "id": "fc04a-q09",
+   "lesson": "fc04a",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "En quoi consiste la citrullination ?",
+   "options": [
+    "Une maturation post-traductionnelle transformant l'arginine en citrulline via l'enzyme PAD",
+    "La transcription d'un gène de l'inflammation",
+    "La transformation de la citrulline en arginine",
+    "Une glycosylation des immunoglobulines",
+    "Une mutation de l'ADN des synoviocytes"
+   ],
+   "correct": [0],
+   "hint": "Pense à l'enzyme PAD et au passage Arg → Cit.",
+   "explanation": "La citrullination est une maturation post-traductionnelle : passage de l'arginine à la citrulline grâce à l'enzyme PAD. Physiologique à faible dose, elle est amplifiée par le tabac, la NETose et P. gingivalis, conduisant à la production d'ACPA.",
+   "tags": ["citrullination", "PAD"],
+   "source": "FC04a — Citrullination"
+  },
+  {
+   "id": "fc04a-q10",
+   "lesson": "fc04a",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Parmi ces cytokines, lesquelles peuvent être ciblées au cours de la PR ?",
+   "options": ["TNFα", "IL-2", "IL-6", "IL-17", "IL-23"],
+   "correct": [0, 2],
+   "hint": "IL-17 et IL-23 sont plutôt des cibles des spondylarthrites.",
+   "explanation": "Dans la PR, on cible notamment TNFα et IL-6 (ainsi que IL-1, GM-CSF). IL-2 n'est pas une cible ; IL-17 et IL-23 sont impliquées dans les spondylarthrites (FC04b).",
+   "tags": ["traitement", "cytokines", "annale"],
+   "source": "FC04a — ACC 2022 Q25"
+  },
+  {
+   "id": "fc04a-q11",
+   "lesson": "fc04a",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Combien de temps avant les premiers symptômes les ACPA peuvent-ils apparaître ?",
+   "options": [
+    "Jusqu'à 10 ans avant (phase de pré-PR)",
+    "Quelques jours avant",
+    "Toujours après le début des symptômes",
+    "Au moment exact du diagnostic uniquement",
+    "Jamais avant les symptômes"
+   ],
+   "correct": [0],
+   "hint": "Il existe une longue phase préclinique.",
+   "explanation": "Les ACPA peuvent apparaître jusqu'à 10 ans avant les symptômes : il existe une phase préclinique de « pré-polyarthrite rhumatoïde » où la présentation antigénique se met en place. Les ACPA peuvent déjà activer les ostéoclastes.",
+   "tags": ["histoire naturelle", "ACPA"],
+   "source": "FC04a — ACPA avant la PR"
+  },
+  {
+   "id": "fc04a-q12",
+   "lesson": "fc04a",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Concernant la destruction articulaire dans la PR :",
+   "options": [
+    "Le pannus synthétise du RANKL (activation des ostéoclastes)",
+    "Le pannus synthétise aussi des métalloprotéinases",
+    "Les métalloprotéinases sont responsables des pincements diffus (perte de cartilage)",
+    "Les ostéoclastes creusent les érosions osseuses",
+    "Le pannus ne synthétise que du RANKL"
+   ],
+   "correct": [0, 1, 2, 3],
+   "hint": "Deux mécanismes : érosion (ostéoclastes via RANKL) et pincement (métalloprotéinases).",
+   "explanation": "Le pannus synthétise du RANKL (activant les ostéoclastes responsables des érosions) ET des métalloprotéinases (responsables de la destruction du cartilage = pincements diffus). La proposition « ne synthétise que du RANKL » est donc fausse.",
+   "tags": ["physiopathologie", "destruction osseuse"],
+   "source": "FC04a — QCM 2"
+  }
+ ]
+}

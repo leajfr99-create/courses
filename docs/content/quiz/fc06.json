@@ -1,0 +1,229 @@
+{
+ "slug": "fc06",
+ "title": "QCM — Immunoglobulines polyvalentes (IVIg)",
+ "unofficialKey": false,
+ "questions": [
+  {
+   "id": "fc06-q01",
+   "lesson": "fc06",
+   "type": "multiple",
+   "difficulty": "facile",
+   "stem": "Concernant l'utilisation clinique des immunoglobulines polyvalentes (IVIg) :",
+   "options": [
+    "Elles peuvent être utilisées en traitement substitutif et en immunomodulation",
+    "Le traitement substitutif utilise des doses de 1 à 2 g/kg",
+    "Elles sont indiquées dans le purpura thrombopénique immunologique avant une chirurgie",
+    "Le traitement substitutif est administré quotidiennement",
+    "Elles sont un traitement de première intention du syndrome de Guillain-Barré"
+   ],
+   "correct": [0, 2, 4],
+   "hint": "Substitutif = 0,4 g/kg toutes les 3 semaines à 1 mois ; immunomodulation = doses plus fortes.",
+   "explanation": "Réponses ACE. Le traitement substitutif utilise 0,4 g/kg (1-2 g/kg = immunomodulation, donc B faux) et est administré toutes les 3 semaines à 1 mois (D faux). Le Guillain-Barré et le PTI (avant chirurgie) sont des indications.",
+   "tags": ["indications", "annale"],
+   "source": "FC06 — QCM 2025-26 Q1"
+  },
+  {
+   "id": "fc06-q02",
+   "lesson": "fc06",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Quelle dose distingue le traitement substitutif de l'immunomodulation par IVIg ?",
+   "options": [
+    "Substitutif 0,4 g/kg ; immunomodulation 1-2 g/kg (doses plus fortes)",
+    "Substitutif 1-2 g/kg ; immunomodulation 0,4 g/kg",
+    "Les doses sont identiques",
+    "Substitutif 5 g/kg ; immunomodulation 0,1 g/kg",
+    "La dose n'a aucune importance"
+   ],
+   "correct": [0],
+   "hint": "On « noie » davantage le système en immunomodulation.",
+   "explanation": "Le traitement substitutif utilise ~0,4 g/kg ; l'immunomodulation utilise des doses plus fortes (1-2 g/kg), ce qui est coûteux.",
+   "tags": ["posologie"],
+   "source": "FC06 — 2 traitements"
+  },
+  {
+   "id": "fc06-q03",
+   "lesson": "fc06",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "À propos des déficits immunitaires humoraux et de leur exploration :",
+   "options": [
+    "Un déficit humoral entraîne une hypogammaglobulinémie visible sur l'électrophorèse",
+    "La bande gamma correspond à un seul isotype d'immunoglobuline",
+    "Les déficits humoraux peuvent être congénitaux ou acquis",
+    "Les myélomes multiples peuvent entraîner un déficit humoral fonctionnel",
+    "Un déficit humoral est défini par une augmentation des Ig circulantes"
+   ],
+   "correct": [0, 2, 3],
+   "hint": "La bande gamma regroupe plusieurs isotypes ; un déficit = diminution des Ig.",
+   "explanation": "Réponses ACD. La bande gamma correspond à DIFFÉRENTS isotypes d'Ig (B faux). Un déficit humoral est une DIMINUTION des Ig circulantes (E faux). Les myélomes produisent une Ig monoclonale inefficace → déficit fonctionnel.",
+   "tags": ["déficits humoraux", "annale"],
+   "source": "FC06 — QCM 2025-26 Q2"
+  },
+  {
+   "id": "fc06-q04",
+   "lesson": "fc06",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Le récepteur FcγR est le récepteur de quelle immunoglobuline ?",
+   "options": ["Des IgG", "Des IgM", "Des IgE", "Des IgA", "Des IgD"],
+   "correct": [0],
+   "hint": "Le « γ » de FcγR renvoie à l'isotype.",
+   "explanation": "Le FcγR est le récepteur du fragment Fc des IgG. Il existe 3 isotypes (I, II, III) ; le FcγRIII (CD16) est exprimé par les PNN et les NK. Certains sont activateurs, le FcγRIIB est inhibiteur.",
+   "tags": ["FcγR"],
+   "source": "FC06 — Action sur les FcγR"
+  },
+  {
+   "id": "fc06-q05",
+   "lesson": "fc06",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Comment les IVIg (monomériques) exercent-elles un effet anti-inflammatoire sur les FcγR ?",
+   "options": [
+    "En saturant/masquant les FcγR sans antigène, empêchant leur regroupement (shedding)",
+    "En formant des complexes immuns activateurs",
+    "En augmentant l'expression des FcγR activateurs",
+    "En détruisant les cellules NK",
+    "En se liant uniquement aux IgM"
+   ],
+   "correct": [0],
+   "hint": "Le signal nécessite un regroupement de récepteurs autour d'un complexe immun.",
+   "explanation": "Les IVIg sont monomériques : elles se collent aux FcγR sans être liées à un antigène, masquent les récepteurs et empêchent leur regroupement (shedding) nécessaire à la transduction du signal → effet anti-inflammatoire.",
+   "tags": ["FcγR", "mécanisme"],
+   "source": "FC06 — Action sur les FcγR"
+  },
+  {
+   "id": "fc06-q06",
+   "lesson": "fc06",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Concernant la sialylation des IgG :",
+   "options": [
+    "Elle a un rôle de signalisation et module l'affinité pour les FcγR",
+    "Dans de nombreuses MAI, les IgG auto-immunes sont hyposialylées",
+    "La O-glycosylation est la seule pour les IgG",
+    "Elle recouvre la protéine de charges positives",
+    "Plus les IgG sont sialylées, plus elles sont pro-inflammatoires"
+   ],
+   "correct": [0, 1],
+   "hint": "Plus c'est sialylé, plus c'est inhibiteur ; les auto-anticorps sont hyposialylés.",
+   "explanation": "Réponses AB. Pour les IgG, c'est la N-glycosylation (C faux). La sialylation apporte des charges NÉGATIVES (D faux). Plus une IgG est sialylée, plus elle est INHIBITRICE/anti-inflammatoire ; les auto-anticorps sont hyposialylés (donc pro-inflammatoires).",
+   "tags": ["sialylation", "glycosylation"],
+   "source": "FC06 — Sialylation"
+  },
+  {
+   "id": "fc06-q07",
+   "lesson": "fc06",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quel type de glycosylation porte une IgG ?",
+   "options": [
+    "La N-glycosylation (sur l'asparagine, ex. Asn 297/293)",
+    "La O-glycosylation",
+    "Aucune glycosylation",
+    "Une phosphorylation",
+    "Une sulfatation exclusive"
+   ],
+   "correct": [0],
+   "hint": "La O-glycosylation concerne plutôt les IgA et IgD.",
+   "explanation": "Pour les IgG, la N-glycosylation (sur l'asparagine) est la seule. La O-glycosylation existe pour les IgA et les IgD.",
+   "tags": ["glycosylation"],
+   "source": "FC06 — Sialylation"
+  },
+  {
+   "id": "fc06-q08",
+   "lesson": "fc06",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Quel est le rôle du FcRn (récepteur Fc néonatal) ?",
+   "options": [
+    "Protéger les IgG de la dégradation lysosomale et les recycler → augmenter leur demi-vie",
+    "Diminuer la demi-vie des IgG",
+    "Détruire les IgG dans l'endosome",
+    "Reconnaître spécifiquement les IgM",
+    "Activer la voie classique du complément"
+   ],
+   "correct": [0],
+   "hint": "Le bloquer divise la demi-vie des IgG par 3.",
+   "explanation": "Le FcRn protège les IgG dans l'endosome (recyclage actif) et les re-sécrète, augmentant leur demi-vie. Son blocage divise la demi-vie par ~3. Des anticorps modifiés pour mieux s'y fixer (Ravulizumab) ont une demi-vie allongée.",
+   "tags": ["FcRn", "recyclage"],
+   "source": "FC06 — Recyclage par FcRn"
+  },
+  {
+   "id": "fc06-q09",
+   "lesson": "fc06",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Concernant le recyclage des Ig par le FcRn :",
+   "options": [
+    "Il protège les IgG dans les endosomes et permet de les sécréter à nouveau",
+    "Il passe par le récepteur FcRn",
+    "L'injection d'IVIg sature le système (compétition) et réduit la demi-vie des anticorps pathogènes",
+    "Il diminue la demi-vie des IgG",
+    "C'est un recyclage passif"
+   ],
+   "correct": [0, 1, 2],
+   "hint": "Les IVIg « noient » le recyclage au détriment des anticorps pathogènes.",
+   "explanation": "Réponses ABC. Le FcRn AUGMENTE la demi-vie des IgG (D faux) et le recyclage est ACTIF (E faux). En grande quantité, les IVIg saturent le FcRn : par compétition, les anticorps pathogènes sont moins recyclés → leur demi-vie diminue.",
+   "tags": ["FcRn", "annale"],
+   "source": "FC06 — QCM 2024-25 Q4"
+  },
+  {
+   "id": "fc06-q10",
+   "lesson": "fc06",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Quel est le rôle du BAFF, ciblé indirectement par les IVIg ?",
+   "options": [
+    "C'est un facteur de croissance des LB : plus il y en a, plus on recrute de clones (dont auto-réactifs)",
+    "C'est un récepteur des IgG",
+    "C'est une enzyme de glycosylation",
+    "C'est un facteur de coagulation",
+    "C'est un marqueur des PNN"
+   ],
+   "correct": [0],
+   "hint": "Dans le lupus, on utilise des anti-BAFF.",
+   "explanation": "Le BAFF est un facteur de croissance/survie des LB : plus son taux est élevé, plus la pression de sélection laisse passer de clones (dont auto-réactifs). Les IVIg ont une activité anti-BAFF, réduisant les LB auto-réactifs (cf. anti-BAFF dans le lupus).",
+   "tags": ["BAFF", "lymphocytes B"],
+   "source": "FC06 — Effets sur les LB"
+  },
+  {
+   "id": "fc06-q11",
+   "lesson": "fc06",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Quel déficit impose une vigilance particulière (risque de choc anaphylactique) lors d'une perfusion d'IVIg ?",
+   "options": [
+    "Le déficit complet en IgA (≈ 1/700)",
+    "Le déficit en IgG",
+    "Le déficit en complément",
+    "Le déficit en facteur rhumatoïde",
+    "Le déficit en albumine"
+   ],
+   "correct": [0],
+   "hint": "Les IVIg contiennent surtout des IgG mais aussi une fraction d'IgA.",
+   "explanation": "Les IVIg contiennent des IgG ++ mais aussi une certaine proportion d'IgA. Or ~1 personne sur 700 a un déficit total en IgA et peut faire une réaction anaphylactique. Il faut vérifier les IgA circulantes et utiliser des IVIg sans IgA chez ces patients.",
+   "tags": ["tolérance", "IgA"],
+   "source": "FC06 — Conclusion"
+  },
+  {
+   "id": "fc06-q12",
+   "lesson": "fc06",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "À propos des IVIg et des récepteurs aux IgG (sujet d'annale) :",
+   "options": [
+    "Les récepteurs aux IgG existent sous 3 isotypes (I, II et III)",
+    "L'isotype III est fortement exprimé par les polynucléaires",
+    "Les récepteurs aux IgG peuvent activer ou inhiber la cellule après liaison",
+    "L'isotype I des récepteurs aux IgG est le CD16",
+    "Les récepteurs aux IgG sont communs aux IgE et aux IgA"
+   ],
+   "correct": [0, 1, 2],
+   "hint": "Le CD16 est le FcγRIII, pas l'isotype I.",
+   "explanation": "Réponses ABD du sujet → ici ABC. Le CD16 est le FcγRIII (et non l'isotype I), donc la proposition « isotype I = CD16 » est fausse. Les FcγR sont spécifiques des IgG (non communs aux IgE/IgA).",
+   "tags": ["FcγR", "annale"],
+   "source": "FC06 — ACC 2023 Q12"
+  }
+ ]
+}

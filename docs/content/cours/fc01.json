@@ -1,0 +1,313 @@
+{
+ "slug": "fc01",
+ "code": "FC01",
+ "title": "Vieillissement du système immunitaire",
+ "prof": "Pr. Paul",
+ "sourceFile": "FC01-Paul-Vieillissement-du-systeme-immunitaire-12.01-1 2.pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "vieillissement-du-systeme-immunitaire",
+   "label": "VIEILLISSEMENT DU SYSTÈME IMMUNITAIRE",
+   "level": 2
+  },
+  {
+   "id": "ii-rappels-sur-le-systeme-immunitaire-1-les-organes-du-syste",
+   "label": "II. Rappels sur le système immunitaire 1. Les organes du système immunitaire - Organes centraux : moelle osseuse où sont produits les LB et thymus où sont produits les LT - Organes périphériques : ganglions lymphatiques, rate, plaques de Peyer dans l’intestin, appendice… (où il y a des",
+   "level": 2
+  },
+  {
+   "id": "ix-qcm-qcm1-concernant-le-vieillissement-du-si-inne-a-le-nom",
+   "label": "IX. QCM QCM1 : Concernant le vieillissement du SI inné : A. Le nombre de PNN est stable tout au long de la vie mais perte de l’efficacité B. Nombre stable de monocytes et macrophages C. L’immunité inné vieillit d’un point de vue fonctionnel D. Les cellules dendritiques augmentent E. La diminution de l’acidité gastrique chez le sujet âgé majore les infections digestives QCM 2 : Concernant le vieillissement du SI : A. Dans un thymus âgé, on retrouve peu de cellules effectrices très différenciées B. L’immunosénescence va plutôt aller en faveur des phénomènes inflammatoires C. La diminution de la synthèse d’IL-1 par les cellules stromales de la MO est un élément clé de la diminution de la",
+   "level": 2
+  },
+  {
+   "id": "x-acc-sujet-2023-2024-question-n-1-l-immunosenescence-est-ca",
+   "label": "X. ACC Sujet 2023-2024 : QUESTION N° 1 : L’immunosénescence est caractérisée par : A. L’involution thymique B. Un biais myéloïde des cellules souches hématopoïétiques (HSC) C. Une diminution du nombre de lymphocytes naïfs D. Une augmentation des réponses vaccinales E. Un profil anti-inflammatoire A : VRAI B : VRAI C : VRAI D : FAUX E : FAUX QUESTION N° 2 : Lors du vieillissement immunitaire, les conséquences cliniques sont : A. Une augmentation du risque infectieux B. Une diminution du nombre de cancers C. Une diminution des risques cardiovasculaires D. Une diminution des réponses vaccinales E. Une diminution des maladies auto-immunes A : VRAI B : FAUX C : FAUX D : VRAI E : FAUX Sujet 2022-2023 QUESTION N° 1 : Qu’est-ce qui caractérise l’immunosenescence, choisir la (ou les) proposition(s) exacte(s) :",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vieillissement-du-systeme-immunitaire",
+   "text": "VIEILLISSEMENT DU SYSTÈME IMMUNITAIRE"
+  },
+  {
+   "type": "paragraph",
+   "text": "EXAMEN : 1h30, 20 QCM + 5/6 QROCS courtes ou court cas clinique, assez similaire à d’habitude Le programme des cours de l’UE immunopathologie est présent dans le diaporama du prof qui est disponible sur Moodle Pour approfondir vos connaissances vous pouvez consulter : - Le livre « Immunologie fondamentale et immunopathologie » des DFGSM2-3, du Collège des Enseignants d’Immmunologie"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le livre « Immunopathologie et réactions inflammatoires » de Bernard Weill et Frédéric Batteux - D’autres références sont présentes sur le diaporama du prof I. Généralités Au cours de la vie, le système immunitaire (SI) évolue. Il se développe énormément durant les 1ers mois (voire 1ères années) de la vie. Au départ, le fœtus utilise le SI de la mère car son propre SI est immature, et au fur et à mesure il se consolide par des interactions, notamment avec la flore extérieure."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Entre 16 et 20 ans, le SI et le répertoire immunitaire se sont développés et ont atteint leur maturité. A partir de 25-30 ans, le SI commence à vieillir. Autour de 65/70 ans, le SI a énormément décliné et de plus en plus de conséquences apparaissent. On parle d’un système immunosénescent."
+  },
+  {
+   "type": "paragraph",
+   "text": "L’augmentation de l’espérance de vie (++ au cours des 30 dernières années grâce aux progrès de la médecine) est corrélée à une diminution de la qualité de vie et l’apparition de facteurs de comorbidité (diabète, HTA, …) de plus en plus importants (surtout dans les pays développés) → à l’âge avancé : susceptibilité et sévérité augmentées aux infections, aux cancers, aux maladies cardio-vasculaires et auto-immunes, induites par l’immunosénescence (ou vieillissement accéléré du SI)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Immunosénescence : - Détérioration du système immunitaire dans le temps en fonction de l’âge - Elle correspond aux altérations du phénotype et de la fonction des cellules et d’organes du SI qui caractérisent la personne d’âge avancé (concerne l’immunité innée et l’immunité adaptative)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le mieux caractérisé : épuisement de l’immunité cellulaire. - C’est de l’inflammation de manière chronique le plus souvent Elle repose sur : - l’involution thymique (baisse thymocytose, augmentation de l’apoptose) pour du tissu adipeux - l’inflammaging = inflammation chronique liée à l’âge, augmentation des marqueurs inflammatoires (CRP, TNF-alpha, IL6). Correspond à une inflammation faible mais continue.",
+    "l’adaptation cellulaire métabolique (augmentation de la glycolyse et diminution de la production d’ATP et de cytokines)",
+    "les changements hématopoiétiques Notion Inflammageing :"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les problèmes de communication entre cellules immunitaires impliquent comorbidité et neurosénescence des maladies. Les cellules qui meurent, activent des marqueurs inflammatoires donnant l’apoptose d’autres cellules. Cela forme une boucle infinie."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-rappels-sur-le-systeme-immunitaire-1-les-organes-du-syste",
+   "text": "II. Rappels sur le système immunitaire 1. Les organes du système immunitaire - Organes centraux : moelle osseuse où sont produits les LB et thymus où sont produits les LT - Organes périphériques : ganglions lymphatiques, rate, plaques de Peyer dans l’intestin, appendice… (où il y a des"
+  },
+  {
+   "type": "paragraph",
+   "text": "cellules naïves) Les cellules souches hématopoïétiques se divisent dans la moelle osseuse en deux lignées : la lignée lymphoïde et la lignée myéloïdes. Ces deux lignées sont à l’origine de l’ensemble des cellules sanguines. La santé du SI repose en grande partie sur l’équilibre entre ces deux lignées cellulaires. Avec l’âge, nous produisons de moins en moins de cellules lymphoïdes, il apparaît un déséquilibre entre les deux lignées qui contribue à la sénescence du SI."
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Réponse immunitaire - Le SI permet de différencier le soi du non-soi (substances étrangères : pathogènes, allergènes…) ou du soi modifié (organisme altéré : cellules cancéreuses, auto-AC…)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le développement du SI est basé sur la production de cellules souches -> progéniteurs lymphoïdes + myéloïdes - Pour permettre la distinction entre le soi et le non-soi, le SI fonctionne avec deux mécanismes : o Immunité innée : mécanismes de défense NON SPECIFIQUES, action immédiate, élimination de plus de 90% des pathogènes.",
+    "Immunité adaptative : mécanismes de défense SPECIFIQUES, action retardée 3. Cellules immunocompétentes - Immunité innée : mastocytes, macrophages = phagocytes, granulocytes, cellules NK, CPA et complément qui ont une action immédiate",
+    "Immunité adaptative, mémoire : lymphocytes B, T - Les cellules NKT, et les cellules γδ (dans les muqueuses) sont classées dans les 2 types d’immunité. 4. Infection par un pathogène La réponse immunitaire est chronologique 1) Induction de l’immunité innée (en périphérie) 2) Migration des cellules naïves dans les ganglions 3) Activation réponse adaptative (les CPA interagissent avec les cellules CD4, CD8 par les CMH) Le type de cellule immunitaire recruté dépend de l’agent pathogène (par exemple recrutement de PNE contre les parasites) 5. Interaction entre cellules du système immunitaire La CPA active le LB par l’intermédiaire des LT CD4 (helper) et du CMH II Production d’anticorps (cytokines) contre les pathogènes La CPA active les LT CD8 (cytotoxique) par l’intermédiaire du CMH I Destruction de cellules tumorales ou infectées 6. Notion de répertoire antigénique Lymphocyte B Lymphocyte T - 1 cellule B → 1 Récepteur à l’antigène (BCR) - Répertoire de 10 13-15 BCR différents surtout à l’adolescence - 1 cellule T → 1 Récepteur à l’antigène (TCR) - Répertoire de 10 13-15 TCR différents surtout à l’adolescence - TCR reconnait CMH avec antigène à la surface du CPA Page 2/17"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Diversité du système immunitaire très importante pour reconnaître le plus grand nombre d’antigènes 7. Production des lymphocytes T et B Les lymphocytes sont produits à partir de progéniteurs issus de la MO. Les progéniteurs vont migrer dans le thymus pour la production de lymphocytes T (en particulier pour la sélection positive et négative et la production de LTCD4 et LTCD8 naïfs). La production des LB naïfs se fait quant à elle dans la moëlle osseuse. Les lymphocytes alors produits seront appelés lymphocytes matures naïfs, ils attendent d’être recrutés. Leur présence témoigne d’un SI en bonne santé"
+  },
+  {
+   "type": "paragraph",
+   "text": "En vieillissant, tout cela marche beaucoup moins bien et on produira plutôt des cellules myéloïdes et très peu de cellules lymphoïdes. 8. Les sous populations de lymphocytes B en périphérie Cela se fait à partir de cellules progénitrices dans la moelle : les cellules « pro B » de la MO qui produisent des cellules matures, des cellules immatures, et des cellules qui vont migrer soit dans les muqueuses soit dans les ganglions. Une fois produits dans la MO, les LB vont se différencier en différents types : - En plasmocytes qui fabriquent des anticorps (stade mature) - En cellules B folliculaires - En cellules mémoires, de longues vies plasmacytoïdes qui répondent tout au long de la vie (disparaissent avec l’âge) La diversité des types de lymphocytes B est un témoin de SI en bonne santé 9. Deux lignées majeures de cellules T LT CD4 LT CD8/cellules T cytotoxiques Parmi les LT CD4 on retrouve : - Les TH1, les TH2, les TH9 (surtout dans l’intestin), les TH17 (très inflammatoires), les TH22, les cellules régulatrices et cellules folliculaires - Capable de proliférer, produit plein de cytokines Parmi les LT CD8 on retrouve : - Des cellules capables de lyser, des cellules régulatrices et des cellules mémoires La diversité des types de lymhocytes T est également un témoin de bonne santé du SI 10. Étapes de la réponse immune cellulaire (T médiée) Etapes Déroulement 1 Reconnaissance spécifique dans le ganglion entre CPA + LT CD4 qui présente un récepteur (TCR) spécifique de l’antigène"
+  },
+  {
+   "type": "paragraph",
+   "text": "2 Activation du LT4 3 Prolifération clonale du LT4 en présence d’IL2 ou IL7 4 Différenciation du LT4, en CD4 Th1, Th2 ou TFh selon les cytokines mises en jeu 5 LT4 Th1 active LT8 et LT4 TFh active LB → production d’anticorps 6 Induction d’une réponse mémoire 7 Mort cellulaire Les cellules mémoires sont tout de suite stimulées en cellules effectrices lors d’une deuxième rencontre avec l’agent pathogène, et l’élimine bien plus rapidement que lors du premier contact. 11. Réponse lymphocytaire T après stimulation antigénique (ex : infection virale) Etapes Déroulement Page 3/17"
+  },
+  {
+   "type": "paragraph",
+   "text": "1 Introduction de l’agent pathogène dans l’organisme qui va être présenté par une cellule dendritique aux LT → non suffisant au départ donc charge virale ↑ (car, au départ, on a des cellules naïves) 2 Prolifération des cellules naïves en cellules effectrices 3 Lorsqu’on a suffisamment de cellules effectrices → destruction virus → charge virale ↓ 4 Une partie des cellules effectrices deviennent des cellules mémoires 5 Lors d’une 2 ème rencontre avec cet agent pathogène → ↑ charge virale mais de façon moins importante que la 1 ère fois grâce aux cellules mémoires Réponse mémoire → principe de base de la vaccination pour arriver à une réponse plus rapide lors d’une deuxième rencontre avec l’agent pathogène Soit des cellules effectrices soit des cellules centrales, ces dernières sont vraiment la mémoire immunologique 12. Sous-population de LT mémoires (CD4/CD8) Au cours du vieillissement des cellules T, on va avoir de plus en plus de cellules très différenciées qui vont s’accumuler dans l’organisme, et on va perdre la capacité de générer des cellules naïves. Il y a plusieurs sous-populations. On part d’une cellule naïve qui rencontre l’Ag et en fonction de ce contact, elle se différencie au cours du temps pour arriver au stade tardif. Lors du vieillissement, on a quasiment plus de stade précoce de différenciation dans l’organisme car il y a une accumulation des stades tardifs. On a donc presque plus de cellules naïves car il n’y a plus de thymus qui produit des LT naïfs. Vers 70 ans on a une accumulation de cellules très stimulées, plus fonctionnelles appelées cellules effectrices mémoire tardive."
+  },
+  {
+   "type": "paragraph",
+   "text": "2 sous-populations : Central mémoire Effecteur mémoire - Surtout dans les ganglions - Sécrète IL2 - Cellules qui prolifèrent énormément - Arrive plus tardivement dans le temps - Capable de répondre de nouveau à une stimulation antigénique - Circule un peu partout dans l’organisme (sang, rate) - Prolifère très peu - Plus fonctionnel : il sécrète des cytokines et notamment celles qui induisent une cytotoxicité (IFNγ) 13. Système immunitaire normal À la naissance, nous avons un pool de CSH (= cellules souches hématopoïétiques) dans la MO, qui présentent des caractéristiques particulières :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Capacités d’auto-renouvellement - Potentiel clonal diversifié de LB, LT et cellules de l’immunité innée Ces CSH se divisent en 2 catégories : - CS lymphoïdes - CS myéloïdes Quand le SI est normal, on arrive à un équilibre entre ces 2 catégories constant dans le temps. Il y a jusqu’à 40/45 ans une répartition équilibrée entre les lymphocytes et les granulocytes. Un système qui fonctionne correctement produit beaucoup de LB et de LT naïfs."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Quand le SI est normal, on a aussi : - Dans les OLP : une différenciation des LB dans la MO et des LT dans le thymus à partir de CSL - Production d’un répertoire le + varié possible - Production de LB ou LT naïfs qui vont dans les OLS (ganglions, rate) et attendent une interaction avec un agent pathogène dans les centres germinatifs"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Rencontre avec Ag → activation lymphocytes → différentes sous-populations de lymphocytes (CD4, CD8, mémoires centraux ou effecteurs) Propriétés du SI normal : - Bonnes capacités homéostasiques : bonne capacité de production centrale et périphérique → maintien d’un taux constant du nombre de LT",
+    "Production centrale : moelle osseuse et fonction thymique très fonctionnelle jusqu’à 20/25 ans puis à partir de 25 ans → involution du thymus",
+    "Prolifération périphérique - Bonnes capacités fonctionnelles effectrices - Un retour du système au repos / pas d’hyperactivation après disparition de l’Ag - Réponses adaptées car régulées : distinction du son et du non-soi. - Bien contrôlé III. Vieillissement du système immunitaire On observe une dysbiose (microbiote moins divers , moins varié) avec le SI qui marche moins bien , prise de poids le plus souvent , + de stress , disparition du thymus -> tout ça ont pour conséquence de l’inflammation de faible grade, réduction du potentiel immunitaire et à répondre à la vaccination."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "1. Age et cellules souches hématopoïétiques (CSH) - Les CSH sont indispensables à la constitution et au renouvellement des cellules du SI - Caractéristiques des CSH : proliférer pour entretenir le stock de CS et se différencier en cellules plus différenciées (lymphoïdes et myéloïdes) Le nombre de CSH diminue dans le temps, et sont moins capables de se répliquer. L’âge altère donc le nombre de CSH et leur capacité à proliférer."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diminution des capacités de réplication des CSH et diminution de l’hématopoïèse (nombre et fonction des progéniteurs). Chez les personnes âgées : bcp moins de CSH → moins de prolifération et diversité bien moindre",
+    "Diminution des capacités de différenciation des CSH en progéniteurs lymphoïdes (CLP). 2. Système immunitaire sénescent Nombre de CSH diminué (de 3 fois à peu près) : - Diminution de leur capacité d’auto-renouvellement - Diminution CS - Diminution de progéniteurs lymphoïdes (quasi complète vers 60ans) - Différenciation orientée vers la lignée myéloïde - Déséquilibre très important des myéloïdes ++ par rapport aux lymphoïdes Page 5/17"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Mécanismes mis en jeu a. Facteurs intrinsèques - Apparition dans les CSH d’altérations de l’ADN → mutation - ↓ de l’expression des gènes associés à la différenciation lymphoïde - ↑ de l’expression des gènes de la lignée myéloïde - Surtout lié au réarrangement - Des CSH de souris âgées repeuplent plus difficilement des souris que des CSH de souris jeunes. De même, dans la greffe de CSH chez l’homme b. Facteurs extrinsèques - ↓ de la production d’hormones de croissance donc moins de prolifération - ↓ de la production d’hormones stéroïdiennes - La substitution de GH de rats âgés augmente l’hématopoïèse IV. Vieillissement du système immunitaire inné 1. Immunité innée et vieillissement Anomalies/dysfonctions des barrières cutanéo-muqueuses chez les personnes âgées : - Une altération des barrières épithéliales (car moins jointif) - Tractus respiratoire : Diminution de la clairance mucociliaire et altération de la muqueuse Incidence +++ des infections respiratoires basses et pneumonies chez le sujet âgé"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Tractus urinaire : Augmentation de l’adhérence bactérienne associée à une diminution du flux urinaire et une hypotonie du muscle vésical Incidence +++ des bactériuries asymptomatiques chez le sujet âgé",
+    "Tractus digestif : Diminution du MALT et diminution de l’acidité gastrique Majoration des infections digestives chez le sujet âgé associé à une perte importante de la diversité du microbiote 2. Cellules de l’immunité innée et vieillissement a. Polynucléaires neutrophiles ou de manière général les éosinophiles - Nombre stable tout au long de la vie mais perte de l’efficacité - Activité phagocytaire stable ou légèrement diminuée - Chimiotactisme diminué Page 6/17"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Burst oxydatif (dérivés oxygène) diminué - Activité microbicide moins importante - Plasticité réduite (migre moins) Causes : - Augmentation de la fluidité membranaire par désorganisation des lipides membranaire → altère la fonction des PNN - Diminution polymérisation actine → moins de phagocytose - Défaut de signalisation par les TLR moins capables de stimuler une réponse immunitaire et de produire des cytokines",
+    "Défaut des cascades de signalisation +++ (Rôle des sécrétions de cortisol liées au stress) a. Monocytes et macrophages - Nombre stable - Altération des fonctions +++ : ● Production de cytokines inflammatoires (TNFα) ● Chimiotactisme ● Phagocytose ● Synthèse dérivés métabolisme oxygène ● Synthèse dérivés métabolisme nitrogène - Diminution de l’activité bactéricide +++ - Cliniquement : ● Retard à guérir une blessure ● Diminution des réponses cutanées de type hypersensibilité retardée (DTH) aux Ag de rappel (PPD) S’activent moins et sont moins fonctionnels b. Cellules dendritiques - Nombre stable ou diminué - Altération des fonctions : ● Capture des antigènes ● Réponse aux molécules du stress (ligands de TLRs) c. Cellules NK : - Nombre stable ou diminue faiblement - Activité cytotoxique non modifiée ou - Production d’IFNγ - Production chimiokines - Flux calciques - Capacité prolifération à l’IL2 S’activent moins et sont moins fonctionnelles notamment à cause des infections chroniques (surtout liées aux infections au CMV) En résumé : L’immunité inné vieillit surtout d’un point de vue fonctionnel. - Altération des voies de signalisation notamment → défaut de fonctions (phagocytose, cytotoxicité…) - Immunité innée marche beaucoup moins bien chez les personnes âgées - Cellules relativement constantes en nombre mais qui ont quasiment perdues toutes leurs fonctions effectrices V. Vieillissement du système immunitaire adaptatif La réponse immunitaire adaptée qui diminue systématiquement avec l’âge dépend : - De la quantité / qualité de l’antigène présenté par les molécules de CMH - De la quantité de lymphocytes spécifiques de l’antigène - Des capacités prolifératives des lymphocytes Page 7/17"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Des capacités de différenciation/fonctions des lymphocytes 1. Lymphocyte T a. L’involution thymique - Au cours de l’âge, le thymus disparaît et est remplacé par du tissu fibreux et adipeux (fibroadipogénèse) (sur le schéma plus il y a du violet, plus les cellules sont en bon état)",
+    "Altération de la capacité du thymus à produire des lymphocytes naïfs = involution thymique",
+    "La fibroadipogénèse commence dès l’âge de 1 an et accélère à la puberté - A 50 ans, 80% du thymus est non fonctionnel. On a une perte de capacité de toutes les zones avec une diminution de la production de cellule naïves.",
+    "On perd également de la ghréline, de la leptine et de la GH. Ces hormones vont donc être liées à la production de ce tissu adipeux. Dans un thymus jeune : beaucoup de diversité et peu d’inflammation Dans un thymus âgé : quasiment plus de cellules naïves et beaucoup de cellules effectrices très différenciées avec seulement une ou deux populations et beaucoup d’inflammation (déséquilibre). Il y a donc moins de diversité par involution thymique."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Mécanismes de la diminution de production thymique : multifactorielle"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Effet de l’âge sur production des LT naïfs - Diminution du nombre de cellules T naïves produites avec l’âge. Quantification du nombre de lymphocytes T par mesure des TRECs, plus on a de TRECs, plus on a de prolifération de cellules naïves. Moins on a de TRECs, moins on a de cellules naïves et donc plus on a un SI sénescent"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Perte de 3% de son pool de cellules naïves par an à partir de 20 ans - Nombre de cellules T naïves = marqueur immunitaire de l’âge - Après 70 ans, nous n’avons presque plus de cellules naïves, et de moins en moins de diversité parmi nos cellules mémoires, certains clones seront de cellules mémoires seront très nombreux (par exemple contre le CMV) et prolifèrent, occupant l’espace nécéssaire pour régénérer des cellules naïves"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "L’âge est la cause majeure présumée du déclin des compétences immunitaires du sujet âgé. Page 8/17 Causes intrinsèques Défaut de différenciation des CSH en CS Défaut des progéniteurs lymphoïdes intrathymiques → ↑ de l’apoptose et ↓ de la prolifération Causes extrinsèques : défauts du microenvironnement ↓ du nombre et de la fonction des cellules épithéliales thymiques : - ↓ Keratin-1, Fox1n (marqueurs des cellules épithéliales thymiques) - ↓ Synthèse IL7 par les cellules stromales Production de médiateurs pro-inflammatoires, thymocytotoxiques ↓ des hormones de croissance GH et IGF-1, nécessaires à la producion de cytokines par cellules stromales et effet anti-apoptotique sur les thymocytes Accumulation de l’effet des hormones stéroïdiennes : accélération de l’involution thymique et effet thymocytotoxique Après greffe de MO: - La récupération des taux de Lc T CD4+ naïfs est âge dépendant : ● 80% chez patients < 40 ans ● 50% chez patients de 40 à 50 ans ● 10% chez patients > 50 ans Répertoire des cellules T naïves se reconstitue avec une diversité moindre avec l’âge"
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Homéostasie périphérique - à 70 ans : stabilité du nombre de LT grâce à une prolifération des cellules en périphérie (quasiment plus de cellules naïves)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Après 75 ans : ● Nombre de LT ↓ assez drastiquement et rapidement ● Ratio CD4/CD8 ↓ ● Homéostasie périphérique insuffisante : o Capacité de division des cellules ↓ o Longueur des télomères ↓ (moins de télomères → moins de prolifération) Plus on vieillit, moins on a de cellules naïves et plus le pool de cellules mémoires augmente en nombre mais est moins diversifié. 4. Expansions oligoclonales - Prolifération +++ sous l’effet de stimulations chroniques (infections virales) → expansions oligoclonales de LT CD8+ - Démontré pour HSV1, CMV (homme), HIV, EBV, HSV ? - Cette infection chronique stimule de manière récurrente toujours les mêmes clones de cellules → surreprésentation de certains clones CD8 (ou CD4) qui vont remplacer tous les autres",
+    "Ces cellules sont en fin de course et très différenciées : o Sont absentes chez le nouveau-né mais représentent 80/90% du répertoire chez le sujet âgé o Ont de faibles capacités prolifératives (télomères courts) o Sont peu fonctionnelles o Sécrètent des cytokines pro-inflammatoires o Sont résistantes à la mort par apoptose o Ces clones CD8 occupent l’espace périphérique et empêchent la régénération de nouvelles cellules T naïves qui protègent contre d’autres agents pathogènes"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "5. Anomalies de la diversité du répertoire - Restriction du répertoire des LT avec l’âge mais maintien jusqu’à 70 ans - ↓ brutale d’un facteur 100 par an entre 70 et 75 ans : - Diminution T naïfs en périphérie de 3.10 à 7.10"
+  },
+  {
+   "type": "list",
+   "items": [
+    "↓de la diversité du répertoire T de 10 à 10 (10 13/15 au début) Conséquences : réponses compromises contre divers antigènes - Une ↓ de 2 à 10 de la diversité suffit pour compromettre les réponses contre divers antigènes (ex : grippe) - Situations d’échappement par mutation (+++ de cancers, virus) - ↓ efficacité vaccination Conséquences cliniques d’anomalies de la diversité du répertoire : ● ↓ capacité de défense immune en particulier contre les infections virales, réactivations virales (VZV) ● Prédiction d’une absence de réponse à vaccination (anti-influenza) ● Corrélation inverse entre nombre d’expansions clonales et durée de survie : moins de T naïfs et moins de diversité → durée de vie plus courte",
+    "Profil de risque immunologique : o Ratio CD4/CD8 inversé : + de CD8 que CD4 Page 9/17 Infections non persistantes ou persistantes classiques Infections persistantes à CMV 3 phases (normalement) : - Expansion cellulaire - Contraction clonale - Maintien de la mémoire (+/- long terme) Mêmes phénomènes : ↑ charge virale et réponse immunitaire globale ↑ Mais surprolifération des LT8 très différenciés spécifiques du CMV dans des quantités presque malignes → pool très peu diversifié + Inflammation très importante avec production de cytokines très inflammatoires"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Fréquence importante de cellules très différenciées (CD8+CD28-) 6. Vieillissement immunitaire T Avec l’âge, on remarque une altération du compartiment mémoire avec peu de cellules T naïves et une accumulation de cellules T mémoires très différenciées « vieilles/sénescentes » qui ont :",
+    "De faibles capacités prolifératives (↓ télomères) - Moins sensibles à l’apoptose - Oligoclonalité - Prennent la place de nouvelles cellules/spécificités - Absentes chez nouveau-né et jusqu‘à 80/90% du répertoire chez sujet âgé - Expansions oligoclonales - Répertoire moins diversifié Chez les sujets âgés : - Les gènes associés à la prolifération ↓ - Les gènes associés aux phénomènes d’apoptose ↓ - Les gènes associés aux phénotypes très matures ↑ 7. Capacités fonctionnelles des LT avec l’âge (non dit cette année) ↓ des capacités fonctionnelles des CD4 Naïfs Mémoires DIMINUTION : - Capacités d’activation - Sécrétion IL2 et expression Rc-IL2 (CD25) - Prolifération - Donne plutôt des Th17 et moins de Th1 et Th2 DIMINUTION : - Sécrétion de cytokines - Prolifération - Hyporéactivité ↓ des capacités fonctionnelles des CD8 Naïfs Mémoires Diminution : - Prolifération Diminution : - Sécrétion d’IFNγ - Prolifération - Capacité cytotoxique Mécanismes : causes intrinsèques ++ : - Formation de la synapse immunologique altérée (interaction CPA-LT altérée) : - La membrane des cellules enrichie en cholestérol : ● ↓ fluidité membranaire ● ↓ polarisation du TCR et des molécules de co-activation - Profil de glycosylation différent → inhibition de la synapse - Défauts de réorganisation du cytosquelette - Anomalies de transduction du signal (moins de P°) - Résistance à l’apoptose → accumulation de clones cellulaires en différenciation terminale VI. Lymphocyte B 1. Anomalies de différenciation des LB Sujet jeune : bonne différenciation, beaucoup de cellules naïves, des cellules folliculaires indispensables à une bonne stimulation de la réponse immunitaire dans la rate et des cellules mémoires"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Sujet âgé : moins de cellules naïves et beaucoup plus de cellules mémoires car : - Moins de réarrangement et de recombinaison qui génère la diversité des LB car moins d’enzymes RAG et d’IL7 → moins de différenciation dans la MO"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le peu de cellules qui arrivent au niveau des ganglions ou rate se différencient peu et donc peu de transformation en plasmocytes → ↓ production d’AC",
+    "2. Vieillissement et production centrale des LB - ↓ du nombre de précurseurs B (pro B et pré B) - ↓ de la capacité de maturation vers le stade pré-B - ↓ de la capacité proliférative des cellules pré-B Mécanismes : - Causes extrinsèques : ● ↓ de l’apport en progéniteurs hématopoïétiques ● ↓ de synthèse d’IL-7 par les cellules stromales de la MO (élément clé) - Causes intrinsèques : ● Signalisation IL-7R anormal (expression mb ↓) ? ● Anomalie du réarrangement des gènes du BCR ? ● Anomalie de la voie de signalisation pré BCR ? Conséquences : ● Diminution du nombre de cellules B naïves → ↓ production d’AC → ↓ réponses aux infections Conséquence de l’altération de la réponse immune humorale : ● Durée de la réponse immune humorale ↓ ● Sécrétion d’AC : titre, affinité et protection plus faibles ● Capacité de switch plus faible : + de sécrétion d’IgM et moins d’IgG ● ↑ des auto-AC qui reconnaissent des molécules du soi 3. Mécanismes des anomalies des réponses humorales avec l’âge - Altération de la formation des centres germinatifs ● ↓ expression AID ● ↓ mutations somatiques qui génèrent la diversité → défaut de maturation d’affinité ● ↓ des molécules de costimulation CD40 et CD27 ● ↓ coopération avec LT4 nécessaire à l’activation ● Shift d’AC IgG haute affinité → IgM faible affinité ● Production d’AC peu affins vis-à-vis des carbohydrates (s. pneumoniae) ● Réduction du nombre de plasmoblastes (influenza) ● Réduction réponses vaccinales - Augmentation des auto-AC (IgM+++) → maladies auto-immunes ++ - Production d’Ig monoclonale (hémopathie ou MGUS) liée à l’émergence de clones B 4. Effet de l’âge sur les LB - Enfant : bcp de cellules naïves et des cellules périphériques peu nombreuses mais diversifiées - Sujet âgé : inverse → très peu de cellules naïves et bcp de cellules différenciées périphériques mais moins diversifiées et spécificité de reconnaissance très faible VII. Résumé âge et immunité - Système immunitaire inné et adaptatif qui ne vieillissent pas bien - Chez sujet âgé : plus de thymus et quasi plus de cellules naïves, la MO fonctionne toujours mais on aura l’extension de certains clones"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vieillissement : vrai problème de cellules naïves - Le vieillissement du SI est complexe et touche tous les organes : Effet de l’âge sur l’immunité mucosale : Avec l’âge la muqueuse fonctionne moins bien, le microbiote se détériore avec l’âge Vieillissement immunité cellulaire et conséquences cliniques"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Le vieillissement du SI est complexe et a de nombreuses conséquences physiopathologiques. Chacun a un fond génétique différent. On est capable d’induire une réponse immunitaire et une réponse inflammatoire → bougent bcp au cours du vieillissement. La balance entre les phénomènes inflammatoires et anti-inflammatoires va amener dans certains cas vers des phénomènes d’immunosénescence → ce sont les facteurs environnementaux qui dérégulent cette balance."
+  },
+  {
+   "type": "paragraph",
+   "text": "Cette immunosénescence va plutôt aller en faveur des phénomènes inflammatoires et bcp moins dans l’activation d’une réponse immunitaire contrôlée."
+  },
+  {
+   "type": "paragraph",
+   "text": "Cette immunosénescence est multifactorielle : immunité, condition physique, dénutrition, phénomènes de comorbidité, génétique, environnement amènent à des caractéristiques pathologiques chez la personne âgée : infections ↑, peu d’efficacité des vaccins, expansions clonales, cancers, maladies CV et troubles cognitifs."
+  },
+  {
+   "type": "paragraph",
+   "text": "Conséquences du vieillissement sur la mise en place des réponses mémoires : - Normalement : protection plus forte et plus rapide lors d’une réexposition antigénique → principe de la protection par vaccination"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Vieillissement immunitaire affecte les réponses primaires et secondaire Page 12/17"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Conséquences cliniques : - Susceptibilité augmentée aux infections et aux sepsis→ une des causes majeures de mortalité et de morbidité du sujet âgé"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Réactivations virales - Diminution des réponses vaccinales : réponses mémoires persistent mais insuffisantes → restimulation Diminution souvent de 30 à 50% de l’efficacité des vaccins chez le sujet âgé Cette réponse n’est pas augmentée si on booste par une 2 ème ou 3 ème vaccination. On cherche surtout des adjuvants différents pour augmenter l’efficacité des vaccins. Protection vaccinale plus faible chez les personnes âgés (vrai pour tous les vaccins). D’une part parce que les Ac sont peu fonctionnels, la réponse est moins longue dans le temps. Donc l’efficacité clinique est moins importante. On voit donc de plus en plus l’intérêt de revacciner les personnes âgées, de faire des « remise à niveaux », afin d’essayer de restaurer une immunité."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Prévenir risque encourus car vaccins marchent moins bien, cpa, cellules effectrices atténués VIII. Les grandes idées à ne pas oublier ++++++"
+  },
+  {
+   "type": "paragraph",
+   "text": "1. Profil de risque immunologique du sujet âgé ++++++ Morbidité et mortalité ↑ car : - Perte des cellules T naïves - Peu de cellules B - Peu de prolifération - Accumulation de CD8 très différenciées sénescentes, fonction ↓ - Inversion du ratio CD4/CD8 < 1.0 : + de CD8 que CD4 - Séropositivité CMV - Dans un contexte d’inflammation chronique 2. Vieillir en bonne santé Pour vieillir en bonne santé, il faut être capable de réguler la balance entre l’inflammation et l’anti-inflammation. L’inflammation est importante car permet de résister aux infections mais si mal régulée → pathologies inflammatoires très importantes. Lorsque la réponse anti-inflammatoire (caractérisée par des profils cytokiniques) est forte → sensibilité aux infections ↑ mais meilleure longévité."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les approches médicales pour vieillir en meilleure santé reposent en grande partie sur la prévention. 3. Thérapeutiques anti-immunosénescence 1 ère mesure de protection : vaccination. Recommandée en France > 65 ans pour la grippe, DTPolio A risque : Pneumocoque, Hépatite A Challenge : augmenter l’efficacité des vaccins pour pallier ces phénomènes d’immunosénescence : - Rôle de l’adjuvant - Augmenter les doses - Différentes voies d’administration (intranasale en cours) - Autres mesures pour préserver les CSH, la fonction du thymus et diminuer l’inflammation (protocoles en cours) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le manque de Taurine accélère le vieillissement ? Étude montrant sur des animaux que la taurine présenterait un effet positif sur l’espérance de vie, la masse graisseuse 4. Une petite cure de jouvence ? - Empêcher l’activation chronique (ex : CMV) → ttt prophylactique - Traitement avec hormones ou cytokines (IL7) - Adjuvants spécifiques pour vaccination - Restriction calorique → alimentation moins riche en lipides - Vin rouge (resveratrol) → propriétés anti-oxydantes - Extrait de télomérase - Castration : diminution inflammation - Méditation Page 14/17"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ix-qcm-qcm1-concernant-le-vieillissement-du-si-inne-a-le-nom",
+   "text": "IX. QCM QCM1 : Concernant le vieillissement du SI inné : A. Le nombre de PNN est stable tout au long de la vie mais perte de l’efficacité B. Nombre stable de monocytes et macrophages C. L’immunité inné vieillit d’un point de vue fonctionnel D. Les cellules dendritiques augmentent E. La diminution de l’acidité gastrique chez le sujet âgé majore les infections digestives QCM 2 : Concernant le vieillissement du SI : A. Dans un thymus âgé, on retrouve peu de cellules effectrices très différenciées B. L’immunosénescence va plutôt aller en faveur des phénomènes inflammatoires C. La diminution de la synthèse d’IL-1 par les cellules stromales de la MO est un élément clé de la diminution de la"
+  },
+  {
+   "type": "paragraph",
+   "text": "formation des LB D. Avec l’âge on accumule des cellules T naïves et on a une perte de cellules T mémoires E. Après 75 ans, le nombre de LT diminue QCM 3 : Concernant les causes du vieillissement du système immunitaire adaptatif : A. Le vieillissement du système immunitaire adaptatif est unifactoriel B. Les défauts du microenvironnement correspondent aux causes extrinsèques C. La diminution des hormones de croissance GH et IGF-1 est une cause intrinsèque D. Le défaut de différenciation des CSH en CS est une cause intrinsèque E. La diminution de la synthèse IL7 par les cellules stromales est une cause extrinsèque Réponses : QCM1 : Concernant le vieillissement du SI : ABCE A. VRAI B. VRAI C. VRAI D. FAUX : stable ou diminue E. VRAI QCM2 : Concernant le vieillissement du SI : BE A. FAUX : On en retrouve beaucoup B. VRAI C. FAUX : d’IL-7 et de la formation des lymphoctes T D. FAUX : c’est l’inverse E. VRAI QCM 3 : Concernant les causes du vieillissement du système immunitaire adaptatif : A. FAUX : multifactoriel B. VRAI C. Faux : extrinsèque D. VRAI E. VRAI Page 15/17"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "x-acc-sujet-2023-2024-question-n-1-l-immunosenescence-est-ca",
+   "text": "X. ACC Sujet 2023-2024 : QUESTION N° 1 : L’immunosénescence est caractérisée par : A. L’involution thymique B. Un biais myéloïde des cellules souches hématopoïétiques (HSC) C. Une diminution du nombre de lymphocytes naïfs D. Une augmentation des réponses vaccinales E. Un profil anti-inflammatoire A : VRAI B : VRAI C : VRAI D : FAUX E : FAUX QUESTION N° 2 : Lors du vieillissement immunitaire, les conséquences cliniques sont : A. Une augmentation du risque infectieux B. Une diminution du nombre de cancers C. Une diminution des risques cardiovasculaires D. Une diminution des réponses vaccinales E. Une diminution des maladies auto-immunes A : VRAI B : FAUX C : FAUX D : VRAI E : FAUX Sujet 2022-2023 QUESTION N° 1 : Qu’est-ce qui caractérise l’immunosenescence, choisir la (ou les) proposition(s) exacte(s) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. L’involution thymique B. Un biais lymphoïde des cellules souches hématopoïétiques (HSC) C. Une augmentation du nombre de lymphocytes naïfs D. Une augmentation du risque infectieux E. Un profil anti-inflammatoire A : VRAI B : FAUX : On a un biais myéloïde des cellules souches hématopoïétiques. C : FAUX : On a une diminution du nombre de lymphocytes naïfs. D : VRAI E : FAUX : On a un profil pro-inflammatoire. Sujet 2021-2022 QUESTION N° 1 : Qu’est-ce qui caractérise l'immuno-sénescence ? (cocher la ou les proposition(s) exacte(s)) A. La disparition des ganglions lymphatiques B. Un biais myéloïde des cellules souches hématopoïétiques (HSC) C. Une diminution du nombre de lymphocytes naïfs D. Une diminution des réponses vaccinales E. Un profil anti-inflammatoire Page 16/17"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : FAUX B : VRAI C : VRAI D : VRAI E : FAUX : Balance en faveur d’un profil pro-inflammatoire QUESTION N° 2 : Quelles peuvent être les conséquences cliniques lors du vieillissement immunitaire ? (cocher la ou les proposition(s) exacte(s))"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Augmentation du risque d’infections respiratoires B. Diminution des troubles neurocognitifs C. Diminution des cancers D. Augmentation du diabète E. Diminution des risques cardiovasculaires A : VRAI B : FAUX : augmentation C : FAUX : augmentation D : VRAI E : FAUX : augmentation Les questions des années précédentes sont les mêmes Page 17/17"
+  }
+ ]
+}

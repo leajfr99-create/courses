@@ -1,0 +1,217 @@
+{
+ "slug": "fc04b",
+ "title": "QCM — Spondylarthrites (SpA)",
+ "unofficialKey": false,
+ "questions": [
+  {
+   "id": "fc04b-q01",
+   "lesson": "fc04b",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "La spondylarthrite est avant tout :",
+   "options": [
+    "Une maladie auto-inflammatoire",
+    "Une maladie auto-immune classique à auto-anticorps spécifiques",
+    "Une maladie purement dégénérative",
+    "Une maladie infectieuse",
+    "Une tumeur osseuse"
+   ],
+   "correct": [0],
+   "hint": "Pas d'auto-anticorps spécifiques : c'est plutôt « auto-inflammatoire ».",
+   "explanation": "La SpA est considérée comme une maladie auto-INFLAMMATOIRE plutôt qu'auto-immune : l'immunité innée et le stress mécanique au niveau de l'enthèse jouent un rôle central, sans auto-anticorps spécifiques.",
+   "tags": ["définition"],
+   "source": "FC04b — HLA-B27"
+  },
+  {
+   "id": "fc04b-q02",
+   "lesson": "fc04b",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "À quelle forme de spondylarthrite l'HLA-B27 est-il associé ?",
+   "options": [
+    "À la forme axiale",
+    "À la forme périphérique",
+    "À aucune forme",
+    "Uniquement aux formes pédiatriques",
+    "À toutes les formes de manière équivalente"
+   ],
+   "correct": [0],
+   "hint": "On le recherche pour le diagnostic des atteintes du rachis/sacro-iliaques.",
+   "explanation": "L'HLA-B27 (HLA de classe I) est associé à la forme AXIALE de la SpA et est utile à son diagnostic (recherche par cytométrie en flux). Il n'est pas associé à la forme périphérique.",
+   "tags": ["HLA-B27", "génétique"],
+   "source": "FC04b — Terrain génétique"
+  },
+  {
+   "id": "fc04b-q03",
+   "lesson": "fc04b",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Quelle est la cible thérapeutique principale de la spondylarthrite ?",
+   "options": ["Le TNF", "Le facteur rhumatoïde", "Les ACPA", "L'IL-2", "Le complément"],
+   "correct": [0],
+   "hint": "On inhibe aussi l'IL-17, mais une cytokine est citée comme « principale ».",
+   "explanation": "Le TNF est la cible thérapeutique principale. L'axe IL-23/IL-17 est également ciblé. (Les ACPA et le facteur rhumatoïde concernent la PR.)",
+   "tags": ["traitement"],
+   "source": "FC04b — Cytokines"
+  },
+  {
+   "id": "fc04b-q04",
+   "lesson": "fc04b",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Qu'est-ce qu'une enthèse ?",
+   "options": [
+    "Le lieu d'insertion des ligaments et des tendons sur l'os",
+    "La membrane qui tapisse l'intérieur de l'articulation",
+    "Le cartilage articulaire",
+    "Le liquide synovial",
+    "Une cellule de l'immunité innée"
+   ],
+   "correct": [0],
+   "hint": "Tendon d'Achille, épicondyles, fascia plantaire…",
+   "explanation": "L'enthèse est le site d'insertion des tendons et ligaments sur l'os (tendon d'Achille, épicondyles, vertèbres, fascia plantaire). C'est le site initial de l'inflammation (enthésite) dans la SpA.",
+   "tags": ["enthèse", "anatomie"],
+   "source": "FC04b — Enthèses"
+  },
+  {
+   "id": "fc04b-q05",
+   "lesson": "fc04b",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Quelles cytokines sont impliquées dans la physiopathologie de la spondylarthrite ?",
+   "options": ["IL-23", "IL-17", "TNF", "ACPA", "IL-2"],
+   "correct": [0, 1, 2],
+   "hint": "L'axe IL-23 → Th17 → IL-17, plus le TNF.",
+   "explanation": "La SpA fait intervenir un excès d'IL-23, d'IL-17 et de TNF. L'IL-23 stimule les Th17 et les ILC3, qui sécrètent IL-17 et IL-22. Les ACPA concernent la PR ; l'IL-2 n'est pas impliquée.",
+   "tags": ["cytokines", "IL-17", "IL-23"],
+   "source": "FC04b — Cytokines"
+  },
+  {
+   "id": "fc04b-q06",
+   "lesson": "fc04b",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quel mécanosenseur, impliqué dans le stress mécanique, est associé aux formes axiales de SpA ?",
+   "options": ["PIEZO1", "ERAP1", "PTPN22", "RANKL", "PAD4"],
+   "correct": [0],
+   "hint": "C'est un canal ionique mécanosensible ; le bloquer réduit la formation osseuse.",
+   "explanation": "PIEZO1 est un canal ionique mécanosensible souvent impliqué dans les formes axiales. Quand on bloque Piezo, il y a moins de formation osseuse. (ERAP1 intervient via le mauvais repliement du HLA-I.)",
+   "tags": ["stress mécanique", "PIEZO1"],
+   "source": "FC04b — Stress mécanique"
+  },
+  {
+   "id": "fc04b-q07",
+   "lesson": "fc04b",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quelle est la différence entre un syndesmophyte et un ostéophyte ?",
+   "options": [
+    "Le syndesmophyte est vertical (inflammatoire, SpA) ; l'ostéophyte est horizontal (dégénératif)",
+    "Le syndesmophyte est horizontal ; l'ostéophyte est vertical",
+    "Ce sont deux synonymes",
+    "Le syndesmophyte est une érosion ; l'ostéophyte une calcification",
+    "Le syndesmophyte concerne la PR ; l'ostéophyte la SpA"
+   ],
+   "correct": [0],
+   "hint": "Le syndesmophyte suit les disques intervertébraux verticalement.",
+   "explanation": "Le syndesmophyte résulte de l'inflammation des enthèses et suit verticalement les disques intervertébraux (SpA). L'ostéophyte est une excroissance dégénérative, dans le plan du plateau vertébral (horizontal).",
+   "tags": ["imagerie", "syndesmophyte"],
+   "source": "FC04b — Évolution"
+  },
+  {
+   "id": "fc04b-q08",
+   "lesson": "fc04b",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Concernant les manifestations cliniques communes des spondylarthrites :",
+   "options": [
+    "Le dosage de l'HLA-B27 est utile au diagnostic des SpA axiales",
+    "L'HLA-B27 est associé à la forme axiale",
+    "La spondylarthrite est une maladie auto-inflammatoire",
+    "Les traitements consistent à inhiber la voie IL-17/TNF",
+    "Le consentement du patient est obligatoire pour un test génétique"
+   ],
+   "correct": [0, 1, 2, 3, 4],
+   "hint": "Attention au piège de l'année précédente : B27 = axiale (pas périphérique).",
+   "explanation": "Toutes les propositions sont exactes (le dosage B27 est utile pour les formes AXIALES, non périphériques). La SpA est auto-inflammatoire, traitée par inhibition IL-17/TNF, et tout test génétique requiert le consentement.",
+   "tags": ["annale", "synthèse"],
+   "source": "FC04b — QCM 1"
+  },
+  {
+   "id": "fc04b-q09",
+   "lesson": "fc04b",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "À l'imagerie, la spondylarthrite ankylosante se traduit par :",
+   "options": [
+    "Une colonne vertébrale en aspect de bambou",
+    "Une condensation des vertèbres",
+    "Une mise au carré des vertèbres",
+    "La présence de syndesmophytes",
+    "Une inflammation des enthèses"
+   ],
+   "correct": [0, 1, 2, 3, 4],
+   "hint": "À un stade avancé, tout converge vers l'ankylose.",
+   "explanation": "Toutes les propositions sont exactes : colonne en bambou, condensation et mise au carré des vertèbres, syndesmophytes et enthésite caractérisent la spondylarthrite ankylosante.",
+   "tags": ["annale", "imagerie"],
+   "source": "FC04b — QCM 2"
+  },
+  {
+   "id": "fc04b-q10",
+   "lesson": "fc04b",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Concernant la spondylarthrite (sujet d'annale) :",
+   "options": [
+    "Elle fait intervenir l'immunité innée et acquise",
+    "Le facteur rhumatoïde est un biomarqueur spécifique de la spondylarthrite",
+    "L'HLA-B27 est associé à la forme axiale",
+    "L'inhibition du TNF et de l'IL-17 sont des voies thérapeutiques",
+    "Sa physiopathologie fait intervenir directement l'HLA-B27"
+   ],
+   "correct": [0, 2, 3, 4],
+   "hint": "Le facteur rhumatoïde n'est pas spécifique d'une seule maladie.",
+   "explanation": "Réponses ACDE. Le facteur rhumatoïde n'est PAS spécifique de la SpA (c'est un biomarqueur des pathologies inflammatoires articulaires en général), donc B est faux.",
+   "tags": ["annale", "synthèse"],
+   "source": "FC04b — ACC 2019 Q5"
+  },
+  {
+   "id": "fc04b-q11",
+   "lesson": "fc04b",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Quelle part de la composante génétique de la SpA est attribuée à l'HLA-B27 ?",
+   "options": [
+    "Environ 20 % (sur ~24 % de génétique expliquée)",
+    "100 %",
+    "Moins de 1 %",
+    "Environ 50 %",
+    "L'HLA-B27 n'a aucun rôle génétique"
+   ],
+   "correct": [0],
+   "hint": "Seuls ~24 % de la génétique sont expliqués au total.",
+   "explanation": "Seuls ~24 % de la génétique de la SpA sont expliqués, dont ~20,1 % dus à l'HLA-B27. D'autres gènes interviennent (ERAP1, IL-17, IL-23).",
+   "tags": ["génétique"],
+   "source": "FC04b — Gènes impliqués"
+  },
+  {
+   "id": "fc04b-q12",
+   "lesson": "fc04b",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Concernant les formes périphériques de spondylarthrite :",
+   "options": [
+    "L'HLA-B27 n'y est pas associé ; on retrouve l'IL-23 et l'HLA-Cw6 (lié au psoriasis)",
+    "L'HLA-B27 y est fortement associé",
+    "Elles ne font jamais intervenir l'IL-17",
+    "Elles sont dues à des auto-anticorps anti-CCP",
+    "Elles touchent exclusivement le rachis"
+   ],
+   "correct": [0],
+   "hint": "B27 = axial ; les formes périphériques sont liées à d'autres marqueurs.",
+   "explanation": "Dans les formes périphériques, l'HLA-B27 n'est pas associé. On retrouve l'IL-23 et un HLA de classe I Cw6 (associé au psoriasis cutané). La synoviale contient des Th17 (CD3+, IL-17A).",
+   "tags": ["formes périphériques", "Cw6"],
+   "source": "FC04b — Formes périphériques"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fiches de révision — Immuno Révise</title>
+  <link rel="stylesheet" href="./assets/css/tokens.css">
+  <link rel="stylesheet" href="./assets/css/app.css">
+  <script>(function(){try{var p=JSON.parse(localStorage.getItem('immuno.v1.prefs')||'{}');if(p.theme==='dark')document.documentElement.setAttribute('data-theme','dark');else if(p.theme==='light')document.documentElement.setAttribute('data-theme','light');}catch(e){}})();</script>
+</head>
+<body>
+  <div class="scrim"></div>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar"></aside>
+    <div class="content">
+      <header class="topbar" id="topbar"></header>
+      <main class="container" id="main">
+        <p class="breadcrumb"><a href="./index.html">Accueil</a> › Fiches</p>
+        <h1>Fiches de révision</h1>
+        <p class="lead">L'essentiel de chaque cours, condensé pour réviser vite.</p>
+        <div class="grid cols" id="grid" style="margin-top:1.2rem"><div class="spinner"></div></div>
+      </main>
+    </div>
+  </div>
+  <script type="module" src="./assets/js/fiches.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+{
+ "slug": "fc04b",
+ "title": "Fiche — Spondylarthrites (SpA)",
+ "updated": "2026-06-09",
+ "summary": "Les **spondylarthrites** sont des rhumatismes inflammatoires **auto-inflammatoires** (et non auto-immuns) associant inflammation, érosion **et formation osseuse**. Axe central : **enthèse + stress mécanique + IL-23/IL-17/TNF**, sur terrain **HLA-B27** (formes axiales).",
+ "sections": [
+  {
+   "heading": "Caractéristiques communes",
+   "type": "bullets",
+   "items": [
+    "Signes rhumatismaux : **sacro-iliite, spondylite, enthésite, dactylite** (« doigt en saucisse »), arthrite périphérique.",
+    "Manifestations extra-articulaires : **uvéite, MICI, psoriasis**.",
+    "Forte association à l'**HLA-B27** (classe I) + histoire familiale.",
+    "Début chez l'adulte jeune (20-40 ans). Maladie **auto-inflammatoire**."
+   ]
+  },
+  {
+   "heading": "HLA-B27 : à maîtriser",
+   "type": "callout",
+   "tone": "important",
+   "html": "B27 = HLA **classe I**, associé à la forme **AXIALE** (pas périphérique). Recherché par **cytométrie en flux** (< 24 h). Prévalence 6-8 % en France → on peut être B27+ sans SpA. ~20 % de la génétique (sur 24 % expliqués) ; autres gènes : **ERAP1, IL-17, IL-23**."
+  },
+  {
+   "heading": "Physiopathologie",
+   "type": "bullets",
+   "items": [
+    "**Enthèse** = site initial de l'inflammation (insertion tendons/ligaments).",
+    "**Stress mécanique** → mécanosenseur **PIEZO1** (formes axiales) → formation osseuse.",
+    "Immunité **innée** : macrophages/DC → TNF-α, IL-23 ; cellules T résidentes à récepteur IL-23.",
+    "**IL-23 → Th17 + ILC3 → IL-17, IL-22** → inflammation locale + remodelage osseux anormal."
+   ]
+  },
+  {
+   "heading": "Imagerie & évolution",
+   "type": "bullets",
+   "items": [
+    "Enthésite → après résolution : **syndesmophyte** (calcification verticale, le long des disques).",
+    "**Syndesmophyte** (inflammatoire, vertical) ≠ **ostéophyte** (dégénératif, horizontal).",
+    "Évolution : non radiographique → radiographique (~10 ans) → **ankylose** (ponts osseux).",
+    "Stade avancé : **colonne en bambou**, mise au carré des vertèbres, fusion sacro-iliaque, œdème sous-chondral à l'IRM. Score **mSASSS**."
+   ]
+  },
+  {
+   "heading": "Traitement & pièges",
+   "type": "callout",
+   "tone": "tip",
+   "html": "Cible principale = **TNF** ; axe **IL-17/IL-23** aussi ciblé. Pièges : SpA = auto-**inflammatoire** ; B27 = **axiale** ; le **facteur rhumatoïde n'est PAS spécifique** ; formes périphériques → pas de B27, mais IL-23 et **Cw6** (psoriasis)."
+  }
+ ]
+}

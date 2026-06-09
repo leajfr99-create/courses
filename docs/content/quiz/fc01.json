@@ -1,0 +1,229 @@
+{
+ "slug": "fc01",
+ "title": "QCM — Immunosénescence",
+ "unofficialKey": false,
+ "questions": [
+  {
+   "id": "fc01-q01",
+   "lesson": "fc01",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Qu'est-ce que l'immunosénescence ?",
+   "options": [
+    "La détérioration du système immunitaire au cours du temps, en fonction de l'âge",
+    "Le développement du système immunitaire durant les premières années de vie",
+    "Une maladie auto-immune touchant uniquement le thymus",
+    "Une immunodéficience exclusivement congénitale",
+    "Le renforcement progressif de l'immunité avec l'âge"
+   ],
+   "correct": [0],
+   "hint": "Le terme associe « immuno » et « sénescence » (vieillissement).",
+   "explanation": "L'immunosénescence désigne les altérations du phénotype et de la fonction des cellules et organes du système immunitaire qui caractérisent la personne d'âge avancé. Elle concerne aussi bien l'immunité innée que l'immunité adaptative.",
+   "tags": ["définition"],
+   "source": "FC01 — Généralités"
+  },
+  {
+   "id": "fc01-q02",
+   "lesson": "fc01",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Vers quel âge considère-t-on que le système immunitaire commence à vieillir ?",
+   "options": ["Dès la naissance", "Vers 25-30 ans", "Vers 50 ans", "Vers 70 ans", "Il ne vieillit jamais"],
+   "correct": [1],
+   "hint": "La maturité du répertoire est atteinte vers 16-20 ans.",
+   "explanation": "Le SI atteint sa maturité entre 16 et 20 ans, commence à vieillir vers 25-30 ans, et a fortement décliné vers 65-70 ans (système immunosénescent).",
+   "tags": ["chronologie"],
+   "source": "FC01 — Généralités"
+  },
+  {
+   "id": "fc01-q03",
+   "lesson": "fc01",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Que désigne le terme « inflammaging » (ou inflammageing) ?",
+   "options": [
+    "Une inflammation chronique de faible grade liée à l'âge",
+    "Une inflammation aiguë intense survenant après 65 ans",
+    "L'absence totale d'inflammation chez le sujet âgé",
+    "Une inflammation localisée au seul thymus",
+    "Une réaction allergique liée au vieillissement"
+   ],
+   "correct": [0],
+   "hint": "Pense à une inflammation faible mais continue, avec ↑ CRP, TNF-α, IL-6.",
+   "explanation": "L'inflammaging est une inflammation chronique de faible grade liée à l'âge, avec augmentation des marqueurs inflammatoires (CRP, TNF-α, IL-6). C'est une inflammation faible mais continue.",
+   "tags": ["inflammaging"],
+   "source": "FC01 — Immunosénescence"
+  },
+  {
+   "id": "fc01-q04",
+   "lesson": "fc01",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Concernant le vieillissement de l'immunité innée, quelles propositions sont exactes ?",
+   "options": [
+    "Le nombre de PNN est stable tout au long de la vie mais leur efficacité diminue",
+    "Le nombre de monocytes et de macrophages reste stable",
+    "L'immunité innée vieillit surtout d'un point de vue fonctionnel",
+    "Les cellules dendritiques augmentent en nombre avec l'âge",
+    "La diminution de l'acidité gastrique majore les infections digestives"
+   ],
+   "correct": [0, 1, 2, 4],
+   "hint": "Les cellules de l'immunité innée gardent souvent leur nombre mais perdent leurs fonctions.",
+   "explanation": "Réponses ABCE (QCM du cours). Les cellules de l'immunité innée sont relativement constantes en nombre mais perdent leurs fonctions effectrices. Les cellules dendritiques sont stables ou diminuent (D faux).",
+   "tags": ["immunité innée"],
+   "source": "FC01 — QCM 1"
+  },
+  {
+   "id": "fc01-q05",
+   "lesson": "fc01",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Concernant les cellules souches hématopoïétiques (CSH) au cours du vieillissement :",
+   "options": [
+    "Leur différenciation est orientée vers la lignée myéloïde au détriment de la lignée lymphoïde",
+    "Leur nombre augmente fortement",
+    "Leur capacité d'auto-renouvellement augmente",
+    "Elles produisent davantage de progéniteurs lymphoïdes",
+    "Elles ne sont pas affectées par l'âge"
+   ],
+   "correct": [0],
+   "hint": "On parle d'un « biais myéloïde » des CSH.",
+   "explanation": "Avec l'âge, le nombre de CSH diminue (≈ 3 fois), leur auto-renouvellement baisse et leur différenciation est orientée vers la lignée myéloïde (biais myéloïde), avec un déséquilibre myéloïde/lymphoïde marqué.",
+   "tags": ["CSH", "hématopoïèse"],
+   "source": "FC01 — SI sénescent"
+  },
+  {
+   "id": "fc01-q06",
+   "lesson": "fc01",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Qu'est-ce que l'involution thymique ?",
+   "options": [
+    "Le remplacement progressif du thymus par du tissu fibreux et adipeux, réduisant la production de LT naïfs",
+    "Une hypertrophie du thymus chez le sujet âgé",
+    "L'augmentation de la production de lymphocytes T naïfs avec l'âge",
+    "La migration du thymus vers la moelle osseuse",
+    "Une inflammation aiguë du thymus"
+   ],
+   "correct": [0],
+   "hint": "Fibroadipogénèse : à 50 ans, 80 % du thymus est non fonctionnel.",
+   "explanation": "L'involution thymique correspond à l'altération de la capacité du thymus à produire des lymphocytes naïfs : il est progressivement remplacé par du tissu fibreux/adipeux (fibroadipogénèse, dès 1 an, accélérée à la puberté). À 50 ans, ~80 % du thymus est non fonctionnel.",
+   "tags": ["thymus"],
+   "source": "FC01 — Immunité adaptative"
+  },
+  {
+   "id": "fc01-q07",
+   "lesson": "fc01",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "L'immunosénescence est caractérisée par : (sujet d'annale)",
+   "options": [
+    "L'involution thymique",
+    "Un biais myéloïde des cellules souches hématopoïétiques (HSC)",
+    "Une diminution du nombre de lymphocytes naïfs",
+    "Une augmentation des réponses vaccinales",
+    "Un profil anti-inflammatoire"
+   ],
+   "correct": [0, 1, 2],
+   "hint": "Le profil est plutôt pro-inflammatoire et les vaccins sont moins efficaces.",
+   "explanation": "Réponses ABC. Le vieillissement immunitaire associe involution thymique, biais myéloïde des CSH et baisse des lymphocytes naïfs. Les réponses vaccinales DIMINUENT (D faux) et le profil est PRO-inflammatoire (E faux).",
+   "tags": ["annale", "synthèse"],
+   "source": "FC01 — ACC 2023-2024 Q1"
+  },
+  {
+   "id": "fc01-q08",
+   "lesson": "fc01",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Quelles sont des conséquences cliniques du vieillissement immunitaire ?",
+   "options": [
+    "Une augmentation du risque infectieux",
+    "Une diminution du nombre de cancers",
+    "Une diminution des risques cardiovasculaires",
+    "Une diminution des réponses vaccinales",
+    "Une diminution des maladies auto-immunes"
+   ],
+   "correct": [0, 3],
+   "hint": "Le vieillissement augmente la susceptibilité aux infections, cancers, MCV et MAI.",
+   "explanation": "Réponses AD. L'immunosénescence augmente la susceptibilité aux infections, aux cancers, aux maladies cardio-vasculaires et auto-immunes, et diminue l'efficacité vaccinale.",
+   "tags": ["annale", "clinique"],
+   "source": "FC01 — ACC 2023-2024 Q2"
+  },
+  {
+   "id": "fc01-q09",
+   "lesson": "fc01",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Le profil de risque immunologique du sujet âgé comporte notamment :",
+   "options": [
+    "Un ratio CD4/CD8 inversé (< 1), une séropositivité CMV et une inflammation chronique",
+    "Un ratio CD4/CD8 très augmenté et une séronégativité CMV",
+    "Une augmentation du nombre de lymphocytes T naïfs",
+    "Une absence d'expansions clonales",
+    "Une diminution des marqueurs inflammatoires"
+   ],
+   "correct": [0],
+   "hint": "Pense à l'accumulation de CD8 différenciés et au rôle du CMV.",
+   "explanation": "Le profil de risque immunologique associe : perte des LT naïfs, peu de LB, accumulation de CD8 très différenciées (CD8+CD28−), inversion du ratio CD4/CD8 (< 1), séropositivité CMV, le tout dans un contexte d'inflammation chronique.",
+   "tags": ["profil de risque", "CMV", "CD4/CD8"],
+   "source": "FC01 — Grandes idées"
+  },
+  {
+   "id": "fc01-q10",
+   "lesson": "fc01",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Les expansions oligoclonales de lymphocytes T CD8+ chez le sujet âgé sont surtout liées à :",
+   "options": [
+    "Des stimulations chroniques par des infections virales persistantes (CMV notamment)",
+    "Une vaccination répétée contre la grippe",
+    "Une carence en taurine",
+    "Une restriction calorique",
+    "Une augmentation des lymphocytes T naïfs"
+   ],
+   "correct": [0],
+   "hint": "Une infection persistante restimule toujours les mêmes clones.",
+   "explanation": "Les infections virales persistantes (CMV ++, mais aussi EBV, HSV1, HIV) restimulent de façon récurrente les mêmes clones de CD8, entraînant des expansions oligoclonales. Ces cellules sont très différenciées, peu fonctionnelles, résistantes à l'apoptose et occupent l'espace au détriment des cellules naïves.",
+   "tags": ["expansions oligoclonales", "CMV"],
+   "source": "FC01 — Vieillissement adaptatif"
+  },
+  {
+   "id": "fc01-q11",
+   "lesson": "fc01",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Concernant les causes du vieillissement du système immunitaire adaptatif :",
+   "options": [
+    "Il est multifactoriel",
+    "Les défauts du microenvironnement correspondent à des causes extrinsèques",
+    "La diminution des hormones de croissance GH et IGF-1 est une cause intrinsèque",
+    "Le défaut de différenciation des CSH en cellules souches est une cause intrinsèque",
+    "La diminution de la synthèse d'IL-7 par les cellules stromales est une cause extrinsèque"
+   ],
+   "correct": [0, 1, 3, 4],
+   "hint": "Intrinsèque = la cellule elle-même ; extrinsèque = son environnement (hormones, IL-7…).",
+   "explanation": "Réponses ABDE (QCM du cours). Le vieillissement adaptatif est multifactoriel. La baisse de GH/IGF-1 est une cause EXTRINSÈQUE (microenvironnement), donc C est faux.",
+   "tags": ["causes", "intrinsèque/extrinsèque"],
+   "source": "FC01 — QCM 3"
+  },
+  {
+   "id": "fc01-q12",
+   "lesson": "fc01",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Concernant le vieillissement des lymphocytes B :",
+   "options": [
+    "On observe une diminution des cellules B naïves et une augmentation des cellules mémoires",
+    "Il existe un switch vers la production d'IgM de plus faible affinité au détriment des IgG",
+    "La synthèse d'IL-7 par les cellules stromales de la moelle augmente",
+    "Les auto-anticorps (IgM ++) augmentent",
+    "La production d'immunoglobuline monoclonale peut apparaître (MGUS)"
+   ],
+   "correct": [0, 1, 3, 4],
+   "hint": "Avec l'âge, le « switch » d'AC se fait moins bien (plus d'IgM, moins d'IgG).",
+   "explanation": "Avec l'âge : ↓ des LB naïfs, ↑ des mémoires, ↓ de l'IL-7 stromale (élément clé, donc C faux), capacité de switch plus faible (plus d'IgM faible affinité, moins d'IgG), ↑ des auto-AC (IgM ++) favorisant les MAI, et émergence de clones B (Ig monoclonale, MGUS).",
+   "tags": ["lymphocytes B", "switch", "MGUS"],
+   "source": "FC01 — Lymphocyte B"
+  }
+ ]
+}

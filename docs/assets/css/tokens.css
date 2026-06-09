@@ -1,0 +1,79 @@
+/* Jetons de design : couleurs, typographie, espacements. Thème clair + sombre. */
+:root {
+  --c-primary: #0d9488;
+  --c-primary-dark: #0f766e;
+  --c-primary-soft: #ccfbf1;
+  --c-accent: #6366f1;
+  --c-accent-soft: #e0e7ff;
+
+  --c-success: #16a34a;
+  --c-success-soft: #dcfce7;
+  --c-error: #dc2626;
+  --c-error-soft: #fee2e2;
+  --c-warning: #d97706;
+  --c-warning-soft: #fef3c7;
+
+  --c-bg: #f6f8fb;
+  --c-surface: #ffffff;
+  --c-surface-2: #f1f5f9;
+  --c-border: #e2e8f0;
+  --c-text: #1f2933;
+  --c-text-soft: #52606d;
+  --c-text-faint: #8a97a6;
+
+  --radius: 14px;
+  --radius-sm: 9px;
+  --shadow: 0 1px 2px rgba(15, 23, 42, .06), 0 8px 24px rgba(15, 23, 42, .06);
+  --shadow-sm: 0 1px 2px rgba(15, 23, 42, .08);
+
+  --sidebar-w: 280px;
+  --maxw: 1180px;
+
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
+    "Apple Color Emoji", "Segoe UI Emoji", sans-serif;
+  --step--1: clamp(.82rem, .8rem + .1vw, .9rem);
+  --step-0: clamp(.95rem, .92rem + .2vw, 1.02rem);
+  --step-1: clamp(1.12rem, 1.05rem + .4vw, 1.3rem);
+  --step-2: clamp(1.35rem, 1.2rem + .8vw, 1.75rem);
+  --step-3: clamp(1.7rem, 1.4rem + 1.6vw, 2.5rem);
+}
+
+:root[data-theme="dark"] {
+  --c-primary: #2dd4bf;
+  --c-primary-dark: #5eead4;
+  --c-primary-soft: #134e4a;
+  --c-accent: #a5b4fc;
+  --c-accent-soft: #312e81;
+
+  --c-success: #4ade80;
+  --c-success-soft: #14532d;
+  --c-error: #f87171;
+  --c-error-soft: #7f1d1d;
+  --c-warning: #fbbf24;
+  --c-warning-soft: #78350f;
+
+  --c-bg: #0b1220;
+  --c-surface: #131c2e;
+  --c-surface-2: #1c2740;
+  --c-border: #29354d;
+  --c-text: #e6edf6;
+  --c-text-soft: #aab6c7;
+  --c-text-faint: #6f7e93;
+
+  --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 10px 30px rgba(0, 0, 0, .35);
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, .4);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --c-primary: #2dd4bf; --c-primary-dark: #5eead4; --c-primary-soft: #134e4a;
+    --c-accent: #a5b4fc; --c-accent-soft: #312e81;
+    --c-success: #4ade80; --c-success-soft: #14532d;
+    --c-error: #f87171; --c-error-soft: #7f1d1d;
+    --c-warning: #fbbf24; --c-warning-soft: #78350f;
+    --c-bg: #0b1220; --c-surface: #131c2e; --c-surface-2: #1c2740;
+    --c-border: #29354d; --c-text: #e6edf6; --c-text-soft: #aab6c7; --c-text-faint: #6f7e93;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .4), 0 10px 30px rgba(0, 0, 0, .35);
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, .4);
+  }
+}

@@ -1,0 +1,65 @@
+{
+ "slug": "fc03",
+ "title": "Fiche — Immunité de la grossesse & du nouveau-né",
+ "updated": "2026-06-09",
+ "summary": "La grossesse est une **greffe semi-allogénique** tolérée grâce à une **tolérance materno-fœtale active, temporaire et sélective**. À la naissance, le SI est **immature** : protection passive par les **IgG maternelles (FcRn)** puis les **IgA de l'allaitement**.",
+ "sections": [
+  {
+   "heading": "Les deux interfaces materno-fœtales",
+   "type": "table",
+   "columns": ["", "Interface 1", "Interface 2"],
+   "rows": [
+    ["Cellule", "Cytotrophoblaste extra-villeux", "Syncytiotrophoblaste"],
+    ["Période", "Précoce (1ᵉʳ trimestre), puis disparaît", "**Dominante jusqu'au terme**"],
+    ["Rôle", "Premiers échanges gazeux/trophiques", "Apports trophiques, contact majeur avec le SI maternel"]
+   ]
+  },
+  {
+   "heading": "Cellules de la déciduale",
+   "type": "bullets",
+   "items": [
+    "**NK déciduales > 70 %** (CD16⁻, CD56^bright, récepteurs inhibiteurs ↑, sous IL-15).",
+    "Macrophages (10-20 %), mastocytes, **LTreg +++**, LTγδ.",
+    "**Absence de LT CD8 et de LB.**",
+    "dNK → VEGF, PLGF, LIF, galectine-1 → vascularisation et implantation (rôle dans prééclampsie/avortements)."
+   ]
+  },
+  {
+   "heading": "Mécanismes de protection du fœtus",
+   "type": "bullets",
+   "items": [
+    "**↓ antigénicité du trophoblaste** : pas de HLA II, gradient de HLA I ; **HLA-G/E/C** tolérogènes (inhibent NK/DC/LT, favorisent LTreg).",
+    "Molécules **pro-apoptotiques** : FasL (CT extra-villeux), TRAIL (syncytiotrophoblaste) → apoptose des LT activés.",
+    "**Inhibition du complément** : CD46, CD55, CD59.",
+    "DC déciduales **immatures** + séquestrées ; macrophages **M2** ; **LTreg** (HCG, PD-1/CTLA-4, TGF-β/IL-10, galectine-1, **IDO**)."
+   ]
+  },
+  {
+   "heading": "Complications immunologiques",
+   "type": "table",
+   "columns": ["Situation", "Mécanisme / point clé"],
+   "rows": [
+    ["Prééclampsie", "HTA ≥140/90 + protéinurie ≥0,3 g/24h après 20 SA ; défaut d'invasion → hypoxie ; déficit LTreg"],
+    ["Iso-immunisation Rhésus", "Mère Rh⁻/père Rh⁺ ; anémie fœtale surtout 2ᵉ grossesse"],
+    ["Lupus néonatal", "IgG anti-SSA/SSB transplacentaires → **bloc auriculo-ventriculaire**"],
+    ["SAPL", "Anti-cardiolipine, anti-β2Gp1, anticoagulant circulant (contrôle à 12 sem.)"]
+   ]
+  },
+  {
+   "heading": "SI du nouveau-né : immature",
+   "type": "bullets",
+   "items": [
+    "Innée : PNN moins performants (chute cordon > 21 j = déficit CD18), ↓ TLR4/CD14, DC ↓ HLA-II/IL-12, **pDC : IFN α/β ↓** (→ VRS/CMV/HSV), NK ~50 %.",
+    "Humorale : pas d'Ac endogènes → **IgG maternelles via FcRn** (protection ~6 mois ; prématurés à risque).",
+    "**Allaitement** : **IgA sécrétoires** (dimère + chaîne J + pièce sécrétoire) → ↓ perméabilité intestinale, microbiote, lactoferrine/lysozyme.",
+    "Réponse aux Ag polysaccharidiques (T-indépendante, IgM faible affinité, sans mémoire) **après 2 ans** → intérêt des vaccins **conjugués**."
+   ]
+  },
+  {
+   "heading": "Profil Th2 & théorie hygiéniste",
+   "type": "callout",
+   "tone": "tip",
+   "html": "Les réponses fœtales/néonatales sont **Th2 « tolérogène »**. Les **LTreg** migrent vers le tube digestif (jusqu'à 18 mois) → tolérance alimentaire. **Théorie hygiéniste** : moins d'exposition microbienne → plus d'allergies/MAI ; un profil **Th1** protège de l'atopie. Protéger l'enfant = **vaccination (dès 2 mois) + cocooning + allaitement**."
+  }
+ ]
+}

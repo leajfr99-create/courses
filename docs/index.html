@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Immuno Révise — Accueil</title>
+  <meta name="description" content="Site personnel de révision d'immunopathologie : cours, fiches et QCM interactifs.">
+  <link rel="stylesheet" href="./assets/css/tokens.css">
+  <link rel="stylesheet" href="./assets/css/app.css">
+  <script>(function(){try{var p=JSON.parse(localStorage.getItem('immuno.v1.prefs')||'{}');if(p.theme==='dark')document.documentElement.setAttribute('data-theme','dark');else if(p.theme==='light')document.documentElement.setAttribute('data-theme','light');}catch(e){}})();</script>
+</head>
+<body>
+  <div class="scrim"></div>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar"></aside>
+    <div class="content">
+      <header class="topbar" id="topbar"></header>
+      <main class="container" id="main">
+        <section class="hero">
+          <p class="eyebrow" style="color:rgba(255,255,255,.85)">Immunopathologie · UE2</p>
+          <h1>Révise tes cours, teste-toi, progresse.</h1>
+          <p class="lead">Cours structurés, fiches de révision express et QCM interactifs avec scoring,
+            niveaux de difficulté et explications. Tout est local et privé.</p>
+          <div class="btn-row" style="margin-top:1.2rem">
+            <a class="btn btn-primary btn-lg" href="./quiz.html?set=cours&mode=mixte&auto=1">Lancer un QCM mixte</a>
+            <a class="btn btn-ghost btn-lg" href="./fiches.html">Voir les fiches</a>
+          </div>
+        </section>
+
+        <section class="card" id="overview" style="margin-bottom:1.6rem">
+          <div class="stat" id="stats"><div class="spinner"></div></div>
+          <div class="bar" style="margin-top:1rem"><span id="global-bar" style="width:0%"></span></div>
+        </section>
+
+        <h2 style="margin-top:.4rem">Les cours</h2>
+        <div class="grid cols" id="lesson-grid"><div class="spinner"></div></div>
+
+        <p class="footer">Fait pour apprendre — bon courage&nbsp;! 🧬</p>
+      </main>
+    </div>
+  </div>
+  <script type="module" src="./assets/js/home.js"></script>
+</body>
+</html>

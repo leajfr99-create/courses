@@ -1,0 +1,696 @@
+{
+ "slug": "fc02",
+ "code": "FC02",
+ "title": "Mécanismes physiopathologiques des maladies auto-immunes",
+ "prof": "Pr. Paul",
+ "sourceFile": "FC02-PAUL-MAI-15.01.docx (2).pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "ii-rappels-immunologiques-lorsqu-on-parle-de-mai-on-parle-ma",
+   "label": "II. Rappels immunologiques Lorsqu’on parle de MAI, on parle majoritairement de défauts de lymphocytes. La défense de l’organisme s’articule autour de deux types d’immunités : Innée/ naturelle ● 1",
+   "level": 2
+  },
+  {
+   "id": "2-la-maturation-des-lymphocytes-t-dans-le-thymus",
+   "label": "2. La maturation des lymphocytes T dans le thymus",
+   "level": 3
+  },
+  {
+   "id": "3-notion-de-repertoire-t",
+   "label": "3. Notion de répertoire T",
+   "level": 3
+  },
+  {
+   "id": "4-conclusion-concernant-la-tolerance-centrale",
+   "label": "4. Conclusion concernant la tolérance centrale",
+   "level": 3
+  },
+  {
+   "id": "2-ignorance",
+   "label": "2. Ignorance",
+   "level": 3
+  },
+  {
+   "id": "3-deletion-clonale",
+   "label": "3. Délétion clonale",
+   "level": 3
+  },
+  {
+   "id": "4-lt-regulateurs-lt-reg",
+   "label": "4. LT régulateurs (LT reg)",
+   "level": 3
+  },
+  {
+   "id": "v-tolerance-centrale-et-peripherique-des-lb-tolerance-centra",
+   "label": "V. Tolérance centrale et périphérique des LB ● Tolérance centrale : récepteur editing ou anergie : modification génétique du BCR grâce aux recombinaisons",
+   "level": 2
+  },
+  {
+   "id": "3-resume",
+   "label": "3. Résumé",
+   "level": 3
+  },
+  {
+   "id": "vi-facteurs-declenchants-l-auto-immunite-dans-ce-cas-pourquo",
+   "label": "VI. Facteurs déclenchants l’auto-immunité Dans ce cas pourquoi a-t-on des maladies auto immunes ? ● Facteurs environnementaux (médicaments, agents chimiques, xénobiotiques, lumière (UV)) & infections ou le stress. ● Facteurs génétiques : certains HLA, polymorphisme sur certaines cytokines, des déficits en IgA ou de certaines",
+   "level": 2
+  },
+  {
+   "id": "1-facteurs-genetiques",
+   "label": "1. Facteurs génétiques",
+   "level": 3
+  },
+  {
+   "id": "2-facteurs-hormonaux",
+   "label": "2. Facteurs hormonaux",
+   "level": 3
+  },
+  {
+   "id": "vii-physiopathologie-des-maladies-auto-immunes-la-rupture-de",
+   "label": "VII. Physiopathologie des maladies auto-immunes La rupture de la tolérance naturelle peut se faire de différentes manières :",
+   "level": 2
+  },
+  {
+   "id": "5-conclusion",
+   "label": "5. Conclusion",
+   "level": 3
+  },
+  {
+   "id": "viii-mecanismes-lesionnels-et-exemples-de-maladies-auto-immu",
+   "label": "VIII. Mécanismes lésionnels et exemples de maladies auto-immunes Il est rare que la maladie soit liée aux LB et aux LT, c’est le plus souvent l’un ou l’autre.",
+   "level": 2
+  },
+  {
+   "id": "1-role-des-lt",
+   "label": "1. Rôle des LT",
+   "level": 3
+  },
+  {
+   "id": "3-classement-des-maladies-auto-immunes",
+   "label": "3. Classement des maladies auto-immunes",
+   "level": 3
+  },
+  {
+   "id": "4-diagnostic-des-maladies-auto-immunes",
+   "label": "4. Diagnostic des maladies auto-immunes",
+   "level": 3
+  },
+  {
+   "id": "ix-traitements-des-maladies-auto-immunes-pendant-longtemps-i",
+   "label": "IX. Traitements des maladies auto-immunes Pendant longtemps, il y a eu peu de développement sur les traitements des maladies auto-immunes. Les principes des traitements de ces maladies sont : o Bloquer la réponse auto-immune (immunosuppresseurs, corticoïdes…) : valable pour des maladies spécifiques",
+   "level": 2
+  },
+  {
+   "id": "x-points-a-retenir-comment-sont-eduques-les-lymphocytes-t-et",
+   "label": "X. Points à retenir Comment sont éduqués les lymphocytes T et B ? phénomène de sélection et de biais sélection Qu’est-ce que la tolérance immunologique ? Comment se fait-elle au niveau central ? périphérique ? Pourquoi une MAI se déclenche ? Et comment ? Quels sont les facteurs associés aux MAI ? environnementaux, génétiques, hormonaux … Physiopathologie T et B médiée : auto-anticorps cellules auto réactives Diagnostic des MAI : majoritairement fait sur l’identification d’auto-anticorps Peut-on traiter les MAI et comment ? Par immunosuppression, traitements spécifiques, CART-T, … XI. Bilan (pas dit cette année mais on vous le laisse quand même) ● Le thymus et la moelle osseuse jouent un rôle majeur dans la tolérance centrale (notion d’organe lymphoïde primaire) ● La sélection négative des lymphocytes auto-réactifs implique le concept de délétion clonale ● La tolérance périphérique consiste en un contrôle actif des réactions auto-immunes en dehors du thymus (ganglions",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr PAUL UE2 – FC2 DUFAUT Eva 15/01/2024 REYNAUD Camille FC2 : Mécanismes physiopathologiques des maladies auto-immunes (MAI)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le diaporama du prof est disponible sur Moodle et comporte beaucoup de schémas, n’hésitez pas à aller le consulter. I. Introduction Les maladies auto-immunes (MAI) touchent toute la population mondiale désormais. Elles deviennent un fléau car elles ont un lien avec l’alimentation, l’environnement. L’auto-immunité est une épidémie moderne, elle apparaît lors du vieillissement de la population. L’incidence de ces maladies accroît avec le temps. Elles sont le plus fréquentes soit :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Chez le nouveau-né : maladie cœliaque, diabète, syndrome auto-immun, vascularites, vitiligo…. - Chez les personnes âgées : problèmes de thyroïde, peau, polyarthrite rhumatoïde…. Ces maladies touchent plus les femmes que les hommes à cause de facteurs hormonaux, génétiques. Il existe deux types de tolérances du soi : o Tolérance centrale/ initiale : moment où les lymphocytes T/ B sont produits (moelle osseuse, thymus)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Tolérance périphérique : une fois que les lymphocytes sont produits, ils sont mis dans des conditions permettant la maturation (BALT, glande mammaire, rate, ganglion, GALT…)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les MAI apparaissent lorsque la tolérance du soi diminue."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-rappels-immunologiques-lorsqu-on-parle-de-mai-on-parle-ma",
+   "text": "II. Rappels immunologiques Lorsqu’on parle de MAI, on parle majoritairement de défauts de lymphocytes. La défense de l’organisme s’articule autour de deux types d’immunités : Innée/ naturelle ● 1"
+  },
+  {
+   "type": "paragraph",
+   "text": "ère vague de défense après une infection : mise en place rapide ● Présente peu ou pas de système mémoire et fait intervenir des éléments divers tels que les barrières épithéliales, les macrophages, les cellules NK, le complément… ● NON concernée par la tolérance (étant non spécifique). ● Caractérisée par la reconnaissance du pathogène grâce à des récepteurs invariants, le spectre de reconnaissance est large et la réponse rapide, (ex : TLR ) Adaptative ● Plus lente (nécessite plusieurs jours à 1 semaine) et fait intervenir les Lymphocytes B et T. ● Fait intervenir des récepteurs spécifiques d’un épitope, extrêmement variés, et ceux-ci sont dits clonotypiques. ● Les récepteurs sur les cellules sont uniques qui vont varier en fonction de l’expression des phénomènes de sélection. Page 1/32"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pour les Lymphocytes T (LT), le récepteur est un hétérodimère appelé TCR (αβ ou γδ). C’est la recombinaison VDJ. A la fin on obtient environ 10 15 récepteurs à la surface des lymphocytes T. ● Pour les Lymphocytes B (LB) c’est un tétramère appelé BCR, composé de 2 chaînes lourdes (IgH) et de 2 chaînes légères (k ou λ). Ces recombinaisons génétiques vont permettre à la fin d’avoir un récepteur à la surface d’une cellule. Sur les LB, on obtient environ 5x10 13 récepteurs. ● On aboutit à un répertoire plus important pour les LT que pour les LB. La recombinaison des gènes codant ces récepteurs, permet d’avoir une diversité importante. On obtient un type de récepteur par cellule reconnaissant un seul type d’antigène. 1. Définitions Notion de soi ● Reconnaissance et tolérance de ce qui appartient en propre à l’organisme. Notion de non soi ● Reconnaissance et rejet de ce qui est étranger à l’organisme. Auto-immunité ● Anomalie de la discrimination du soi et non soi avec réaction immunitaire contre un ou plusieurs constituants du soi. Auto-antigène ● Molécule du soi reconnue comme un antigène par notre système immunitaire capable d’activer les lymphocytes. Certains auto-antigènes sont : ● Spécifiques d'organes, c'est-à-dire qu’on ne les trouve que sur des cellules présentes dans un seul organe. C’est le cas, par exemple, de la thyroperoxydase qui n’est exprimée que par les thyréocytes (Thyroïde). ● Ubiquitaires : exprimés par toutes les cellules (ADN ⇒ Lupus, mitochondries ⇒ cirrhose biliaire primitive où les nucléoprotéines). Si ceux-ci sont reconnus étrangers, la réponse sera systémique comme dans les connectivites. (Ex : l’ADN dans le lupus) Les épitopes reconnus par les lymphocytes auto-réactifs et les auto-anticorps sont généralement communs à plusieurs espèces et non spécifiques à une unique espèce. Ce sont le plus souvent des protéines hautement conservées d’une espèce à l’autre : par exemple les désoxy-ribonucléoprotéines, les ribonucléoprotéines, les histones ou la thyroglobuline. Il en résulte l’activation de lymphocytes auto réactifs (retrouvés dans tous les individus bien portant mais à faible quantité et très bien contrôlés par notre organisme). Facteurs associés aux MAI Au cours d’une MAI, le système immunitaire devient défaillant. Ce qui induit l’activation d’un lymphocyte tolérant en agressif/ auto-réactif capable de produire des auto-anticorps contre notre organisme. Ce mécanisme est majoritairement lié à des : Défauts de tolérance périphérique (apoptose/ anergie). Problèmes de régulation (activation des lymphocytes, réseau idiotype, cascade de cytokines). Défaut de reconnaissance (HLA, Ag) Les MAI peuvent-être activés par certaines réactions comme les infections, un stress important. Elles apparaissent quand les lymphocytes en périphérie perdent cette anergie/ tolérance et s'associent à une réaction immunitaire incontrôlée/ exacerbée. Ce qui engendre la destruction des tissus. Cette destruction peut toucher n’importe quel type de tissu ou cellule de l’organisme. Page 2/32"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Lymphocytes T auto-réactif Il y a chez tout individu bien portant, des clones de lymphocytes T auto-réactifs, c'est-à-dire capables de reconnaître des épitopes autologues/du soi. Ce sont des lymphocytes qui ont échappé à la sélection négative dans le thymus mais ils sont normalement tolérants aux auto-antigènes car ils ont été anérgisés en périphérie. C’est à dire qu’ils sont incapables de répondre à une stimulation. Plus on vieillit, plus on a des anticorps contre notre ADN, c’est pour cela que les maladies auto-immunes sont plus exacerbées avec l’âge. Exemple : un stress infectieux peut provoquer une réactivation des lymphocytes porteurs de TCR anti-globules rouges, anti-thyroglobuline, ou anti-ADN. Les MAI apparaissent quand les lymphocytes T en périphérie perdent leur anérgie, avec une rupture de la tolérance, ce qui aboutit à une réaction immunitaire non contrôlée et engendre la destruction des tissus. Auto-anticorps naturel La présence, dans le sérum des individus sains (on est tous porteurs et leur quantité augmente avec l’âge), d’auto-anticorps « naturels » reconnaissant impunément/physiologiquement des auto-antigènes, implique l’existence de LB ayant des BCR de même spécificité. Ils sont aussi liés à un problème de sélection des LB dans la moelle osseuse. En particulier la sélection des cellules B1, ils produisent une faible quantité d’auto-anticorps auto-réactifs et sont donc non pathogène... Ces auto-anticorps ont une faible affinité (sont plutôt du type IgM et on donc peu de fonction d’ADCC) et, par conséquent, peuvent reconnaître une certaine gamme d’auto-antigènes ayant une réactivité croisée sans être strictement identiques (Elles ont une fonction faible et heureusement sinon on aurait tous des maladies auto-immune). C’est ce que l’on appelle la polyréactivité des auto-anticorps naturels. Les auto-anticorps naturels sont codés par des gènes en configuration germinale, non mutés. Ils sont produits par une sous-population de lymphocytes B1 porteurs du marqueur CD5 (B1a) (On les retrouve surtout dans les muqueuses). Ces lymphocytes ne sont pas maturés par un Ag et produisent naturellement des auto-anticorps très poly-réactifs. Auto-anticorps pathogènes Une autre sous-population, les lymphocytes B2 (conventionnels) surtout localisés dans les organes lymphoïdes secondaires, contient des lymphocytes auto-réactifs. Ils sont liés a un réarrangement du BCR des LB. S’ils sont stimulés spécifiquement dans des conditions (infections) qui leur font perdre leur anergie, la recombinaison des gènes d’immunoglobulines puis des mutations somatiques sont déclenchées, et l’on assiste à la commutation des isotypes et à l’apparition d’auto-anticorps de plus forte affinité (plutôt des IgG) potentiellement pathogènes qui peuvent activer le complément. La responsabilité d’un auto-anticorps dans la physiopathologie d’une maladie auto-immune peut être établie par le transfert passif du sérum d’un animal malade à un animal sain qui développe ainsi la pathologie (pemphigus vulgaire (bulles cutanées) syndrome de Goodpasture). Il est rare qu’un auto-anticorps permette à lui seul de poser avec certitude un diagnostic car peu spécifique d’une pathologie. Il faut rechercher plusieurs Ac. Les auto-anticorps du rein peuvent activer le système du complément et entraîner le syndrome de Goodpasture. Page 3/32"
+  },
+  {
+   "type": "paragraph",
+   "text": "Cellules présentatrices d’antigènes (cellules dendritiques) et auto-immunité Elles jouent un rôle important dans l’auto-immunité en activant les lymphocytes et peuvent être : Soit, tolérogènes : elles bloquent la réponse immunitaire, elles induisent l’anergie de lymphocytes auto-réactifs. Par exemple, les cellules dendritiques immatures induisant une délétion de lymphocytes T auto-réactifs ou une expansion de lymphocytes T régulateurs. Soit, Immunogènes et stimulantes des lymphocytes T ou B auto-réactifs après activation par des phénomènes inflammatoires. Exemple : la sécrétion d’interféron type alpha par les cellules dendritiques plasmacytoïdes orchestre la rupture de tolérance aux antigènes nucléaires au cours du lupus érythémateux systémique (LES). On ne se sait pas pourquoi, à ce jour, les cellules dendritiques sont autant stimulées (sûrement par des infections...). Les INF-γ lèvent l’anergie. Les INF-α sont également appelés immunoglobulinopathie, c’est-à-dire qu’elle confirme quasiment une maladie auto-immune. On essaye dans la thérapeutique de bloquer l'interféron alpha chez les gens malades. III. Tolérance centrale et sélection thymique des LT 1. Sélection thymique et tolérance centrale L’Immunité adaptative permet de faire face à la diversité des microbes et à leurs mutations par la génération aléatoire et continue de nouveaux récepteurs (réarrangement/recombinaison VDJ permettant la génération d’un répertoire lymphocytaire)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce système de reconnaissance ne discrimine pas les protéines selon leur contexte (soi du non soi). Les recombinaisons génétiques sont aléatoires et donnent des clones divers de lymphocytes mais pas encore de sélection. La sélection a +/- pour but d’éliminer le plus possible les lymphocytes auto-réactifs. Cela nécessite de discriminer les signaux opportuns (agents pathogènes) et les signaux inopportuns (molécules du soi, fœtus, protéines alimentaires…). La tolérance centrale permet de discriminer ces différents types de signaux. Elle a lieu dans le thymus pour les LT et dans la moelle pour les LB. La tolérance centrale permet d’éliminer dès leur élaboration des LT dont le récepteur peut percevoir des signaux inopportuns. Ce phénomène est appelé la sélection thymique (double sélection). Ces phénomènes sont importants et permettent à partir d’une hyper production d’un répertoire gigantesque, la migration d’un petit nombre de lymphocytes dans les organes périphériques : rate, ganglion, MALT. Ce mécanisme central, permet aux organes lymphoïdes secondaires de ne pas avoir trop de lymphocytes capables de s’activer lors d’une infection ou d’un stress. La sélection thymique participe également à la fabrication d’un répertoire important de lymphocytes T (diversité). Page 4/32"
+  },
+  {
+   "type": "paragraph",
+   "text": "Figure 2: la maturation des lymphocytes L’organisme a la capacité de générer un certain nombre de LT pour répondre au mieux aux différents antigènes extérieurs. Le rôle du LT est de reconnaître tous les microbes. Pour faire face à cette diversité, il va y avoir réarrangement génétique dans le thymus du TCR pour créer des segments uniques."
+  },
+  {
+   "type": "paragraph",
+   "text": "En revanche, ce système ne permet pas au départ de reconnaître le soi du non soi, donc pour éliminer les LT potentiellement dangereux, il existe la sélection clonale. Rappels : Tous les lymphocytes proviennent de cellules souches (CD34) qui proviennent de la moelle osseuse et qui ensuite vont migrer soit dans le thymus, soit dans la moelle. Et la sélection va permettre la production de LT/LB mature. Qui vont ensuite migrer dans le sang/lymphes ou dans les organes périphériques."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-la-maturation-des-lymphocytes-t-dans-le-thymus",
+   "text": "2. La maturation des lymphocytes T dans le thymus"
+  },
+  {
+   "type": "paragraph",
+   "text": "On distingue 3 stades : Thymocyte (dans le thymus) LT mature naïf : il n’a pas encore rencontré l’antigène et l’attend dans les organes lymphoïdes secondaires pour être stimulé. LT mature expérimenté (mémoire) : modifications phénotypiques irréversibles. Les LT vont donc subir un processus de maturation dans le thymus. Les cellules souches dont ils sont issus proviennent de la moelle osseuse. Cette maturation va se dérouler en 3 étapes : ● Prolifération : Dans un premier temps, les cellules immatures vont proliférer par la sécrétion d’IL-7 par les cellules stromales. On les appelle les cellules double négatives."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Recombinaison VDJ : Ensuite, on a une expression des gènes codant pour les récepteurs TCR (TCR alpha/ béta). Ces récepteurs sont issus de plusieurs segments de gènes séparés les uns des autres et qui sont recombinés au cours de la maturation des lymphocytes."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Sélection + et - : Enfin, une sélection des LT exprimant des récepteurs fonctionnels est opérée : o Les pré-lymphocytes n’exprimant pas de récepteurs sont induits à l’apoptose o Les LT immatures sont sélectionnés pour reconnaître les molécules du CMH du soi, on parle de sélection positive (à lieu en 1 er ).",
+    "Les LT ayant une trop forte affinité pour les antigènes du soi sont éliminés, c’est l’étape de sélection négative (à lieu en 2ème). Près de 98% des thymocytes sont induits à l’apoptose dans le thymus."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Figure 3 : récapitulatif de la maturation des LT Au cours de leur maturation, les thymocytes migrent du cortex (sélection +) vers la zone médullaire (sélection -). Les thymocytes subissent plusieurs sélections pour passer du stade thymocytes immatures au stade thymocytes matures. A la fin, on sélectionne les LT ayant une faible affinité pour le CMH. La maturation des LB est similaire à celle des LT, on parle de BCR au lieu du TCR. Au-delà de 20 ans, le thymus fonctionne moins bien."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-notion-de-repertoire-t",
+   "text": "3. Notion de répertoire T"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les LT possèdent un répertoire extrêmement vaste. La très grande variabilité des TCR est expliquée par la diversité combinatoire (différentes parties du génome) et par la diversité jonctionnelle et d’association (liée aux différents assemblages de segments de gènes possibles)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Le répertoire est unique, faiblement réactif avec le CMH. Les LT de marqueur CD3+ représentent 60 à 65 % des Lymphocytes du sang (les autres étant les LB) avec une proportion de :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "40-45% de CD4 - 20-25% de CD8. Chez les personnes âgées, ce ratio aura tendance à s'inverser, et on aura plus de CD8 que de CD4. Page 6/32"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "CD8 ⇒ marqueur de vieillissement. Le répertoire T est l’ensemble des lymphocytes T ayant des récepteurs TCR différents. On aura une délétion des cellules auto-réactives dirigées contre le soi. Restriction de la reconnaissance des LT au HLA reconnaissant des épitopes linéaires. Quand on greffe un tissu qui a un HLA particulier, on aura une réponse immunitaire. On va avoir après quelques années une diminution de ce répertoire."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-conclusion-concernant-la-tolerance-centrale",
+   "text": "4. Conclusion concernant la tolérance centrale"
+  },
+  {
+   "type": "paragraph",
+   "text": "Il y a deux phases dans la vie d’un lymphocyte : ● La maturation indépendante de l’antigène se déroulant dans les organes lymphoïdes primaires. ● Une phase de veille et d’activation dépendante de l’antigène se déroulant en périphérie. Au cours de la maturation, les récepteurs TCR sont formés par réarrangement génétique VDJ. L’ordre de ce réarrangement assure l’exclusion allélique (1 cellule = 1 récepteur). Une fois les récepteurs formés, les cellules sont sélectionnées (sélection positive et négative). Celles qui échouent meurent par apoptose. Celles qui sont sélectionnées deviennent des lymphocytes T naïfs et sont exportées en périphérie. La sélection négative élimine les LT spécifiques d’un CMH/peptide du soi. La sélection positive sélectionne les LT dont le TCR interagit suffisamment avec le CMH du soi. Les LT immatures coexpriment CD4 et CD8 mais la sélection positive détermine le choix entre ces deux corécepteurs. La sélection thymique permet de générer un répertoire de lymphocytes T d’une importante diversité. Tous les lymphocytes T auto-réactifs ne sont pas éliminés par la sélection thymique afin de permettre notamment une réactivité croisée contre certains peptides pathogènes (tolérance périphérique, réactivité croisée, mimétisme moléculaire, infections et rupture de tolérance)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Comment un lymphocyte T potentiellement auto-réactif peut-il ne pas déclencher de réponse ? ⇒ Tolérance périphérique (lymphocyte régulateur, anergie, ignorance, délétion clonale). IV. Tolérance périphérique des lymphocytes T Mécanismes qui permettent d’éviter de déclencher des réponses auto-immunes de la part de LT potentiellement autoréactifs en périphérie. 1. Anergie"
+  },
+  {
+   "type": "paragraph",
+   "text": "La seule reconnaissance du CMH présentant l’antigène par le TCR ne suffit pas, il faut une costimulation qui correspond au Signal 2 (par exemple via des molécules de costimulation comme B7/CD28). S’il n’y en a pas, la cellule est induite à l’anergie. Un signal qui est lié à la reconnaissance du TCR et du CMH et un signal qui est lié à un ensemble de signaux de costimulations."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Lorsqu’on a les deux signaux, le lymphocyte est activé comme dans un contexte inflammatoire. ● Lorsqu’il y a qu’un seul signal, la cellule est liée à un phénomène d’anergie. La cellule est là, elle ne meurt pas, elle n’est pas capable de proliférer mais elle reste en périphérie prête à proliférer. C’est ce qu’il se passe dans une majorité de cas dans les organes lymphoïdes secondaires. L’infection va activer cette costimulation, et l’anergie va être levée de ces lymphocytes. Page 7/32"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-ignorance",
+   "text": "2. Ignorance"
+  },
+  {
+   "type": "paragraph",
+   "text": "Certains auto-antigènes ne sont présents que dans certains endroits (ex : antigènes thyroïdiens) ou ne seront pas présents. Les lymphocytes spécifiques de ceux-ci ne seront donc jamais en contact avec leur antigène et il n’y aura pas de réaction. Si le tissu se détruit, il libère des auto-antigènes et le contact devient possible avec activation de ces lymphocytes auto-réactifs, comme dans une infection par exemple. Par exemple : Un lymphocyte auto-réactif à un antigène testiculaire qui se retrouve uniquement au niveau des testicules, le lymphocyte a très peu de chance de tomber sur son auto-antigène sauf dans le cas d’un cancer testiculaire ce qui va amener la libération d’auto-antigène dans le sang."
+  },
+  {
+   "type": "paragraph",
+   "text": "Mais en général, on parle de séquestration tissulaire de certains antigènes. Donc il y a très peu de chance que ces lymphocytes auto-réactifs se retrouvent en présence de son auto-antigène."
+  },
+  {
+   "type": "paragraph",
+   "text": "Figure 5 : L'ignorance"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-deletion-clonale",
+   "text": "3. Délétion clonale"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans le cycle de vie d’un lymphocyte il y a une activation, et après une grande partie de ces lymphocytes (sauf les lymphocytes mémoires) meurent par apoptose. Lorsqu’on a une activation trop forte des précurseurs. Par exemple, lors d’un sepsis, les bactéries prolifèrent en grande quantité et il y a une grande libération d’auto-antigènes ce qui va engendrer l’apoptose de lymphocytes auto-réactifs en grande quantité a cause de FAS et FAS-Ligand."
+  },
+  {
+   "type": "paragraph",
+   "text": "L’injection de doses massives d’antigène de manière répétée va induire une tolérance par la destruction des lymphocytes auto-réactifs car sur-stimulés. Ce procédé est notamment utilisé dans le traitement des allergies (désensibilisation aux allergènes). Cette présence importante d’antigène active les précurseurs qui meurent en 2 ou 3 jours."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-lt-regulateurs-lt-reg",
+   "text": "4. LT régulateurs (LT reg)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ils produisent des cytokines immunosuppresseurs qui inhibent la prolifération des cellules auto-réactives. On trouve plusieurs populations de LT reg : naturelles (TH1/TH2) ou induites. (Différentes populations avec différents marqueurs). Ces LTreg vont stopper de manière directe l’activation des cellules auto-réactives par la production de protéines qui vont lyser les cellules auto-réactives ou indirectes en ciblant les CPA/ cellules dendritiques et ainsi induire une anergie. Elles produisent également des cytokines anti-inflammatoires (IL-10 et TGF ). Donc on a moins de présentations, moins d’inflammation pour tenter de réduire les réponses auto-immunes. On retrouve beaucoup de LTreg dans les organes lymphoïdes secondaires et leur but est d’éteindre l’activation de ces lymphocytes auto-réactifs."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-tolerance-centrale-et-peripherique-des-lb-tolerance-centra",
+   "text": "V. Tolérance centrale et périphérique des LB ● Tolérance centrale : récepteur editing ou anergie : modification génétique du BCR grâce aux recombinaisons"
+  },
+  {
+   "type": "paragraph",
+   "text": "génétiques. C’est un moyen de sélectionner dans la moelle osseuse les BCR de conformation correcte, donc les LB fonctionnels (seuls les LB au récepteur mature sont envoyés en périphérie)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Tolérance périphérique : anergie, délétion clonale, ignorance pour les LB. 1. Tolérance centrale Le fonctionnement est à peu près similaire aux LT. La tolérance centrale est acquise grâce au « Recepteur Editing ». Leur récepteur va se réarranger dans la moelle osseuse pour avoir des récepteurs fonctionnels grâce aux fragments de gènes du BCR selon un procédé similaire au TCR à partir de cellule souche hématopoïétique. (Recombinaison de VDJ aléatoire)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les BCR reconnaissant des antigènes du soi avec trop d’affinité sont induits à l’apoptose dans la moelle. Ceux sélectionnés possèdent une faible affinité au CMH. Malgré les étapes de sélection des Lymphocytes B auto-réactifs vont être sélectionnés."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les LB sélectionnés vont migrer en périphérie. Page 9/32"
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Tolérance périphérique Comme pour les lymphocytes T, elle vise à éviter des réactions immunitaires contre les cellules du soi. Anergie ● Reconnaissance par le BCR et un signal 2, via une molécule de costimulation ici CD40. S’il n’y a pas de costimulation, la cellule devient anergique. Délétion ● La présence d’un antigène en forte quantité va tuer la cellule LB par apoptose. ● Le type d’antigène peut induire une anergie, par exemple des antigènes solubles alors que les antigènes membranaires n’induisent pas d’anergie (pas de signal 1). Ignorance / LB régulateurs ● Fonctionnent comme les LTreg. Ils produisent des cytokines immunosuppressives (IL-10) (via une interaction avec LTCD4) et bloquent donc la réponse T et B auto-réactive. Ils interagissent avec les LT CD4 et bloquent la différenciation de ces derniers. ● A retenir : les LB régulateurs activent les LT régulateurs Délétion clonale et Cytokine / Page 10/32"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-resume",
+   "text": "3. Résumé"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vi-facteurs-declenchants-l-auto-immunite-dans-ce-cas-pourquo",
+   "text": "VI. Facteurs déclenchants l’auto-immunité Dans ce cas pourquoi a-t-on des maladies auto immunes ? ● Facteurs environnementaux (médicaments, agents chimiques, xénobiotiques, lumière (UV)) & infections ou le stress. ● Facteurs génétiques : certains HLA, polymorphisme sur certaines cytokines, des déficits en IgA ou de certaines"
+  },
+  {
+   "type": "paragraph",
+   "text": "molécules du complément, des antécédents familiaux."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Facteurs hormonaux : les femmes plus touchées que les hommes, les contraceptifs, la grossesse."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Ce sont des maladies multifactorielles amenant à une dérégulation du système immunitaire, liées à des gènes de prédisposition ou de sévérité (hétérogénéité)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les MAI se déroule par étapes (mécanisme long) :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le stade de pré-maladie correspond à la production ou l'activation progressive des cellules auto-réactives (auto-anticorps) en faible quantité (lève l’anergie progressivement), qui n’est donc pas associé à des symptômes La maladie est déclenchée (ou non) par un stress important à un moment donné, comme une infection par exemple. Ce stade de pré-maladie est rencontré dans de nombreuses pathologies familiales : lupus, polyarthrite rhumatoïde."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-facteurs-genetiques",
+   "text": "1. Facteurs génétiques"
+  },
+  {
+   "type": "paragraph",
+   "text": "On observe la présence de cas familiaux de maladies auto-immunes comme le lupus systémique ou la polyarthrite rhumatoïde."
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Les molécules de CMH Le CMH est le marqueur le plus important dans les mécanismes génétiques de MAI. Les molécules du CMH interviennent indirectement dans la pathogénie des maladies auto-immunes : ● En influençant la sélection positive et négative de certains clones auto-réactif générant plus ou moins de lymphocytes auto-réactif"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Par leur capacité plus ou moins grande de présenter certains peptides auto-antigéniques pathogènes : des CMH défectueux présentent mieux des auto-antigènes que d’habitude. On sait que certaines HLA sont spécifiques de maladies auto-immunes, que certains allèles du HLA prédisposent à certaines maladies auto-immunes et qu’il est possible de les rechercher dans certaines suspicions de maladies auto-immunes... (Exemple de l’allèle B27 : 88% fois plus de risque de développer une spondylarthrite ankylosante, de même pour le diabète : risque relatif 25% fois plus important avec un HLA DRA3/DR). La sélection étant moins efficace, elle laisse passer plus de lymphocytes auto-réactifs."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les maladies auto-immunes touchent plus les femmes (rôle de certaines hormones) +++ b. Gènes impliqués dans l’apoptose : ● Fas et FasL sur lesquels une mutation génétique restreindrait l’efficacité d’élimination des lymphocytes auto-réactifs entraînant de multiples syndromes auto-immun mortels"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Gène AIRE (Auto-Immune Regulatory Element, Polymorphisme HAI) est exprimé par les cellules épithéliales thymiques et est impliqué dans la tolérance, en régulant les recombinaisons génétiques des lymphocytes grâce à sa participation à leur sélection dans le thymus. Si l’AIRE ne fonctionne pas bien ou est muté, le système immunitaire ne parvient plus à reconnaître correctement les cellules du soi. Ainsi, des lymphocytes T qui devraient être éliminés peuvent attaquer les tissus du corps, ce qui provoque des maladies auto-immunes. C’est le cas du syndrome polyglandulaire auto-immun de type 1 (APS-1), qui est une pathologie à pronostic sombre."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Déficit en certaines fractions du complément (ex : le c2 qui augmente le risque de lupus chez l’enfant, 50%) ● Polymorphisme de gènes codant des récepteurs au fragment Fc des Ig (FcgRIIB) ● Polymorphisme de gènes codant des cytokines (TNF-a, IL-6) entraînant une importante inflammation dans la polyarthrite rhumatoïde"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-facteurs-hormonaux",
+   "text": "2. Facteurs hormonaux"
+  },
+  {
+   "type": "paragraph",
+   "text": "La forte prédominance féminine des maladies auto-immunes, en particulier des maladies non spécifiques d’organes (touche plusieurs organes) telles que les connectivites, a été observée depuis longtemps en clinique (également dans les modèles animaux)."
+  },
+  {
+   "type": "paragraph",
+   "text": "La même observation peut être faite dans les modèles murins de lupus chez les souris (NZBxNZW) F1 et les souris MRL/lpr où les femelles sont plus fréquemment, plus précocement et plus gravement atteintes que les mâles, particulièrement à l’âge de la reproduction."
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Agents infectieux L’infection par un agent infectieux peut être largement à distance de l’injonction d’une maladie auto-immune, parfois 15, à 20 ans après, déclenchant un mécanisme de pré-maladie."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diabètes de type I : entérovirus (Coxsackie B4) ● Thyroïdite de Hashimoto : Réovirus ● Lupus : Mycoplasme Cela fonctionne par mimétisme moléculaire ou l’Ag pathogène est très proche de l’Ag du soi. 4. Agents physico chimiques",
+    "Rayonnement UV pour le lupus, en remodelant l’ADN ● Médicaments (D-pénicillamine) enduisant des lupus souvent peu sévères et réversibles ● Médicaments (quinine) induisant des thrombopénies ou anémies auto-immunes ● Cytokines (IFN-a) à l’origine de thyroïdite de Hashimoto"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces facteurs participent à l’activation des lymphocytes auto-réactifs physiologiques et utiles pour reconnaître certains germes, peuvent être dérégulés entraînant des maladies auto-immunes. L’auto-Immunité se déclenche donc chez des personnes prédisposées et à travers des conditions environnementales particulières."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-physiopathologie-des-maladies-auto-immunes-la-rupture-de",
+   "text": "VII. Physiopathologie des maladies auto-immunes La rupture de la tolérance naturelle peut se faire de différentes manières :"
+  },
+  {
+   "type": "paragraph",
+   "text": "1. Par activation des cellules auto-réactives anergiques après une stimulation polyclonale (expansion polyclonale des LB ou des LT non spécifique)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Lors d’infections ou d’inflammations par exemple, les lymphocytes auto-réactifs vont subir une stimulation polyclonale, par la présence de mitogènes comme le LPS lors d’infections bactériennes. Dans ce cas-là, les nombreux composés stimulant la réponse immunitaire impliquent une réactivation de tous les lymphocytes entraînant une rupture de la tolérance."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les super antigènes vont également faciliter l’hyperactivation des lymphocytes B et T auto-réactifs au cours d’une infection en remplaçant le deuxième signal nécessaire à l’activation d’un LT."
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Par activation des cellules auto-réactives anergiques par mimétisme moléculaire ou cross-réactivité Certains antigènes d’un agent infectieux viral ou bactérien peuvent partager des épitopes communs avec des antigènes du soi. Le soi est donc perçu comme étranger par notre système immunitaire à cause de son incapacité à distinguer les antigènes du soi de ceux qui y ressemblent. Ainsi, certaines infections virales, ou vaccins, sont parfois associées au déclenchement ou à l’exacerbation de maladies auto-immunes avec notamment une levée d’anergie des cellules auto-réactives contre la bactérie mais aussi les auto-antigènes. Cela touche plusieurs tissus car les auto-antigènes sont sortis de leur contexte général de tolérance et sont activés."
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemple : Coxsackie B4 exprime un antigène qui est très similaire à une protéine du pancréas, la protéine GAD qui est une carboxylase, une enzyme du pancréas. Quand on est infecté par le Coxsackie B4 et bien sûr on est prédisposé. On va stimuler une réponse antivirale pour éliminer le coxsackie et activé avec le signal 1 et le signal 2 des lymphocytes dirigés contre le Coxsackie B4. Malheureusement ils reconnaissent également l'antigène Gad qui est l'antigène majeur dans le diabète auto-immun et donc les lymphocytes qui sont ainsi générés contre le coxsackie B4 vont détruire le pancréas parce qu’il exprime GAD"
+  },
+  {
+   "type": "paragraph",
+   "text": "Ex : Antigène Ro/SS-A (Syndrome de Sjogren), antigène du soi, associé à une infection par le Coxsackie, réactivité croisée avec les protéines du faisceau des histones → levé d’anergie entraîne destruction des histones de beaucoup de cellules."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ex : Dans le lupus, les UV (ou autres conditions chimiques ou physiques particulières) entraînent la modification du tissu modifiant ainsi certains antigènes du soi (formation de néo antigènes) → activation du système immunitaire contre toutes les cellules qui contiennent de l’ADN, pas seulement celles qui sont atteintes par manque de discrimination entre le soi et le non soi."
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Par activation des cellules auto-réactives ignorantes par démasquage d’Ag dits cryptiques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Normalement, seuls quelques fragments peptidiques issus de l’apprêtement d’un antigène sont présentés par les molécules de CMH. Les cellules lymphoïdes ne sont tolérantes qu’à ces épitopes présentés par les molécules de CMH. D’autres épitopes, appelés épitopes cryptiques/cachés, sont ignorés du système immunitaire, non en raison de leur localisation histologique ou anatomique, mais à cause de leur localisation au sein de la molécule antigénique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces épitopes présents au sein des auto-antigènes, mais vis-à-vis desquels les cellules lymphoïdes n’ont pas acquis de tolérance, peuvent susciter une réaction auto-immune si, à l’occasion d’une réaction inflammatoire, ils se trouvent présentés par les molécules du CMH. En effet, au cours d’un stress physiologique (infection, stress oxydatif, brûlure, UV), le tissu est modifié par son environnement, c’est-à-dire que la structure des antigènes est modifiée, qu’ils deviennent des antigènes dits cryptiques reconnaissables par les lymphocytes auto-réactifs et destructibles."
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemple de la myopathie à anti-HMG coréductase : les statines modifient l’enzyme HMG coréductase et libèrent un site cryptique reconnaissable par les lymphocytes → dégradation des cellules cardiaques et musculaires."
+  },
+  {
+   "type": "paragraph",
+   "text": "4. Par activation des CPA Des maladies auto-immunes peuvent être induites expérimentalement en immunisant un animal par l’auto-antigène émulsionné en adjuvant complet de Freund. L’adjuvant favorise la présentation de l’auto-antigène en augmentant sa phagocytose par les CPAs. La présence, au sein de l’adjuvant, de mycobactéries tuées stimule les TLRs favorisant l’activation et la maturation des CPAs."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les CPAs produisent alors des cytokines pro-inflammatoires et des niveaux élevés de molécules de costimulation ce qui entraîne la levée de l’anergie des lymphocytes T spécifiques de l’auto-antigène et l’apparition des stigmates cliniques d’auto-immunité."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ainsi, en produisant des Interférons de type 1 (IFN ), les CPA réactivent des LT auto-réactifs et sont retrouvées dans des mécanismes communs à de nombreuses maladies auto-immunes (psoriasis, diabète…). Les cellules dendritiques plasmacytoïdes, très prévalentes, produisent de l’IFN type 1 en grande quantité, et sont identifiées dans plusieurs maladies auto-immunes, tel que le lupus, le diabète, le SGS. Elles permettent de lever la tolérance des lymphocytes par surexpression du TR7, récepteur qui permet le signal secondaire d’activation des lymphocytes auto-réactifs."
+  },
+  {
+   "type": "paragraph",
+   "text": "En pathologie humaine, l’interféron-alpha (IFN-a), utilisé notamment dans le traitement de l’hépatite C, peut favoriser l’activation des cellules dendritiques et in fine des lymphocytes T auto-réactifs induisant l’émergence de maladies auto-immunes, en particulier de thyroïdite (2 à 10% des patients traités avec de l’IFN-a)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Lors de production de beaucoup d’interferon , cela lève l’anergie des sites auto-réactif induisant leur prolifération par des mécanismes de stimulation de la prolifération cellulaire. Les interféronopathies (lupus, polyarthrite juvénile, psoriasis, Page 17/32"
+  },
+  {
+   "type": "paragraph",
+   "text": "diabète, syndrome de GOUGEROT-SJÖGREN) sont soumises à des prédispositions avec activation de nombreuses cellules de l’immunité innée et surtout auto-réactives."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-conclusion",
+   "text": "5. Conclusion"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "viii-mecanismes-lesionnels-et-exemples-de-maladies-auto-immu",
+   "text": "VIII. Mécanismes lésionnels et exemples de maladies auto-immunes Il est rare que la maladie soit liée aux LB et aux LT, c’est le plus souvent l’un ou l’autre."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-role-des-lt",
+   "text": "1. Rôle des LT"
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôle des LT CD4 ● Hypothyroïdie d’Hashimoto (SEP) : Les LT CD4+ (surtout des Th1) sont suractivés et vont induire une prolifération de LB et de LT CD8 qui vont respectivement avoir une action via les auto-anticorps (rôle cytolytique par fixation sur les thyrocytes, ils activent l’ADCC à l’origine de la cytotoxicité) ou par cytotoxicité sur les cellules thyroïdiennes et induire une hypothyroïdie. ● Maladie de Graves (Basedow) : Les LT CD4+ sont suractivés et vont induire la production via les LB, d’anticorps antirécepteurs à la TSH (agonistes) et ainsi amener à une hyperthyroïdie par stimulation de ces récepteurs. Rôle des LT CD8 ● Diabète auto-immun (de type 1) : On a une suractivation des LT CD8 auto-réactifs liée à l’infection par le virus Coxsackie B4 ou entérovirus qui a une séquence commune avec l’auto-Ag GAD du pancréas (mimétisme moléculaire). Ces lymphocytes vont migrer vers le pancréas et détruire rapidement les cellules béta des îlots de Langerhans. Coxsackie B4 exprime un antigène qui est très similaire à une protéine du pancréas, la protéine GAD qui est une carboxylase, une enzyme du pancréas. Quand on est infecté par le Coxsackie B4 et bien sûr on est prédisposé. On va stimuler une réponse antivirale pour éliminer le coxsackie et activé avec le signal 1 et le signal 2 des lymphocytes dirigés contre le Coxsackie B4. Malheureusement ils reconnaissent également l'antigène Gad qui est l'antigène majeur dans le diabète auto-immun et donc les lymphocytes qui sont ainsi générés contre le coxsackie B4 vont détruire le pancréas parce qu’il exprime GAD ● Syndrome neurologique paranéoplasique : la présence d’un antigène commun entre la tumeur (Ag et le tissu cérébral va entraîner l’action des LT CD8 qui va conduire à une dégradation du tissu cérébral (mimétisme moléculaire) à l’origine d’une dégénérescence importante des neurones (paralysie, perte de la parole, de la vue) dans un contexte inflammatoire. C’est donc les cellules cancéreuses qui déclenche la maladie auto-immun. Ce syndrome est plus fréquent chez les personnes âgées, souvent signe diagnostic de cancer. Page 19/32"
+  },
+  {
+   "type": "paragraph",
+   "text": "2. Rôle des auto-anticorps Il en existe plusieurs : les agonistes qui agissent directement et les neutralisants qui inhibent, mais également déplétant, associés aux complexes immuns avec des dépôts qui activent le complément."
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’anémie hémolytique : des auto-AC (IgM) anti-Globules rouges vont activer le complément ce qui va favoriser le complexe d’attaque membranaire et l’hémolyse du globule rouge."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dans la thrombopénie auto-immune, c’est la fonction opsonisante du complément à la suite de la fixation des anticorps anti-plaquette : phagocytose et élimination des plaquettes."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dans la myasthénie (affaissement du regard, de la paupière), les anticorps anti-récepteurs à l’acétylcholine vont jouer le rôle d’antagonistes (compétition avec le ligand), diminuer l’activité post-synaptique et bloquer la transmission neuro-musculaire entraînant des phénomènes de paralysies musculaires, avec par exemple une partie du visage paralysé (majoritaires chez les femmes)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dans la Maladie de Graves (Basedow) : on a des auto-AC anti-récepteurs à la TSH (Ac agoniste) qui stimulent la production de T3 et T4 à l’origine donc d’une hyperthyroïdie. A l'inverse, le mécanisme avec les anticorps bloquants amène à un mécanisme d’hypothyroïdie."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dans le lupus systémique : en mourant (par phénomènes de déclenchement : mycoplasme, UV), des cellules présentatrices d’antigène hyper activées libèrent de nombreux auto-Ag : ADN, phospholipides, nucléoprotéines… reconnus par des LB autoréactifs qui produisent des auto-anticorps anti ADN natif. S’en suit la formation de complexes immuns qui iront se déposer dans les tissus (cœur, rein…) et entraîne une activation du complément et une destruction de tissus (cardiaque, néphrologique, articulaire, gynécologique (à l’origine de fausses couches))."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les symptômes de cette maladie auto-immune sont le rash en papillon (plus fréquent chez les femmes) lié à effet vasculaire des complexes immuns et le syndrome de Raynaud notamment. Ainsi, les facteurs génétiques importants accompagnés d’un stade de pré-maladie (stress oxydatif, obésité, tabac, manque de sommeil) avec production auto-anticorps en faible quantité déclenchent suite à un mycoplasme, une brûlure aux UV, une infection, la destruction des cellules et ainsi, la fabrication des immuns complexes."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dans le syndrome de Guillain Barré, où le mimétisme moléculaire avec Campylobacter (Ag membranaire OMP qui ressemble aux AG gangliosides) entraîne l’activation du complément par les anticorps anti-gangliosides (ganglioside correspond à une molécule qui recouvre le nerf périphérique permettant une transmission accélérée) et une destruction des neurones périphériques et des nœuds de Ranvier par un complexe d’attaque membranaire."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "La polyarthrite rhumatoïde : maladie très inflammatoire avec une action simultanée des LB et des LT, son mécanisme d’induction au niveau de la synovie est encore mal connu. Il y a plein d’hypothèses potentielles et notamment bactériennes. En effet, certains germes buccodentaires (retrouvés dans les gingivites) pénètrent dans l’organisme et induisent la modification de certains Ag (citrunilation), ce qui entraîne l’activation et la prolifération des LB et des LT auto-réactifs (TH1 et TH17 qui modifie le cartilage permettant la fabrication de chondrocytes, du palus rhumatismal et l’activation des ostéoclastes) qui vont participer à la destruction des synoviocytes. Le rôle des auto-anticorps est encore mal connu mais on sait que ce n’est pas le mécanisme majeur."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "L'hygiène dentaire est donc importante, car une gingivite qui peut passer inaperçu peut donner un PR des dizaines d’années plus tard."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dans des phénomènes de transmission d’auto-anticorps de la mère à l’enfant dans des maladies comme la myasthénie, l’hypothyroïdie, le lupus néonatal, la thrombopénie, la maladie de Graves Basedow, le pemphigus… Ce sont des maladies transitoires (a lieu sur les premiers mois de naissance) qui peuvent nécessiter, suivant la gravité du syndrome, la perfusion d’immunoglobulines aux enfants."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans le cas grave auto-anticorps RO/SS-A chez la maman, il faut surveiller mensuellement la femme enceinte pour éviter le risque de BAV chez le nouveau-né (mortel)."
+  },
+  {
+   "type": "paragraph",
+   "text": "L’auto-immunité touche toutes les étapes de la réponse immunitaire : mixte (LB ou LT) ou seulement liée à la production d’auto-anticorps ou d’immuns complexes."
+  },
+  {
+   "type": "paragraph",
+   "text": "Figure 9 : Récapitulatif"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-classement-des-maladies-auto-immunes",
+   "text": "3. Classement des maladies auto-immunes"
+  },
+  {
+   "type": "paragraph",
+   "text": "Selon que l’auto-antigène est spécifique d’un tissu ou ubiquitaire."
+  },
+  {
+   "type": "paragraph",
+   "text": "Maladies spécifiques d’organes : Auto-antigène spécifique d’un tissu, d’un organe. Les répercussions cliniques de la réponse immune délétère se limitent au tissu ou à l’organe."
+  },
+  {
+   "type": "paragraph",
+   "text": "Maladies non spécifiques d’organes : Autoantigène = constituant du noyau cellulaire avec des répercussions cliniques diffuses, polymorphes non limitées à un tissu particulier et plus sévère."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-diagnostic-des-maladies-auto-immunes",
+   "text": "4. Diagnostic des maladies auto-immunes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Clinique peu évocatrice : fièvre peu intense prolongée, douleurs articulaires, musculaires, atteintes cutanées… ● La biologie aide beaucoup : on fait déjà une NFS (hyperactivation lymphocytaire), puis recherche d’auto-anticorps qui est très important pour les MAI, ainsi que des analyses complémentaires (analyse biochimique des fonctions des organes). Si besoin, on peut faire des tests pour typer les HLA qui font de la prévention autour des maladies auto-immunes ou des biopsies."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Même si de nombreuses maladies auto-immunes sont dues à l’action directe des lymphocytes T, la base du diagnostic biologique repose sur la détection des auto-anticorps (spécifiques d’un organe ou non) présents dans le sérum des patients."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ix-traitements-des-maladies-auto-immunes-pendant-longtemps-i",
+   "text": "IX. Traitements des maladies auto-immunes Pendant longtemps, il y a eu peu de développement sur les traitements des maladies auto-immunes. Les principes des traitements de ces maladies sont : o Bloquer la réponse auto-immune (immunosuppresseurs, corticoïdes…) : valable pour des maladies spécifiques"
+  },
+  {
+   "type": "paragraph",
+   "text": "d’organes. Les corticoïdes, à cause de leur toxicité importante, ne peuvent pas être utilisés à long terme."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Nouveaux traitements plus sélectifs, les anticorps (anti-TNF, anti-INF, anti-CD19/CD20, anti-intégrine) qui permettent de limiter les effets toxiques à long terme des immunosuppresseurs (effets secondaires des immunosuppresseurs). On peut aussi dépléter les LB pour bloquer la réponse immunitaire."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Les traitements sont souvent à vie et ont de nombreux effets secondaires, donc nécessite une surveillance importante. o Les thérapies cellulaires, basées sur le blocage des lymphocytes auto-réactifs pour essayer de traiter ces maladies auto-immunes. Ces thérapies, en cours de développement et prometteuses pour l’avenir, fonctionnent par injection de cellules régulatrices T polyclonales."
+  },
+  {
+   "type": "list",
+   "items": [
+    "La plasmaphérèse, lorsque la maladie est très aiguë, elle consiste à éliminer les auto-Ac du sang, effet à court terme car n’élimine pas les LB."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "On peut agir sur l’induction (ex : anticorps anti-interférons, inhibiteur MET, de caspase), la stimulation de la réponse (ex : anticorps anti-S6, anti-cytokines, inhibiteurs de JAK+++), ou encore agir sur l’inflammation (anti-Tnf, anti-th17)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les vaccins, eux, se développent avec des cellules chargées d’épitopes auto-réactifs afin de bloquer l’activation des lymphocytes auto-réactifs. Un de ses objectifs est de générer des anticorps anti-interférons alpha dans l’organisme pour bloquer les interféronopathies."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "x-points-a-retenir-comment-sont-eduques-les-lymphocytes-t-et",
+   "text": "X. Points à retenir Comment sont éduqués les lymphocytes T et B ? phénomène de sélection et de biais sélection Qu’est-ce que la tolérance immunologique ? Comment se fait-elle au niveau central ? périphérique ? Pourquoi une MAI se déclenche ? Et comment ? Quels sont les facteurs associés aux MAI ? environnementaux, génétiques, hormonaux … Physiopathologie T et B médiée : auto-anticorps cellules auto réactives Diagnostic des MAI : majoritairement fait sur l’identification d’auto-anticorps Peut-on traiter les MAI et comment ? Par immunosuppression, traitements spécifiques, CART-T, … XI. Bilan (pas dit cette année mais on vous le laisse quand même) ● Le thymus et la moelle osseuse jouent un rôle majeur dans la tolérance centrale (notion d’organe lymphoïde primaire) ● La sélection négative des lymphocytes auto-réactifs implique le concept de délétion clonale ● La tolérance périphérique consiste en un contrôle actif des réactions auto-immunes en dehors du thymus (ganglions"
+  },
+  {
+   "type": "paragraph",
+   "text": "notamment)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "L’anergie est une absence de réaction des lymphocytes T/B en l’absence de signaux de costimulation ● Il existe des lymphocytes T régulateurs naturels, il existe des lymphocytes T régulateurs induits ou adaptatifs qui vont bloquer les Ly auto réactifs",
+    "Le récepteur editing facilite la tolérance centrale des LB en réarrangeant le BCR ● La rupture de tolérance aux antigènes du soi conduit à l'auto-immunité ● La physiopathologie des MAI peut être très différente (rôle des anticorps et des lymphocytes T…) =connaitre quelques exemples de physiopathologie. (Lupus et PR++)",
+    "Les réactions auto-immunes apparaissent chez des sujets prédisposés génétiquement sous l’influence de divers facteurs environnementaux dont les infections avec rôle clé du HLA et des hormones",
+    "Les explorations de l’auto-immunité dites « de routine » sont basées essentiellement sur la recherche d’auto-anticorps circulants et sur l’étude, dans les biopsies tissulaires accessibles, de l’infiltrat cellulaire et des dépôts d’immunoglobulines et de complément. Les autoanticorps peuvent être naturels ou induits."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "On retrouve des MAI spécifiques ou non spécifiques d’organes (connectivite) Le traitement des MAI vise à moduler la réponse immunitaire, cible la réponse inflammatoire (stratégies d’immunothérapies)"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "XII. QCM 1A propos des facteurs déclenchants de l’auto-immunité : A. Les maladies auto-immunes touchent plus les femmes que les hommes, à cause de certaines hormones B. Certaines hormones entraînent une augmentation de l’anergie C. De nombreux gènes sont impliqués dans l'apoptose comme Fas, Fas-L ou le gène AIRE D. Des agents infectieux peuvent induire des maladies auto-immunes comme le coxsackie virus qui a un lien avec la thyroïdite de Hashimoto E. Les rayons UV ainsi que certains médicaments peuvent entraîner un lupus 2A propos de l’immunité et des cellules dendritiques A. L’auto-immunité est physiologique et permet uniquement la reconnaissance du soi avec une réaction immunitaire contre un ou plusieurs constituants du soi B. Les INF-α ne permettent jamais de confirmer une maladie auto-immune C. Les cellules dendritiques peuvent être soit tolérogènes, soit immunogènes et stimulantes D. Les auto-anticorps sont produits par des Lymphocyte B aux marqueurs CD8 E. La Thyroïdite auto-immune est un modèle d’expérience de maladie auto-immun induite 3A propos des maladies auto-immunes : A. Les organes lymphoïdes secondaires sont responsables de l’éducation des lymphocytes B. L’auto-immunité est une anomalie de la discrimination du soi et du non soi avec réaction immunitaire contre un ou plusieurs constituants du soi C. Tous les auto-antigènes sont spécifiques d’organes, on les trouve que dans un seul organe D. Concernant les LT : La tolérance centrale est composée de la sélection positive et négative. La tolérance périphérique est composée de : l'anergie, la délétion clonale, de l’ignorance et de LTreg E. Concernant les LB : La tolérance centrale est composée de récepteur editing. La tolérance périphérique est composée de l’anergie, délétion clonale et de l’ignorance seulement 4A propos des maladies auto-immunes : A. Le stade de pré-maladie correspond à la production ou l'activation progressive des cellules auto-réactive en grande quantité B. L’auto-Immunité se déclenche chez des personnes prédisposées avec des conditions environnementales particulières C. Les cellules lymphoïdes sont tolérantes aux épitopes cryptiques dans des conditions physiologiques normales D. Dans la myasthénie, les anticorps anti-gangliosides bloque la transmission neuromusculaire E. La base du diagnostic biologique des maladies auto immunes repose sur la détection des auto-anticorps 5A propos des maladies auto-immunes : A. La présence de lymphocytes autoréactifs dans les OLS est pathologique B. les maladies auto-immunes peuvent toucher n’importe quelle étape de la réponse immunitaire C. les phénomènes de transmission materno-foetale de MAI entraine des pathologies à long terme D. Le lupus est une pathologie non spécifique auto-immuns E. Le système du complément peut entraîner l’apparition des symptômes de MAI Page 29/32"
+  },
+  {
+   "type": "paragraph",
+   "text": "6A propos des maladies auto-immunes : A. A. Elles peuvent être diagnostiquées grâce au dosage d’auto-anticorps B. B. Elles sont très rarement médiées par des lymphocytes T C. C. Elles peuvent être associées à des facteurs génétiques D. D. Elles peuvent être médiées par des auto-anticorps E. E. Elles peuvent être transmises de la mère à l’enfant au cours de la grossesse 1 : ACE 2 : CE B : FAUX, une levée de l’anergie et non une augmentation D : le coxsackievirus a un lien avec le diabète de type 1. A : FAUX – elle ne permet pas uniquement la reconnaissance du soi mais également du non soi, et elle est pathologique B : FAUX – elles permettent QUASIMENT de confirmer une maladie auto-immune, elles sont également appelées : immunoglobulinopathie (pas dis cette année) D : FAUX - Les auto-anticorps sont produits par des Lymphocyte B aux marqueurs CD5. 3 : BD 4 : BE A : FAUX, les organes lymphoïdes primaires sont responsables de l’éducation des lymphocytes. Les OLS sont une zone effectrice de la réaction immunitaire. C : FAUX, il existe des auto-antigènes spécifiques et ubiquitaires. E : FAUX, il y a aussi les LB reg A : FAUX, en faible quantité C : FAUX, en dehors de tout stress, les épitopes cryptiques, sont ignorés du système immunitaire à cause de leur localisation au sein de la molécule antigénique. D : FAUX : dans la myasthénie, ce sont les anticorps anti-récepteurs à l’acétylcholine qui bloquent la transmission neuromusculaire. 5 : BDE 6 : ACDE A : FAUX, non car il est contrôlé par la tolérance secondaire B : VRAI C : FAUX, court terme D : VRAI E : VRAI en étant activé par les complexes immuns A : VRAI B : FAUX : Dans les MAI liées aux LT, on retrouve des maladies fréquentes comme le diabète de type I ou encore les dysthyroïdies. C : VRAI D : VRAI E : VRAI XIII. ACC Sujet 2023 QUESTION N° 5 : Concernant les maladies auto-immunes, choisir la (ou les) proposition(s) exacte(s) : A. Elles peuvent être diagnostiquées grâce au dosage d’auto-anticorps B. Elles sont très rarement médiées par des lymphocytes T C. Elles peuvent être associées à des facteurs génétiques D. Elles peuvent être médiées par des auto-anticorps E. Elles peuvent être transmises de la mère à l’enfant au cours de la grossesse A : VRAI B : FAUX : Dans les MAI liées aux LT, on retrouve des maladies fréquentes comme le diabète de type Page 30/32"
+  },
+  {
+   "type": "paragraph",
+   "text": "I ou encore les dysthyroïdies. C : VRAI D : VRAI E : VRAI Sujet 2022 QUESTION N° 8 : Concernant les maladies auto-immunes, cocher la ou les proposition(s) exacte(s) : A. Elles proviennent d’un défaut de sélection des lymphocytes B. Elles peuvent être associées à certains HLA C. Elles peuvent être associées à des anomalies génétiques D. Elles peuvent être médiées par des auto-anticorps E. Elles ne peuvent pas être transmises de la mère à l’enfant au cours de la grossesse A : VRAI B : VRAI C : VRAI D : VRAI E : FAUX : Techniquement des ac auto réactif de la mère peuvent passer la barrière au cours de la grossesse (rien de préciser dans le cours) QUESTION N° 17 : Parmi les propositions suivantes, laquelle (ou lesquelles) participent à l’émergence de maladies auto-immunes : A. La sécrétion d’IFNα par les cellules dendritiques plasmacytoïdes B. Un défaut de sélection des lymphocytes T dans la moelle osseuse C. Des facteurs génétiques comme le HLA D. L’âge E. Certains agents infectieux A : VRAI : induit une rupture de tolérance aux ag du soi B : FAUX : dans le thymus C : VRAI D : VRAI E : VRAI (exemple : entérovirus et DT1) Sujet 2019 QUESTION N° 6 : Le HLA est associé à certaines maladies inflammatoires chroniques. Parmi les affirmations suivantes, lesquelles sont vraies ? A. Le HLA est situé sur le chromosome 6 bras long B. Le HLA B27 est un HLA de classe I C. Le HLA B27 est associé à la forme périphérique des spondylarthrites D. Plusieurs sous classes de l’HLA DRB1*04 rassemblées sous le nom de l’épitope partagé sont associées à la polyarthrite rhumatoïde E. Le HLA de classe II est présent sur quasiment toutes les cellules de l’organisme A : FAUX : Le HLA est situé sur le chromosome 6 bras court B : VRAI C : FAUX : Le HLA B27 est associé à la forme axiale des spondylarthrites D : VRAI E : FAUX : Le HLA de classe I est présent sur quasiment toutes les cellules de l’organisme Sujet 2018 Page 31/32"
+  },
+  {
+   "type": "paragraph",
+   "text": "QUESTION N° 16 : Concernant les maladies auto-immunes, elles peuvent : A. Être diagnostiquées par des auto-anticorps B. Très rarement être médiée par des lymphocytes T C. Être associées à des facteurs génétiques D. Être médiées par des anticorps E. Être transmises de la mère à l’enfant A : VRAI B : FAUX : ce n’est pas rare C : VRAI D : VRAI E : VRAI Sujet 2017 QUESTION N° 16 : Concernant les maladies auto-immunes, leur physiopathologie peut impliquer A. l’action d’anticorps. B. l’action de lymphocytes T. C. l’action de cellules NK. D. l’action de basophiles. E. l’action des protéines de la coagulation. A : VRAI B : VRAI C : FAUX D : FAUX E : FAUX Page 32/32"
+  }
+ ]
+}

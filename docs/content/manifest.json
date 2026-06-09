@@ -1,0 +1,148 @@
+{
+ "version": 1,
+ "generatedAt": "2026-06-09",
+ "lessons": [
+  {
+   "slug": "fc01",
+   "code": "FC01",
+   "order": 1,
+   "title": "Vieillissement du système immunitaire",
+   "shortTitle": "Immunosénescence",
+   "prof": "Pr. Paul",
+   "hasCours": true,
+   "hasFiche": true,
+   "hasQuiz": true,
+   "quizCount": 12
+  },
+  {
+   "slug": "fc02",
+   "code": "FC02",
+   "order": 2,
+   "title": "Mécanismes physiopathologiques des maladies auto-immunes",
+   "shortTitle": "Maladies auto-immunes (MAI)",
+   "prof": "Pr. Paul",
+   "hasCours": true,
+   "hasFiche": true,
+   "hasQuiz": true,
+   "quizCount": 13
+  },
+  {
+   "slug": "fc03",
+   "code": "FC03",
+   "order": 3,
+   "title": "Développement du système immunitaire à la naissance et immunité de la grossesse",
+   "shortTitle": "Grossesse & naissance",
+   "prof": "Pr. Berger",
+   "hasCours": true,
+   "hasFiche": true,
+   "hasQuiz": true,
+   "quizCount": 13
+  },
+  {
+   "slug": "fc04a",
+   "code": "FC04a",
+   "order": 4,
+   "title": "Physiopathologie de la polyarthrite rhumatoïde",
+   "shortTitle": "Polyarthrite rhumatoïde (PR)",
+   "prof": "Pr. Marotte",
+   "hasCours": true,
+   "hasFiche": true,
+   "hasQuiz": true,
+   "quizCount": 12
+  },
+  {
+   "slug": "fc04b",
+   "code": "FC04b",
+   "order": 5,
+   "title": "Physiopathologie des spondylarthrites",
+   "shortTitle": "Spondylarthrites (SpA)",
+   "prof": "Pr. Marotte",
+   "hasCours": true,
+   "hasFiche": true,
+   "hasQuiz": true,
+   "quizCount": 12
+  },
+  {
+   "slug": "fc05",
+   "code": "FC05",
+   "order": 6,
+   "title": "Thérapies cellulaires",
+   "shortTitle": "Thérapies cellulaires",
+   "prof": "Dr. Waeckel",
+   "hasCours": true,
+   "hasFiche": true,
+   "hasQuiz": true,
+   "quizCount": 12
+  },
+  {
+   "slug": "fc06",
+   "code": "FC06",
+   "order": 7,
+   "title": "Mécanismes d’action des immunoglobulines polyvalentes",
+   "shortTitle": "Immunoglobulines (IgIV)",
+   "prof": "Pr. Maillard",
+   "hasCours": true,
+   "hasFiche": true,
+   "hasQuiz": true,
+   "quizCount": 12
+  }
+ ],
+ "annales": [
+  {
+   "year": 2015,
+   "slug": "a2015",
+   "title": "Annales 2015",
+   "available": false,
+   "quizCount": 0
+  },
+  {
+   "year": 2016,
+   "slug": "a2016",
+   "title": "Annales 2016",
+   "available": false,
+   "quizCount": 0
+  },
+  {
+   "year": 2017,
+   "slug": "a2017",
+   "title": "Annales 2017",
+   "available": false,
+   "quizCount": 0
+  },
+  {
+   "year": 2018,
+   "slug": "a2018",
+   "title": "Annales 2018",
+   "available": false,
+   "quizCount": 0
+  },
+  {
+   "year": 2019,
+   "slug": "a2019",
+   "title": "Annales 2019",
+   "available": false,
+   "quizCount": 0
+  },
+  {
+   "year": 2022,
+   "slug": "a2022",
+   "title": "Annales 2022",
+   "available": false,
+   "quizCount": 0
+  },
+  {
+   "year": 2023,
+   "slug": "a2023",
+   "title": "Annales 2023",
+   "available": false,
+   "quizCount": 0
+  },
+  {
+   "year": 2024,
+   "slug": "a2024",
+   "title": "Annales 2024",
+   "available": true,
+   "quizCount": 20
+  }
+ ]
+}

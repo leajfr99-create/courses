@@ -1,0 +1,54 @@
+{
+ "slug": "fc05",
+ "title": "Fiche — Thérapies cellulaires",
+ "updated": "2026-06-09",
+ "summary": "La **thérapie cellulaire** = transfert de cellules à un receveur pour un effet thérapeutique. **Autologue** (du patient) ou **allogénique** (donneur, compatibilité HLA). Cœur du cours : **cellules souches**, **greffe de CSH** (GVH/GVL) et thérapies innovantes (**CAR-T**, vaccins, thérapie génique).",
+ "sections": [
+  {
+   "heading": "Potentiel des cellules souches",
+   "type": "table",
+   "columns": ["Potentiel", "Capacité", "Exemple"],
+   "rows": [
+    ["Totipotence", "Donne un individu entier", "Zygote"],
+    ["Pluripotence", "Tout type cellulaire", "CSE, **iPS**"],
+    ["Multipotence", "Plusieurs types", "CS adultes, mésenchymateuses, CSH"],
+    ["Unipotence", "Un seul type", "—"]
+   ]
+  },
+  {
+   "heading": "Types de cellules souches",
+   "type": "bullets",
+   "items": [
+    "**CSE** (embryonnaires) : pluripotentes, grande quantité, mais **problème éthique**.",
+    "**iPS** : reprogrammées en labo → **alternative éthique** aux CSE.",
+    "**CS adultes/fœtales** : multipotentes, prélevées dès la naissance (≠ chez l'adulte), rares, difficiles à isoler, pas d'éthique.",
+    "**CS mésenchymateuses** : stromales multipotentes, tissus **facilement accessibles** (MO, adipeux, cordon)."
+   ]
+  },
+  {
+   "heading": "Greffe de CSH",
+   "type": "bullets",
+   "items": [
+    "Sources : **moelle osseuse** (osseux ou périphérique après mobilisation) et **sang de cordon/placenta**.",
+    "**Allogreffe** : hémopathies malignes, déficits génétiques (drépanocytose, déficits immunitaires). Compatibilité **HLA** max + conditionnement (chimio myéloablative ± irradiation).",
+    "**Autogreffe** : hémopathies, MAI, maladies inflammatoires chroniques → permet une chimio intensive puis reconstitution."
+   ]
+  },
+  {
+   "heading": "GVH vs GVL (à ne pas confondre)",
+   "type": "callout",
+   "tone": "important",
+   "html": "Le greffon contient des CSH **+ des LT du donneur**. **GVH** (Graft vs **Host**) : LT attaquent l'hôte (**peau, intestin, foie**) → délétère. **GVL** (Graft vs **Leukemia**) : LT détruisent les cellules tumorales résiduelles → **bénéfique recherché**."
+  },
+  {
+   "heading": "Thérapies innovantes",
+   "type": "bullets",
+   "items": [
+    "**Sipuleucel-T** (PROVENGE) : 1ᵉʳ **vaccin thérapeutique anti-tumoral** (DC immunisées, cancer prostate).",
+    "**CAR-T cells** : LT modifiés (récepteur chimérique) reconnaissant l'Ag **sans CMH** ; anti-**CD19** (lymphomes/leucémies). EI : **CRS** et **ICANS**.",
+    "**Strimvelis** : thérapie génique du **déficit en ADA** (CSH corrigées).",
+    "Autres : CS cutanées (grands brûlés), **HOLOCLAR** (cornée)."
+   ]
+  }
+ ]
+}

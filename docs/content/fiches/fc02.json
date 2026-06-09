@@ -1,0 +1,72 @@
+{
+ "slug": "fc02",
+ "title": "Fiche — Maladies auto-immunes (MAI)",
+ "updated": "2026-06-09",
+ "summary": "Une **MAI** résulte d'une **rupture de tolérance au soi** chez un sujet **prédisposé** (génétique, hormones) sous l'effet de facteurs déclenchants (infections, UV…). Mécanismes lésionnels **T-médiés** et/ou par **auto-anticorps**. Diagnostic : **dosage des auto-anticorps**.",
+ "sections": [
+  {
+   "heading": "Tolérance : centrale puis périphérique",
+   "type": "table",
+   "columns": ["", "LT", "LB"],
+   "rows": [
+    ["Centrale (organe)", "Thymus : sélection + (cortex) puis − (médullaire), ~98 % apoptose", "Moelle : **récepteur editing**"],
+    ["Périphérique", "Anergie, ignorance, délétion clonale (Fas/FasL), **LTreg** (IL-10, TGF-β)", "Anergie (CD40), délétion, ignorance, **LBreg**"]
+   ]
+  },
+  {
+   "heading": "Anergie = signal 1 sans signal 2",
+   "type": "callout",
+   "tone": "tip",
+   "html": "Signal 1 (TCR/CMH) **+** signal 2 (costimulation B7/CD28) = activation. Signal 1 **seul** = **anergie**. Une infection apporte le signal 2 et **lève l'anergie** → début possible de MAI."
+  },
+  {
+   "heading": "Auto-anticorps : naturels vs pathogènes",
+   "type": "table",
+   "columns": ["", "Naturels", "Pathogènes"],
+   "rows": [
+    ["Cellule", "**LB1a (CD5+)**", "LB2 conventionnels"],
+    ["Ig / affinité", "**IgM, faible** affinité, polyréactifs", "**IgG, forte** affinité"],
+    ["Gènes", "Germinaux non mutés", "Mutations somatiques, switch"],
+    ["Effet", "Non pathogènes", "Pathogènes, activent le complément"]
+   ]
+  },
+  {
+   "heading": "Facteurs favorisants",
+   "type": "bullets",
+   "items": [
+    "**Génétiques** : HLA ++ (B27→SpA axiale, DRB1→PR), **AIRE** (→ APS-1), Fas/FasL, déficit C2 (lupus), FcγRIIB.",
+    "**Hormonaux** : prédominance **féminine** (connectivites ++).",
+    "**Infectieux** : Coxsackie B4 → **DT1** (mimétisme avec GAD).",
+    "**Physico-chimiques** : **UV → lupus**, médicaments (D-pénicillamine, quinine), IFN-α → thyroïdite."
+   ]
+  },
+  {
+   "heading": "4 voies de rupture de tolérance",
+   "type": "bullets",
+   "items": [
+    "Stimulation **polyclonale** (LPS, superantigènes).",
+    "**Mimétisme moléculaire** (Coxsackie B4 / GAD → DT1).",
+    "Démasquage d'**épitopes cryptiques** (statines / HMG-CoA réductase).",
+    "Activation des **CPA** (IFN de type 1, pDC → lupus)."
+   ]
+  },
+  {
+   "heading": "Exemples de mécanismes lésionnels",
+   "type": "table",
+   "columns": ["Maladie", "Mécanisme"],
+   "rows": [
+    ["Diabète type 1", "LT CD8 → destruction des cellules β (mimétisme Coxsackie/GAD)"],
+    ["Basedow", "Auto-Ac anti-RTSH **agonistes** → hyperthyroïdie"],
+    ["Myasthénie", "Auto-Ac anti-RACh **antagonistes** → blocage neuromusculaire"],
+    ["Lupus", "Anti-ADN natif → complexes immuns + complément (rein, cœur…)"],
+    ["Guillain-Barré", "Anti-gangliosides (mimétisme Campylobacter) → nœuds de Ranvier"]
+   ]
+  },
+  {
+   "heading": "Diagnostic & traitement",
+   "type": "callout",
+   "tone": "important",
+   "html": "Diagnostic = **détection des auto-anticorps** (± HLA, biopsie). Traitement : immunosuppresseurs/corticoïdes, **biothérapies** (anti-TNF, anti-CD20…), **plasmaphérèse** (aigu), thérapies cellulaires (Treg, CAR-T) en développement."
+  }
+ ]
+}

@@ -1,0 +1,817 @@
+{
+ "slug": "fc05",
+ "code": "FC05",
+ "title": "Thérapies cellulaires",
+ "prof": "Dr. Waeckel",
+ "sourceFile": "FC05-WAECKEL-Therapies-celIulaires-23-01-26.pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "i-introduction",
+   "label": "I. Introduction",
+   "level": 2
+  },
+  {
+   "id": "1-definition",
+   "label": "1. Définition",
+   "level": 3
+  },
+  {
+   "id": "2-quelles-sont-les-cellules-prelevees",
+   "label": "2. Quelles sont les cellules prélevées",
+   "level": 3
+  },
+  {
+   "id": "ii-les-therapies-cellulaires",
+   "label": "II. Les thérapies cellulaires",
+   "level": 2
+  },
+  {
+   "id": "1-les-cellules-differenciees",
+   "label": "1. Les cellules différenciées",
+   "level": 3
+  },
+  {
+   "id": "2-les-cellules-souches",
+   "label": "2. Les cellules souches",
+   "level": 3
+  },
+  {
+   "id": "iii-les-cellules-souches-utilisees-en-therapie-cellulaire",
+   "label": "III. Les cellules souches utilisées en thérapie cellulaire",
+   "level": 2
+  },
+  {
+   "id": "1-les-cellules-souches-embryonnaires-ou-cse",
+   "label": "1. Les cellules souches embryonnaires ou CSE",
+   "level": 3
+  },
+  {
+   "id": "2-les-cellules-souches-pluripotentes-induites-ips",
+   "label": "2. Les cellules souches pluripotentes induites IPS",
+   "level": 3
+  },
+  {
+   "id": "3-les-cellules-souches-adultes-foetales-et-les-cellules-mese",
+   "label": "3. Les cellules souches adultes/ fœtales et les cellules mésenchymateuses",
+   "level": 3
+  },
+  {
+   "id": "iv-les-cellules-souches-hematopoietiques-utilisees-en-therap",
+   "label": "IV. Les cellules souches hématopoïétiques utilisées en thérapie cellulaire",
+   "level": 2
+  },
+  {
+   "id": "1-definition-2",
+   "label": "1. Définition",
+   "level": 3
+  },
+  {
+   "id": "2-prelevement",
+   "label": "2. Prélèvement",
+   "level": 3
+  },
+  {
+   "id": "3-csh-issues-du-cordon-du-placenta",
+   "label": "3. CSH issues du cordon/du placenta",
+   "level": 3
+  },
+  {
+   "id": "v-le-don-de-moelle-osseuse",
+   "label": "V. Le don de moelle osseuse",
+   "level": 2
+  },
+  {
+   "id": "1-les-allogreffes-de-csh",
+   "label": "1. Les allogreffes de CSH",
+   "level": 3
+  },
+  {
+   "id": "1-les-gvh-graft-vs-host-disease-maladie-du-greffon-contre-l-",
+   "label": "1) Les GVH (Graft vs Host Disease) = maladie du greffon contre l’hôte",
+   "level": 3
+  },
+  {
+   "id": "2-gvl-graft-vs-leukemia",
+   "label": "2) GVL (Graft vs Leukémia)",
+   "level": 3
+  },
+  {
+   "id": "vi-les-gvh-reaction-du-greffon-contre-l-hote",
+   "label": "VI. Les GVH (réaction du greffon contre l'hôte)",
+   "level": 2
+  },
+  {
+   "id": "vii-autogreffe-de-csh",
+   "label": "VII. Autogreffe de CSH",
+   "level": 2
+  },
+  {
+   "id": "1-indications",
+   "label": "1. Indications",
+   "level": 3
+  },
+  {
+   "id": "2-objectif",
+   "label": "2. Objectif",
+   "level": 3
+  },
+  {
+   "id": "3-d-autres-cellules-souches-sont-utilisees-en-therapie",
+   "label": "3. D’autres cellules souches sont utilisées en thérapie",
+   "level": 3
+  },
+  {
+   "id": "viii-les-differents-types-de-cellules-prelevees-autogreffe-d",
+   "label": "VIII. Les différents types de cellules prélevées (autogreffe de CSH)",
+   "level": 2
+  },
+  {
+   "id": "1-les-cellules-differenciees-et-stimulees-avant-reinjection",
+   "label": "1. Les cellules différenciées et stimulées avant réinjection",
+   "level": 3
+  },
+  {
+   "id": "2-les-cellules-differenciees-et-modifiees-genetiquement-avan",
+   "label": "2. Les cellules différenciées et modifiées génétiquement avant réinjection",
+   "level": 3
+  },
+  {
+   "id": "ix-qcm",
+   "label": "IX. QCM",
+   "level": 2
+  },
+  {
+   "id": "qcm1-bde",
+   "label": "QCM1 : BDE",
+   "level": 2
+  },
+  {
+   "id": "qcm2-ab",
+   "label": "QCM2 : AB",
+   "level": 2
+  },
+  {
+   "id": "qcm3-bcde",
+   "label": "QCM3 : BCDE",
+   "level": 2
+  },
+  {
+   "id": "x-acc",
+   "label": "X. ACC",
+   "level": 2
+  },
+  {
+   "id": "15-abc",
+   "label": "15. ABC",
+   "level": 3
+  },
+  {
+   "id": "question-n-13",
+   "label": "QUESTION N° 13 :",
+   "level": 2
+  },
+  {
+   "id": "a-vrai",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "b-vrai",
+   "label": "B : VRAI",
+   "level": 2
+  },
+  {
+   "id": "c-vrai",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "question-n-14",
+   "label": "QUESTION N° 14 :",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Dr. Waeckel Immunopathologie Lisa JERSOL Thérapies cellulaires"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-introduction",
+   "text": "I. Introduction"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-definition",
+   "text": "1. Définition"
+  },
+  {
+   "type": "paragraph",
+   "text": "Thérapie cellulaire : Transfert de cellules à un patient receveur dans le but d’obtenir un effet thérapeutique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces cellules peuvent provenir :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Du patient lui-même : Thérapie cellulaire autologue = on récupère les cellules du patient, traitées ou non, on les fait proliférer puis elles sont réinjectées au patient."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "D’un donneur : Thérapie cellulaire allogénique ou hétérologue = on récupère les cellules d’une autre personne puis on les injecte chez un receveur. Cela nécessite de respecter une certaine compatibilité HLA entre le donneur et le receveur."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-quelles-sont-les-cellules-prelevees",
+   "text": "2. Quelles sont les cellules prélevées"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les cellules différenciées",
+    "Les cellules souches embryonnaires",
+    "Les cellules souches pluripotentes induites",
+    "Les cellules souches adultes et fœtales"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-les-therapies-cellulaires",
+   "text": "II. Les thérapies cellulaires"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-cellules-differenciees",
+   "text": "1. Les cellules différenciées"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Transfert hétérologue :",
+    "Ex le plus connu : la transfusion de concentrés de globules rouges. Nécessite le respect des certaines règles notamment le respect des groupes ABO",
+    "On peut aussi prendre comme exemple les transferts de cardiomyocytes, d’îlots de Langerhans mais les indications sont beaucoup plus rares.",
+    "Transfert autologue :",
+    "Ex : SPHEROX (prélèvement des chondrocytes du patient qui sont ensuite réinjectés pour réparation de cartilages défectueux)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-les-cellules-souches",
+   "text": "2. Les cellules souches"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cellules indifférenciées capable de :",
+    "Générer des cellules spécialisées par différenciation cellulaire",
+    "De s’auto-renouveller par division cellulaire"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rôle central dans le développement des organismes ainsi que dans le maintien de leur intégrité au cours de la vie"
+  },
+  {
+   "type": "paragraph",
+   "text": "4 catégories de CS selon le potentiel de différenciation :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Totipotence : peut donner un individu entier",
+    "Pluripotence : peut donner n’importe quel type de cellule",
+    "Multipotence : peut donner plusieurs types de cellules spécialisées différentes",
+    "Unipotence : ne peut donner qu’un seul type de cellule spécialisée"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-les-cellules-souches-utilisees-en-therapie-cellulaire",
+   "text": "III. Les cellules souches utilisées en thérapie cellulaire"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-cellules-souches-embryonnaires-ou-cse",
+   "text": "1. Les cellules souches embryonnaires ou CSE"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les CSE sont pluripotentes",
+    "Différenciation illimitée mais longue et difficile à obtenir",
+    "Présentes en grande quantité",
+    "Problèmes éthiques liés à l’utilisation d’embryon humain"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-les-cellules-souches-pluripotentes-induites-ips",
+   "text": "2. Les cellules souches pluripotentes induites IPS"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cellules souches pluripotentes générées en laboratoire à partir de cellules différenciées",
+    "Reprogrammation ou dé-différenciation des cellules différenciées en cellules pluripotentes",
+    "Alternative éthique aux CSE"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-les-cellules-souches-adultes-foetales-et-les-cellules-mese",
+   "text": "3. Les cellules souches adultes/ fœtales et les cellules mésenchymateuses"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cellules souches fœtales : cellules souches multipotentes prélevées au stade fœtal",
+    "Cellules souches adultes (Attention : ces cellules ne sont pas prélevées chez l’adulte)",
+    "Cellules souches multipotentes prélevées à partir de la naissance. Elles sont naturellement présentes dans les organes où elles participent au renouvellement et à la réparation des tissus.",
+    "Elles sont multipotentes",
+    "Différenciation limitée",
+    "Rares",
+    "Difficiles à isoler et cultiver",
+    "Pas de problème éthique",
+    "Cellules souches mésenchymateuses",
+    "Cellules souches stromales multipotentes",
+    "Présentes dans la moelle osseuse, le tissu adipeux, le tissu conjonctif des os et du cartilage, autour du cordon ombilical",
+    "Avantages : elles sont présentes dans des tissus facilement accessibles",
+    "De nombreux essais cliniques sont en cours notamment dans les pathologies neurodégénératives"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-les-cellules-souches-hematopoietiques-utilisees-en-therap",
+   "text": "IV. Les cellules souches hématopoïétiques utilisées en thérapie cellulaire"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-definition-2",
+   "text": "1. Définition"
+  },
+  {
+   "type": "paragraph",
+   "text": "Cellules souches multipotentes qui donnent les cellules de la lignée hématopoïétique (Progéniteurs lymphoïdes T, B et NK et progéniteurs myéloïdes avec GR, plaquettes et granulocytes)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Ces cellules ont 2 sources possibles :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "La moelle osseuse",
+    "Du sang de cordon et de placenta"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-prelevement",
+   "text": "2. Prélèvement"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pour les cellules souches hématopoïétiques issues de la moelle osseuse :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Prélèvements au niveau osseux : sternum, crête iliaque (fait au bloc opératoire après anesthésie du donneur)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Prélèvements au niveau périphérique :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les CSH sont mobilisées par chimiotactisme (= quittent la moelle osseuse pour aller dans le sang) grâce à l’injection de facteurs de croissance au donneur",
+    "Les cellules sanguines sont récupérées par cytaphérèse puis triées",
+    "Moins traumatique que le prélèvement osseux et ne nécessite pas d’anesthésie"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-csh-issues-du-cordon-du-placenta",
+   "text": "3. CSH issues du cordon/du placenta"
+  },
+  {
+   "type": "paragraph",
+   "text": "Avantages :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Mise en place d’une banque de cordon CSH immédiatement disponibles en cas de besoin",
+    "Immaturité des CSH capacité proliférative augmentée",
+    "Moins d’immunogénicité que la moelle car issues d’individus plus jeunes Elles sont donc mieux acceptées par le receveur Inconvénients :",
+    "Moins de CSH que dans un prélèvement de moelle risque de quantité insuffisante pour le receveur"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-le-don-de-moelle-osseuse",
+   "text": "V. Le don de moelle osseuse"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-allogreffes-de-csh",
+   "text": "1. Les allogreffes de CSH"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Indications"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hémopathies malignes : leucémies, myélodysplasie, maladies de Vaquez…",
+    "Déficits génétiques touchant des cellules de la lignée hématopoïétique : Globule rouge (drépanocytose, thalassémie), globules blancs (déficits immunitaires). Le patient est complètement guéri une fois greffé sur ses pathologies"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Note du prof : ligne thérapeutique des hémopathies malignes : chimiothérapie, biothérapie et greffes de moelles osseuses."
+  },
+  {
+   "type": "paragraph",
+   "text": "b. Les points clés dans une allogreffe de CSH"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Nécessite la plus grande compatibilité HLA possible entre donneur et receveur (idéale entre deux jumeaux, sinon un donneur apparenté)",
+    "Nécessite de conditionner le receveur avant la greffe forte chimiothérapie myéloablative, irradiation corporelle totale On peut rechercher un donneur HLA compatible dans le registre des donneurs."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "c. Objectifs"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Détruire le plus possible de moelle malade",
+    "Induire une immunosuppression profonde",
+    "Faire de la place pour la moelle du donneur"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Exemple d’allogreffe de CSH d’un donneur qu’on injecte à un receveur différent."
+  },
+  {
+   "type": "paragraph",
+   "text": "On récupère soit par cytaphérèse soit par prélèvement les CSH avant de le mettre chez le receveur ce qui nécessite de conditionner le receveur cad faire une chimiothérapie à très forte dose pour enlever toute la moelle osseuse pathologique présente dans son corps. La chimiothérapie induit beaucoup d’effets indésirables notamment sur le plan infectieux. Les patients sont donc placés en chambre stérile pendant toute la période de traitement. A terme on augmente le risque de déclarer des cancers secondaires dus à cette chimiothérapie intensive."
+  },
+  {
+   "type": "paragraph",
+   "text": "Conclusion : ces thérapeutiques permettent la guérison cependant les effets indésirables sont importants."
+  },
+  {
+   "type": "paragraph",
+   "text": "d. Effets du greffon contre l’hôte et effet du greffon contre la leucémie"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-gvh-graft-vs-host-disease-maladie-du-greffon-contre-l-",
+   "text": "1) Les GVH (Graft vs Host Disease) = maladie du greffon contre l’hôte"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le greffon contient des CSH mais aussi des lymphocytes T",
+    "Les lymphocytes T du donneur vont reconnaître le receveur comme étant du non soi. Ils vont alors s’activer et chercher à détruire les cellules du receveur."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effet secondaire délétère et non recherché"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-gvl-graft-vs-leukemia",
+   "text": "2) GVL (Graft vs Leukémia)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les lymphocytes T vont aussi reconnaître et détruire les cellules anormales résiduelles de la moelle du receveur"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Effet secondaire bénéfique et recherché"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vi-les-gvh-reaction-du-greffon-contre-l-hote",
+   "text": "VI. Les GVH (réaction du greffon contre l'hôte)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Organes touchés préférentiellement : peau, intestin, foie"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-autogreffe-de-csh",
+   "text": "VII. Autogreffe de CSH"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-indications",
+   "text": "1. Indications"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hémopathies malignes",
+    "Maladies auto-immunes",
+    "Maladies inflammatoires chroniques"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-objectif",
+   "text": "2. Objectif"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pouvoir faire une chimiothérapie très intensive. La réinjection de CSH permet de reconstituer la moelle du patient"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-d-autres-cellules-souches-sont-utilisees-en-therapie",
+   "text": "3. D’autres cellules souches sont utilisées en thérapie"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les cellules souches cutanées : reconstitution de feuilles d’épiderme au laboratoire pour les greffer aux grands brûlés",
+    "HOLOCLAR : cellules épithéliales cornéennes humaines autologues amplifiées ex vivo contenant des cellules souches les indications sont assez restreintes : brûlures physique ou chimique au niveau de l’œil."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "viii-les-differents-types-de-cellules-prelevees-autogreffe-d",
+   "text": "VIII. Les différents types de cellules prélevées (autogreffe de CSH)"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-les-cellules-differenciees-et-stimulees-avant-reinjection",
+   "text": "1. Les cellules différenciées et stimulées avant réinjection"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Le Sipuleucel-T (PROVENGE)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Utilisé pour le cancer métastatique de la prostate"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Principe : prélever des cellules dendritiques du patient pour les immuniser contre des antigènes de la tumeur, puis les ré-injecter pour induire une réponse immunitaire anti-tumorale en activant les lymphocytes T du patient"
+  },
+  {
+   "type": "paragraph",
+   "text": "= 1 er vaccin thérapeutique anti-tumoral"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-les-cellules-differenciees-et-modifiees-genetiquement-avan",
+   "text": "2. Les cellules différenciées et modifiées génétiquement avant réinjection"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Les CAR-T cells"
+  },
+  {
+   "type": "paragraph",
+   "text": "Signification :"
+  },
+  {
+   "type": "paragraph",
+   "text": "CAR = chimeric antigen receptor CAR -T cell = lymphocyte T génétiquement modifié qui porte un récepteur chimérique T et B"
+  },
+  {
+   "type": "paragraph",
+   "text": "⮚ BUT : Crée un LT qui garde ses capacités mais reconnaissant directement l’antigène natif sans avoir besoin du CMH ⮚ La CAR-T cell peut reconnaître un antigène natif puis s’activer et détruire la cellule portant cet antigène"
+  },
+  {
+   "type": "paragraph",
+   "text": "Les CAR-T cells les plus connues sont celles qui reconnaissent le CD19 présent sur les LB. Elles sont utilisées dans le traitement des lymphomes et de certains types de leucémies."
+  },
+  {
+   "type": "paragraph",
+   "text": "Effets indésirables : CRS (cytokine release syndrome) = syndrome de relargage cytokinique Réponse inflammatoire systématique non contrôlée ICANS (immune effector cell-associated neurotoxicity) du trouble de l’attention/ écriture au coma"
+  },
+  {
+   "type": "paragraph",
+   "text": "A l’heure actuelle il s’agit tout de même d’une thérapie de sauvetage quand tous les autres traitements se sont révélés inefficaces"
+  },
+  {
+   "type": "paragraph",
+   "text": "3. Les cellules souches hématopoïétiques modifiées génétiquement avant réinjection"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. Strimvelis"
+  },
+  {
+   "type": "paragraph",
+   "text": "Indication : dans les déficits immunitaires en ADA (adénosine désaminase), pathologie dont le pronostic est sombre car les patients n’ont pas de lymphocytes T, B et NK. Si absence de donneur compatible pour une greffe de CSH CSH modifiées génétiquement pour exprimer le gène non muté de ADA = thérapie génique."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ix-qcm",
+   "text": "IX. QCM"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM1 : à propos des thérapies cellulaires : A. Lorsque les cellules prélevées proviennent du patient lui-même on parle de greffe allogénique ou autologue B. Le SPHEROX est un exemple de transfert autologue de cellules différenciées C. Il existe des problèmes éthiques liés à l’utilisation de cellules différenciées dans les thérapies cellulaires D. Les thérapies cellulaires allogéniques nécessitent une compatibilité HLA entre le donneur et le receveur E. Il existe 4 catégories de cellules souches selon le potentiel de différenciation"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM2 : A propos des Cellules Souches utilisées en thérapie cellulaire A. Les cellules souches pluripotentes induites sont une alternative aux problèmes éthiques que représente les cellules souches embryonnaires B. Les cellules souches adultes sont multipotentes est prélevées à partir de la naissance C. Les cellules souches mésenchymateuses sont présentes dans des tissus difficilement accessibles D. Les cellules souches adultes sont faciles à isoler et cultiver E. Les cellules souches embryonnaires sont présentes en faibles quantités"
+  },
+  {
+   "type": "paragraph",
+   "text": "QCM3 : A propos des thérapies cellulaires : A. Dans les GVH, le greffon contient des CSH mais aussi des lymphocytes B B. Les GVL engendrent un effet secondaire bénéfique et recherché C. Dans les autogreffes de CSH, la réinjection de CSH permet de reconstituer la moelle du patient D. Le Sipuleucel-T est le premier vaccin thérapeutique anti-tumorale E. Les CAR-T cells sont des cellules différenciées et génétiquement modifiées avant réinjection"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm1-bde",
+   "text": "QCM1 : BDE"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : Faux : La greffe allogénique consiste à greffer les cellules d’une autre personne sur le receveur C : Faux : Les problèmes éthiques sont liés à l’utilisation des cellules souches embryonnaires dans les thérapies cellulaires"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm2-ab",
+   "text": "QCM2 : AB"
+  },
+  {
+   "type": "paragraph",
+   "text": "C : Faux : les cellules souches mésenchymateuses sont présentes dans des tissus facilement accessibles D : les cellules souches adultes sont difficiles à isoler et à cultiver E : les cellules souches embryonnaires sont présentent en grande quantité"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm3-bcde",
+   "text": "QCM3 : BCDE"
+  },
+  {
+   "type": "paragraph",
+   "text": "A : faux : Dans les GVH, le greffon contient des CSH mais aussi des lymphocytes T"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "x-acc",
+   "text": "X. ACC"
+  },
+  {
+   "type": "paragraph",
+   "text": "2025. Concernant les cellules souches, retrouvez la (les) proposition(s) exacte(s)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 15"
+  },
+  {
+   "type": "paragraph",
+   "text": "a. elles peuvent être récupérées au niveau du cordon ombilical"
+  },
+  {
+   "type": "paragraph",
+   "text": "b. elles sont caractérisées par leur capacité d’auto-renouvellement"
+  },
+  {
+   "type": "paragraph",
+   "text": "c. elles peuvent être induites à partir de cellules spécialisées"
+  },
+  {
+   "type": "paragraph",
+   "text": "d. elles sont totipotentes"
+  },
+  {
+   "type": "paragraph",
+   "text": "e. elles ne sont actuellement pas utilisées en thérapeutique"
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "15-abc",
+   "text": "15. ABC"
+  },
+  {
+   "type": "paragraph",
+   "text": "D. FAUX, CS embryonnaires= pluripotente et CS adulte=multipotente E. FAUX"
+  },
+  {
+   "type": "paragraph",
+   "text": "2022"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-13",
+   "text": "QUESTION N° 13 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les cellules souches, retrouvez-la (les) proposition(s) exacte(s). A. Elles peuvent provenir du muscle squelettique humain B. Elles sont caractérisées par leur capacité d’auto-renouvellement C. Elles peuvent se différencier en de nombreux types de cellules spécialisées D. Elles ne peuvent pas provenir du muscle squelettique humain E. Elles sont incapables de s’auto-renouveler"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "b-vrai",
+   "text": "B : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "D : FAUX : Il y a des cellules souches adultes dans tous les organes E : FAUX : Caractéristiques des c souches : capacité d’auto-renouvellement et de donner naissance à de nombreuses cellules qui se différencient en cellules matures"
+  },
+  {
+   "type": "paragraph",
+   "text": "2019"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-14",
+   "text": "QUESTION N° 14 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant les cellules souches :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Une cellule souche est définie par sa capacité à se différencier en de nombreux types cellulaires différents B. Une cellule souche peut toujours générer l’intégralité du tissu dont elle est originaire. C. Une cellule souche peut, à elle seule, reformer un organisme entier. D. Il existe de rares cellules souches capables de former des neurones dans un cerveau adulte. E. Une cellule souche est définie par sa capacité à s’auto-renouveler."
+  },
+  {
+   "type": "paragraph",
+   "text": "A. VRAI B. FAUX pas toujours si CS unipotente par ex, surtout “toujours” donc se méfier C. VRAI, les CS totipotentes D. VRAI car il existe des cellules souches neurales chez l’adulte (notamment dans l’hippocampe et la zone sousventriculaire) E. VRAI"
+  }
+ ]
+}

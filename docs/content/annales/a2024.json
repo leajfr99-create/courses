@@ -1,0 +1,188 @@
+{
+ "slug": "a2024",
+ "year": 2024,
+ "title": "Annales 2024 (UE2 Immunopathologie)",
+ "unofficialKey": true,
+ "questions": [
+  {
+   "id": "a2024-q01", "lesson": "annales-2024", "type": "multiple", "difficulty": "moyen",
+   "stem": "L'immunosénescence est caractérisée par :",
+   "options": ["L'involution thymique", "Un biais myéloïde des cellules souches hématopoïétiques (HSC)", "Une diminution du nombre de lymphocytes naïfs", "Une augmentation des réponses vaccinales", "Un profil anti-inflammatoire"],
+   "correct": [0, 1, 2],
+   "hint": "Profil pro-inflammatoire, vaccins moins efficaces.",
+   "explanation": "ABC. Corrigé confirmé par le cours FC01 : involution thymique, biais myéloïde, ↓ naïfs ; profil PRO-inflammatoire et ↓ réponses vaccinales.",
+   "confidence": "sûr", "source": "Confirmé FC01"
+  },
+  {
+   "id": "a2024-q02", "lesson": "annales-2024", "type": "multiple", "difficulty": "moyen",
+   "stem": "Lors du vieillissement immunitaire, les conséquences cliniques sont :",
+   "options": ["Une augmentation du risque infectieux", "Une diminution du nombre de cancers", "Une diminution des risques cardiovasculaires", "Une diminution des réponses vaccinales", "Une diminution des maladies auto-immunes"],
+   "correct": [0, 3],
+   "hint": "Le vieillissement augmente infections, cancers, MCV et MAI.",
+   "explanation": "AD. Corrigé confirmé par le cours FC01 : ↑ infections et ↓ réponses vaccinales (les cancers, MCV et MAI augmentent).",
+   "confidence": "sûr", "source": "Confirmé FC01"
+  },
+  {
+   "id": "a2024-q03", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "Concernant les Maladies Inflammatoires Chroniques de l'Intestin (MICI) :",
+   "options": ["Le microbiote intestinal n'est pas modifié chez les sujets malades", "La barrière intestinale est plus perméable chez les patients atteints", "Les mutations de NOD2 sont fréquentes dans la maladie de Crohn", "On observe une réponse tolérogène au niveau intestinal", "Les MICI sont multifactorielles avec un rôle important de l'environnement"],
+   "correct": [1, 2, 4],
+   "hint": "NOD2 = Crohn ; barrière plus perméable ; perte de tolérance.",
+   "explanation": "BCE (corrigé non officiel). Le microbiote EST modifié (A faux) ; la réponse est inflammatoire, pas tolérogène (D faux). Sujet hors des 7 cours fournis.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q04", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "Concernant les MICI :",
+   "options": ["On n'observe pas de perturbation de l'immunité innée", "La maladie de Crohn est caractérisée par une réponse essentiellement Th2", "L'alimentation peut jouer un rôle via la modification du microbiote", "Une antibiothérapie importante peut jouer un rôle via le microbiote", "La maladie de Crohn est une maladie génétique à transmission récessive"],
+   "correct": [2, 3],
+   "hint": "Crohn = plutôt Th1/Th17 ; maladie multifactorielle.",
+   "explanation": "CD (corrigé non officiel). L'immunité innée est perturbée (A faux) ; Crohn est plutôt Th1/Th17 (B faux) ; ce n'est pas une maladie monogénique récessive (E faux). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q05", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "Concernant l'inflammation et les anti-inflammatoires :",
+   "options": ["La phase cellulaire secondaire ne fait pas intervenir l'immunité innée", "L'inflammation débute par une phase vasculaire avec vasoconstriction artériolaire brève", "Au cours de l'inflammation, la perméabilité vasculaire diminue", "La réponse adaptative intervient après la réponse innée", "L'interleukine 10 est une cytokine pro-inflammatoire"],
+   "correct": [1, 3],
+   "hint": "IL-10 est anti-inflammatoire ; la perméabilité augmente.",
+   "explanation": "BD (corrigé non officiel). La phase vasculaire débute par une brève vasoconstriction puis vasodilatation avec ↑ perméabilité (C faux) ; l'adaptative suit l'innée ; IL-10 est anti-inflammatoire (E faux). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q06", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "Concernant les traitements anti-inflammatoires :",
+   "options": ["L'aspirine a une action antiagrégant plaquettaire à dose faible", "Les corticoïdes sont des dérivés synthétiques d'hormones naturelles", "Les corticoïdes agissent nécessairement par fixation à des séquences d'ADN « GRE »", "Les effets néfastes des AINS sont majoritairement liés à l'inhibition de la COX-2", "L'hémorragie digestive est un effet indésirable fréquent sous aspirine"],
+   "correct": [0, 1, 4],
+   "hint": "« nécessairement » est suspect ; les EI des AINS sont liés à la COX-1.",
+   "explanation": "ABE (corrigé non officiel). Les corticoïdes ont aussi des effets non génomiques (« nécessairement » → C faux) ; les EI digestifs des AINS sont liés à l'inhibition de la COX-1 (D faux). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q07", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "Concernant les immunosuppresseurs :",
+   "options": ["La ciclosporine est un inhibiteur de la calcineurine", "Le tacrolimus est un inhibiteur de mTOR", "Ils peuvent être utilisés dans certaines maladies auto-immunes", "Le cyclophosphamide est un inhibiteur de l'activation lymphocytaire", "Le méthotrexate fait partie de la classe des corticoïdes"],
+   "correct": [0, 2],
+   "hint": "Tacrolimus = calcineurine ; méthotrexate = antimétabolite.",
+   "explanation": "AC (corrigé non officiel). Le tacrolimus inhibe la calcineurine (B faux) ; le cyclophosphamide est un agent alkylant (D faux) ; le méthotrexate est un antimétabolite, pas un corticoïde (E faux). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q08", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "Concernant les immunosuppresseurs (rejet de greffe) :",
+   "options": ["Des immunosuppresseurs aux mécanismes similaires sont fréquemment associés", "La prise chronique favorise l'apparition de cancers", "La prévention du rejet nécessite une administration à vie", "Le sirolimus est un inhibiteur de mTOR", "La stratégie est une induction puis une diminution progressive des posologies"],
+   "correct": [1, 2, 3, 4],
+   "hint": "On associe des mécanismes DIFFÉRENTS pour limiter la toxicité.",
+   "explanation": "BCDE (corrigé non officiel). On associe des immunosuppresseurs de mécanismes DIFFÉRENTS (A faux). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q09", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "Concernant l'hypersensibilité allergique immédiate (HSI) :",
+   "options": ["La prévalence des maladies allergiques est en constante diminution", "L'HSI est une hypersensibilité de type IV", "L'HSI comprend une phase de sensibilisation et une phase effectrice", "La tryptase est un médiateur préformé à action rapide", "L'immunothérapie spécifique d'allergène (ITS) peut réduire les symptômes voire guérir"],
+   "correct": [2, 3, 4],
+   "hint": "HSI = type I ; la prévalence augmente.",
+   "explanation": "CDE (corrigé non officiel). La prévalence augmente (A faux) ; l'HSI est de type I, pas IV (B faux). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q10", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "Concernant l'hypersensibilité allergique immédiate (HSI) :",
+   "options": ["Elle fait suite à une rupture de tolérance vis-à-vis d'un antigène exogène", "Les LB spécifiques se différencient en plasmocytes sécréteurs d'IgA", "La phospholipase A2 participe à la libération de médiateurs néo-formés", "La phase de sensibilisation est cliniquement muette", "L'ITS consiste à traiter les symptômes grâce à des anticorps monoclonaux"],
+   "correct": [0, 2, 3],
+   "hint": "L'HSI implique les IgE ; l'ITS = désensibilisation.",
+   "explanation": "ACD (corrigé non officiel). Les plasmocytes sécrètent des IgE, pas des IgA (B faux) ; l'ITS est une désensibilisation, pas des anticorps monoclonaux (E faux). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q11", "lesson": "annales-2024", "type": "single", "difficulty": "moyen",
+   "stem": "À propos des immunoglobulines polyvalentes (IVIG) — 1 réponse :",
+   "options": ["Les perfusions d'IVIG n'induisent jamais de fièvre", "Les IVIG peuvent corriger certaines maladies auto-immunes", "Les IVIG sont des immunoglobulines monoclonales", "Le manque d'anticorps peut être substitué par des perfusions d'immunoglobulines", "La substitution apporte uniquement des IgE et des IgM"],
+   "correct": [1],
+   "hint": "Le sujet demandait « 1 réponse ».",
+   "explanation": "B selon le corrigé du cours (FC06, ACC 2023). À noter : D est aussi défendable (la substitution corrige bien un manque d'anticorps), mais le sujet imposait une seule réponse. Les IVIG sont polyclonales (C faux), apportent surtout des IgG (E faux), peuvent induire de la fièvre (A faux).",
+   "confidence": "sûr", "source": "Confirmé FC06"
+  },
+  {
+   "id": "a2024-q12", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "À propos des IVIG et des récepteurs aux IgG :",
+   "options": ["Les récepteurs aux IgG existent sous 3 isotypes I, II et III", "L'isotype III est fortement exprimé par les polynucléaires", "L'isotype I des récepteurs aux IgG est le CD16", "Les récepteurs aux IgG peuvent activer ou inhiber la cellule", "Les récepteurs aux IgG sont communs aux IgE et aux IgA"],
+   "correct": [0, 1, 3],
+   "hint": "Le CD16 est le FcγRIII, pas l'isotype I.",
+   "explanation": "ABD. Corrigé confirmé par le cours FC06 : le CD16 = FcγRIII (C faux) ; les FcγR sont spécifiques des IgG (E faux).",
+   "confidence": "sûr", "source": "Confirmé FC06"
+  },
+  {
+   "id": "a2024-q13", "lesson": "annales-2024", "type": "multiple", "difficulty": "moyen",
+   "stem": "Quelles sont les caractéristiques communes des cytokines ?",
+   "options": ["Il s'agit de petites protéines", "Elles ont un effet pléiotropique", "Elles possèdent une action ciblée et unique", "Il s'agit de molécules membranaires", "Elles peuvent avoir une action endocrine"],
+   "correct": [0, 1, 4],
+   "hint": "Pléiotropie et redondance, pas une action unique.",
+   "explanation": "ABE (corrigé non officiel). Les cytokines sont pléiotropes/redondantes (C faux) et sécrétées/solubles (D faux), avec une action autocrine, paracrine ou endocrine. Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q14", "lesson": "annales-2024", "type": "single", "difficulty": "moyen",
+   "stem": "À propos du rejet de greffe (1 réponse) :",
+   "options": ["Le rejet relève en priorité de l'immunité innée", "Le rejet relève en priorité d'une réaction immunitaire adaptative", "Les antigènes reconnus sont ceux des groupes A et B", "Les greffes orthotopiques ne sont jamais rejetées", "Le rejet est associé à l'hypersensibilité retardée"],
+   "correct": [1],
+   "hint": "Le rejet repose sur la reconnaissance des antigènes HLA par les LT.",
+   "explanation": "B (corrigé non officiel). Le rejet est avant tout une réaction adaptative (LT anti-HLA du greffon). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q15", "lesson": "annales-2024", "type": "multiple", "difficulty": "moyen",
+   "stem": "Concernant l'immunité muqueuse :",
+   "options": ["Les IgA peuvent être polymériques ou monomériques", "Les IgA existent sous un seul isotype chez l'Homme", "Les IgA n'activent pas (ou peu) le complément par la voie classique", "Les IgA permettent l'activation des lymphocytes T CD8", "Les IgA sont capables de traverser les épithéliums"],
+   "correct": [0, 2, 4],
+   "hint": "Il existe IgA1 et IgA2 ; les IgA sécrétoires traversent l'épithélium.",
+   "explanation": "ACE (corrigé non officiel). Il existe 2 sous-classes IgA1/IgA2 (B faux) ; les IgA ne servent pas à activer les CD8 (D faux). Cohérent avec le cours FC03 (IgA sécrétoires, transcytose).",
+   "confidence": "incertain", "source": "Partiellement lié FC03"
+  },
+  {
+   "id": "a2024-q16", "lesson": "annales-2024", "type": "multiple", "difficulty": "moyen",
+   "stem": "Immunité anti-tumorale : quels types cellulaires peuvent détruire les cellules tumorales ?",
+   "options": ["Les lymphocytes B régulateurs", "Les cellules T CD4", "Les cellules Natural Killer (NK)", "Les lymphocytes B", "Les lymphocytes T CD8 cytotoxiques"],
+   "correct": [2, 4],
+   "hint": "Cytotoxicité directe = NK et CD8.",
+   "explanation": "CE (corrigé non officiel). La destruction directe des cellules tumorales repose sur les NK et les LT CD8 cytotoxiques. Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q17", "lesson": "annales-2024", "type": "multiple", "difficulty": "moyen",
+   "stem": "La primo-vaccination induit majoritairement :",
+   "options": ["Une forte réponse IgM", "Des cytokines pro-inflammatoires", "Une réponse IgE", "Une forte réponse IgG", "La production de lymphocytes B mémoires"],
+   "correct": [0, 1],
+   "hint": "La réponse primaire est dominée par les IgM.",
+   "explanation": "AB (corrigé non officiel). La réponse primaire est dominée par les IgM (la forte IgG est la réponse secondaire, D faux). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  },
+  {
+   "id": "a2024-q18", "lesson": "annales-2024", "type": "multiple", "difficulty": "difficile",
+   "stem": "Facteurs impliqués dans la physiopathologie du LES (Lupus Érythémateux Systémique) :",
+   "options": ["Il n'y a pas de facteur génétique impliqué", "On peut observer des déficits du complément (C1q, C2…)", "Accumulation de corps apoptotiques non dégradés (rupture de tolérance)", "Les complexes immuns s'accumulent dans les tissus, notamment le rein", "On observe une diminution de l'interféron alpha"],
+   "correct": [1, 2, 3],
+   "hint": "L'IFN-α est très augmenté dans le lupus.",
+   "explanation": "BCD. Corrigé confirmé par le cours FC03 (ACC) : lupus polygénique (A faux), IFN-α très AUGMENTÉ (E faux).",
+   "confidence": "sûr", "source": "Confirmé FC03"
+  },
+  {
+   "id": "a2024-q19", "lesson": "annales-2024", "type": "multiple", "difficulty": "moyen",
+   "stem": "Immunologie de la grossesse et système immunitaire de l'enfant :",
+   "options": ["Le fœtus n'exprime pas les allo-antigènes paternels jusqu'à la naissance", "L'allaitement apporte une grande quantité d'IgM sécrétoires", "La tolérance materno-fœtale est temporaire et sélective", "Chez le jeune enfant, les LTreg migrent vers le tube digestif (tolérance alimentaire)", "Pendant la grossesse, le SI maternel est totalement anergique"],
+   "correct": [2, 3],
+   "hint": "Allaitement = IgA ; le fœtus exprime bien les allo-Ag paternels.",
+   "explanation": "CD. Corrigé confirmé par le cours FC03 : le fœtus exprime les allo-Ag paternels (A faux), l'allaitement apporte des IgA (B faux), le SI maternel n'est pas anergique (E faux).",
+   "confidence": "sûr", "source": "Confirmé FC03"
+  },
+  {
+   "id": "a2024-q20", "lesson": "annales-2024", "type": "single", "difficulty": "difficile",
+   "stem": "Concernant les biothérapies :",
+   "options": ["Chez l'Homme, il existe 4 classes (isotypes) d'immunoglobulines", "La portion Fab des immunoglobulines permet la reconnaissance de l'antigène", "Les anticorps monoclonaux humanisés sont plus immunogènes que les chimériques", "La voie orale est la voie préférentielle des anticorps monoclonaux", "Les biosimilaires sont moins efficaces que les spécialités de référence"],
+   "correct": [1],
+   "hint": "Il existe 5 isotypes (IgG, A, M, E, D) ; le Fab reconnaît l'antigène.",
+   "explanation": "B (corrigé non officiel). Il existe 5 isotypes d'Ig (A faux) ; les anticorps humanisés sont MOINS immunogènes que les chimériques (C faux) ; voie IV/SC, pas orale (D faux) ; les biosimilaires sont équivalents (E faux). Sujet hors des 7 cours.",
+   "confidence": "incertain", "source": "Hors cours fournis — réponse au mieux"
+  }
+ ]
+}

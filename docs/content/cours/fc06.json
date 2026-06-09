@@ -1,0 +1,848 @@
+{
+ "slug": "fc06",
+ "code": "FC06",
+ "title": "Mécanismes d’action des immunoglobulines polyvalentes",
+ "prof": "Pr. Maillard",
+ "sourceFile": "FC06-Maillard-Meěcanismes d’action des immunoglobulines polyvalentes-23.01.pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "i-quelle-utilite-clinique",
+   "label": "I. Quelle utilité clinique ?",
+   "level": 2
+  },
+  {
+   "id": "2-traitements-differents",
+   "label": "2 TRAITEMENTS DIFFÉRENTS",
+   "level": 2
+  },
+  {
+   "id": "ii-deficits-humoraux-deficits-en-anticorps",
+   "label": "II. Déficits humoraux (déficits en anticorps)",
+   "level": 2
+  },
+  {
+   "id": "iii-production-des-ivig-pas-a-savoir-par-coeur-mais-a-compre",
+   "label": "III. Production des IVIg (pas à savoir par cœur mais à comprendre)",
+   "level": 2
+  },
+  {
+   "id": "iv-de-nombreuses-indications-en-auto-ou-allo-immunite",
+   "label": "IV. De nombreuses indications en auto ou allo-immunité",
+   "level": 2
+  },
+  {
+   "id": "les-indications",
+   "label": "LES INDICATIONS",
+   "level": 2
+  },
+  {
+   "id": "v-pourquoi-utiliser-des-ivig-en-auto-immunite",
+   "label": "V. Pourquoi utiliser des IVIg en auto-immunité ?",
+   "level": 2
+  },
+  {
+   "id": "1-action-sur-les-fcr-r",
+   "label": "1. Action sur les FcRγR",
+   "level": 3
+  },
+  {
+   "id": "2-sialylation-des-igg",
+   "label": "2. Sialylation des IgG",
+   "level": 3
+  },
+  {
+   "id": "sialylation-des-igg",
+   "label": "SIALYLATION DES IgG",
+   "level": 2
+  },
+  {
+   "id": "3-recyclage-des-ig-par-fcrn-point-tres-important",
+   "label": "3. Recyclage des Ig par FcRn : (Point très important)",
+   "level": 3
+  },
+  {
+   "id": "4-reseau-anti-idiotype",
+   "label": "4. Réseau anti-idiotype",
+   "level": 3
+  },
+  {
+   "id": "5-multiples-effets-sur-les-lymphocytes-b-niveau-de-preuve-fa",
+   "label": "5. Multiples effets sur les lymphocytes B (niveau de preuve faible)",
+   "level": 3
+  },
+  {
+   "id": "6-inhibition-du-complement-passe-rapidement",
+   "label": "6. Inhibition du complément (Passé rapidement)",
+   "level": 3
+  },
+  {
+   "id": "vi-conclusion",
+   "label": "VI. Conclusion",
+   "level": 2
+  },
+  {
+   "id": "vii-qcm-2024-2025",
+   "label": "VII. QCM 2024 – 2025",
+   "level": 2
+  },
+  {
+   "id": "viii-qcm-2025-2026",
+   "label": "VIII. QCM 2025 – 2026",
+   "level": 2
+  },
+  {
+   "id": "ix-acc",
+   "label": "IX. ACC",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. MAILLARD Immunopathologie GOUTTE Lorie Mécanismes d’action des immunoglobulines polyvalentes"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-quelle-utilite-clinique",
+   "text": "I. Quelle utilité clinique ?"
+  },
+  {
+   "type": "paragraph",
+   "text": "« Noyer » notre immunité naturelle avec des IVIg (= Immunoglobulines ou anticorps injectés par voie IV) a tout un tas de bénéfices potentiels."
+  },
+  {
+   "type": "paragraph",
+   "text": "Les IgVI sont utilisées dans 2 types de situations cliniques : en traitement substitutif ou en immunomodulation."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "2-traitements-differents",
+   "text": "2 TRAITEMENTS DIFFÉRENTS"
+  },
+  {
+   "type": "paragraph",
+   "text": "Traitement substitutif Dose : 0,4g/kg"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Substituer les anticorps manquants par apport exogène d’immunoglobulines pour limiter le risque infectieux."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "On retrouve des déficits immunitaires humoraux (secteur circulant <5g/L ou <3g/L) congénitaux ou primitifs mais aussi acquis (liés notamment à des maladies hématologiques comme les myélomes multiples (car production Ig monoclonale inefficace) ou les leucémies lymphoïdes chronique)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Utilisé également pour des patients qui font beaucoup d’infections (déficit humoral) où l’on peut être amené à les traiter par des Ig polyvalentes."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Pour les greffes de moelle osseuse."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Traitement toutes les 3 semaines à 1 mois."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Sans traitement => exposition aux risques infectieux +++."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Immunomodulation Dose : 1-2g/kg"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Moduler le système immunitaire pour obtenir un effet bénéfique.",
+    "À savoir que les doses utilisées ne sont pas les mêmes : on utilise de plus fortes doses en immunomodulation (pas anodin car très cher !)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Purpura thrombopénique immunologique (PTI)",
+    "Les IVIg permet de faire remonter le taux de plaquettes (récidive) pas au long court mais avant chirurgie pour éviter les risques hémorragiques."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Guillain-Barré",
+    "Utilisation en neurologie dans la polyradiculomyélite aiguë : maladie auto- immune dans laquelle les anticorps attaquent la gaine de myéline, peut entraîner une tétraplégie avec déficit respiratoire, traitement de 1 ère intention = Ig polyvalentes."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Kawasaki",
+    "Vascularite auto-immune fréquente des coronaires, maladie pédiatrique."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-deficits-humoraux-deficits-en-anticorps",
+   "text": "II. Déficits humoraux (déficits en anticorps)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Sur le schéma : électrophorèse des protéines du sérum (sérum = phase liquidienne après coagulation du sang, sans les facteurs de coagulation)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Entraîne une hypogammaglobulinémie : déficit en gamma sur électrophorèse.",
+    "Mise en évidence par électrophorèse.",
+    "Les différentes Ig sont étalées (différentes tailles et poids) sur la bande gamma.",
+    "La courbe « Gamma » représente les différents isotypes d’Ig."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-production-des-ivig-pas-a-savoir-par-coeur-mais-a-compre",
+   "text": "III. Production des IVIg (pas à savoir par cœur mais à comprendre)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "On prend du plasma d’humain (donneurs de sang) : on prend un mélange de l’immunité de plusieurs personnes.",
+    "Le sang des donneurs peut être utilisé de 2 manières : pour faire des poches de plasma ou pour faire des plasma médicaments.",
+    "On enlève les facteurs de coagulation.",
+    "Fractionnement qui permet de séparer les différents types de protéines.",
+    "On récupère certaines fractions qui sont filtrées.",
+    "Traitements des fractions du sang : traitements chimiques avec des agents détergents pour purifier les Ig et supprimer les pathogènes contaminants.",
+    "Différents moyens d’extraction (chromatographie, extraction sur phase).",
+    "Encore une filtration, ultrafiltration.",
+    "Conditionnement.",
+    "On peut voir que la purification est poussée assez loin, ce qui permet d’isoler les IgG ++ mais pas que : aussi des IgA (important à savoir).",
+    "De plus, on enlève les impuretés (bactéries, virus…) => pas de risque infectieux décrit.",
+    "< 20 nm : Ig et > 20 nm : virus."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-de-nombreuses-indications-en-auto-ou-allo-immunite",
+   "text": "IV. De nombreuses indications en auto ou allo-immunité"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "les-indications",
+   "text": "LES INDICATIONS"
+  },
+  {
+   "type": "paragraph",
+   "text": "Neurologie"
+  },
+  {
+   "type": "list",
+   "items": [
+    "IgG régulièrement utilisées => m yasthénies, Guillain-Barré, Miller Fischer, polyradiculonévrite inflammatoire démyélinisante chronique (PIDC)…"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Hématologie • Purpura thrombopénique immunologique (PTI), anémie hémolytique auto-immune."
+  },
+  {
+   "type": "paragraph",
+   "text": "Transplantation d’organes solides"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Rein +++.",
+    "Dans les questions de rejet, traitement de l’allo-immunité médiée par les anticorps anti- HLA dont on va limiter les effets en les noyant."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Dermatologie • Dermatopolymyosite, pemphigus."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-pourquoi-utiliser-des-ivig-en-auto-immunite",
+   "text": "V. Pourquoi utiliser des IVIg en auto-immunité ?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ce n’est pas un mécanisme simple ! Il est multivoies et fait intervenir certaines propriétés de l’immunité humorale qui permet d’illustrer ce qu’est un anticorps."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Prérequis : on sait qu’une MAI est excès de système immunitaire alors pourquoi ajouter des Ig ?"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les IVIg agissent selon divers mécanismes :",
+    "Blocage des récepteurs de fragments Fc : diversité de récepteurs de fragments Fc.",
+    "Rôle de sialylation des Ig (notamment des IgG)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ig = glycoprotéine, protéine + souvent une N-glycosylation, qui a une fonction de codage de la réponse immunitaire.",
+    "Modulation du complément : activé par les anticorps dans la voie classique.",
+    "Anticorps anti-idiotypes.",
+    "Saturation du recyclage par FcRn."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "FcRn = récepteur du fragment Fc néonatal, très important car impliqué dans la demi-vie des Ig.",
+    "Inhibition de la synthèse des Ig par les lymphocytes B : les plasmocytes ont un système de sensibilité à la quantité d’anticorps circulants.",
+    "Inhibition de l’activation des cellules dendritiques.",
+    "Activité anti-RGD : inhibition des β-intégrines (ne va pas l’évoquer)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Impliqué dans la régulation de l’immunité."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "1-action-sur-les-fcr-r",
+   "text": "1. Action sur les FcRγR"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les FcγR ont tous à peu près la même structure (chaîne α et chaîne β).",
+    "FcγR : récepteur des Fcγ (IgG).",
+    "Il existe une grande diversité des récepteurs aux IgG.",
+    "Il existe plusieurs isotypes IgG : ces isotypes activent certains récepteurs et pas d’autres (par exemple, la réponse IgG1 est + pro-inflammatoire que la réponse IgG2).",
+    "Les récepteurs : certains sont activateurs et d’autres sont inhibiteurs (FcγR2B)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les récepteurs sont portés par différentes cellules (cellule dendritique, lymphocyte B, macrophage…) donc la fonction du récepteur va être liée à la cellule qui le porte : certains seront + pro-phagocytose, d’autres vont permettre l’ADCC (Antibody-Dependent Cell-mediated Cytotoxicity) par les cellules NK…"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ces récepteurs nécessitent un shedding pour fonctionner : ils ont besoin de reconnaître plusieurs cibles présentes de façon immobile sur une surface limitée.",
+    "Il faut plusieurs IgG au même endroit qui reconnaissent un antigène pour que plusieurs récepteurs soient mis les uns à côté des autres : régionalisation des récepteurs à la surface de la cellule, nécessaire à la transduction du signal."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Finalement, l’immunité liée aux anticorps est liée aux complexes immuns :",
+    "Un antigène et plusieurs anticorps autour, plusieurs récepteurs ciblés => shedding => transduction du signal."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Plusieurs anticorps permettent le shedding. Il faut plusieurs anticorps qui activent le même récepteur."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Rappel : anticorps = pont de message, la fraction Fab reconnaît l’antigène et le fragment Fc va permettre la transduction du signal via les récepteurs au Fc présents sur les différentes cellules."
+  },
+  {
+   "type": "list",
+   "items": [
+    "IVIg : anticorps monomériques en grande quantité.",
+    "Elles sont monomériques, donc elles vont se coller au récepteur FCγR sans être attachées à une cible (un antigène) = masquent ces récepteurs et empêchent leur shedding => mécanisme anti-inflammatoire des IgG."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Saturation des récepteurs FCγR par des Ig monomériques à l’inverse du complexe immun où les IgG monomériques sont attachées à un antigène."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le but est de noyer (saturer) les récepteurs avec les Ig importées afin de limiter les réactions inflammatoires."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "2-sialylation-des-igg",
+   "text": "2. Sialylation des IgG"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "sialylation-des-igg",
+   "text": "SIALYLATION DES IgG"
+  },
+  {
+   "type": "paragraph",
+   "text": "Glycosylation"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Il y a des points de la séquence des acides aminés des Ig sur lesquels il y a une chaîne de sucre, le plus souvent de type N-glycosylation (sur asparagine, qui expose un NH, ce NH peut être oxydé pour porter une chaîne de glycosylation)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ce sont des sucres qui s’enchaînent et qui sont positionnés à différents endroits de l’Ig (la plus connue étant l’asparagine 293)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Il existe néanmoins d’autres lieux de glycosylation notamment sur le fragment Fab."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "La N-glycosylation est la seule pour les IgG."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "La O-glycosylation existe pour les IgA et les IgD."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Sialylation"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Présence d’un acide sialyque."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Sert à couvrir les Ig de charges négatives et a un rôle de signalisation (selon la sialylation, on aura une affinité plus ou moins importante pour les récepteurs FCγR)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Elle va avoir un effet inhibiteur sur plusieurs systèmes : sur les FcγR, sur l’ADCC, affinité pour le C1q, limiter l’effet pro-inflammatoire."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les auto-anticorps sont en général beaucoup moins sialylés que les Ig de l’immunité naturelle."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Et donc une partie du message dépend de l’isotype d’IgG et de son agressivité, mais dépend également de la sialylation des fragments Fc."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Plus c’est sialylé et plus la réponse sera inhibitrice. À l’inverse, moins c’est sialylé et plus c’est agressif et pro-inflammatoire et active la voie classique du complément."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "On a mis en évidence dans tout un tas de maladies auto-immunes que les Ig impliquées dans l’auto-immunité des patients sont hyposialylées => un des mécanismes du caractère pro- inflammatoire des auto-anticorps."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cette sialylation permet une activation plus ou moins importante de la voie classique du complément."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ces IgG sialylées vont agir sur différentes voies :",
+    "Sur les cellules myéloïdes : inhibition des voies effectrices de l’immunité (ADCC, voie classique et lectines du complément).",
+    "Sur le lymphocyte B : plusieurs cibles pour les inhiber, le CD23 reconnaît la sialylation et permet d’augmenter le FCγR inhibiteur 2B, agit aussi sur le BCR, sur la voie des TLR."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "3-recyclage-des-ig-par-fcrn-point-tres-important",
+   "text": "3. Recyclage des Ig par FcRn : (Point très important)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Système de recyclage des Ig permettant à ces Ig d’avoir une durée de vie plus longue."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Recyclage intra-cellulaire."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Système de recyclage des protéines : toutes les protéines passent par-là (endosome, lysosome, etc)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Certaines protéines sont protégées de la protéolyse et notamment les Ig."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les IgG sont protégées de l’endocytose et de la destruction des protéines par le FcRn de type néonatal qui permet aux Ig d’être protégées dans l’endosome et d’être de nouveau sécrétées.",
+    "Lorsqu’on bloque le FcRn, la durée de vie des Ig est beaucoup réduite (divisée par 3).",
+    "FCRn protège les Ig dans l’endosome : allongement de la durée de vie des IgG."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Exemple de l’Eculizumab : ne faisait pas l’objet du recyclage, avec perfusion tous les 15 jours.",
+    "4 acides aminés changés pour permettre aux anticorps d’être résistants à l’attaque acide des lysosomes et pour avoir une affinité au récepteur RFcn afin qu’il résiste en milieu acide.",
+    "Nouveau traitement perfusé tous les 2 mois (Ravulizumab)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Saturation par l’IVIg :",
+    "IVIg administrées en grande quantité => saturation du recyclage des Ig car Ig en grande quantité, plus grande proportion des IVIg qui seront recyclées au détriment des Ig pathogènes => réduction de la demi-vie des anticorps pathogènes en « noyant » ce recyclage = compétition pour le recyclage.",
+    "Lorsqu’on perfuse des IVIg, elles noient le système et prennent la place des anticorps pathogènes.",
+    "Les anticorps auront moins de place pour être recyclés en laissant la place au IVIg."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "4-reseau-anti-idiotype",
+   "text": "4. Réseau anti-idiotype"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Le paratope reconnaît l’antigène = nouvelle molécule, va faire l’objet d’une réponse anticorps.",
+    "À la suite des hypermutations somatiques, dans certains cas, le paratope n’est plus reconnu comme une molécule du soi, créant ainsi un anticorps anti-paratope ayant une digestion lysosomale modulée par le FcRn.",
+    "Néanmoins, ce paratope de l’anti-paratope va ressembler à de l’antigène. Finalement, comme les Ig sont bivalentes (IgG) on va avoir des anticorps qui se reconnaissent les uns les autres par le paratope."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Système qui tourne en boucle entre les épitopes et les paratopes."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Potentiellement, tous les 2 anticorps, le paratope mime l’antigène (puisque c’est le congruent du 1 er paratope) : donc tout ça va faire des réseaux d’Ig qui se reconnaissent les unes les autres avec des liaisons qui sont faibles et vont empêcher la fixation aux récepteurs = création d’une force anti-inflammatoire."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "C’est physiologique d’en avoir."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Dans les IVIg qu’on va passer pour des maladies auto-immunes, on va passer plein d’Ig qui pourront faire des réseaux anti-idiotypes contre les anticorps anti-soi."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "5-multiples-effets-sur-les-lymphocytes-b-niveau-de-preuve-fa",
+   "text": "5. Multiples effets sur les lymphocytes B (niveau de preuve faible)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Mécanisme observé de façon empirique, mais tout n’est pas très clair."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "IVIg sur les lymphocytes B => inhibition des lymphocytes B par divers mécanismes."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Activité anti-BAFF :",
+    "Voie du BAFF = cytokine étant un facteur de croissance des lymphocytes B. Avec plusieurs récepteurs qui permettent la sélection et la maturation des lymphocytes B.",
+    "En fonction de son taux, va régler la pression de sélection des lymphocytes B en cours de maturation.",
+    "+ il y a de BAFF et + on recrute un nombre de clones importants de lymphocytes B et donc + de clones auto- réactifs (mais tant pis car il faut combattre l’infection) et inversement.",
+    "BAFF : rôle très important, par exemple dans le lupus on utilise des anticorps anti-BAFF permettant de réguler les lymphocytes B auto-réactifs.",
+    "L’IVIg aura une certaine activité anti-BAFF, permettant de diminuer la quantité de lymphocytes B auto- réactifs."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibition de la synthèse d’Ig in vitro (Ig entière) :",
+    "Inhibition homéostatique, plus il y a d’Ig dans l’environnement et moins les plasmocytes vont en sécréter. Régulation de la quantité d’IgG dans le corps, s'il y’en a moins ça les stimule et inversement. (Non compris pour l’instant)",
+    "Dans l’exemple de la plasmaphérèse (on enlève du plasma donc des Ig), le patient se retrouve avec très peu d’IgG circulants, les plasmocytes auto-réactifs vont produire en masse (rebond de synthèse des auto- anticorps). Pour éviter ça, après une plasmaphérèse, il faut passer des IgG au patient pour bloquer le rebond d’auto-anticorps."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Apoptose des lymphocytes B induite par les IVIg in vitro."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diminution de l’expression HLA et costimulation, in vitro."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diminution de la réponse TLR9 :",
+    "Voie TLR9 = réponse du système immunitaire inné qui reconnaît les PAMPs ou DAMPs."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Diminution de l’activation de la voie du BCR."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Inhibition globale des lymphocytes B médiée par des anticorps par différents mécanismes."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Flèches rouges : impact des IVIg sur différentes voies. Sur le schéma : une cellule B."
+  },
+  {
+   "type": "heading",
+   "level": 3,
+   "id": "6-inhibition-du-complement-passe-rapidement",
+   "text": "6. Inhibition du complément (Passé rapidement)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Explications schéma :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les IVIg sont injectées aux patients (graphiques des IgG en bas).",
+    "On voit qu’en miroir on a une diminution de la capacité à activer le C3B.",
+    "Donc les IVIg permettent d’inhiber le complément."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Attention, rien ne démontre qu’il y a un effet direct."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vi-conclusion",
+   "text": "VI. Conclusion"
+  },
+  {
+   "type": "list",
+   "items": [
+    "De multiples mécanismes sont mis en jeu.",
+    "Ce n’est pas juste un simple transfert d’IgG.",
+    "Action pléiotropique : plusieurs cibles en même temps.",
+    "Il existe quelques problèmes de tolérance (déficit en Ig A+++)."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Petit point important sur les patients déficitaires en IgA :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les IVIg contiennent des IgG+++ et une certaine proportion d’IgA (cf début du cours) sauf que dans la population une personne sur 700 possède un déficit total en IgA.",
+    "On fait alors face à une réactivité de type allergique chez ces gens-là quand on les perfuse (choc anaphylactique !!).",
+    "Chez ces patients, il faut donc perfuser certaines IVIg qui ne contiennent pas d’IgA.",
+    "Il faut donc bien vérifier la présence d’IgA circulantes chez les patients avant de les perfuser !"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-qcm-2024-2025",
+   "text": "VII. QCM 2024 – 2025"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q1 – Concernant les IVIg, cochez la (ou les) réponse(s) juste(s) : A. Elles sont utilisées en traitement substitutif ou en immunomodulation. B. En traitement substitutif les doses sont plus fortes. C. Un déficit humoral se voit sur l’électrophorèse par la bande gamma. D. Pour fabriquer des IVIg on utilise des Ig de donneur, que l’on filtre et purifie. E. Un anticorps spécifique d’une cible veut dire qu’il va la détruire."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q2 – Concernant les IVIg, cochez la (ou les) réponse(s) juste(s) : A. Le récepteur FcγR est le récepteur des IgM. B. Le shedding correspond à plusieurs antigènes et un anticorps qui activent un récepteur. C. Pour les IgG, la glycosylation est de type N-glycosylation. D. Plus il y a de BAFF et plus on risque d’avoir des clones auto-réactifs. E. Les IVIg provoquent une diminution de la capacité à activer le complément."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q3 – Concernant la sialylation des IgG, cochez la (ou les) réponse(s) juste(s) : A. La O-glycosylation est la seule pour les IgG. B. Elle recouvre une protéine de charges positives. C. Elle a un rôle de signalisation et une grande affinité pour les récepteurs FCγR. D. Plus les IgG sont sialylées, plus elles sont activatrices et pro-inflammatoires donc elles activent la voie classique du complément . E. Dans de nombreuses maladies auto-immunes , les IgG impliquées dans l’auto-immunité des patients sont hyposialylées."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q4 – Concernant le recyclage des Ig, cochez la (ou les) réponse(s) juste(s) : A. Il permet de diminuer la demi-vie des IgG. B. Il permet de protéger les IgG dans les endosomes et de les sécréter à nouveau."
+  },
+  {
+   "type": "paragraph",
+   "text": "C. Il passe par le récepteur RFcn. D. L’injection des IVIg va saturer le système. E. C’est un recyclage passif où toutes les protéines passent."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q1 – Concernant les IVIg, cochez la (ou les) réponse(s) juste(s) : ACD A. VRAI. B. FAUX : En immunom odulation les doses sont plus fortes. C. VRAI. D. VRAI. E. FAUX : Il existe des inhibitions et des modulations."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q2 – Concernant les IVIg, cochez la (ou les) réponse(s) juste(s) : CDE A. FAUX : Le récepteur FcγR est le récepteur des IgG. B. FAUX : Le shedding correspond à un antigène, plusieurs anticorps et plusieurs récepteurs. C. VRAI. D. VRAI. E. VRAI."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q3 – Concernant la sialylation des IgG, cochez la (ou les) réponse(s) juste(s) : CE A. FAUX : La N-glycosylation est la seule pour les IgG. B. FAUX : Elle recouvre une protéine de charges négatives. C. VRAI. D. FAUX : Moins les IgG sont sialylées, plus elles sont activatrices et pro-inflammatoires donc elles activent la voie classique du complément. E. VRAI."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q4 – Concernant le recyclage des Ig, cochez la (ou les) réponse(s) juste(s) : BCD A. FAUX : Il permet d’augmenter la demi-vie des IgG. B. VRAI. C. VRAI. D. VRAI. E. FAUX : C’est un recyclage actif où toutes les protéines passent."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "viii-qcm-2025-2026",
+   "text": "VIII. QCM 2025 – 2026"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q1 – Concernant l’utilisation clinique des immunoglobulines polyvalentes (IVIg), cochez la (ou les) proposition(s) juste(s) : A. Les IVIg peuvent être utilisées en traitement substitutif et en immunomodulation. B. Le traitement substitutif utilise des doses de 1 à 2 g/kg. C. Les IVIg sont indiquées dans le purpura thrombopénique immunologique avant une chirurgie. D. Le traitement par IVIg est administré quotidiennement en traitement substitutif. E. Les IVIg sont un traitement de première intention dans le syndrome de Guillain-Barré."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q2 – À propos des déficits immunitaires humoraux et de leur exploration, cochez la (ou les) réponse(s) juste(s) : A. Un déficit humoral entraîne une hypogammaglobulinémie visible sur l’électrophorèse. B. La bande gamma correspond à un seul isotype d’immunoglobuline. C. Les déficits humoraux peuvent être congénitaux ou acquis. D. Les myélomes multiples peuvent entraîner un déficit humoral fonctionnel. E. Un déficit humoral est défini par une augmentation des Ig circulantes."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q3 – Concernant la sialylation et le recyclage des IgG, cochez la (ou les) réponse(s) juste(s) : A. La sialylation des IgG augmente leur caractère pro-inflammatoire. B. Les IgG sont glycosylées exclusivement par N-glycosylation. C. Le FcRn protège les IgG de la dégradation lysosomale. D. Les IVIg réduisent la demi-vie des anticorps pathogènes par compétition pour le FcRn. E. Les auto-anticorps sont en général plus sialylés que les Ig physiologiques."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q1 – Concernant l’utilisation clinique des immunoglobulines polyvalentes (IVIg), cochez la (ou les) proposition(s) juste(s) : ACE A. VRAI. B. FAUX : Le traitement substitutif utilise des doses de 0,4 g/kg. C. VRAI. D. FAUX : Le traitement par IVIg est administré toutes les 3 semaines à 1 mois en traitement substitutif. E. VRAI."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q2 – À propos des déficits immunitaires humoraux et de leur exploration, cochez la (ou les) réponse(s) juste(s) : ACD A. VRAI. B. FAUX : La bande gamma correspond à différents types d’immunoglobulines. C. VRAI. D. VRAI. E. FAUX : Un déficit humoral est défini par une diminution des Ig circulantes."
+  },
+  {
+   "type": "paragraph",
+   "text": "Q3 – Concernant la sialylation et le recyclage des IgG, cochez la (ou les) réponse(s) juste(s) : A. FAUX : Les Ig impliquées dans l’auto-immunité sont hyposialylées. B. VRA I. C. VRAI. D. VRAI. E. FAUX : Les auto-anticorps sont en général moins sialylés que les Ig physiologiques."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ix-acc",
+   "text": "IX. ACC"
+  },
+  {
+   "type": "paragraph",
+   "text": "2023"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q11 – À propos des immunoglobulines polyvalentes (IVIG) : (1 réponse) A. Les perfusions d’IVIG n’induisent jamais de la fièvre. B. Les perfusions d’IVIG peuvent corriger certaines maladies auto-immunes . C. Les IVIG sont des immunoglobulines monoclonales. D. Le manque d’anticorps peut être substitué par des perfusions d’immunoglobulines. E. La substitution d’immunoglobulines apporte uniquement des IgE et des IgM."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : B"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q12 – À propos des immunoglobulines polyvalentes (IVIG) et des récepteurs aux IgG : A. Les récepteurs aux IgG existent sous 3 isotypes I, II et III. B. L’isotype III des récepteurs aux IgG est fortement exprimé par les polynucléaires. C. L’isotype I des récepteurs aux IgG est le CD16. D. Les récepteurs aux IgG peuvent activer ou inhiber la cellule après liaison à une IgG. E. Les récepteurs aux IgG sont communs aux IgE et aux IgA."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : ABD"
+  },
+  {
+   "type": "paragraph",
+   "text": "2022"
+  },
+  {
+   "type": "paragraph",
+   "text": "Q19 – Laquelle (lesquelles) des propositions suivantes caractérise(nt) les Immunoglobulines polyspécifiques à usage thérapeutique (IVIG) ? A. Les IVIG sont indiquées dans le traitement de maladies inflammatoires. B. Les immunoglobulines poly-spécifiques sont préparées à partir de mélanges de sérum de plusieurs centaines de donneurs. C. Les perfusions d’IVIG doivent être injectées toutes les semaines. D. Les perfusions d’IVIG sont requises en cas de déficit en lymphocytes B. E. Des perfusions d’IVIG ont montré leur efficacité dans la polyarthrite rhumatoïde."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : ABD"
+  },
+  {
+   "type": "paragraph",
+   "text": "2018"
+  },
+  {
+   "type": "paragraph",
+   "text": "À propos des immunoglobulines polyvalentes (IVIG) : A. Les IVIG sont polyclonales. B. L’absence d’anticorps peut être substituée par des perfusions d’immunoglobulines. C. Les perfusions d’IVIG n’induisent jamais de fièvre. D. Les IVIG peuvent se lier au récepteur CD16. E. Les IVIG sont monoclonales."
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction : ABD"
+  }
+ ]
+}

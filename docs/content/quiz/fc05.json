@@ -1,0 +1,223 @@
+{
+ "slug": "fc05",
+ "title": "QCM — Thérapies cellulaires",
+ "unofficialKey": false,
+ "questions": [
+  {
+   "id": "fc05-q01",
+   "lesson": "fc05",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Comment appelle-t-on une thérapie cellulaire utilisant les cellules du patient lui-même ?",
+   "options": ["Autologue", "Allogénique", "Hétérologue", "Xénogénique", "Syngénique"],
+   "correct": [0],
+   "hint": "« Auto » = soi-même.",
+   "explanation": "La thérapie cellulaire autologue utilise les cellules du patient (récupérées, éventuellement traitées/proliférées, puis réinjectées). La thérapie allogénique (= hétérologue) provient d'un donneur et nécessite une compatibilité HLA.",
+   "tags": ["définition"],
+   "source": "FC05 — Définition"
+  },
+  {
+   "id": "fc05-q02",
+   "lesson": "fc05",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Combien de catégories de cellules souches distingue-t-on selon leur potentiel de différenciation ?",
+   "options": ["4 (toti-, pluri-, multi-, unipotence)", "2", "3", "5", "Une infinité"],
+   "correct": [0],
+   "hint": "De l'individu entier à un seul type cellulaire.",
+   "explanation": "On distingue 4 catégories : totipotence (un individu entier), pluripotence (n'importe quel type cellulaire), multipotence (plusieurs types) et unipotence (un seul type spécialisé).",
+   "tags": ["cellules souches"],
+   "source": "FC05 — Cellules souches"
+  },
+  {
+   "id": "fc05-q03",
+   "lesson": "fc05",
+   "type": "multiple",
+   "difficulty": "facile",
+   "stem": "Une cellule souche est définie par : (sujet d'annale)",
+   "options": [
+    "Sa capacité d'auto-renouvellement",
+    "Sa capacité à se différencier en de nombreux types cellulaires",
+    "Le fait qu'elle puisse provenir de nombreux organes (y compris le muscle)",
+    "Son incapacité à s'auto-renouveler",
+    "Le fait qu'elle reforme toujours un organisme entier"
+   ],
+   "correct": [0, 1, 2],
+   "hint": "Deux propriétés clés + une grande diversité de sources.",
+   "explanation": "Une cellule souche s'auto-renouvelle et se différencie en de nombreux types cellulaires ; il en existe dans de nombreux organes. Seules les cellules totipotentes peuvent reformer un organisme entier (donc E faux en général).",
+   "tags": ["annale", "cellules souches"],
+   "source": "FC05 — ACC 2022 Q13"
+  },
+  {
+   "id": "fc05-q04",
+   "lesson": "fc05",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quel est l'intérêt éthique des cellules souches pluripotentes induites (iPS) ?",
+   "options": [
+    "Elles évitent l'utilisation d'embryons humains (alternative aux CSE)",
+    "Elles sont totipotentes",
+    "Elles sont prélevées chez l'embryon",
+    "Elles ne se différencient jamais",
+    "Elles ne nécessitent aucune manipulation"
+   ],
+   "correct": [0],
+   "hint": "On les génère en laboratoire à partir de cellules différenciées.",
+   "explanation": "Les iPS sont générées en laboratoire par reprogrammation (dé-différenciation) de cellules différenciées : elles constituent une alternative éthique aux cellules souches embryonnaires (CSE).",
+   "tags": ["iPS", "éthique"],
+   "source": "FC05 — iPS"
+  },
+  {
+   "id": "fc05-q05",
+   "lesson": "fc05",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Concernant les cellules souches utilisées en thérapie cellulaire :",
+   "options": [
+    "Les iPS sont une alternative aux problèmes éthiques des cellules souches embryonnaires",
+    "Les cellules souches adultes sont multipotentes et prélevées à partir de la naissance",
+    "Les cellules souches mésenchymateuses sont dans des tissus difficilement accessibles",
+    "Les cellules souches adultes sont faciles à isoler et cultiver",
+    "Les cellules souches embryonnaires sont présentes en faibles quantités"
+   ],
+   "correct": [0, 1],
+   "hint": "Mésenchymateuses = tissus facilement accessibles ; embryonnaires = grande quantité.",
+   "explanation": "Réponses AB. Les CS mésenchymateuses sont dans des tissus FACILEMENT accessibles (C faux) ; les CS adultes sont DIFFICILES à isoler/cultiver (D faux) ; les CSE sont présentes en GRANDE quantité (E faux).",
+   "tags": ["annale", "cellules souches"],
+   "source": "FC05 — QCM 2"
+  },
+  {
+   "id": "fc05-q06",
+   "lesson": "fc05",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Quelles sont les deux sources possibles de cellules souches hématopoïétiques (CSH) ?",
+   "options": [
+    "La moelle osseuse",
+    "Le sang de cordon / placenta",
+    "Le tissu adipeux",
+    "Le foie adulte",
+    "La peau"
+   ],
+   "correct": [0, 1],
+   "hint": "Un prélèvement osseux/périphérique, et une banque à la naissance.",
+   "explanation": "Les CSH proviennent de la moelle osseuse (prélèvement osseux ou périphérique après mobilisation) et du sang de cordon/placenta (banque de cordon, CSH plus immatures et moins immunogènes).",
+   "tags": ["CSH", "prélèvement"],
+   "source": "FC05 — CSH"
+  },
+  {
+   "id": "fc05-q07",
+   "lesson": "fc05",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quelle est la différence entre la GVH et la GVL après allogreffe de CSH ?",
+   "options": [
+    "GVH = LT du donneur attaquent l'hôte (délétère) ; GVL = LT détruisent les cellules leucémiques résiduelles (bénéfique)",
+    "GVH est bénéfique, GVL est délétère",
+    "Les deux sont des effets recherchés",
+    "GVH concerne les LB, GVL les NK",
+    "Il n'existe aucune différence"
+   ],
+   "correct": [0],
+   "hint": "Host = hôte (mauvais) ; Leukemia = leucémie (bon).",
+   "explanation": "Le greffon contient des CSH mais aussi des LT du donneur. La GVH (Graft vs Host) : les LT attaquent l'hôte (peau, intestin, foie) → effet délétère. La GVL (Graft vs Leukemia) : les LT détruisent les cellules tumorales résiduelles → effet bénéfique recherché.",
+   "tags": ["GVH", "GVL", "allogreffe"],
+   "source": "FC05 — GVH/GVL"
+  },
+  {
+   "id": "fc05-q08",
+   "lesson": "fc05",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Que sont les CAR-T cells ?",
+   "options": [
+    "Des lymphocytes T génétiquement modifiés portant un récepteur chimérique reconnaissant un antigène natif sans CMH",
+    "Des cellules souches embryonnaires différenciées",
+    "Des anticorps monoclonaux",
+    "Des cellules dendritiques immunisées contre une tumeur",
+    "Des globules rouges modifiés"
+   ],
+   "correct": [0],
+   "hint": "CAR = Chimeric Antigen Receptor.",
+   "explanation": "Les CAR-T cells sont des LT génétiquement modifiés portant un récepteur chimérique (CAR) leur permettant de reconnaître un antigène natif directement, sans CMH. Les plus connues ciblent le CD19 (LB) dans les lymphomes/leucémies.",
+   "tags": ["CAR-T", "thérapie génique"],
+   "source": "FC05 — CAR-T cells"
+  },
+  {
+   "id": "fc05-q09",
+   "lesson": "fc05",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Quels sont les principaux effets indésirables des CAR-T cells ?",
+   "options": [
+    "Le syndrome de relargage cytokinique (CRS)",
+    "La neurotoxicité (ICANS)",
+    "La maladie cœliaque",
+    "Une hypogammaglobulinémie isolée bénigne",
+    "Une alopécie réversible spécifique"
+   ],
+   "correct": [0, 1],
+   "hint": "Une « tempête » de cytokines et une atteinte neurologique.",
+   "explanation": "Les deux EI majeurs des CAR-T cells sont le CRS (cytokine release syndrome, réponse inflammatoire systémique non contrôlée) et l'ICANS (neurotoxicité, du trouble de l'attention au coma). C'est encore une thérapie de sauvetage.",
+   "tags": ["CAR-T", "effets indésirables"],
+   "source": "FC05 — CAR-T cells"
+  },
+  {
+   "id": "fc05-q10",
+   "lesson": "fc05",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Le Sipuleucel-T (PROVENGE) est :",
+   "options": [
+    "Le premier vaccin thérapeutique anti-tumoral (cancer de la prostate métastatique)",
+    "Une CAR-T cell anti-CD19",
+    "Une thérapie génique des déficits en ADA",
+    "Une greffe de cornée",
+    "Un concentré de globules rouges"
+   ],
+   "correct": [0],
+   "hint": "Cellules dendritiques du patient immunisées contre la tumeur.",
+   "explanation": "Le Sipuleucel-T est le 1ᵉʳ vaccin thérapeutique anti-tumoral : on prélève les cellules dendritiques du patient, on les immunise contre des antigènes tumoraux, puis on les réinjecte (cancer métastatique de la prostate). Strimvelis = thérapie génique du déficit en ADA.",
+   "tags": ["Sipuleucel-T", "vaccin thérapeutique"],
+   "source": "FC05 — Cellules stimulées"
+  },
+  {
+   "id": "fc05-q11",
+   "lesson": "fc05",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Quelles sont des indications de l'allogreffe de CSH ?",
+   "options": [
+    "Hémopathies malignes (leucémies, myélodysplasies)",
+    "Déficits génétiques de la lignée hématopoïétique (drépanocytose, thalassémie)",
+    "Déficits immunitaires",
+    "Hypertension artérielle essentielle",
+    "Arthrose du genou"
+   ],
+   "correct": [0, 1, 2],
+   "hint": "On remplace une moelle malade par une moelle saine.",
+   "explanation": "L'allogreffe de CSH est indiquée dans les hémopathies malignes et les déficits génétiques touchant la lignée hématopoïétique (drépanocytose, thalassémie, déficits immunitaires) ; elle nécessite une compatibilité HLA maximale et un conditionnement (chimio myéloablative ± irradiation).",
+   "tags": ["allogreffe", "indications"],
+   "source": "FC05 — Allogreffes"
+  },
+  {
+   "id": "fc05-q12",
+   "lesson": "fc05",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Concernant les cellules souches (sujet d'annale) :",
+   "options": [
+    "Elles peuvent être récupérées au niveau du cordon ombilical",
+    "Elles sont caractérisées par leur capacité d'auto-renouvellement",
+    "Elles peuvent être induites à partir de cellules spécialisées",
+    "Elles sont toutes totipotentes",
+    "Elles ne sont actuellement pas utilisées en thérapeutique"
+   ],
+   "correct": [0, 1, 2],
+   "hint": "CSE = pluripotentes, CS adultes = multipotentes (pas totipotentes).",
+   "explanation": "Réponses ABC. Elles ne sont pas toutes totipotentes (CSE = pluripotentes, CS adultes = multipotentes), donc D faux. Elles sont bien utilisées en thérapeutique (E faux).",
+   "tags": ["annale", "cellules souches"],
+   "source": "FC05 — ACC 2025 Q15"
+  }
+ ]
+}

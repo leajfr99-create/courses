@@ -1,0 +1,49 @@
+{
+ "slug": "fc06",
+ "title": "Fiche — Immunoglobulines polyvalentes (IVIg)",
+ "updated": "2026-06-09",
+ "summary": "Les **IVIg** sont des immunoglobulines (surtout IgG, + un peu d'IgA) issues du **plasma de milliers de donneurs**. Deux usages : **substitutif** (0,4 g/kg) et **immunomodulation** (1-2 g/kg). En auto-immunité, leur action est **pléiotropique** (multivoies).",
+ "sections": [
+  {
+   "heading": "Deux usages cliniques",
+   "type": "table",
+   "columns": ["", "Substitutif", "Immunomodulation"],
+   "rows": [
+    ["Dose", "**0,4 g/kg**", "**1-2 g/kg** (plus fortes)"],
+    ["Rythme", "Toutes les 3 sem. à 1 mois", "Selon indication"],
+    ["Indications", "Déficits humoraux (congénitaux/acquis : myélome, LLC)", "PTI (avant chirurgie), Guillain-Barré (1ʳᵉ intention), Kawasaki"]
+   ]
+  },
+  {
+   "heading": "Déficits humoraux",
+   "type": "bullets",
+   "items": [
+    "→ **hypogammaglobulinémie** visible sur l'**électrophorèse** (bande gamma diminuée).",
+    "La bande gamma regroupe **différents isotypes** d'Ig.",
+    "Causes congénitales/primitives ou acquises (myélome multiple = Ig monoclonale inefficace, LLC)."
+   ]
+  },
+  {
+   "heading": "Mécanismes d'action (pléiotropiques)",
+   "type": "bullets",
+   "items": [
+    "**Blocage des FcγR** : IVIg monomériques saturent les récepteurs des IgG sans antigène → pas de regroupement (shedding) → anti-inflammatoire.",
+    "**Sialylation** : plus une IgG est sialylée, plus elle est inhibitrice ; les auto-Ac sont **hyposialylés** (pro-inflammatoires).",
+    "**Saturation du FcRn** : compétition → ↓ demi-vie des anticorps pathogènes.",
+    "**Réseaux anti-idiotypes**, **inhibition des LB** (anti-BAFF, ↓ synthèse d'Ig), **↓ complément**."
+   ]
+  },
+  {
+   "heading": "FcγR & FcRn — les incontournables",
+   "type": "callout",
+   "tone": "tip",
+   "html": "**FcγR** = récepteur des **IgG** (3 isotypes I/II/III ; **CD16 = FcγRIII** sur PNN/NK ; **FcγRIIB** inhibiteur). **FcRn** = recyclage **actif** protégeant les IgG → **↑ demi-vie** (son blocage la divise par 3). IgG = **N-glycosylation** (O-glyco = IgA/IgD)."
+  },
+  {
+   "heading": "Sécurité : déficit en IgA",
+   "type": "callout",
+   "tone": "important",
+   "html": "Les IVIg contiennent une fraction d'**IgA**. Or ~**1/700** a un **déficit complet en IgA** → risque de **choc anaphylactique**. Vérifier les IgA circulantes et utiliser des **IVIg sans IgA** chez ces patients."
+  }
+ ]
+}

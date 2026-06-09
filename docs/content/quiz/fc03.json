@@ -1,0 +1,254 @@
+{
+ "slug": "fc03",
+ "title": "QCM — Immunité de la grossesse & du nouveau-né",
+ "unofficialKey": false,
+ "questions": [
+  {
+   "id": "fc03-q01",
+   "lesson": "fc03",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Pourquoi la grossesse est-elle qualifiée de « paradoxe immunologique » ?",
+   "options": [
+    "C'est une greffe semi-allogénique (50 % d'antigènes paternels) qui n'est pourtant pas rejetée",
+    "Le système immunitaire maternel disparaît totalement",
+    "Le fœtus n'exprime aucun antigène",
+    "La mère et le fœtus sont génétiquement identiques",
+    "Le placenta isole totalement le fœtus du sang maternel"
+   ],
+   "correct": [0],
+   "hint": "Le fœtus hérite de 50 % d'antigènes du père.",
+   "explanation": "Le fœtus est une greffe semi-allogénique (50 % d'antigènes paternels) et n'est pourtant pas rejeté grâce à une tolérance materno-fœtale ACTIVE, TEMPORAIRE et SÉLECTIVE (et non par isolement ou anergie maternelle).",
+   "tags": ["tolérance materno-fœtale"],
+   "source": "FC03 — Énigme immunologique"
+  },
+  {
+   "id": "fc03-q02",
+   "lesson": "fc03",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "La tolérance materno-fœtale est :",
+   "options": [
+    "Active, temporaire et sélective",
+    "Passive et définitive",
+    "Due à une anergie complète du système immunitaire maternel",
+    "Due à l'absence totale de contact entre le fœtus et le sang maternel",
+    "Indépendante des lymphocytes T régulateurs"
+   ],
+   "correct": [0],
+   "hint": "Elle ne dure que le temps de la grossesse et ne vise que le fœtus.",
+   "explanation": "La tolérance materno-fœtale est active (mécanismes de régulation), temporaire (uniquement pendant la grossesse) et sélective (dirigée seulement vers le fœtus). Le SI maternel reste réactif contre les infections.",
+   "tags": ["tolérance materno-fœtale"],
+   "source": "FC03 — Énigme immunologique"
+  },
+  {
+   "id": "fc03-q03",
+   "lesson": "fc03",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quelle est la population cellulaire majoritaire (> 70 %) dans la déciduale ?",
+   "options": [
+    "Les cellules NK déciduales",
+    "Les lymphocytes T CD8",
+    "Les lymphocytes B",
+    "Les polynucléaires neutrophiles",
+    "Les plasmocytes"
+   ],
+   "correct": [0],
+   "hint": "Notez l'absence de LT CD8 et de LB dans l'interface 1.",
+   "explanation": "Les cellules NK déciduales représentent > 70 % des cellules immunitaires de la déciduale (avec macrophages 10-20 %, mastocytes, LTreg). Il y a une absence de LT CD8 et de LB.",
+   "tags": ["déciduale", "NK"],
+   "source": "FC03 — Interfaces"
+  },
+  {
+   "id": "fc03-q04",
+   "lesson": "fc03",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quel phénotype caractérise les cellules NK déciduales (par rapport aux NK périphériques) ?",
+   "options": [
+    "CD16⁻ et CD56 fortement exprimé (récepteurs inhibiteurs augmentés)",
+    "CD16⁺ et CD56 faible",
+    "CD4⁺ CD8⁺",
+    "CD19⁺",
+    "Identique aux NK du sang"
+   ],
+   "correct": [0],
+   "hint": "Les NK périphériques sont surtout CD16+ (ADCC).",
+   "explanation": "Les NK déciduales sont CD16⁻ CD56^bright avec des récepteurs inhibiteurs très augmentés (climat hypo-réactif), sous l'influence de l'IL-15. Les NK périphériques sont surtout CD16⁺ (ADCC). Les dNK sécrètent VEGF, PLGF, LIF → vascularisation et implantation.",
+   "tags": ["NK déciduales"],
+   "source": "FC03 — dNK"
+  },
+  {
+   "id": "fc03-q05",
+   "lesson": "fc03",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Quel HLA non classique joue un rôle clé dans la tolérance fœtale ?",
+   "options": [
+    "HLA-G",
+    "HLA-A",
+    "HLA-DR",
+    "HLA-B27",
+    "HLA-DQ"
+   ],
+   "correct": [0],
+   "hint": "Au niveau du placenta : absence de HLA II et gradient de HLA I.",
+   "explanation": "HLA-G (avec E et C) est un HLA non classique tolérogène : il inhibe les NK, les cellules dendritiques et les LT, favorise les LTreg maternels et l'apoptose des CD8 activés. Le trophoblaste n'exprime pas de HLA II.",
+   "tags": ["HLA-G", "tolérance"],
+   "source": "FC03 — Protection du fœtus"
+  },
+  {
+   "id": "fc03-q06",
+   "lesson": "fc03",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Quels sont des mécanismes actifs de protection du fœtus contre le SI maternel ?",
+   "options": [
+    "Induction de molécules pro-apoptotiques (FasL, TRAIL) tuant les LT activés",
+    "Inhibition du complément par CD46, CD55, CD59",
+    "Maintien des cellules dendritiques déciduales à l'état immature",
+    "Orientation des macrophages vers le profil immunosuppresseur M2",
+    "Augmentation de l'expression du HLA de classe II par le trophoblaste"
+   ],
+   "correct": [0, 1, 2, 3],
+   "hint": "Le trophoblaste n'exprime PAS de HLA II.",
+   "explanation": "Les mécanismes incluent FasL/TRAIL (apoptose des LT activés), l'inhibition du complément (CD46/55/59), des DC immatures, des macrophages M2 et l'induction de LTreg. Le trophoblaste n'exprime PAS de HLA II (E faux).",
+   "tags": ["protection fœtale"],
+   "source": "FC03 — Mécanismes actifs"
+  },
+  {
+   "id": "fc03-q07",
+   "lesson": "fc03",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "La prééclampsie est définie par :",
+   "options": [
+    "Une HTA (≥ 140/90) + protéinurie (≥ 0,3 g/24h) après 20 SA",
+    "Une hypotension avec glycosurie",
+    "Une anémie hémolytique fœtale",
+    "Une thrombopénie maternelle isolée",
+    "Un diabète gestationnel"
+   ],
+   "correct": [0],
+   "hint": "Pense « tension + protéines dans les urines », après 20 semaines.",
+   "explanation": "La prééclampsie associe HTA (PAS ≥ 140 et/ou PAD ≥ 90 mmHg) et protéinurie ≥ 0,3 g/24h après 20 SA. Elle résulte d'un défaut d'invasion trophoblastique → hypoxie placentaire (RCIU, prématurité), avec déficit en LTreg.",
+   "tags": ["prééclampsie"],
+   "source": "FC03 — Conséquences"
+  },
+  {
+   "id": "fc03-q08",
+   "lesson": "fc03",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Dans le lupus néonatal, quel est le mécanisme de l'atteinte fœtale grave ?",
+   "options": [
+    "Le passage transplacentaire d'IgG anti-SSA/SSB pouvant causer un bloc auriculo-ventriculaire",
+    "Une transmission d'IgM anti-globules rouges",
+    "Une infection à CMV",
+    "Un défaut d'invasion trophoblastique",
+    "Une iso-immunisation Rhésus"
+   ],
+   "correct": [0],
+   "hint": "Les IgG (pas les IgM) traversent le placenta et ciblent le cœur.",
+   "explanation": "Le lupus néonatal résulte de la transmission materno-fœtale d'IgG anti-SSA et/ou anti-SSB qui traversent le placenta et attaquent les tissus cardiaques → risque de bloc auriculo-ventriculaire (mortalité périnatale ~20 % si BAV complet).",
+   "tags": ["lupus néonatal", "anti-SSA"],
+   "source": "FC03 — MAI et grossesse"
+  },
+  {
+   "id": "fc03-q09",
+   "lesson": "fc03",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Comment le nouveau-né est-il protégé pendant ses 6 premiers mois de vie ?",
+   "options": [
+    "Par les IgG maternelles transmises via le FcRn au 3ᵉ trimestre",
+    "Par ses propres IgG produites in utero",
+    "Par les IgM maternelles traversant le placenta",
+    "Par les LT CD8 maternels",
+    "Il n'est pas protégé du tout"
+   ],
+   "correct": [0],
+   "hint": "Transfert passif via le récepteur Fc néonatal.",
+   "explanation": "Il n'y a pas d'Ac endogènes à la naissance : la protection est passive via les IgG maternelles transmises à travers le placenta par le FcRn (3ᵉ trimestre), offrant une protection ~6 mois. Les prématurés en sont privés.",
+   "tags": ["immunité passive", "FcRn"],
+   "source": "FC03 — Immunité humorale"
+  },
+  {
+   "id": "fc03-q10",
+   "lesson": "fc03",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Concernant l'allaitement maternel (sujet d'annale) :",
+   "options": [
+    "Il joue un rôle important dans la mise en place du microbiote",
+    "Le lait a une action bactériostatique (acidification, lactoferrine)",
+    "Il contient des quantités importantes d'IgA sécrétoires (protection muqueuse)",
+    "Les IgA sécrétoires augmentent la perméabilité intestinale aux germes",
+    "Il apporte des substances bactéricides (lysozyme)"
+   ],
+   "correct": [0, 1, 2, 4],
+   "hint": "Les IgA tapissent la muqueuse pour la protéger.",
+   "explanation": "Réponses ABCE. Les IgA sécrétoires DIMINUENT la perméabilité intestinale aux germes (D faux) : elles tapissent la muqueuse et empêchent l'adhésion bactérienne. Le lait apporte aussi lactoferrine, lysozyme, etc.",
+   "tags": ["allaitement", "IgA", "annale"],
+   "source": "FC03 — ACC 2023 Q10"
+  },
+  {
+   "id": "fc03-q11",
+   "lesson": "fc03",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Concernant le système immunitaire de l'enfant (sujet d'annale) :",
+   "options": [
+    "Il existe une lymphocytose physiologique chez le jeune enfant",
+    "À la naissance, le nourrisson est protégé par les IgG maternelles transplacentaires",
+    "Les cellules NK sont fonctionnellement moins efficaces chez le jeune enfant",
+    "Le nourrisson ne possède quasiment pas de polynucléaires neutrophiles",
+    "La réponse T-indépendante produit des IgM de forte affinité dès la naissance"
+   ],
+   "correct": [0, 1, 2],
+   "hint": "La réponse T-indépendante n'apparaît qu'après 2 ans.",
+   "explanation": "Réponses ABC. Il existe une lymphocytose (et une hyperleucocytose à PNN) physiologique (D faux). La réponse T-indépendante (IgM de FAIBLE affinité, sans mémoire) n'apparaît qu'après 2 ans (E faux). Les NK sont à ~50 % d'efficacité.",
+   "tags": ["immunité du nourrisson", "annale"],
+   "source": "FC03 — ACC 2023 Q9"
+  },
+  {
+   "id": "fc03-q12",
+   "lesson": "fc03",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Concernant la physiopathologie du lupus érythémateux systémique (LES) :",
+   "options": [
+    "On peut observer des déficits du complément (C1q, C2…)",
+    "Elle s'explique par une accumulation de corps apoptotiques non dégradés (rupture de tolérance)",
+    "Les complexes immuns circulants s'accumulent dans les tissus, notamment le rein",
+    "Il n'y a aucun facteur génétique impliqué",
+    "On observe une diminution de l'interféron alpha"
+   ],
+   "correct": [0, 1, 2],
+   "hint": "L'IFN-α est très AUGMENTÉ dans le lupus.",
+   "explanation": "Réponses ABC. Le lupus est polygénique (D faux). L'IFN-α est très AUGMENTÉ (E faux). On retrouve des déficits du complément (voie classique : C1q, C2), une accumulation de corps apoptotiques et des complexes immuns se déposant dans les tissus (rein).",
+   "tags": ["lupus", "annale"],
+   "source": "FC03 — ACC 2024 Q18"
+  },
+  {
+   "id": "fc03-q13",
+   "lesson": "fc03",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Vers quel profil sont orientées les réponses lymphocytaires T fœtales et néonatales ?",
+   "options": [
+    "Un profil Th2 « tolérogène »",
+    "Un profil Th1 pro-inflammatoire",
+    "Un profil Th17 exclusif",
+    "Aucune réponse T n'est possible",
+    "Un profil cytotoxique CD8 dominant"
+   ],
+   "correct": [0],
+   "hint": "La théorie hygiéniste : un profil Th1 protège contre l'atopie.",
+   "explanation": "Les réponses fœtales et néonatales sont orientées vers un profil Th2 « tolérogène », qui disparaît progressivement avec l'exposition aux infections. Un profil Th1 protège au contraire contre les réponses atopiques (théorie hygiéniste).",
+   "tags": ["Th2", "théorie hygiéniste"],
+   "source": "FC03 — Immunité cellulaire"
+  }
+ ]
+}

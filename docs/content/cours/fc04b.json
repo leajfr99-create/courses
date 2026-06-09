@@ -1,0 +1,471 @@
+{
+ "slug": "fc04b",
+ "code": "FC04b",
+ "title": "Physiopathologie des spondylarthrites",
+ "prof": "Pr. Marotte",
+ "sourceFile": "FC04b-MAROTTE-Physiopathologie-des-spondyloarthrites-21-01-26.pdf",
+ "generatedAt": "2026-06-09",
+ "extractionStatus": "ok",
+ "toc": [
+  {
+   "id": "physiopathologie-des-spondylarthrites",
+   "label": "PHYSIOPATHOLOGIE DES SPONDYLARTHRITES",
+   "level": 2
+  },
+  {
+   "id": "i-la-spondylarthrite-spa-groupe-complexe-de-maladies",
+   "label": "I. La spondylarthrite (SpA) : Groupe complexe de maladies",
+   "level": 2
+  },
+  {
+   "id": "ii-genes-impliques-dans-la-physiopathologie-de-la-spa",
+   "label": "II. Gênes impliqués dans la physiopathologie de la SpA",
+   "level": 2
+  },
+  {
+   "id": "iii-role-du-terrain-genetique-le-hla-b27",
+   "label": "III. Rôle du terrain génétique : le HLA-B27",
+   "level": 2
+  },
+  {
+   "id": "iv-entheses",
+   "label": "IV. Enthèses",
+   "level": 2
+  },
+  {
+   "id": "v-le-stress-mecanique",
+   "label": "V. Le stress mécanique",
+   "level": 2
+  },
+  {
+   "id": "vi-l-immunite-innee",
+   "label": "VI. L’immunité innée",
+   "level": 2
+  },
+  {
+   "id": "vii-classification-de-la-chronicite",
+   "label": "VII. Classification de la chronicité",
+   "level": 2
+  },
+  {
+   "id": "viii-evolution-des-spondylarthrites-axiales",
+   "label": "VIII. Évolution des Spondylarthrites axiales",
+   "level": 2
+  },
+  {
+   "id": "ix-la-spondylarthrite-ankylosante",
+   "label": "IX. La Spondylarthrite ankylosante",
+   "level": 2
+  },
+  {
+   "id": "x-formes-peripheriques",
+   "label": "X. Formes périphériques",
+   "level": 2
+  },
+  {
+   "id": "qcm-1-bcde",
+   "label": "QCM 1 : BCDE",
+   "level": 2
+  },
+  {
+   "id": "qcm-2-abcde",
+   "label": "QCM 2 : ABCDE",
+   "level": 2
+  },
+  {
+   "id": "xiii-acc",
+   "label": "XIII. ACC",
+   "level": 2
+  },
+  {
+   "id": "question-n-5",
+   "label": "QUESTION N° 5 :",
+   "level": 2
+  },
+  {
+   "id": "a-vrai",
+   "label": "A : VRAI",
+   "level": 2
+  },
+  {
+   "id": "c-vrai",
+   "label": "C : VRAI",
+   "level": 2
+  },
+  {
+   "id": "d-vrai",
+   "label": "D : VRAI",
+   "level": 2
+  },
+  {
+   "id": "e-vrai",
+   "label": "E : VRAI",
+   "level": 2
+  }
+ ],
+ "blocks": [
+  {
+   "type": "paragraph",
+   "text": "Pr. MAROTTE Immunopathologie CROZIER-FRIEDRICH Adélie"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "physiopathologie-des-spondylarthrites",
+   "text": "PHYSIOPATHOLOGIE DES SPONDYLARTHRITES"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "i-la-spondylarthrite-spa-groupe-complexe-de-maladies",
+   "text": "I. La spondylarthrite (SpA) : Groupe complexe de maladies"
+  },
+  {
+   "type": "paragraph",
+   "text": "rhumatismales inflammatoires"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Maladie rare",
+    "Caractérisée par une inflammation articulaire, l’érosion et la formation d’os à sites périphériques et axiale",
+    "Composantes mécaniques importantes",
+    "Formes axiales et périphériques"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Les maladies qui la composent :"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Caractéristiques communes aux maladies qui composent la spondylarthrite",
+    "Signes rhumatismaux : sacroiliite, spondylite, enthésite (à retenir : LT qui possèdent le récepteur IL23, qui expriment IL17), dactylite et arthrite périphérique",
+    "Manifestations extra-articulaires (uvéite, intestins (MICI), peau)",
+    "Forte association avec HLA-B27 (HLA I, chromosome 6 brin court)",
+    "Histoire familiale de SpA"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Epidémiologie en pratique",
+    "Début chez l’adulte jeune (20-40 ans)",
+    "Sex-ratio",
+    "AxSpA radiographique : prédominance masculine (spondylarthrite axiale)",
+    "AxSpA non radiographique : sex-ratio plus équilibré (spondylarthrite axiale)",
+    "Forte association génétique avec HLA-B27"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Critères de classification de SpA, critères ASAS"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "La SpA Axiale :",
+    "Lombalgie chez un sujet jeune de moins de 45ans et depuis plus de 3 mois ET soit :",
+    "Inflammation sacro-iliaque + au moins un signe de SpA Soit :",
+    "Dosage de l’HLA-B27 (HLA de classe 1) ➜ Le B27 n’est associé qu’a la forme axiale de la SA, on le recherche facilement par la cytométrie en flux (résultat en moins de 24h)."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "La SpA périphérique : Plusieurs portes d’entrée sont possibles :",
+    "Arthrite : inflammation des articulations",
+    "Dactilyte : orteil ou doigt « en saucisse » correspond à une tuméfaction globale de l’orteil ou du doigt",
+    "Enthésite : au niveau du tendon d’Achille, de l’épicondyle ou des vertèbres"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cytokines produites par les cellules pro inflammatoires immunitaires qui contribuent à des manifestations cliniques de SpA :",
+    "Excès d’IL23, IL17 et de TNF",
+    "TNF est la cible thérapeutique principale de la maladie"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Hétérogénéité de l’incidence de la SpA dans le monde",
+    "Moins de 0,5% de la population mondiale est touchée par cette maladie",
+    "Europe = 0,86% ; Asie = 0,17% ; Afrique = 0,07%",
+    "Interaction gène-environnement (ankyloses : Europe de l’Est et Maghreb dû aux conditions d’hygiènes)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ii-genes-impliques-dans-la-physiopathologie-de-la-spa",
+   "text": "II. Gênes impliqués dans la physiopathologie de la SpA"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans la physiopathologie de la spondylarthrite, seuls 24% de la génétique est expliquée."
+  },
+  {
+   "type": "list",
+   "items": [
+    "20,1% est dû à HLA-B27",
+    "ERAP1 entraine un m auvais pliage du HLA I, le rendant non fonctionnel",
+    "IL17",
+    "IL23"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iii-role-du-terrain-genetique-le-hla-b27",
+   "text": "III. Rôle du terrain génétique : le HLA-B27"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans l’HLA de classe I, il y a un brin avec 3 boucles ainsi que de la B2-microglobuline. HLA-B27 peut créer un homodimère qui va activer les cellules NK. Lors de stress mécaniques, cela va favoriser le mauvais pliage du HLA I. Cela active le système immunitaire avec une expression d’IL17 et de TNF. La spondylarthrite est une maladie auto-inflammatoire plutôt qu’une maladie auto-immune."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "iv-entheses",
+   "text": "IV. Enthèses"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Anatomie : lieu ou les ligaments et tendons s’insèrent.",
+    "Localisation : tendon d’achille, epicondyles latéraux, vertèbres autour du ligament qui entoure les disques intervertébraux, fascia plantaire",
+    "Évolution : enthésite, lors d’un stress.",
+    "Une fois l’inflammation résolue, on observe une calcification du ligament ou du tendon appelée syndesmophyte"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "v-le-stress-mecanique",
+   "text": "V. Le stress mécanique"
+  },
+  {
+   "type": "paragraph",
+   "text": "Dans le stress mécanique on retrouve des mécanosenseurs dont Piezo1 (le composant 1 du canal ionique mécanosensible de type piézo est une protéine qui chez l’homme est codée par le gène PIEZO1). Très souvent impliquée dans les formes axiales de spondylarthrite."
+  },
+  {
+   "type": "paragraph",
+   "text": "Sur des patients qui perdent l’horizontalisation du regard, on leur prélève un arc postérieur (ligaments supra-épineux, capsulaire) afin de les redresser. Ils retrouvent l’horizontalisation du regard. Ensuite il y a une analyse du prélèvement qui permet de retrouver Piezo1 et Piezo2. Quand on bloque Piezo il y a moins de formation osseuse."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vi-l-immunite-innee",
+   "text": "VI. L’immunité innée"
+  },
+  {
+   "type": "paragraph",
+   "text": "L’immunité inée :"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Activation des cellules myéloïdes (macrophages, cellules dendritiques)",
+    "Production de cytokines pro-inflammatoires (TNF-a, IL-23)",
+    "Rôle clé de l’enthèse comme site initial de l’inflammation"
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Suite à une étude sur la souris, on a montré qu’il y avait des cellules T résidentes dans les tendons. Observés grâce à une Technique d’immunofluorescence. Les cellules avec le point vert sont celles qui possèdent le récepteur à IL-23 et qui sont localisées dans les enthèses."
+  },
+  {
+   "type": "paragraph",
+   "text": "Chez l’homme : on retrouve chez les patients touchés par la spondylarthrite, des cellules inflammatoires qui vont exprimer de l’IL-23 surtout dans les enthèses."
+  },
+  {
+   "type": "list",
+   "items": [
+    "IL23 stimule LT Th17 et les cellules lymphoïdes innées de type 3 (ILC3)",
+    "On observe une sécrétion d’IL-17 et d’IL-22",
+    "Les effets sont une inflammation locale ainsi qu’un remodelage osseux anormal."
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "vii-classification-de-la-chronicite",
+   "text": "VII. Classification de la chronicité"
+  },
+  {
+   "type": "paragraph",
+   "text": "Une prédisposition génétique existe : HLA-B27 pour la forme axiale, sa prévalence dans la population française est de 6-8%. Toutefois il est possible d’avoir une prédisposition au B27 avec des symptômes (douleurs au dos notamment) sans avoir de spondylarthrites (=lombalgies chroniques)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Pour réaliser un test génétique il est obligatoire d’avoir le consentement du patient. La cytométrie en flux permet de chercher l’expression de la protéine B27 (située à l’extérieur de la cellule). Problème : les anticorps qui reconnaissent le B27 reconnaissent aussi le B7 (donc intérêt de la génétique)."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "viii-evolution-des-spondylarthrites-axiales",
+   "text": "VIII. Évolution des Spondylarthrites axiales"
+  },
+  {
+   "type": "paragraph",
+   "text": "Phase de Lombalgie avec une atteinte inflammatoire des sacro-iliaques. Sur une SpA non radiographique, on observe aucune anomalie à l’imagerie. Sur une SpA radiographique, on observe l’inflammation à l’imagerie."
+  },
+  {
+   "type": "paragraph",
+   "text": "L’évolution d’une forme non radiologique à une forme radiologique peut prendre une dizaine d’années et peut aboutir à une ankylose avec la formation de ponts osseux entre les vertèbres."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A l’imagerie :",
+    "Condensation et mise au carré des vertèbres",
+    "Formation de ponts osseux intervertébraux = ostéophytes",
+    "Colonne vertébrale en aspect de bambou (stade avancé).",
+    "Formation de syndesmophytes entre les vertèbres pour permettre la cicatrisation."
+   ]
+  },
+  {
+   "type": "paragraph",
+   "text": "Différence ostéophytes/syndesmophytes : Ostéophyte : lors d’un problème dégénératif, formation de ponts osseux intervertébraux (excroissances osseuses dans le plan du plateau vertébral)."
+  },
+  {
+   "type": "paragraph",
+   "text": "Syndesmophyte : Inflammation sur les enthèses, suit les disques intervertébraux verticalement (dans le cadre des spondylarthrites)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pour noter l’évolution de l’érosion des vertèbres dans la colonne vertébrale : mSASSS (modified Stoke Ankylosing Spondylitis Spinal Score)"
+  },
+  {
+   "type": "paragraph",
+   "text": "Évolution vers une cyphose avec apparition d’un flexum au niveau des genoux (=phénomène compensatoire pour garder l’horizontalisation du regard). Le risque est une évolution vers une fibrose apicale."
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "ix-la-spondylarthrite-ankylosante",
+   "text": "IX. La Spondylarthrite ankylosante"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Colonne en aspect de bambou à l’imagerie,",
+    "Fusion des articulations sacro-iliaques (stade tardif)",
+    "Œdème sous chondral (œdème osseux sous l’articulation) à l’IRM (en supprimant le signal graisseux pour que l’hypersignal témoigne d’une inflammation)"
+   ]
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "x-formes-peripheriques",
+   "text": "X. Formes périphériques"
+  },
+  {
+   "type": "paragraph",
+   "text": "Le gène B27 n’est pas associé à la forme périphérique. On retrouve IL-23, et un HLA de classe I qui en sérologie est CW6 et est associé au psoriasis cutané."
+  },
+  {
+   "type": "paragraph",
+   "text": "Lorsqu’on observe la synoviale, on observe un infiltrat de CD3n avec de LT qui expriment aussi IL-17A. Ce sont donc des Th17."
+  },
+  {
+   "type": "paragraph",
+   "text": "XI. Cytokines permettant la différenciation des LT helper naïfs"
+  },
+  {
+   "type": "paragraph",
+   "text": "XII. QCM type examen"
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 1 : Concernant les manifestations cliniques communes des spondyloarthropathies : A. Le dosage des HLA_B27 est utile au diagnostic des SA périphériques B. HLA B27 est associé à la forme axiale de spondyloarthrite C. La spondylarthrite ankylosante est une maladie auto immune/auto inflammatoire D. Les traitements de la SA consistent à inhiber la voie IL17/TNF E. Le consentement du patient est obligatoire en génétique."
+  },
+  {
+   "type": "paragraph",
+   "text": "Question 2 : La diagnostic de la spondyloarthrite ankylosante se traduit à l’imagerie par : A. Une colonne vertébrale en aspect de bambou B. Une condensation des vertèbres C. Une mise au carré des vertèbres D. La présence de syndesmophytes E. Une inflammation des enthèses"
+  },
+  {
+   "type": "paragraph",
+   "text": "Correction :"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm-1-bcde",
+   "text": "QCM 1 : BCDE"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. FAUX : Le dosage des HLA_B27 est utile au diagnostic des SA axiales B. VRAI C. VRAI D. VRAI E. VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "qcm-2-abcde",
+   "text": "QCM 2 : ABCDE"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. VRAI B. VRAI C. VRAI D. VRAI E. VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "xiii-acc",
+   "text": "XIII. ACC"
+  },
+  {
+   "type": "paragraph",
+   "text": "Pas d’ACC à part une question en 2019"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "question-n-5",
+   "text": "QUESTION N° 5 :"
+  },
+  {
+   "type": "paragraph",
+   "text": "Concernant la spondylarthrite :"
+  },
+  {
+   "type": "paragraph",
+   "text": "A. Elle fait intervenir l’immunité innée et acquise B. Le facteur rhumatoïde est un biomarqueur spécifique de la spondylarthrite C. L’HLA B27 est associé à la forme axiale D. L’inhibition du TNF et de l’IL-17 sont des voies thérapeutiques E. Sa physiopathologie fait intervenir directement l’HLA B27"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "a-vrai",
+   "text": "A : VRAI"
+  },
+  {
+   "type": "paragraph",
+   "text": "B : FAUX : C’est un biomarqueur des pathologies inflammatoires articulaires"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "c-vrai",
+   "text": "C : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "d-vrai",
+   "text": "D : VRAI"
+  },
+  {
+   "type": "heading",
+   "level": 2,
+   "id": "e-vrai",
+   "text": "E : VRAI"
+  }
+ ]
+}

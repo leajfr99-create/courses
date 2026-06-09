@@ -1,0 +1,248 @@
+{
+ "slug": "fc02",
+ "title": "QCM — Maladies auto-immunes (MAI)",
+ "unofficialKey": false,
+ "questions": [
+  {
+   "id": "fc02-q01",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Comment définit-on l'auto-immunité ?",
+   "options": [
+    "Une anomalie de la discrimination du soi et du non-soi, avec réaction immunitaire contre un ou plusieurs constituants du soi",
+    "La reconnaissance normale et la tolérance de ce qui appartient à l'organisme",
+    "Le rejet de tout corps étranger",
+    "Une immunodéficience par manque de lymphocytes",
+    "Une réaction allergique à un allergène externe"
+   ],
+   "correct": [0],
+   "hint": "C'est une « anomalie » de la distinction soi / non-soi.",
+   "explanation": "L'auto-immunité est une anomalie de la discrimination soi/non-soi conduisant à une réaction immunitaire contre un ou plusieurs constituants du soi. Les MAI apparaissent quand la tolérance au soi diminue.",
+   "tags": ["définition"],
+   "source": "FC02 — Définitions"
+  },
+  {
+   "id": "fc02-q02",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "facile",
+   "stem": "Où se déroule la tolérance centrale des lymphocytes T et B ?",
+   "options": [
+    "Dans le thymus (LT) et la moelle osseuse (LB)",
+    "Dans les ganglions et la rate",
+    "Dans le sang périphérique",
+    "Dans la peau et les muqueuses",
+    "Dans le foie"
+   ],
+   "correct": [0],
+   "hint": "Organes lymphoïdes primaires.",
+   "explanation": "La tolérance centrale a lieu dans les organes lymphoïdes primaires : le thymus pour les LT, la moelle osseuse pour les LB. La tolérance périphérique se déroule ensuite dans les organes lymphoïdes secondaires.",
+   "tags": ["tolérance centrale"],
+   "source": "FC02 — Tolérance centrale"
+  },
+  {
+   "id": "fc02-q03",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Concernant la sélection thymique des lymphocytes T :",
+   "options": [
+    "La sélection positive (reconnaître le CMH du soi) précède la sélection négative (élimination des LT trop auto-réactifs)",
+    "La sélection négative précède la sélection positive",
+    "Seule la sélection positive existe",
+    "Aucun thymocyte n'est éliminé",
+    "Elle a lieu dans la moelle osseuse"
+   ],
+   "correct": [0],
+   "hint": "~98 % des thymocytes meurent par apoptose.",
+   "explanation": "La sélection positive (cortex) sélectionne les LT dont le TCR reconnaît le CMH du soi, puis la sélection négative (médullaire) élimine ceux ayant une trop forte affinité pour les antigènes du soi. Près de 98 % des thymocytes sont induits à l'apoptose.",
+   "tags": ["sélection thymique"],
+   "source": "FC02 — Maturation LT"
+  },
+  {
+   "id": "fc02-q04",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Qu'est-ce que l'anergie lymphocytaire ?",
+   "options": [
+    "L'absence de réaction d'un lymphocyte recevant le signal 1 (TCR/CMH) sans signal 2 (costimulation)",
+    "La mort programmée du lymphocyte par apoptose",
+    "La prolifération massive d'un clone",
+    "La production d'auto-anticorps de forte affinité",
+    "La maturation dans le thymus"
+   ],
+   "correct": [0],
+   "hint": "Il manque la costimulation (ex. B7/CD28).",
+   "explanation": "L'anergie survient quand le lymphocyte reçoit le signal 1 (reconnaissance TCR/CMH) sans le signal 2 (costimulation, ex. B7/CD28). La cellule ne meurt pas, ne prolifère pas, mais reste en périphérie ; une infection peut lever cette anergie.",
+   "tags": ["tolérance périphérique", "anergie"],
+   "source": "FC02 — Tolérance périphérique"
+  },
+  {
+   "id": "fc02-q05",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Les auto-anticorps naturels (physiologiques) sont produits par :",
+   "options": [
+    "Les lymphocytes B1a (CD5+), polyréactifs, produisant des IgM de faible affinité",
+    "Les lymphocytes B2 conventionnels produisant des IgG de forte affinité",
+    "Les lymphocytes T CD8 cytotoxiques",
+    "Les cellules NK",
+    "Les plasmocytes du thymus"
+   ],
+   "correct": [0],
+   "hint": "Marqueur CD5, gènes en configuration germinale (non mutés).",
+   "explanation": "Les auto-anticorps naturels sont produits par les LB1a (CD5+), polyréactifs, codés par des gènes germinaux non mutés. Ce sont surtout des IgM de faible affinité (peu d'ADCC) → non pathogènes. Les auto-Ac pathogènes (IgG de forte affinité) viennent des LB2.",
+   "tags": ["auto-anticorps", "LB1"],
+   "source": "FC02 — Auto-anticorps naturels"
+  },
+  {
+   "id": "fc02-q06",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "moyen",
+   "stem": "Comment se fait la tolérance centrale des lymphocytes B dans la moelle ?",
+   "options": [
+    "Par « récepteur editing » (réarrangement du BCR)",
+    "Par sélection positive uniquement",
+    "Par sécrétion d'IFN-α",
+    "Par citrullination",
+    "Elle n'existe pas pour les LB"
+   ],
+   "correct": [0],
+   "hint": "Le BCR est remanié pour obtenir une conformation correcte.",
+   "explanation": "La tolérance centrale des LB repose sur le « récepteur editing » : réarrangement du BCR dans la moelle pour obtenir des récepteurs fonctionnels et de faible affinité pour le soi (les BCR trop auto-réactifs sont induits à l'apoptose).",
+   "tags": ["tolérance LB", "récepteur editing"],
+   "source": "FC02 — Tolérance LB"
+  },
+  {
+   "id": "fc02-q07",
+   "lesson": "fc02",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "À propos des facteurs déclenchants de l'auto-immunité :",
+   "options": [
+    "Les MAI touchent plus les femmes que les hommes, à cause de certaines hormones",
+    "Certaines hormones augmentent l'anergie",
+    "De nombreux gènes interviennent dans l'apoptose, comme Fas, Fas-L ou AIRE",
+    "Le virus Coxsackie est lié à la thyroïdite de Hashimoto",
+    "Les rayons UV et certains médicaments peuvent entraîner un lupus"
+   ],
+   "correct": [0, 2, 4],
+   "hint": "Coxsackie B4 → diabète de type 1 (pas Hashimoto) ; les hormones lèvent l'anergie.",
+   "explanation": "Réponses ACE. B est faux (les hormones LÈVENT l'anergie, elles ne l'augmentent pas). D est faux : le Coxsackie B4 est lié au diabète de type 1, pas à Hashimoto.",
+   "tags": ["facteurs déclenchants", "annale"],
+   "source": "FC02 — QCM 1"
+  },
+  {
+   "id": "fc02-q08",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Le mimétisme moléculaire expliquant le diabète de type 1 implique :",
+   "options": [
+    "Une réactivité croisée entre un antigène du Coxsackie B4 et la protéine GAD du pancréas",
+    "Une citrullination des protéines synoviales",
+    "Des anticorps anti-récepteurs de la TSH",
+    "Des anticorps anti-gangliosides",
+    "Une carence en complément C2"
+   ],
+   "correct": [0],
+   "hint": "Un virus dont un antigène ressemble à une enzyme pancréatique.",
+   "explanation": "Le Coxsackie B4 exprime un antigène très proche de la protéine GAD (enzyme pancréatique). La réponse antivirale active des LT (signal 1 + 2) qui, par mimétisme moléculaire, reconnaissent aussi GAD et détruisent les cellules β des îlots de Langerhans (DT1).",
+   "tags": ["mimétisme moléculaire", "diabète"],
+   "source": "FC02 — Physiopathologie"
+  },
+  {
+   "id": "fc02-q09",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Dans la myasthénie, quel est le mécanisme des auto-anticorps ?",
+   "options": [
+    "Des anticorps anti-récepteurs à l'acétylcholine (antagonistes) bloquent la transmission neuromusculaire",
+    "Des anticorps anti-gangliosides détruisent les nœuds de Ranvier",
+    "Des anticorps anti-récepteurs de la TSH stimulent la thyroïde",
+    "Des anticorps anti-ADN natif forment des complexes immuns",
+    "Des IgM anti-globules rouges activent le complément"
+   ],
+   "correct": [0],
+   "hint": "Affaissement de la paupière, atteinte de la jonction neuromusculaire.",
+   "explanation": "Dans la myasthénie, les anticorps anti-récepteurs à l'acétylcholine agissent comme antagonistes (compétition avec le ligand), diminuent l'activité post-synaptique et bloquent la transmission neuromusculaire → paralysies. (Anti-gangliosides = Guillain-Barré ; anti-RTSH agonistes = Basedow.)",
+   "tags": ["myasthénie", "auto-anticorps"],
+   "source": "FC02 — Rôle des auto-anticorps"
+  },
+  {
+   "id": "fc02-q10",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Dans le lupus érythémateux systémique, quel rôle jouent les cellules dendritiques plasmacytoïdes ?",
+   "options": [
+    "Elles sécrètent de l'IFN de type 1 (IFN-α), orchestrant la rupture de tolérance aux antigènes nucléaires",
+    "Elles produisent des anticorps anti-ADN",
+    "Elles phagocytent les globules rouges",
+    "Elles citrullinent les protéines",
+    "Elles n'ont aucun rôle"
+   ],
+   "correct": [0],
+   "hint": "L'IFN-α est presque pathognomonique des « interféronopathies ».",
+   "explanation": "Les pDC sécrètent de grandes quantités d'IFN de type 1 (IFN-α), levant l'anergie et orchestrant la rupture de tolérance aux antigènes nucléaires dans le lupus. L'IFN-α est d'ailleurs une cible thérapeutique.",
+   "tags": ["lupus", "IFN-α", "cellules dendritiques"],
+   "source": "FC02 — Activation des CPA"
+  },
+  {
+   "id": "fc02-q11",
+   "lesson": "fc02",
+   "type": "single",
+   "difficulty": "difficile",
+   "stem": "Quel gène, exprimé par les cellules épithéliales thymiques, est crucial pour la tolérance centrale (son défaut → APS-1) ?",
+   "options": ["AIRE", "Fas", "PTPN22", "HLA-B27", "BAFF"],
+   "correct": [0],
+   "hint": "« Auto-Immune Regulator ».",
+   "explanation": "AIRE (Auto-Immune Regulator) est exprimé par les cellules épithéliales thymiques et permet la présentation d'auto-antigènes tissulaires durant la sélection. Son dysfonctionnement empêche l'élimination des LT auto-réactifs → syndrome polyglandulaire auto-immun de type 1 (APS-1).",
+   "tags": ["AIRE", "tolérance centrale"],
+   "source": "FC02 — Facteurs génétiques"
+  },
+  {
+   "id": "fc02-q12",
+   "lesson": "fc02",
+   "type": "multiple",
+   "difficulty": "moyen",
+   "stem": "Concernant les maladies auto-immunes (sujet d'annale) :",
+   "options": [
+    "Elles peuvent être diagnostiquées grâce au dosage d'auto-anticorps",
+    "Elles sont très rarement médiées par des lymphocytes T",
+    "Elles peuvent être associées à des facteurs génétiques",
+    "Elles peuvent être médiées par des auto-anticorps",
+    "Elles peuvent être transmises de la mère à l'enfant au cours de la grossesse"
+   ],
+   "correct": [0, 2, 3, 4],
+   "hint": "Diabète de type 1, dysthyroïdies… sont médiés par les LT.",
+   "explanation": "Réponses ACDE. B est faux : de nombreuses MAI fréquentes sont médiées par les LT (diabète de type 1, dysthyroïdies). Le diagnostic repose sur les auto-anticorps ; certaines MAI sont transmissibles in utero (lupus néonatal, myasthénie…).",
+   "tags": ["annale", "généralités"],
+   "source": "FC02 — ACC 2023 Q5"
+  },
+  {
+   "id": "fc02-q13",
+   "lesson": "fc02",
+   "type": "multiple",
+   "difficulty": "difficile",
+   "stem": "Le HLA est associé à certaines maladies inflammatoires chroniques. Lesquelles de ces affirmations sont vraies ?",
+   "options": [
+    "Le HLA-B27 est un HLA de classe I",
+    "L'épitope partagé (HLA-DRB1*04) est associé à la polyarthrite rhumatoïde",
+    "Le HLA est situé sur le chromosome 6, bras long",
+    "Le HLA-B27 est associé à la forme périphérique des spondylarthrites",
+    "Le HLA de classe II est présent sur quasiment toutes les cellules de l'organisme"
+   ],
+   "correct": [0, 1],
+   "hint": "Chromosome 6 bras COURT ; B27 = forme AXIALE ; classe I = sur presque toutes les cellules.",
+   "explanation": "Réponses AB. Le HLA est sur le chromosome 6 bras COURT (C faux). Le B27 est associé à la forme AXIALE des spondylarthrites (D faux). C'est le HLA de classe I (et non II) qui est présent sur quasiment toutes les cellules (E faux).",
+   "tags": ["HLA", "annale"],
+   "source": "FC02 — ACC 2019 Q6"
+  }
+ ]
+}

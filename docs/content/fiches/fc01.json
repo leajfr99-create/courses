@@ -1,0 +1,59 @@
+{
+ "slug": "fc01",
+ "title": "Fiche — Immunosénescence",
+ "updated": "2026-06-09",
+ "summary": "L'**immunosénescence** est le vieillissement du système immunitaire (inné **et** adaptatif). Maturité vers 16-20 ans, déclin dès 25-30 ans, immunosénescence marquée vers 65-70 ans. Deux moteurs : l'**involution thymique** et l'**inflammaging**.",
+ "sections": [
+  {
+   "heading": "Les 4 piliers de l'immunosénescence",
+   "type": "bullets",
+   "items": [
+    "**Involution thymique** : ↓ thymopoïèse, ↑ apoptose, remplacement par tissu adipeux/fibreux.",
+    "**Inflammaging** : inflammation chronique de faible grade (↑ CRP, TNF-α, IL-6).",
+    "**Adaptation métabolique** : ↑ glycolyse, ↓ ATP et ↓ cytokines.",
+    "**Changements hématopoïétiques** : biais myéloïde des CSH."
+   ]
+  },
+  {
+   "heading": "Immunité innée : le nombre tient, la fonction lâche",
+   "type": "bullets",
+   "items": [
+    "PNN : nombre stable mais ↓ chimiotactisme, ↓ burst oxydatif, ↓ activité microbicide.",
+    "Monocytes/macrophages : nombre stable, ↓ phagocytose et ↓ activité bactéricide.",
+    "Cellules dendritiques : nombre stable ou ↓ ; NK : nombre stable, fonction ↓.",
+    "Barrières : ↓ clairance mucociliaire (→ pneumonies), ↓ acidité gastrique et MALT (→ infections digestives)."
+   ]
+  },
+  {
+   "heading": "Immunité adaptative : perte des cellules naïves",
+   "type": "bullets",
+   "items": [
+    "LT : involution thymique → perte de ~3 %/an du pool naïf dès 20 ans (mesuré par les **TRECs**).",
+    "Accumulation de LT mémoires très différenciés ; **expansions oligoclonales de CD8** (CMV ++).",
+    "Après 75 ans : ↓ du nombre de LT, **inversion du ratio CD4/CD8 (< 1)**, télomères raccourcis.",
+    "LB : ↓ naïfs, ↓ IL-7 stromale et RAG/AID → switch IgG→IgM, ↑ auto-AC, Ig monoclonale (MGUS)."
+   ]
+  },
+  {
+   "heading": "Causes du vieillissement adaptatif",
+   "type": "table",
+   "columns": ["Type", "Exemples"],
+   "rows": [
+    ["Intrinsèques", "Défaut de différenciation CSH → CS ; ↑ apoptose des progéniteurs intrathymiques"],
+    ["Extrinsèques", "↓ cellules épithéliales thymiques ; ↓ IL-7 stromale ; ↓ GH/IGF-1 ; hormones stéroïdiennes"]
+   ]
+  },
+  {
+   "heading": "Profil de risque immunologique du sujet âgé",
+   "type": "callout",
+   "tone": "important",
+   "html": "Ratio **CD4/CD8 < 1** · **séropositivité CMV** · perte des LT naïfs · peu de LB · accumulation de CD8+CD28− sénescentes · **inflammation chronique**. Associé à ↑ morbi-mortalité."
+  },
+  {
+   "heading": "À retenir pour l'examen",
+   "type": "callout",
+   "tone": "tip",
+   "html": "Immunosénescence = involution thymique + biais myéloïde + ↓ naïfs + profil **pro-inflammatoire** → ↑ infections/cancers/MCV/MAI et **↓ efficacité vaccinale** (de 30 à 50 %). 1ʳᵉ mesure de prévention : la **vaccination**."
+  }
+ ]
+}

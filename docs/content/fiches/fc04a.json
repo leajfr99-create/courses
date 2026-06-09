@@ -1,0 +1,65 @@
+{
+ "slug": "fc04a",
+ "title": "Fiche — Polyarthrite rhumatoïde (PR)",
+ "updated": "2026-06-09",
+ "summary": "**PR** = rhumatisme inflammatoire le plus fréquent (0,5 % en France), atteinte **distale, bilatérale, symétrique** avec **destruction articulaire**. Maladie auto-immune liée aux gènes (**HLA-DRB1**, épitope partagé) + environnement (**tabac**), avec production d'**ACPA**.",
+ "sections": [
+  {
+   "heading": "Carte d'identité",
+   "type": "bullets",
+   "items": [
+    "Prévalence 0,5 % (France), médiane d'apparition ~50 ans.",
+    "Atteinte **distale, bilatérale, symétrique** ; épargne épaules/hanches.",
+    "Signe pathognomonique : **érosion** radiographique (tête du 5ᵉ métatarse).",
+    "Synovite (gonflement) = porte d'entrée du diagnostic."
+   ]
+  },
+  {
+   "heading": "Membrane synoviale & destruction",
+   "type": "bullets",
+   "items": [
+    "Synoviocytes **type A = macrophages**, **type B = fibroblastes**.",
+    "Dans la PR, les synoviocytes B prennent un phénotype tumoral → **pannus**.",
+    "Pannus → **RANKL** (ostéoclastes → érosions) **+ métalloprotéinases** (cartilage → pincements).",
+    "Perte de fonction = conséquence de l'inflammation."
+   ]
+  },
+  {
+   "heading": "Génétique & auto-anticorps",
+   "type": "table",
+   "columns": ["Marqueur", "Nature", "Spécificité PR"],
+   "rows": [
+    ["HLA-DRB1", "Épitope partagé (QKRAA), classe II", "Prédisposition (2/3 des PR)"],
+    ["PTPN22", "Gène de prédisposition", "Susceptibilité"],
+    ["**ACPA** (anti-CCP)", "Anticorps anti-peptides citrullinés", "**Spécifique ++**"],
+    ["Facteur rhumatoïde", "IgM anti-IgG", "Non spécifique"]
+   ]
+  },
+  {
+   "heading": "Citrullination & ACPA",
+   "type": "bullets",
+   "items": [
+    "Citrullination = maturation post-traductionnelle **Arginine → Citrulline** via l'enzyme **PAD**.",
+    "3 sources d'**hypercitrullination** (FdR) : **tabac**, **NETose**, **Porphyromonas gingivalis**.",
+    "Hypercitrullination → synthèse d'**ACPA** (qui activent les ostéoclastes).",
+    "ACPA détectables **jusqu'à 10 ans avant** les symptômes (phase pré-PR)."
+   ]
+  },
+  {
+   "heading": "Traitement",
+   "type": "bullets",
+   "items": [
+    "Symptomatique : antalgiques, AINS, corticoïdes.",
+    "Fond **1ʳᵉ intention = MÉTHOTREXATE**.",
+    "Si échec, cibles biologiques/ciblées : **TNFα, IL-6, IL-1, GM-CSF, LT, LB**, inhibiteurs de **JAK**.",
+    "Arrêt du tabac impératif (↓ réponse aux traitements)."
+   ]
+  },
+  {
+   "heading": "Pièges d'examen",
+   "type": "callout",
+   "tone": "important",
+   "html": "ACPA = **spécifique** ; FR = **non spécifique**. ACPA = **10 ans AVANT** (pas après). Synoviocytes A = macrophages (pas fibroblastes). IL-17/IL-23 → **spondylarthrites**, pas PR."
+  }
+ ]
+}
