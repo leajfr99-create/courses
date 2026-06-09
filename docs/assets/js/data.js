@@ -15,6 +15,7 @@ export const Data = {
   cours(slug) { return getJSON(`./content/cours/${slug}.json`); },
   fiche(slug) { return getJSON(`./content/fiches/${slug}.json`); },
   quiz(slug) { return getJSON(`./content/quiz/${slug}.json`); },
+  qroc(slug) { return getJSON(`./content/qroc/${slug}.json`); },
   annales(slug) { return getJSON(`./content/annales/${slug}.json`); },
 };
 

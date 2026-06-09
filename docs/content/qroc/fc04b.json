@@ -1,0 +1,80 @@
+{
+ "slug": "fc04b",
+ "title": "QROC — Spondylarthrites",
+ "questions": [
+  {
+   "id": "fc04b-qroc1",
+   "difficulty": "facile",
+   "points": 3,
+   "question": "Citez les **caractéristiques communes** des spondylarthrites (atteintes rhumatismales et extra-articulaires).",
+   "answer": "Atteintes **rhumatismales** : **sacro-iliite, spondylite, enthésite, dactylite** (« doigt en saucisse ») et arthrite périphérique. Atteintes **extra-articulaires** : **uvéite, MICI, psoriasis**. S'y ajoutent une forte association à l'**HLA-B27**, des antécédents familiaux et un début chez l'**adulte jeune (20-40 ans)**. Ce sont des maladies **auto-inflammatoires**.",
+   "keyPoints": [
+    "Rhumatismal : sacro-iliite, spondylite, enthésite, dactylite",
+    "Extra-articulaire : uvéite, MICI, psoriasis",
+    "HLA-B27, adulte jeune, auto-inflammatoire"
+   ]
+  },
+  {
+   "id": "fc04b-qroc2",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Concernant l'**HLA-B27** : classe, forme clinique associée, méthode de détection et valeur diagnostique.",
+   "answer": "L'HLA-B27 est un HLA de **classe I**, associé à la forme **AXIALE** de spondylarthrite. Il se recherche par **cytométrie en flux** (résultat < 24 h). Sa prévalence en population générale française est de **6-8 %** : on peut donc être **B27+ sans être malade** → ce n'est **pas** un test diagnostique à lui seul. Il explique ~20 % de la susceptibilité (sur ~24 % de génétique), aux côtés d'ERAP1, IL-17 et IL-23.",
+   "keyPoints": [
+    "HLA classe I, forme axiale",
+    "Détection par cytométrie en flux",
+    "Prévalence 6-8 % → B27+ ≠ malade"
+   ],
+   "trap": "B27 = forme **axiale** (pas périphérique) ; être B27+ ne suffit pas au diagnostic (6-8 % de la population)."
+  },
+  {
+   "id": "fc04b-qroc3",
+   "difficulty": "moyen",
+   "points": 4,
+   "question": "Décrivez l'**axe physiopathologique** d'une spondylarthrite (site initial, mécanosenseur, cytokines).",
+   "answer": "Le site initial de l'inflammation est l'**enthèse** (insertion des tendons/ligaments). Le **stress mécanique** y active un mécanosenseur, **PIEZO1** (formes axiales), déclenchant la formation osseuse. L'immunité **innée** (macrophages, DC) produit du **TNF-α** et de l'**IL-23** ; l'**IL-23** active les **Th17 et les ILC3** qui sécrètent **IL-17 et IL-22** → inflammation locale **et** remodelage osseux anormal.",
+   "keyPoints": [
+    "Enthèse = site initial",
+    "Stress mécanique → PIEZO1 (axial)",
+    "Axe IL-23 → Th17/ILC3 → IL-17/IL-22 (+ TNF-α)"
+   ]
+  },
+  {
+   "id": "fc04b-qroc4",
+   "difficulty": "moyen",
+   "points": 2,
+   "question": "Différenciez un **syndesmophyte** d'un **ostéophyte**.",
+   "answer": "Le **syndesmophyte** est une calcification **verticale**, le long des disques intervertébraux, d'origine **inflammatoire** (spondylarthrite, après résolution d'une enthésite). L'**ostéophyte** est une excroissance osseuse **horizontale**, d'origine **dégénérative** (arthrose). Au stade avancé, l'empilement de syndesmophytes donne la « **colonne en bambou** ».",
+   "keyPoints": [
+    "Syndesmophyte : vertical, inflammatoire (SpA)",
+    "Ostéophyte : horizontal, dégénératif (arthrose)",
+    "Évolution → colonne en bambou"
+   ],
+   "trap": "Syndesmophyte = **vertical/inflammatoire** ; ostéophyte = **horizontal/dégénératif**."
+  },
+  {
+   "id": "fc04b-qroc5",
+   "difficulty": "difficile",
+   "points": 4,
+   "question": "Opposez la **polyarthrite rhumatoïde** et les **spondylarthrites** (nature, os, terrain, cibles).",
+   "answer": "La **PR** est **auto-immune** (ACPA, FR), touche les articulations **distales** de façon symétrique, et **détruit** surtout l'os/cartilage (RANKL, MMP) ; terrain **HLA-DRB1** + tabac ; fond = méthotrexate puis anti-TNF/IL-6. Les **spondylarthrites** sont **auto-inflammatoires**, **axiales** (HLA-B27), et associent **destruction ET formation osseuse** (syndesmophytes) ; axe **IL-23/IL-17** + TNF ; pas d'auto-anticorps spécifiques.",
+   "keyPoints": [
+    "PR : auto-immune, distale, ACPA, destruction osseuse, HLA-DRB1",
+    "SpA : auto-inflammatoire, axiale, B27, destruction + formation osseuse",
+    "PR : anti-TNF/IL-6 ; SpA : TNF + IL-17/IL-23"
+   ]
+  },
+  {
+   "id": "fc04b-qroc6",
+   "difficulty": "facile",
+   "points": 2,
+   "question": "Quelles sont les principales **cibles thérapeutiques** des spondylarthrites ?",
+   "answer": "La cible principale est le **TNF** (anti-TNF). L'axe **IL-17 / IL-23** est également ciblé par des biothérapies. Les **AINS** restent le traitement symptomatique de première ligne.",
+   "keyPoints": [
+    "Cible principale = TNF",
+    "Axe IL-17 / IL-23 également ciblé",
+    "AINS en symptomatique"
+   ]
+  }
+ ]
+}

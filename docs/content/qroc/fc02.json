@@ -1,0 +1,80 @@
+{
+ "slug": "fc02",
+ "title": "QROC — Maladies auto-immunes",
+ "questions": [
+  {
+   "id": "fc02-qroc1",
+   "difficulty": "facile",
+   "points": 3,
+   "question": "Définissez une **maladie auto-immune** et donnez « l'équation » qui résume sa survenue.",
+   "answer": "Une MAI est une **réponse immunitaire pathologique dirigée contre les antigènes du soi**, responsable de lésions tissulaires (à distinguer de l'auto-immunité physiologique, sans maladie). Elle survient selon l'équation : **terrain prédisposé (gènes + hormones) + facteur déclenchant (environnement) → rupture de la tolérance au soi**.",
+   "keyPoints": [
+    "Réponse immunitaire contre le soi + lésions tissulaires",
+    "≠ auto-immunité physiologique",
+    "Terrain prédisposé + déclencheur environnemental → rupture de tolérance"
+   ]
+  },
+  {
+   "id": "fc02-qroc2",
+   "difficulty": "moyen",
+   "points": 4,
+   "question": "Différenciez la **tolérance centrale** et la **tolérance périphérique** des lymphocytes T.",
+   "answer": "La **tolérance centrale** a lieu dans le **thymus** : sélection positive (cortex) puis sélection négative (médullaire) éliminant par apoptose (~98 %) les LT auto-réactifs (rôle clé d'**AIRE**). La **tolérance périphérique** contrôle les clones auto-réactifs ayant échappé : **anergie** (signal 1 sans signal 2), **ignorance**, **délétion clonale** (Fas/FasL) et **suppression par les LTreg** (IL-10, TGF-β).",
+   "keyPoints": [
+    "Centrale = thymus : sélection + (cortex) puis − (médullaire), AIRE",
+    "Périphérique = anergie, ignorance, délétion (Fas/FasL)",
+    "LTreg (IL-10, TGF-β)"
+   ]
+  },
+  {
+   "id": "fc02-qroc3",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Expliquez le concept **signal 1 / signal 2** et comment une **infection** peut déclencher une MAI.",
+   "answer": "L'activation d'un LT nécessite **2 signaux** : signal 1 = reconnaissance TCR / peptide-CMH, signal 2 = **costimulation** (B7/CD28). Avec les deux → activation ; avec le **signal 1 seul** → **anergie**. Une **infection** crée un contexte inflammatoire qui fournit le **signal 2** à un LT auto-réactif jusque-là anergique : elle **lève l'anergie** et peut ainsi initier une réponse auto-immune.",
+   "keyPoints": [
+    "Signal 1 = TCR/CMH ; Signal 2 = costimulation B7/CD28",
+    "Signal 1 seul = anergie",
+    "Infection apporte le signal 2 → lève l'anergie → MAI"
+   ]
+  },
+  {
+   "id": "fc02-qroc4",
+   "difficulty": "moyen",
+   "points": 4,
+   "question": "Opposez les **auto-anticorps naturels** et les **auto-anticorps pathogènes** (cellule, isotype, affinité, effet).",
+   "answer": "Les **naturels** sont produits par les **LB1a (CD5+)**, ce sont des **IgM** de **faible affinité**, polyréactifs, issus de gènes germinaux non mutés et **non pathogènes**. Les **pathogènes** sont produits par les LB2 conventionnels, ce sont des **IgG** de **forte affinité** (mutations somatiques + switch) et ils sont **pathogènes** (activent le complément, forment des complexes immuns).",
+   "keyPoints": [
+    "Naturels : LB1a CD5+, IgM, faible affinité, non pathogènes",
+    "Pathogènes : LB2, IgG, forte affinité, pathogènes",
+    "Maturation = switch + mutations somatiques"
+   ]
+  },
+  {
+   "id": "fc02-qroc5",
+   "difficulty": "difficile",
+   "points": 4,
+   "question": "Citez et expliquez les **4 voies de rupture de tolérance**.",
+   "answer": "(1) **Stimulation polyclonale** (LPS, superantigènes) activant indistinctement de nombreux clones, y compris auto-réactifs ; (2) **Mimétisme moléculaire** : un antigène étranger ressemble à un antigène du soi (ex. Coxsackie B4 / GAD → diabète de type 1) ; (3) **Démasquage d'épitopes cryptiques** normalement cachés (ex. statines / HMG-CoA réductase) ; (4) **Activation des CPA** (IFN de type 1, pDC → lupus) abaissant le seuil d'activation.",
+   "keyPoints": [
+    "Stimulation polyclonale",
+    "Mimétisme moléculaire (Coxsackie/GAD → DT1)",
+    "Épitopes cryptiques démasqués",
+    "Activation des CPA (IFN-I)"
+   ]
+  },
+  {
+   "id": "fc02-qroc6",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Comparez les mécanismes du **Basedow** et de la **myasthénie**.",
+   "answer": "Les deux sont dus à des **auto-anticorps anti-récepteur**, mais avec des effets opposés. **Basedow** : auto-Ac anti-récepteur de la TSH **agonistes** → stimulation continue → **hyperthyroïdie**. **Myasthénie** : auto-Ac anti-récepteur de l'acétylcholine **antagonistes** → blocage de la transmission neuromusculaire → **faiblesse musculaire**.",
+   "keyPoints": [
+    "Basedow : anti-RTSH agoniste → hyperthyroïdie",
+    "Myasthénie : anti-RACh antagoniste → bloc neuromusculaire",
+    "Même cible (récepteur) mais effets opposés (stimule vs bloque)"
+   ],
+   "trap": "Ne pas inverser agoniste/antagoniste : Basedow **stimule**, myasthénie **bloque**."
+  }
+ ]
+}

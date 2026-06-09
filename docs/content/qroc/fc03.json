@@ -1,0 +1,80 @@
+{
+ "slug": "fc03",
+ "title": "QROC — Grossesse & naissance",
+ "questions": [
+  {
+   "id": "fc03-qroc1",
+   "difficulty": "facile",
+   "points": 3,
+   "question": "En quoi la grossesse est-elle un **paradoxe immunologique** ? Caractérisez la tolérance materno-fœtale.",
+   "answer": "Le fœtus exprime des **antigènes paternels**, étrangers à la mère : c'est une **greffe semi-allogénique** qui devrait être rejetée mais ne l'est pas. La tolérance materno-fœtale est **active** (mécanismes positifs), **locale** (au site d'implantation), **temporaire** (le temps de la grossesse) et **sélective** (la mère reste capable de se défendre contre les infections).",
+   "keyPoints": [
+    "Fœtus = greffe semi-allogénique (Ag paternels)",
+    "Tolérance active, locale, temporaire et sélective"
+   ]
+  },
+  {
+   "id": "fc03-qroc2",
+   "difficulty": "moyen",
+   "points": 4,
+   "question": "Décrivez la **composition cellulaire de la déciduale** et les particularités des **NK déciduales**.",
+   "answer": "La déciduale contient majoritairement des **NK déciduales (> 70 %)**, des macrophages (10-20 %), des mastocytes, des **LTreg +++** et des LTγδ, avec une **absence de LT CD8 et de LB**. Les **NK déciduales** sont **CD16⁻ / CD56^bright** (≠ NK cytotoxiques du sang), avec des récepteurs inhibiteurs augmentés (sous IL-15). Elles ne sont **pas cytotoxiques** mais **angiogéniques** : elles sécrètent VEGF, PLGF, LIF, galectine-1 → vascularisation et implantation.",
+   "keyPoints": [
+    "NK déciduales > 70 %, macrophages, LTreg +++",
+    "Absence de LT CD8 et de LB",
+    "NK : CD16⁻ CD56^bright, non cytotoxiques, angiogéniques (VEGF, PLGF)"
+   ],
+   "trap": "Les NK déciduales sont **angiogéniques, pas tueuses** : CD56^bright / CD16⁻ (à l'inverse des NK sanguines CD56^dim / CD16⁺)."
+  },
+  {
+   "id": "fc03-qroc3",
+   "difficulty": "difficile",
+   "points": 4,
+   "question": "Citez **4 mécanismes** par lesquels le fœtus échappe au système immunitaire maternel.",
+   "answer": "(1) **↓ antigénicité du trophoblaste** : absence de HLA II, gradient de HLA I, expression des **HLA-G/E/C** tolérogènes (inhibent NK/DC/LT, favorisent les Treg) ; (2) **molécules pro-apoptotiques** **FasL** et **TRAIL** → apoptose des LT activés ; (3) **inhibition du complément** par CD46, CD55, CD59 ; (4) environnement **tolérogène** : DC immatures, macrophages M2, **LTreg** (HCG, PD-1/CTLA-4, TGF-β/IL-10, **IDO**).",
+   "keyPoints": [
+    "↓ antigénicité : pas de HLA II, HLA-G/E/C tolérogènes",
+    "Apoptose des LT : FasL, TRAIL",
+    "Inhibition du complément : CD46/55/59",
+    "Treg / M2 / DC immatures / IDO"
+   ]
+  },
+  {
+   "id": "fc03-qroc4",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Comment le nouveau-né est-il protégé sur le plan **humoral**, avant et après la naissance ?",
+   "answer": "Le nouveau-né ne produit pas encore d'anticorps endogènes. **Avant la naissance** : transfert des **IgG maternelles à travers le placenta via le récepteur FcRn** (surtout au 3ᵉ trimestre → protection ~6 mois ; les prématurés en sont moins pourvus). **Après la naissance** : **IgA sécrétoires de l'allaitement** (dimère + chaîne J + pièce sécrétoire) qui protègent les muqueuses digestives, accompagnées de lactoferrine et lysozyme.",
+   "keyPoints": [
+    "Pas d'Ac endogènes au début",
+    "Avant : IgG maternelles via FcRn (~6 mois)",
+    "Après : IgA sécrétoires du lait maternel"
+   ],
+   "trap": "**IgG = placenta (FcRn)** ; **IgA = lait maternel**. Les prématurés reçoivent moins d'IgG (transfert au 3ᵉ trimestre)."
+  },
+  {
+   "id": "fc03-qroc5",
+   "difficulty": "moyen",
+   "points": 2,
+   "question": "Pourquoi utilise-t-on des **vaccins conjugués** chez le nourrisson de moins de 2 ans ?",
+   "answer": "Avant 2 ans, l'enfant répond mal aux antigènes **polysaccharidiques** purs (réponse **T-indépendante** : IgM de faible affinité, sans mémoire). En **conjuguant** le polysaccharide à une **protéine porteuse**, on transforme la réponse en réponse **T-dépendante** : on obtient une commutation isotypique, une maturation d'affinité et une **mémoire** immunitaire efficaces.",
+   "keyPoints": [
+    "Réponse aux polysaccharides immature avant 2 ans (T-indépendante)",
+    "Conjugaison à une protéine → réponse T-dépendante",
+    "→ mémoire et meilleure affinité"
+   ]
+  },
+  {
+   "id": "fc03-qroc6",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Définissez la **prééclampsie** et donnez son mécanisme immunologique.",
+   "answer": "La prééclampsie associe une **HTA (≥ 140/90)** et une **protéinurie (≥ 0,3 g/24h)** apparaissant **après 20 SA**. Son mécanisme repose sur un **défaut d'invasion trophoblastique** des artères spiralées → mauvaise vascularisation placentaire → **hypoxie**, dans un contexte de **déficit en LTreg** (rupture de la tolérance materno-fœtale).",
+   "keyPoints": [
+    "HTA ≥ 140/90 + protéinurie ≥ 0,3 g/24h après 20 SA",
+    "Défaut d'invasion trophoblastique → hypoxie placentaire",
+    "Déficit en LTreg"
+   ]
+  }
+ ]
+}

@@ -9,6 +9,7 @@ const ICONS = {
   quiz: '<circle cx="12" cy="12" r="9"/><path d="M9.5 9a2.5 2.5 0 1 1 3.5 2.3c-.8.4-1 .9-1 1.7"/><path d="M12 16.5h.01"/>',
   archive: '<rect x="3" y="4" width="18" height="4" rx="1"/><path d="M5 8v11h14V8M10 12h4"/>',
   mix: '<path d="M4 7h6l4 10h6"/><path d="M14 7h6M4 17h6"/>',
+  pen: '<path d="M12 20h9"/><path d="M16.5 3.5a2.1 2.1 0 0 1 3 3L7 19l-4 1 1-4z"/>',
   chart: '<path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/>',
   menu: '<path d="M3 6h18M3 12h18M3 18h18"/>',
   sun: '<circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4 12H2M22 12h-2M5 5 4 4M20 20l-1-1M5 19l-1 1M20 4l-1 1"/>',
@@ -81,6 +82,7 @@ export async function initLayout(active = {}) {
         <a href="./quiz.html" class="${here('quiz.html') && !location.search.includes('annales') ? 'active' : ''}">${icon('quiz')}<span>QCM des cours</span></a>
         <a href="./quiz.html?set=annales" class="${location.search.includes('annales') ? 'active' : ''}">${icon('archive')}<span>Annales 2015–2024</span></a>
         <a href="./quiz.html?set=cours&mode=mixte&auto=1">${icon('mix')}<span>QCM mixte</span></a>
+        <a href="./qroc.html" class="${here('qroc.html') ? 'active' : ''}">${icon('pen')}<span>QROC (réponse courte)</span></a>
         <div class="group-title">Suivi</div>
         <a href="./progres.html" class="${here('progres.html') ? 'active' : ''}">${icon('chart')}<span>Ma progression</span></a>
       </nav>

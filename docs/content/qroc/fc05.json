@@ -1,0 +1,81 @@
+{
+ "slug": "fc05",
+ "title": "QROC — Thérapies cellulaires",
+ "questions": [
+  {
+   "id": "fc05-qroc1",
+   "difficulty": "facile",
+   "points": 2,
+   "question": "Définissez la **thérapie cellulaire** et opposez approche **autologue** et **allogénique**.",
+   "answer": "La thérapie cellulaire est l'**administration de cellules vivantes** à un receveur dans un but thérapeutique. **Autologue** : les cellules proviennent du **patient lui-même** → pas de rejet ni de GVH. **Allogénique** : les cellules proviennent d'un **donneur** → nécessite une **compatibilité HLA** et une immunosuppression, avec risque de réaction du greffon contre l'hôte.",
+   "keyPoints": [
+    "Transfert de cellules à visée thérapeutique",
+    "Autologue = patient (pas de rejet/GVH)",
+    "Allogénique = donneur (compatibilité HLA)"
+   ]
+  },
+  {
+   "id": "fc05-qroc2",
+   "difficulty": "moyen",
+   "points": 4,
+   "question": "Citez les **4 niveaux de potentialité** des cellules souches, avec un exemple pour chacun.",
+   "answer": "**Totipotence** : capable de donner un individu entier (+ annexes) → le **zygote**. **Pluripotence** : donne tous les types cellulaires de l'organisme → **CSE** et **iPS**. **Multipotence** : donne plusieurs types d'un même lignage → **CS adultes, mésenchymateuses, CSH**. **Unipotence** : ne donne qu'**un seul type** cellulaire → progéniteur engagé.",
+   "keyPoints": [
+    "Totipotente : zygote (individu entier)",
+    "Pluripotente : CSE, iPS (tous types)",
+    "Multipotente : CSH, mésenchymateuses",
+    "Unipotente : un seul type"
+   ]
+  },
+  {
+   "id": "fc05-qroc3",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Qu'est-ce qu'une cellule **iPS** et quel problème résout-elle par rapport aux **CSE** ?",
+   "answer": "Les **iPS** (cellules souches pluripotentes induites) sont des cellules **adultes différenciées reprogrammées en laboratoire** pour redevenir **pluripotentes**. Elles offrent les avantages des CSE (pluripotence, possibilité d'obtenir tout type cellulaire) **sans le problème éthique** lié à la destruction d'embryons qu'imposent les **CSE** (cellules souches embryonnaires). Elles peuvent en outre être **autologues**.",
+   "keyPoints": [
+    "iPS = cellules adultes reprogrammées → pluripotentes",
+    "Évitent le problème éthique des CSE (embryon)",
+    "Potentiellement autologues"
+   ]
+  },
+  {
+   "id": "fc05-qroc4",
+   "difficulty": "difficile",
+   "points": 4,
+   "question": "Différenciez la **GVH** et la **GVL** après allogreffe de CSH.",
+   "answer": "Le greffon contient des CSH **et des lymphocytes T du donneur**. La **GVH** (*Graft versus Host*) est la réaction des LT du donneur contre les tissus de l'**hôte** (cibles : **peau, intestin, foie**) → effet **délétère** à prévenir. La **GVL** (*Graft versus Leukemia*) est la réaction des mêmes LT contre les **cellules tumorales résiduelles** du receveur → effet **bénéfique recherché** (élimine la maladie résiduelle).",
+   "keyPoints": [
+    "Greffon = CSH + LT du donneur",
+    "GVH : LT vs hôte (peau, intestin, foie) → délétère",
+    "GVL : LT vs cellules tumorales → bénéfique"
+   ],
+   "trap": "**H = Host (hôte) = à éviter** ; **L = Leukemia = recherché**. Même mécanisme, cibles opposées."
+  },
+  {
+   "id": "fc05-qroc5",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Expliquez le principe des **CAR-T cells**, leur cible principale et leurs **effets indésirables** majeurs.",
+   "answer": "Les **CAR-T cells** sont des **lymphocytes T du patient modifiés** pour exprimer un **récepteur antigénique chimérique (CAR)** qui reconnaît directement un antigène tumoral **sans présentation par le CMH**. La cible phare est le **CD19** (lymphomes et leucémies B). Effets indésirables majeurs : le **syndrome de relargage cytokinique (CRS)** et la **neurotoxicité (ICANS)**.",
+   "keyPoints": [
+    "LT modifiés avec récepteur chimérique",
+    "Reconnaissance de l'Ag SANS CMH",
+    "Cible CD19 (hémopathies B)",
+    "EI : CRS et ICANS"
+   ]
+  },
+  {
+   "id": "fc05-qroc6",
+   "difficulty": "facile",
+   "points": 3,
+   "question": "Citez les **sources** de CSH et les **indications** respectives de l'allogreffe et de l'autogreffe.",
+   "answer": "**Sources** de CSH : **moelle osseuse** (prélèvement osseux ou sang périphérique après mobilisation) et **sang de cordon/placenta**. **Allogreffe** : hémopathies malignes, déficits génétiques (drépanocytose, déficits immunitaires) — nécessite une compatibilité HLA et un conditionnement. **Autogreffe** : hémopathies, maladies auto-immunes et inflammatoires chroniques — permet une chimiothérapie intensive suivie d'une reconstitution.",
+   "keyPoints": [
+    "Sources : moelle, sang périphérique mobilisé, sang de cordon",
+    "Allogreffe : hémopathies malignes, déficits génétiques",
+    "Autogreffe : hémopathies, MAI/inflammatoires"
+   ]
+  }
+ ]
+}

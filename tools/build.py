@@ -28,6 +28,7 @@ CONTENT = os.path.join(DOCS, "content")
 COURS_DIR = os.path.join(CONTENT, "cours")
 FICHES_DIR = os.path.join(CONTENT, "fiches")
 QUIZ_DIR = os.path.join(CONTENT, "quiz")
+QROC_DIR = os.path.join(CONTENT, "qroc")
 ANNALES_DIR = os.path.join(CONTENT, "annales")
 
 TODAY = datetime.date.today().isoformat()
@@ -241,6 +242,16 @@ def _garbled_ratio(text):
 
 
 def build_cours(lesson, report=False):
+    # Ne jamais écraser un résumé rédigé à la main (marqué "curated": true).
+    out_existing = os.path.join(COURS_DIR, lesson["slug"] + ".json")
+    if os.path.exists(out_existing):
+        try:
+            with open(out_existing, encoding="utf-8") as f:
+                if json.load(f).get("curated"):
+                    print(f"  {lesson['slug']:6} curated  (résumé rédigé conservé)")
+                    return "curated"
+        except Exception:
+            pass
     path = os.path.join(ROOT, lesson["file"])
     if not os.path.exists(path):
         print(f"  [!] PDF introuvable : {lesson['file']}")
@@ -305,13 +316,16 @@ def write_manifest():
         cours_path = os.path.join(COURS_DIR, L["slug"] + ".json")
         quiz_path = os.path.join(QUIZ_DIR, L["slug"] + ".json")
         fiche_path = os.path.join(FICHES_DIR, L["slug"] + ".json")
+        qroc_path = os.path.join(QROC_DIR, L["slug"] + ".json")
         has_quiz, nq = _has_questions(quiz_path)
+        has_qroc, nqr = _has_questions(qroc_path)
         lessons.append({
             "slug": L["slug"], "code": L["code"], "order": L["order"],
             "title": L["title"], "shortTitle": L["shortTitle"], "prof": L["prof"],
             "hasCours": os.path.exists(cours_path),
             "hasFiche": _fiche_filled(fiche_path),
             "hasQuiz": has_quiz, "quizCount": nq,
+            "hasQroc": has_qroc, "qrocCount": nqr,
         })
     annales = []
     for A in ANNALES:
@@ -329,6 +343,7 @@ def write_manifest():
 def ensure_stubs():
     os.makedirs(FICHES_DIR, exist_ok=True)
     os.makedirs(QUIZ_DIR, exist_ok=True)
+    os.makedirs(QROC_DIR, exist_ok=True)
     os.makedirs(ANNALES_DIR, exist_ok=True)
     created = 0
     for L in LESSONS:
@@ -345,6 +360,12 @@ def ensure_stubs():
                 json.dump({"slug": L["slug"], "title": f"QCM — {L['shortTitle']}",
                            "unofficialKey": False, "questions": []},
                           f, ensure_ascii=False, indent=1)
+            created += 1
+        rp = os.path.join(QROC_DIR, L["slug"] + ".json")
+        if not os.path.exists(rp):
+            with open(rp, "w", encoding="utf-8") as f:
+                json.dump({"slug": L["slug"], "title": f"QROC — {L['shortTitle']}",
+                           "questions": []}, f, ensure_ascii=False, indent=1)
             created += 1
     for A in ANNALES:
         ap = os.path.join(ANNALES_DIR, A["slug"] + ".json")
@@ -394,10 +415,36 @@ def _validate_questions(path, label, errors):
             errors.append(f"{label}/{qid}: explication manquante")
 
 
+def _validate_qroc(path, label, errors):
+    if not os.path.exists(path):
+        return
+    try:
+        with open(path, encoding="utf-8") as f:
+            d = json.load(f)
+    except Exception as e:
+        errors.append(f"{label}: JSON invalide ({e})")
+        return
+    ids = set()
+    for q in d.get("questions", []):
+        qid = q.get("id")
+        if not qid:
+            errors.append(f"{label}: QROC sans id")
+        elif qid in ids:
+            errors.append(f"{label}: id dupliqué {qid}")
+        ids.add(qid)
+        if not q.get("question"):
+            errors.append(f"{label}/{qid}: énoncé manquant")
+        if not q.get("answer"):
+            errors.append(f"{label}/{qid}: réponse modèle manquante")
+        if q.get("difficulty") and q["difficulty"] not in DIFFICULTIES:
+            errors.append(f"{label}/{qid}: difficulté invalide ({q.get('difficulty')})")
+
+
 def check():
     errors = []
     for L in LESSONS:
         _validate_questions(os.path.join(QUIZ_DIR, L["slug"] + ".json"), f"quiz/{L['slug']}", errors)
+        _validate_qroc(os.path.join(QROC_DIR, L["slug"] + ".json"), f"qroc/{L['slug']}", errors)
     for A in ANNALES:
         _validate_questions(os.path.join(ANNALES_DIR, A["slug"] + ".json"), f"annales/{A['slug']}", errors)
     if errors:

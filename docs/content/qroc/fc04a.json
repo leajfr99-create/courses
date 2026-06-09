@@ -1,0 +1,82 @@
+{
+ "slug": "fc04a",
+ "title": "QROC — Polyarthrite rhumatoïde",
+ "questions": [
+  {
+   "id": "fc04a-qroc1",
+   "difficulty": "facile",
+   "points": 3,
+   "question": "Donnez la **carte d'identité** de la polyarthrite rhumatoïde (fréquence, terrain, topographie articulaire).",
+   "answer": "La PR est le **rhumatisme inflammatoire le plus fréquent** (~**0,5 %** de la population française), avec une **prédominance féminine** et une apparition médiane vers **50 ans**. L'atteinte articulaire est **distale, bilatérale et symétrique** (mains/pieds), **épargnant** les épaules et les hanches ; la **synovite** est la porte d'entrée diagnostique et l'**érosion** radiographique est caractéristique.",
+   "keyPoints": [
+    "Rhumatisme inflammatoire le plus fréquent (~0,5 %)",
+    "Femme, ~50 ans",
+    "Distale, bilatérale, symétrique (épargne épaules/hanches)",
+    "Synovite + érosion"
+   ]
+  },
+  {
+   "id": "fc04a-qroc2",
+   "difficulty": "moyen",
+   "points": 4,
+   "question": "Décrivez les **synoviocytes** et le mécanisme de **destruction articulaire** dans la PR.",
+   "answer": "La membrane synoviale contient des synoviocytes **type A (macrophages)** et **type B (fibroblastes)**. Dans la PR, les synoviocytes **B** acquièrent un **phénotype tumoral** et forment le **pannus** (synoviale hyperplasique et agressive). Le pannus produit du **RANKL** (→ activation des **ostéoclastes** → **érosions osseuses**) et des **métalloprotéinases** (→ dégradation du **cartilage** → **pincement articulaire**).",
+   "keyPoints": [
+    "Synoviocytes A = macrophages, B = fibroblastes",
+    "Pannus = synoviocytes B « tumoraux »",
+    "RANKL → ostéoclastes → érosions osseuses",
+    "MMP → destruction du cartilage"
+   ],
+   "trap": "Synoviocytes **A = macrophages** (pas fibroblastes). RANKL → os ; MMP → cartilage."
+  },
+  {
+   "id": "fc04a-qroc3",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Qu'est-ce que la **citrullination** ? Citez les **3 sources d'hypercitrullination** (facteurs de risque).",
+   "answer": "La citrullination est une **modification post-traductionnelle** transformant un résidu **arginine en citrulline**, catalysée par l'enzyme **PAD** (peptidyl-arginine désiminase). Une **hypercitrullination** favorise la production d'**ACPA**. Ses 3 sources/facteurs de risque sont : le **tabac**, la **NETose** (pièges extracellulaires des PNN) et l'infection à ***Porphyromonas gingivalis*** (parodontite).",
+   "keyPoints": [
+    "Arginine → citrulline par l'enzyme PAD",
+    "3 sources : tabac, NETose, Porphyromonas gingivalis",
+    "Hypercitrullination → ACPA"
+   ]
+  },
+  {
+   "id": "fc04a-qroc4",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Comparez les **ACPA** et le **facteur rhumatoïde** (FR) : nature, spécificité, intérêt pronostique.",
+   "answer": "Les **ACPA** (anti-peptides citrullinés / anti-CCP) sont **très spécifiques** de la PR et apparaissent **jusqu'à 10 ans AVANT** les premiers symptômes (phase pré-PR) ; ils activent aussi les ostéoclastes. Le **facteur rhumatoïde** est une **IgM dirigée contre les IgG**, **peu spécifique** (présent dans d'autres pathologies et chez des sujets sains).",
+   "keyPoints": [
+    "ACPA = anti-peptides citrullinés, très spécifiques",
+    "ACPA détectables ~10 ans avant les symptômes",
+    "FR = IgM anti-IgG, non spécifique"
+   ],
+   "trap": "ACPA = **avant** (pas après) les symptômes ; FR = **non** spécifique."
+  },
+  {
+   "id": "fc04a-qroc5",
+   "difficulty": "facile",
+   "points": 2,
+   "question": "Quel est le traitement de fond de **1ʳᵉ intention** de la PR, et quelles sont les principales **cibles biologiques** en cas d'échec ?",
+   "answer": "Le traitement de fond de 1ʳᵉ intention est le **MÉTHOTREXATE**. En cas d'échec, on utilise des **biothérapies / thérapies ciblées** dirigées contre le **TNF-α, l'IL-6, l'IL-1, le GM-CSF, les LT (CTLA-4-Ig) ou les LB (anti-CD20)**, ou des **inhibiteurs de JAK**. L'**arrêt du tabac** est impératif (il diminue la réponse aux traitements).",
+   "keyPoints": [
+    "1ʳᵉ intention = méthotrexate",
+    "Cibles : TNF, IL-6, IL-1, GM-CSF, LT, LB, JAK",
+    "Sevrage tabagique impératif"
+   ]
+  },
+  {
+   "id": "fc04a-qroc6",
+   "difficulty": "difficile",
+   "points": 3,
+   "question": "Illustrez l'interaction **gène-environnement** dans la PR (HLA-DRB1 et tabac).",
+   "answer": "Le principal facteur génétique est le **HLA-DRB1** porteur de l'**épitope partagé** (séquence QKRAA, CMH de classe II), présent chez ~2/3 des PR, qui favorise la présentation des peptides citrullinés. Le **tabac** (facteur environnemental majeur) induit une **hypercitrullination** pulmonaire (via la NETose). La **conjonction** terrain HLA-DRB1 + tabac augmente fortement le risque de produire des **ACPA** et de développer une PR : c'est un modèle typique d'interaction gène-environnement.",
+   "keyPoints": [
+    "HLA-DRB1 = épitope partagé (QKRAA), classe II",
+    "Tabac → hypercitrullination",
+    "Synergie HLA-DRB1 + tabac → ACPA → PR"
+   ]
+  }
+ ]
+}

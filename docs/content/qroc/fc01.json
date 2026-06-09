@@ -1,0 +1,83 @@
+{
+ "slug": "fc01",
+ "title": "QROC — Immunosénescence",
+ "questions": [
+  {
+   "id": "fc01-qroc1",
+   "difficulty": "facile",
+   "points": 4,
+   "question": "Définissez l'**immunosénescence** et citez ses **4 piliers**.",
+   "answer": "L'immunosénescence est la **détérioration progressive du système immunitaire avec l'âge**, touchant à la fois l'immunité **innée** et **adaptative** (altérations du phénotype et de la fonction des cellules/organes du SI). Ses 4 piliers sont : (1) l'**involution thymique**, (2) l'**inflammaging** (inflammation chronique de bas grade), (3) l'**adaptation métabolique** (↑ glycolyse, ↓ ATP/cytokines) et (4) les **changements hématopoïétiques** (biais myéloïde des CSH).",
+   "keyPoints": [
+    "Définition : déclin du SI lié à l'âge, inné + adaptatif",
+    "Involution thymique",
+    "Inflammaging",
+    "Adaptation métabolique",
+    "Biais myéloïde des CSH (hématopoïèse)"
+   ]
+  },
+  {
+   "id": "fc01-qroc2",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Concernant l'immunité innée du sujet âgé, expliquez la formule « le nombre tient mais la fonction lâche ».",
+   "answer": "Le **nombre** des cellules de l'immunité innée reste globalement **stable** (PNN, monocytes/macrophages ; DC et NK stables ou légèrement diminués), mais leurs **fonctions effectrices déclinent** : ↓ chimiotactisme, ↓ burst oxydatif et ↓ microbicidie des PNN, ↓ phagocytose et bactéricidie des macrophages, ↓ cytotoxicité et IFN-γ des NK. S'y ajoutent des barrières moins efficaces (↓ clairance mucociliaire → pneumonies ; ↓ acidité gastrique → infections digestives).",
+   "keyPoints": [
+    "Nombre de cellules ≈ stable",
+    "Déclin fonctionnel : phagocytose, burst oxydatif, cytotoxicité",
+    "Altération des barrières (mucociliaire, acidité gastrique)"
+   ],
+   "trap": "Les cellules dendritiques **n'augmentent pas** (stables ou diminuées) — c'est un piège classique de QCM."
+  },
+  {
+   "id": "fc01-qroc3",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Qu'est-ce que l'**involution thymique** et quelle est sa conséquence principale ?",
+   "answer": "L'involution thymique est le **remplacement progressif du thymus par du tissu fibreux et adipeux** (fibroadipogénèse, débutant dès 1 an et accélérée à la puberté ; ~80 % du thymus non fonctionnel à 50 ans). Conséquence principale : **chute de la production de lymphocytes T naïfs** (perte ~3 %/an du pool naïf dès 20 ans, mesurée par les TRECs), avec appauvrissement du répertoire et accumulation de LT mémoires très différenciés.",
+   "keyPoints": [
+    "Remplacement du thymus par tissu adipeux/fibreux (fibroadipogénèse)",
+    "↓ production de LT naïfs",
+    "Mesure par les TRECs ; ~3 %/an dès 20 ans"
+   ]
+  },
+  {
+   "id": "fc01-qroc4",
+   "difficulty": "facile",
+   "points": 2,
+   "question": "Définissez l'**inflammaging** et citez 3 marqueurs biologiques associés.",
+   "answer": "L'inflammaging est une **inflammation chronique de faible grade liée à l'âge**, faible mais continue, auto-entretenue par les cellules sénescentes. Marqueurs : **CRP, TNF-α, IL-6** (élévation modérée et persistante).",
+   "keyPoints": [
+    "Inflammation chronique de bas grade liée à l'âge",
+    "Marqueurs : CRP, TNF-α, IL-6"
+   ]
+  },
+  {
+   "id": "fc01-qroc5",
+   "difficulty": "difficile",
+   "points": 4,
+   "question": "Décrivez le **profil de risque immunologique** du sujet âgé.",
+   "answer": "Il associe : **perte des LT naïfs**, **peu de LB**, **accumulation de LT CD8 très différenciés** (CD8+CD28−) sénescents, **inversion du ratio CD4/CD8 (< 1)**, **séropositivité CMV**, le tout dans un contexte d'**inflammation chronique**. Ce profil est corrélé à une **augmentation de la morbi-mortalité** (infections, cancers, MCV, MAI).",
+   "keyPoints": [
+    "Perte des LT naïfs, peu de LB",
+    "Accumulation de CD8+CD28− différenciés",
+    "Ratio CD4/CD8 < 1 (inversé)",
+    "Séropositivité CMV + inflammation chronique"
+   ],
+   "trap": "Le profil est **pro-inflammatoire** (pas anti-inflammatoire) et le ratio CD4/CD8 est **inversé** (< 1)."
+  },
+  {
+   "id": "fc01-qroc6",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Pourquoi la **vaccination est-elle moins efficace** chez le sujet âgé, et quelle est la 1ʳᵉ mesure de prévention ?",
+   "answer": "Parce que les anticorps produits sont **moins fonctionnels** et la réponse mémoire **plus brève** (baisse de 30 à 50 % de l'efficacité) : le répertoire naïf est appauvri, le switch et la maturation d'affinité des LB sont altérés. Malgré cela, la **vaccination reste la 1ʳᵉ mesure de prévention** (grippe, dTPolio > 65 ans ; pneumocoque, hépatite A si à risque). On cherche à l'améliorer par de **nouveaux adjuvants**, l'augmentation des doses et de nouvelles voies d'administration.",
+   "keyPoints": [
+    "Ac moins fonctionnels, réponse plus courte (−30 à −50 %)",
+    "Répertoire appauvri, switch/maturation altérés",
+    "1ʳᵉ mesure de prévention = vaccination",
+    "Pistes : adjuvants, doses, voies d'administration"
+   ]
+  }
+ ]
+}

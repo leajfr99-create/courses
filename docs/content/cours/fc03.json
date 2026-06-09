@@ -2,375 +2,137 @@
  "slug": "fc03",
  "code": "FC03",
  "title": "Développement du système immunitaire à la naissance et immunité de la grossesse",
+ "shortTitle": "Grossesse & naissance",
  "prof": "Pr. Berger",
- "sourceFile": "FC03-BERGER-Systeme-immunitaire-pendant-la-grossesse-et-a-la-naissance-19.01.docx.pdf",
- "generatedAt": "2026-06-09",
- "extractionStatus": "ok",
- "toc": [
+ "curated": true,
+ "updated": "2026-06-09",
+ "summary": "La grossesse est une **greffe semi-allogénique** tolérée grâce à une **tolérance materno-fœtale active, temporaire et sélective**. À la naissance, le système immunitaire est **immature** : l'enfant est protégé passivement par les **IgG maternelles (via FcRn)** puis par les **IgA de l'allaitement**.",
+ "sections": [
   {
-   "id": "developpement-du-systeme-immunitaire-a-la-naissance",
-   "label": "DÉVELOPPEMENT DU SYSTÈME IMMUNITAIRE À LA NAISSANCE",
-   "level": 2
-  },
-  {
-   "id": "et-immunite-de-la-grossesse",
-   "label": "ET IMMUNITÉ DE LA GROSSESSE",
-   "level": 2
-  },
-  {
-   "id": "i-immunite-de-la-grossesse-une-enigme-immunologique",
-   "label": "I. Immunité de la grossesse : Une énigme immunologique",
-   "level": 2
-  },
-  {
-   "id": "ii-mecanismes-de-protection-du-foetus-vis-a-vis-du-si-matern",
-   "label": "II. Mécanismes de protection du fœtus vis-à-vis du SI maternel Rappel HLA - CMH spécifique de l’Homme. - Marqueur situé à la surface des cellules. - Permet l’identification et la distinction soi et non-soi par le système immunitaire. - Codé par des gènes situés sur le bras court du chromosome 6 HLA classique CMH de classe 1 - 3 gènes A, B, C, - Exprimées par toutes les cellules nucléées - Active les LT8 CMH de classe 2 - 3 paires de gènes : DP, DQ et DR - Exprimées par les CPA à l’état basal et les cellules activées - Polymorphisme allélique : chaque individu est unique (sauf jumeaux monozygotes) HLA non classique - Surtout HLA G ⇒ important dans la grossesse pour la tolérance materno-fœtale. - HLA E 1. Diminution de l’antigénicité des cellules trophoblastiques Au niveau du placenta, on a l’absence d’expression du HLA II et un gradient d’expression du HLA I. L’interaction des molécules de HLA avec les",
-   "level": 2
-  },
-  {
-   "id": "iii-developpement-du-systeme-immunitaire-a-la-naissance",
-   "label": "III. Développement du système immunitaire à la naissance",
-   "level": 2
-  },
-  {
-   "id": "iv-qcm-type-examen",
-   "label": "IV. QCM type examen",
-   "level": 2
-  }
- ],
- "blocks": [
-  {
-   "type": "heading",
-   "level": 2,
-   "id": "developpement-du-systeme-immunitaire-a-la-naissance",
-   "text": "DÉVELOPPEMENT DU SYSTÈME IMMUNITAIRE À LA NAISSANCE"
-  },
-  {
-   "type": "heading",
-   "level": 2,
-   "id": "et-immunite-de-la-grossesse",
-   "text": "ET IMMUNITÉ DE LA GROSSESSE"
-  },
-  {
-   "type": "heading",
-   "level": 2,
-   "id": "i-immunite-de-la-grossesse-une-enigme-immunologique",
-   "text": "I. Immunité de la grossesse : Une énigme immunologique"
-  },
-  {
-   "type": "paragraph",
-   "text": "La grossesse est un paradoxe immunologique, il s’agit d’une greffe semi-allogénique. L’embryon exprime 50% des antigènes hérités du père, et pourtant, il y a une absence de rejet par le système immunitaire maternel. Exemple : don d’ovocytes : Génome fœtal totalement allogénique pourtant la grossesse est possible ⇒ Comment peut-on expliquer cela ? ⇒ Différentes hypothèses pour expliquer la tolérance de l’embryon : 1. Fœtus isolé du système immunitaire (SI) maternel par la barrière placentaire (Medawar, 1960) donc absence d’échange : FAUX : car le trophoblaste d’origine embryonnaire est en contact étroit avec le SI maternel au travers de la circulation maternelle. Dès la 4ème semaine de gestation, des cellules fœtales entrent dans la circulation maternelle. Échange entre les 2 types de circulations (fœtale et maternel). 2. Fœtus immunologiquement neutre, n’exprimant pas d’antigènes allogéniques paternels. FAUX : dans le sang circulant des femmes enceintes, il y a la présence d’Ac dirigés contre les allo-Ag fœtaux qui sont d’origine paternelle. On retrouve en effet des Ac anti-HLA classe I paternels chez 15% des unipares et 75% des multipares."
-  },
-  {
-   "type": "paragraph",
-   "text": "Réponse immunitaire de la mère contre le fœtus. 3. SI maternelle anergique pendant la grossesse FAUX : Le SI de la mère est bien réactif et permet une réponse anti-infectieuse normale tout au long de la grossesse. En réalité : Présence d’une tolérance materno-fœtale active qui est : - TEMPORAIRE (que pendant la grossesse) - SELECTIVE (dirigé uniquement vers le fœtus). On a des mécanismes actifs de régulation et de reconnaissance entre le fœtus et le SI maternel faisant intervenir des mécanismes de barrière et des mécanismes de contrôle du SI de la mère. Les objectifs de cette tolérance : - Protéger le fœtus en inhibant la réaction immunitaire maternelle dirigée contre lui. - Réguler les mécanismes actifs de reconnaissance immunologique du fœtus par le SI de sa mère. 1. Les deux interfaces materno-fœtales ● Quelques jours après la fécondation, les cellules de la morula sont à l’origine de : o L’embryon (constitue la masse cellulaire interne) o Placenta et annexes (masse cellulaire externe) ● La nidation : o Aux environs du 7ème jour, le blastocyste s’implante dans la paroi utérine. o Les cellules conjonctives du stroma endométrial deviennent des cellules déciduales métaboliquement actives en réponse à la progestérone, permettant la nutrition de l’embryon dès son implantation."
-  },
-  {
-   "type": "list",
-   "items": [
-    "La placentation : o Syncytiotrophoblaste (ST) : couche externe multinucléée qui s’infiltre entre les cellules épithéliales de la muqueuse utérine grâce à son activité lytique importante pour permettre l’implantation de l’embryon.",
-    "Cytotrophoblaste (CT) : couche interne de cellules située sous le ST."
+   "id": "defi",
+   "icon": "📖",
+   "heading": "Le paradoxe immunologique de la grossesse",
+   "accent": "teal",
+   "blocks": [
+    {
+     "type": "callout",
+     "tone": "def",
+     "html": "Le fœtus exprime des antigènes **paternels** (étrangers à la mère) : c'est une **greffe semi-allogénique**. Pourtant il n'est pas rejeté → la tolérance materno-fœtale est **active, locale, temporaire et sélective** (la mère reste capable de se défendre contre les infections)."
+    }
    ]
   },
   {
-   "type": "paragraph",
-   "text": "Explication : Le ST a une activité lytique intense qui va permettre la pénétration en profondeur du futur embryon dans la muqueuse utérine."
-  },
-  {
-   "type": "paragraph",
-   "text": "Explication : Implantation complète de l’embryon dans l’endomètre. Des vacuoles extra-cytoplasmiques apparaissent dans le ST, elles confluent pour former les lacunes."
-  },
-  {
-   "type": "paragraph",
-   "text": "Explication : Grâce à l’activité lytique du ST, la paroi des capillaires de l’endomètre va être progressivement érodée ce qui va permettre au sang d’être déversé dans les lacunes. Il y aura la formation des villosités choriales qui constitue une ébauche du placenta."
-  },
-  {
-   "type": "paragraph",
-   "text": "(le chorion qui entoure l’embryon donnera naissance au placenta) La formation des villosités choriales aussi appelé villosités placentaires permettent d’augmenter de façon importante la surface d’échange entre les 2 circulations, maternel et fœtal. On distingue 2 types de villosités : les libres et les crampons. Villosités libres Villosités crampons - Au niveau du CT villeux - Baignent dans la chambre intervilleuse - Au niveau du CT extra-villeux - Attachées à la plaque basale Cela aboutit à la formation de 2 interfaces : Interface 1 : Cytotrophoblaste extra-villeux et sang circulant maternel Interface 2 : Syncytiotrophoblaste et sang circulant maternel Mise en place - Précoce au 1er trimestre pour les premiers échanges gazeux et trophiques = nutrition de l’embryon. - Disparaît à la fin du 1er trimestre dû à une invasion trophoblastique en baisse et la disparition des lymphocytes déciduaux. - Vers la 8/9ème semaine de gestation. Rôle - Répartition des cellules immunitaires particulières dans la déciduale : ● Cellules NK +++ (>70%) ● Macrophages : (10-20%) ● Mastocytes - Élimination des débris cellulaires/tissulaires - Production de : o Cytokines ⇒ initie la tolérance MF o LTαβ avec une grande quantité de Tregs +++ ⇒ rôle de régulation du SI o LTγδ ⇒ rôle immuno-régulateur. On note l’absence des LT CD8 et des LB. - Interface dominante jusqu’au terme de la grossesse. - Permet tous les apports trophiques au fœtus - Contact le plus important entre le fœtus et le SI maternel ⇒ mécanismes de régulation du SI maternel (reconnaissance des cellules ST par les cellules immunitaires maternelles) Page 3/21"
-  },
-  {
-   "type": "paragraph",
-   "text": "2. La réponse immunitaire maternelle est indispensable aux étapes précoces de la grossesse a. L’inflammation permet l’implantation Durant les 1ères heures suivant la fécondation, il y a une réaction inflammatoire +++ qu’on nomme l’orage cytokinique : ● Afflux de macrophages et de LT déclenché par les nombreuses cellules apoptotiques qui élimine tous les débris cellulaires, notamment les spermatozoïdes."
-  },
-  {
-   "type": "list",
-   "items": [
-    "Sécrétion de cytokines (pro inflammatoire : IL-1β, IL6, TNFα), de facteurs de croissance (GM-CSF, CSF-1) et d’enzymes (métalloprotéases) pour l’ADHESION de l’embryon et l’INVASION TROPHOBLASTIQUE.",
-    "Puis, on constate un afflux plus important de cellules NK déciduales/utérines à l'origine d’une réaction anti-inflammatoire secondaire permettant :",
-    "La décidualisation : transformation des cellules du tissu conjonctif endométriale en cellules déciduales qui sont chargées en glycogène pour permettre la nutrition de l’embryon.",
-    "L’implantation b. Focus sur les cellules NK déciduales (dNK) : Climat hypo-réactif, signal inhibiteur ++ Les cellules NK déciduales (dNK) sont des cellules NK qui sont différentes de celles qui sont présentes dans la circulation sanguine. Leurs fonctions sont dépendantes d’une balance entre des signaux activateurs et inhibiteurs. Dans l’encadré vert : la cellule cible va exprimer des molécules de stress qui vont être reconnue par la cellule NK grâce à son récepteur activateur. Elle va également exprimer du CMH I qui va être reconnue par un récepteur inhibiteur au niveau de la cellule NK. Un signal activateur + un inhibiteur = état d’équilibre, la cellule NK n’est pas activée."
+   "id": "interfaces",
+   "icon": "🔗",
+   "heading": "Les deux interfaces materno-fœtales",
+   "accent": "indigo",
+   "blocks": [
+    {
+     "type": "table",
+     "columns": ["", "Interface 1", "Interface 2"],
+     "rows": [
+      ["Cellule", "Cytotrophoblaste extra-villeux", "**Syncytiotrophoblaste**"],
+      ["Période", "Précoce (1ᵉʳ trimestre) puis disparaît", "**Dominante jusqu'au terme**"],
+      ["Rôle", "Premiers échanges gazeux / trophiques", "Apports trophiques, contact majeur avec le SI maternel"]
+     ]
+    }
    ]
   },
   {
-   "type": "paragraph",
-   "text": "Dans l’encadré rouge : la cellule NK est activé car la cellule cible exprime de grande quantité de molécule de stress, qui vont être reconnue par des récepteurs activateurs. A l’inverse elle ne va pas exprimer de CMH I donc pas de frein = pas de signal inhibiteur. La conséquence est que la cellule NK va être activée et elle va pouvoir aller dégrader la cellule cible."
-  },
-  {
-   "type": "paragraph",
-   "text": "Cellules NK déciduales Cellules NK périphériques Caractéristiques - Population majoritaire dans la déciduale (> 70%), - Sous l’influence du facteur de croissance l’IL15. - Nombre maximal en début de grossesse puis diminue progressivement à partir de la 20ème semaine Expression - Phénotype particulier : ● Abs de CD16 + grande quantité de CD56 - L’expression du récepteur inhibiteur est très augmentée pour freiner le signal immunologique."
-  },
-  {
-   "type": "list",
-   "items": [
-    "Exprime surtout du CD16. Le CD16 est un récepteur activateur au niveau de la cellule NK qui intervient dans l’ADCC."
+   "id": "deciduale",
+   "icon": "🧫",
+   "heading": "Les cellules de la déciduale",
+   "accent": "green",
+   "blocks": [
+    {
+     "type": "bullets",
+     "items": [
+      "**NK déciduales > 70 %** : CD16⁻, **CD56^bright**, récepteurs inhibiteurs ↑, sous l'effet de l'**IL-15**.",
+      "Macrophages (10-20 %), mastocytes, **LTreg +++**, LTγδ.",
+      "**Absence de LT CD8 et de LB** au site d'implantation.",
+      "Les dNK sécrètent **VEGF, PLGF, LIF, galectine-1** → vascularisation et implantation (impliquées dans prééclampsie / avortements)."
+     ]
+    },
+    {
+     "type": "callout",
+     "tone": "piege",
+     "html": "Les **NK déciduales ne sont pas tueuses** ici : elles sont **CD56^bright / CD16⁻** et **angiogéniques** (elles construisent les vaisseaux), à l'inverse des NK cytotoxiques du sang (CD56^dim / CD16⁺)."
+    }
    ]
   },
   {
-   "type": "paragraph",
-   "text": "c. Le rôle des dNK dans la phase implantatoire - Adhésion de l’embryon durant la phase implantatoire grâce au CD56 qui est un marqueur d’adhésion. - Sécrétion de VEGF, Angiopoïétine et PLGF (Placental Growth Factor) responsables de la VASCULARISATION déciduale et de la croissance des cellules trophoblastiques."
-  },
-  {
-   "type": "list",
-   "items": [
-    "Intérêt dans les pathologies des grossesses, notamment la prééclampsie. o Intérêt dans la physiopathologie des avortements à répétition. (baisse des récepteurs KIR inhibiteurs) - Production : o LIF +++ (leukemia inhibitory factor) pendant la fenêtre implantatoire pour l’adhésion du CT extra-villeux à la MEC et la décidualisation.",
-    "Galectine 1 et Glycodeline A qui perturbent les mécanismes de présentation antigénique entre les cellules dendritiques et les LT. Une étude sur des souris gestantes déficientes en NK a montré des placentas hypotrophes et une anomalie d’implantation. Gestation impossible chez ces souris donc justifie l’importante des cellules NK."
+   "id": "protection",
+   "icon": "🛡️",
+   "heading": "Comment le fœtus est protégé",
+   "accent": "amber",
+   "blocks": [
+    {
+     "type": "bullets",
+     "items": [
+      "**↓ antigénicité du trophoblaste** : pas de **HLA II**, gradient de HLA I ; expression des **HLA-G / E / C** tolérogènes (inhibent NK/DC/LT, favorisent les LTreg).",
+      "Molécules **pro-apoptotiques** : **FasL** (CT extra-villeux), **TRAIL** (syncytiotrophoblaste) → apoptose des LT activés.",
+      "**Inhibition du complément** : CD46, CD55, CD59.",
+      "DC déciduales **immatures** et séquestrées ; macrophages **M2** ; **LTreg** entretenus par HCG, PD-1/CTLA-4, TGF-β/IL-10, galectine-1, **IDO**."
+     ]
+    },
+    {
+     "type": "callout",
+     "tone": "mnemo",
+     "html": "**« On cache, on tue les agresseurs, on freine le complément, on calme »** : ↓ antigénicité (HLA-G) · apoptose (FasL/TRAIL) · inhibiteurs du complément · Treg/M2/IDO."
+    }
    ]
   },
   {
-   "type": "heading",
-   "level": 2,
-   "id": "ii-mecanismes-de-protection-du-foetus-vis-a-vis-du-si-matern",
-   "text": "II. Mécanismes de protection du fœtus vis-à-vis du SI maternel Rappel HLA - CMH spécifique de l’Homme. - Marqueur situé à la surface des cellules. - Permet l’identification et la distinction soi et non-soi par le système immunitaire. - Codé par des gènes situés sur le bras court du chromosome 6 HLA classique CMH de classe 1 - 3 gènes A, B, C, - Exprimées par toutes les cellules nucléées - Active les LT8 CMH de classe 2 - 3 paires de gènes : DP, DQ et DR - Exprimées par les CPA à l’état basal et les cellules activées - Polymorphisme allélique : chaque individu est unique (sauf jumeaux monozygotes) HLA non classique - Surtout HLA G ⇒ important dans la grossesse pour la tolérance materno-fœtale. - HLA E 1. Diminution de l’antigénicité des cellules trophoblastiques Au niveau du placenta, on a l’absence d’expression du HLA II et un gradient d’expression du HLA I. L’interaction des molécules de HLA avec les"
-  },
-  {
-   "type": "paragraph",
-   "text": "récepteurs inhibiteurs des cellules NK déclenche un message d’inhibition des cellules immunitaires."
-  },
-  {
-   "type": "paragraph",
-   "text": "Ainsi, les HLA G, E, C ont pour rôle d’inhiber la réponse immunitaire des cellules NK, des cellules dendritiques et des LT."
-  },
-  {
-   "type": "paragraph",
-   "text": "Les HLA-G ont d’autres fonctions : ● Inhiber la prolifération des LT maternels ● Apoptose des LT CD8+ activés ● Activer chez les cellules NK pour la production de cytokines : TNFa, IL1b, IL-8 et IFN, et ainsi participer aux mécanismes de vascularisation et au développement fœtal."
-  },
-  {
-   "type": "list",
-   "items": [
-    "Bloquer la maturation des cellules dendritiques incapables alors d’activer les LT en LT CD4+ ou CD8+ ● Favoriser la production de LT reg maternels qui permettent la production de cytokines anti inflammatoires et de déclencher les mécanismes de tolérances fœtales. A retenir : HLA-G = rôle de tolérance fœtale Pas besoin de retenir tous les noms de récépteurs inhibiteurs, elle n’interrogera pas dessus, juste retenir leurs rôles 2. Mécanismes actifs de protection 1) Protection du trophoblaste par l’induction de molécules pro-apoptotiques au niveau du placenta : o FasL (CD95L) produit par les CT extra-villeux, se lie au CD95 exprimé par les LT activés. o TRAIL (TNF-related apoptosis inducing ligand) est produit par le syncytiotrophoblaste. à Entraîne une apoptose des LT activés au contact des trophoblastes et une délétion clonale des LT réactifs contre les Ag paternels. 2) Inhibition du complément pendant la grossesse : o Le complément est une cascade de réaction enzymatique qui permet la dégradation du pathogène par 3 voies : opsonisation, formation de pores et inflammation",
-    "Inhibition par certaines molécules : CD46, CD55, CD59. Ces molécules sont très exprimées à la surface des cellules placentaires = protection du fœtus contre l’activation du complément."
+   "id": "complications",
+   "icon": "⚠️",
+   "heading": "Complications immunologiques",
+   "accent": "rose",
+   "blocks": [
+    {
+     "type": "table",
+     "columns": ["Situation", "Point clé"],
+     "rows": [
+      ["**Prééclampsie**", "HTA ≥ 140/90 + protéinurie ≥ 0,3 g/24h après **20 SA** ; défaut d'invasion → hypoxie ; déficit en LTreg"],
+      ["**Iso-immunisation Rhésus**", "Mère Rh⁻ / père Rh⁺ ; anémie fœtale surtout à la **2ᵉ grossesse**"],
+      ["**Lupus néonatal**", "IgG anti-SSA/SSB transplacentaires → **bloc auriculo-ventriculaire**"],
+      ["**SAPL**", "Anti-cardiolipine, anti-β2Gp1, anticoagulant circulant (à contrôler à 12 sem.)"]
+     ]
+    }
    ]
   },
   {
-   "type": "paragraph",
-   "text": "3) Maintien des cellules dendritiques déciduales dans un état immature : o Induit par CSF-1, GM-CSF, progestérone, MIC 1. o Elles n’expriment pas de molécules co-stimulantes nécessaires à l’activation des LT. (Pour activer un LT, il faut une reconnaissance de l’Ag présenté par une CPA mais également des signaux de co-stimulations) 4) Séquestration des cellules dendritiques dans la déciduale, ce qui empêche leur migration dans les ganglions drainant l’utérus. Ce procédé minimise la présentation des cellules dendritique aux LT. 5) Orientation des macrophages vers la voie immunosuppressive M2. ● immunosuppressive ● Réparation tissulaire ● Angiogenèse 3. Induction des mécanismes actifs de tolérance : Les LT régulateurs ● Ils jouent un rôle majeur dans la grossesse normale. Ils sont présents dans la déciduale au tout début de la grossesse et leur taux augmente dans le sang jusqu’au 2ème trimestre. (Le taux de LTregs baisse dans le sang et dans la déciduale chez les femmes présentant des avortements spontanés.) On a pu montrer chez des modèles murins que l’absence de LTregs entraîne des grossesses anormales et des avortements spontanés. Tandis que, le transfert de LTreg adoptifs prévient les pertes fœtales. La question qu’on se pose est de savoir si le recrutement de LTregs se fait par l’intermédiaire de l’HCG (Human chorionic gonadotropin) ?"
-  },
-  {
-   "type": "list",
-   "items": [
-    "Le HCG est exprimé très tôt à l’interface materno-fœtale. ● Les LTregs expriment le récepteur de l’HCG. à Ainsi, le HCG induirait donc la migration des LTregs in vitro. Les mécanismes de maintien de la tolérance par les LTregs sont : - Une inhibition des cellules immunitaires maternelles induit par une forte expression de PD-1/CTLA-4 sur les LTregs. - Une production de cytokines immuno-modulatrices : TGF-β, IL10 - L’induction de galectine-1 qui inhibe la prolifération des LT et permet l’initiation de l’apoptose. - Formation d’IDO (indoleamine 2,3 dioxygénase) qui intervient dans le métabolisme du tryptophane. Le métabolisme du tryptophane est augmenté, ce qui a pour conséquence une déplétion en tryptophane (trp). Il ne sera plus disponible pour le maintien du cycle cellulaire. Il y a également une augmentation des métabolites et par une boucle amplificatrice une augmentation des LTreg qui permettra d’inhiber la cytotoxicité des cellules NK."
+   "id": "nouveau-ne",
+   "icon": "👶",
+   "heading": "Le système immunitaire du nouveau-né : immature",
+   "accent": "teal",
+   "blocks": [
+    {
+     "type": "bullets",
+     "items": [
+      "**Innée** : PNN moins performants (chute du cordon > 21 j = déficit CD18), ↓ TLR4/CD14, DC ↓ HLA-II/IL-12, **pDC : IFN α/β ↓** (→ VRS, CMV, HSV), NK ~50 %.",
+      "**Humorale** : pas d'Ac endogènes → **IgG maternelles via le FcRn** (protection ~6 mois ; prématurés à risque car transfert surtout au 3ᵉ trimestre).",
+      "**Allaitement** : **IgA sécrétoires** (dimère + chaîne J + pièce sécrétoire) → ↓ perméabilité intestinale, microbiote, lactoferrine / lysozyme.",
+      "Réponse aux Ag **polysaccharidiques** (T-indépendante, IgM faible affinité, sans mémoire) **seulement après 2 ans** → intérêt des **vaccins conjugués**."
+     ]
+    },
+    {
+     "type": "callout",
+     "tone": "piege",
+     "html": "**IgG = transplacentaires** (protection avant la naissance) ; **IgA = lait maternel** (protection des muqueuses après la naissance). Avant 2 ans, l'enfant répond mal aux polysaccharides purs → on **conjugue** le vaccin à une protéine."
+    }
    ]
   },
   {
-   "type": "paragraph",
-   "text": "4. Conséquences des mécanismes de l’immunité fœto-maternelle a. Prééclampsie : Définition : - Hypertension artérielle maternelle : PAS ≥ 140mmHg et/ou PAD ≥90mmHg. - Protéinurie ≥ 0,3 g/24h - Apparait après la 20 SA et disparaît après la 6ème semaine post-partum. Pathologie grave ou le pronostic vital de la mère et du fœtus peut être engagé. Le risque est augmenté lors de la 1ère grossesse et inversement proportionnel au nombre de rapports non protégés. Il s’agit d’un défaut d’invasion trophoblastique et de remodelage vasculaire utérin entraînant une HYPOXIE PLACENTAIRE avec des conséquences fœtales :"
-  },
-  {
-   "type": "list",
-   "items": [
-    "RCIU= retard de croissance intra-utérin - Prématurité Et maternelles : - Réponse inflammatoire importante - Éclampsie - Défaillances multi-viscérales - Coagulation intravasculaire disséminé (CIVD) De plus, il y a un déficit en LTregs circulants qui induit une activation des LyT et NK TH1 +++ Cependant, la physiopathologie est très peu connue. b. Iso-immunisation Rhésus : lorsque la mère Rh- et père Rh+ Touche environ 2% des grossesses. Il y a contact entre le sang maternel et le sang fœtal lors d’hémorragie de la grossesse, ou de l’accouchement. Cela induit une immunisation de la mère vis-à-vis des GR fœtaux et un passage d’Ac anti-rhésus maternel dans le sang fœtal."
-   ]
-  },
-  {
-   "type": "paragraph",
-   "text": "De ce fait, il y a une anémie fœtale ou maladie hémolytique du nouveau-né surtout au cours de la 2ème grossesse. c. Iso-immunisation ABO : moins fréquentes Les Ac anti-A et anti-B naturels sont des IgM qui ne passent pas la barrière placentaire. Néanmoins, s’il y a contact entre le sang maternel et fœtal, une immunisation est possible avec production d’IgG maternelles qui peuvent passer la barrière placentaire. La toxicité pour les GR fœtaux est faible mais possible développement de maladie hémolytique du nouveau-né peu sévère."
-  },
-  {
-   "type": "paragraph",
-   "text": "d. Thrombopénie fœtale Les Ac maternels sont dirigés contre les Ag plaquettaires paternels. 5. Maladies auto-immunes et grossesse a. Lupus néonatal Transmission materno-fœtale d’IgG anti-SSA et/ou anti-SSB. Ces IgG sont importantes car elles peuvent passer la barrière placentaire et aller attaquer les tissus cardiaques, avec risque de bloc auriculo-ventriculaire (gravité +++)"
-  },
-  {
-   "type": "paragraph",
-   "text": "Maladie auto-immune systémique, assez fréquente avec une mortalité périnatale de 20% si bloc auriculo-ventriculaire complet/Pace Maker. Chez la mère, il y a souvent une aggravation de la pathologie au cours de la grossesse."
-  },
-  {
-   "type": "paragraph",
-   "text": "Chez le fœtus, les symptômes sont : ● Une atteinte cutanée : érythème annulaire visage (disparaît après 3 mois en même temps que la disparition des Ac maternels)"
-  },
-  {
-   "type": "list",
-   "items": [
-    "Autres atteintes : cytopénies, hépatopathies ou atteintes articulaires. ● Cette pathologie peut être associé au syndrome des anti-phospholipides. b. Syndrome des anti-phospholipides Les Ac anti-phospholipides ont une action pathogène pendant la grossesse. Ils attaquent le placenta via une inflammation et une ischémie placentaire. Via la technique ELISA recherche des :",
-    "Anti-cardiolipines o Anti-beta2Gp1 o Anti-coagulants circulants Doivent être contrôlés à 12 semaines, une seule positivité ne permet pas d’affirmer le diagnostic. Morbidité maternelle (thromboses artérielles et veineuses) et fœtales (fausse couche, prématurité, …). c. Polyarthrite rhumatoïde et sclérose en plaques Amélioration de la symptomatologie, mais fréquent rebond de la pathologie en post-partum. Pour ces maladies auto-immunes il faut faire attention aux thérapeutiques qui peuvent être tératogènes. d. Thyroïde et grossesse ● Hypothyroïdie et grossesse : Il existe des complications maternelles (HTA, pré-éclampsie, hémorragie du post-partum, fausse couche) et des complications fœtales au 1er trimestre (Thyroïde fœtale non fonctionnelle avec risque de troubles du développement neuro-intellectuel) → Diagnostic biologique difficile : baisse physiologique de la T4."
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Thyroïdite du post-partum : C’est une variété de thyroïdite auto-immune, avec des Ac anti-TPO très positif caractéristique de la période du post-partum, qui touche 5% des grossesses dans les semaines/mois suivant l’accouchement. Elle est parfois asymptomatique, on peut constater une hyperthyroïdie transitoire puis une hypothyroïdie transitoire spontanément résolutive mais risque de recidive fréquente lors de grossesse ultérieure ."
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Hyperthyroïdie et grossesse (maladie de Basedow) : nous sommes confrontés à deux problèmes : o Un passage transplacentaire d’Ac anti-TSHr (TRAK) avec un risque d’hyperthyroïdie fœtale et néonatale o Un passage transplacentaire des antithyroïdiens de synthèse avec risque de goitre et/ou hypothyroïdie fœtale. o Donc suivi pluridisciplinaire nécessaire. 6. Maladies infectieuses et grossesse - Virus transmissibles pendant la grossesse et responsables d’une maladie fœtale (malformations) : Rubéole, CMV, VZV, Parvovirus B19 (Syndromes malformatifs = fœtopathie)",
-    "Virus transmissibles en fin de grossesse/accouchement entraînant des maladies infantiles souvent plus sévères que les formes adultes : Herpès génital, Hépatites B & C, HIV, VZV"
-   ]
-  },
-  {
-   "type": "paragraph",
-   "text": "a. Maladie fœtale ● Rubéole - Environ 5% des femmes enceintes sont non-immunisées. - Il y a un risque fœtal majeur si primo-infection maternelle au cours du 1er trimestre (60-90% TMF, 80-100% de risques de malformations graves : cérébrales, oculaires, auditives, cardiaques). - Il faut faire de la prévention +++ : vaccination des jeunes filles avant la puberté (ROR), contrôle sérologique pré-conceptionnel, vaccination après la grossesse des femmes enceintes séronégatives. ● VZV : virus varicelle-zona - Risque maternel (pneumopathie varicelleuse+++), pas d’hospitalisation en maternité ++ - Risque fœtal (8% de TMF, 2-3% risque de malformations : peau, SNC, yeux, squelette). - Il y a aussi un risque de varicelle néonatale : varicelle dans les jours précèdent ou suivant la naissance avec des risques de mortalité et de séquelles neurologiques +++. Il faut dans ce cas retarder l’accouchement (temps production Ac maternel) +/- antiviral et prendre des mesures d’hygiènes pour le personnel soignant. - Prévention : vaccinations pré-conceptionnelles des femmes séronégatives. ● CMV : cytomégalovirus - C’est la plus fréquente des Infections Materno-Foetale (0,5% des femmes font une séroconversion pendant la grossesse). - La primo-infection est le plus souvent silencieuse chez l’adulte immunocompétent. - Risque en cas de contact avec de jeunes enfants. - La TMF est d’environ 40%. ● 10% d'infection prénatale sévère (RCIU, microcéphalie, calcifications crâniennes). ● 10% apparence sains à la naissance mais séquelles auditives. ● 80% asymptomatiques. - Prévention +++ : Règles d’hygiène lors du contact avec les jeunes enfants. Pas de vaccin ● Parvovirus B19 pas développé mais on vous le laisse quand même - 40% des femmes enceintes sont séronégatives. - Les conséquences fœtales sont mal chiffrées : Anémie transitoire (atteinte des précurseurs hématopoïétiques), +/- myocardites. Il existe des formes sévères : anasarque (à l’origine de mort in utero). - Il n’y a pas de prévention primaire mais une surveillance échographique renforcée s’il y a une séroconversion. b. Infection fœtale : ● Herpès gestationnel (touche le NN) - Pas de risques malformatifs - Le principal mode de transmission est lors de l’accouchement (Primo-infection d’un herpès génital chez la mère = charge virale élevée). Il peut y avoir une transmission post-natale s’il y a de l’herpès labial dans l’entourage. - On note des risques neurologiques (méningo-encéphalite herpétique). - Prévention : Prise d’antiviraux au 9ème mois chez les femmes à haut risques avec récurrence +++. Une césarienne peut être envisagée s’il y a une lésion génitale à l’entrée en salle de travail, primo-infection ou récurrence récente. ● HIV - Pas de risques malformatifs - Grossesse à risque, suivi multidisciplinaire - Traitement ARV justifié pendant la grossesse (choix des molécules important) - Temps de la grossesse passé sans réplication virale est un facteur important de non-transmission materno-fœtale - Accouchement par voie basse possible en absence de réplication virale - Allaitement contre-indiqué dans les pays développés Page 10/21"
-  },
-  {
-   "type": "heading",
-   "level": 2,
-   "id": "iii-developpement-du-systeme-immunitaire-a-la-naissance",
-   "text": "III. Développement du système immunitaire à la naissance"
-  },
-  {
-   "type": "paragraph",
-   "text": "In utero, le système immunitaire de l’enfant doit être tolérant aux allo-antigènes maternels donc nécessité d’un environnement tolérogène. A la naissance, le système immunitaire immature est exposé aux Ag environnementaux (bactéries commensales intestinales de la mère, les bactéries de l’environnement, …). De plus, le nombre de LT et LB circulants est beaucoup plus important chez le NN que chez l’adulte : - A l’âge de 6 ans, le taux des lymphocytes atteint le taux adulte. - Il y a une conversion progressive des LT et LB naïfs à la naissance en Ly mémoires au fur et à mesure des rencontres antigéniques. Ce qui permet la maturation de leur système immunitaire."
-  },
-  {
-   "type": "paragraph",
-   "text": "1. Immunité anti-infectieuse a. Immunité innée PREMIÈRE LIGNE DE DÉFENSE CONTRE LES PATHOGÈNES PNN Polynucléaires neutrophiles - Présents à la fin du 1er trimestre de grossesse. - Leur nombre augmente progressivement jusqu’à la naissance (sous l’influence du facteur de croissance GMCSF), mais ils sont moins performants que chez les adultes : o Fonctions bactéricides diminuées o Faible réponse aux stimuli inflammatoires o Moins de chimiotactisme et de capacités d’adhésion endothéliale ⇒ Donc conditions favorables aux infections bactériennes ++ Remarque : La chute retardée du cordon ombilical (> 21 jours) est le témoin d’un déficit immunitaire en PNN (déficit d’adhésion leucocytaire liée à un déficit en CD18) mais reste rare (1/1 000 000). Monocytes et Macrophages - Réponse au LPS bactérien diminuée par une baisse de l’expression de TLR4 (récepteur de l’immunité innée) et du CD14. - Il y a cependant une compensation à terme chez le NN par l’expression d’IL-23 (cytokine inflammatoire) à des taux physiologiques. Les prématurés sont incapables d’effectuer cette compensation (pas de synthèse de la sous-unité IL-12-p40 de l’IL-23 commune avec IL-12.) Rappel de la cascade de signalisation induite par le LPS : Le LPS (LipoPolySaccharide) est un composant essentiel de la paroi bactérienne des bactéries gram négatives. Il va être reconnu par un récepteur CD14 et TLR4 présents à la surface des monocytes. La dimérisation du TLR 4 va induire une cascade de signalisation intra-cellulaire menant à la synthèse de cytokines pro-inflammatoires. L’internalisation du récepteur au niveau des endosomes va induire le recrutement de protéines avec comme conséquence la production d’IFN type 1. Cellules dendritiques - Myéloïdes (CPA) : ● Leur nombre baisse dans le sang du cordon. ● Il y a une faible expression de HLA-II et de molécules de co-stimulation (CD80, CD86) ⇒ Moins d’activation des LT. ● Il y a une baisse de l’expression des cytokines pro-inflammatoires dont IL-12. ⇒ Possibles infections virales à germes intra-cellulaires (BK, Salmonella). - Plasmacytoïdes (car ressemblent morphologiquement à des plasmocytes) : ● Expression de TLR7, 8 et 9 similaires à celle de l’adulte. ● Capables de synthétiser un grand nombre d’interférons de type 1 (INF-1). ● Leur activation entraîne la production des IL-12 et TNFα similaires à celles de l’adulte mais les réponses IFN α/β sont diminuées. ⇒ Diminution des réponses innées aux virus VRS, CMV, HSV Cellules NK - Persistance d’un climat « hypo-réactif » - Activité fonctionnelle à 50% par rapport aux jeunes adultes - Faible réponse à l’activation induite par IL-2 et IL-15 - Production d’IFNγ faible. - Correction progressive après l’âge de 1 an. Système du complément - Baisse globale des fractions à la naissance. Système immunitaire immature à la naissance qui met quelque temps à se développer. Les acteurs de l’immunité sont assez aréactifs chez l’enfant."
-  },
-  {
-   "type": "paragraph",
-   "text": "b. Immunité adaptative humorale Il n’y a pas d’anticorps endogènes à la naissance, l’immunité se fait donc de manière passive (transmission mère-enfant). Le NN est protégé par la présence des IgG d’origine maternelle qui traversent la barrière placentaire au 3ème trimestre via le FcRn (récepteur néonatal au fragment Fc). Ces IgG offrent une protection au cours des 6 premiers mois de vie. Attention aux prématurés : les IgG n’ont pas eu le temps de traverser la barrière placentaire. C’est pourquoi, il y a une persistance de fenêtres d’opportunités pour les infections (> 6mois) puisqu’on a une diminution de la protection par les Ac maternels et peu de production endogène d’Ac par le nourrisson. L’enfant développera son immunité de manière importante pendant la petite enfance (exposition +++ aux agents infectieux à la crèche, collectivité…)."
-  },
-  {
-   "type": "list",
-   "items": [
-    "Importance du récepteur FcRn (Récepteur néonatal de Fc) : Il est exprimé par le placenta et permet le transport des anticorps (IgG) de la circulation maternelle au fœtus. Le transport comprend 2 étapes : 1) Rencontre des IgG d’origine maternelle et du FcRn dans les endosomes du syncytiotrophoblaste à pH acide. Les endosomes empêche la dégradation des IgG et du FcRn."
-   ]
-  },
-  {
-   "type": "paragraph",
-   "text": "2) Relargage des IgG dans la circulation fœtale à pH physiologique. Cette immunité passive possède tout de même des limites : - Elle est TRANSITOIRE et SÉLECTIVE vis-à-vis des Ag contre lesquels la mère est immunisée (environnement maternel important)."
-  },
-  {
-   "type": "list",
-   "items": [
-    "Elle dépend de la quantité d’Ac transmise qui est proportionnelle aux taux maternels (c’est le reflet de l’expérience immunologique de la mère)."
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Allaitement maternel : Apporte une protection prolongée : les IgA sécrétoires contenues par le lait et apportées en grande quantité permettent une protection des muqueuses +++. Diminution de la perméabilité intestinale aux germes pathogènes grâce aux : - IgA sécrétoires qui tapissent la muqueuse - Facteurs de croissance épithéliale (cicatrisation muqueuse) - Apport de nucléotides Effet bactériostatique grâce à l’acidification du contenu intestinal et à la limitation de la quantité de fer disponible pour la croissance bactérienne :",
-    "Apport faible en fer - Lactoferrine qui fixe le fer non absorbé, ce qui inhibe la croissance bactérienne : lactadhérine (anti-rotavirus). Effet bactéricide via les cellules phagocytaires (leucocytes, macrophage) et les substances antimicrobiennes (Lactoferrines, lysozyme, défensines, fibronectine, fractions du complément) :",
-    "Inhibition de l’adhésion des germes aux parois des muqueuses (caséine kappa) Page 13/21"
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Les IgA sécrétoires : Structure : dimère, 2 fragments Fc réunis par une chaine J, pièce sécrétoire qui permet la protection de l’IgA vis-à-vis de l’acidité du tube digestif.",
-    "Composant le plus abondant du lait maternel (12 g/L dans le colostrum, 1 g/L dans le lait) : un enfant allaité reçoit environ 0,5 à 1g d’IgA sécrétoires par jour.",
-    "Offrent une protection ciblée contre les Ag pathogènes de l’environnement (la mère et NN ont les mêmes). Cette Ig prévient l’adhésion et la pénétration bactérienne épithéliale sans déclencher de réaction inflammatoire au niveau des muqueuses."
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Elle favorise l’établissement d’une flore microbienne digestive.",
-    "Importance de l’allaitement dans la mise en place du microbiote intestinal :",
-    "Les nouveau-nés sont axéniques à la naissance c’est-à-dire « germ-free ». - Il y a une colonisation très précoce et massive dans les premiers jours de vie grâce aux bactéries de la flore vaginale et fécale (entérobactéries, bifidobactéries) de la mère si naissance par voie basse.",
-    "L’enfant acquière une flore complexe et stable qui se rapproche de celle de l’adulte entre 2 et 4 ans. - Cette flore dépend énormément de l’alimentation du nouveau-né. ● La flore du nouveau-né allaité est moins riche, colonisée essentiellement par Bifidobacterium. ● Les facteurs bifidogènes présents dans le lait ont un contenu faible en protéines et phosphore, mais riche en lactose."
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Paramètres influençant la mise en place de la flore digestive (microbiote intestinal) :",
-    "Mode d’accouchement : o Césarienne : colonisation avec des bactéries environnementales (air, personnel soignant) menant à un retard de colonisation anaérobies strictes.",
-    "Voie basse : colonisation par les flores fécale et vaginale maternelle. - Environnement : pays de naissance, aseptisation et conditions d’hygiène autour de l’accouchement. - Terme de naissance : retard de colonisation et flore moins diversifiée chez les prématurés expliqué par le mode d’accouchement fréquent par césarienne, l’environnement aseptisé du milieu hospitalier et le recours aux ATB.",
-    "L’antibiothérapie : retard de colonisation (ATB pour suspicion d’infection materno-foetales ou prophylaxie streptocoque B) et sélection de germes résistants."
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Microbiote intestinal et conséquences cliniques :",
-    "Entérite ulcéro-nécrosante : liée à l’absence de flore barrière efficace. Colonisation à Clostridium, surtout chez le grand prématuré.",
-    "Allergie : Colonisation plus faible par Bifidobacterium (le retard de colonisation est un facteur de risque d’allergie). Il y a la création d’un équilibre Th1/Th2/Treg influencé par le microbiote intestinal qui permet une stimulation immunitaire."
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Il existe des essais de modulation de la flore avec prédominance des Bifidobactéries grâce à des prébiotiques/probiotiques. Mais l’efficacité n’a pas encore été prouvée.",
-    "Les antigènes polysaccharidiques :",
-    "Réponses T-Indépendantes : ● Réponse immédiate des LB qui produisent des IgM en grande quantité mais de faible affinité, sans production de LB mémoire.",
-    "Elles sont dirigées contre les LPS des bactéries notamment des bactéries gram négatives (Neisseria meningitidis, Haemophilius influenzae)",
-    "Ils n’apparaissent qu’après l’âge de 2 ans : ● Intérêt des vaccinations répétées (réponses de faible amplitude, durée de mémoire courte) et de la conjugaison à une protéine porteuse « carrier » qui transforme la réponse T-indépendante en réponse T-dépendante plus efficace."
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Les antigènes protéiques : - Réponse T-dépendante (besoin de l’intervention des LT CD4+, cellules dendritiques). ● Baisse chez les NN liée à un déficit de production d’Ig (immaturité des cellules dendritiques et des LB). ● Mortalité infectieuse élevée dans les pays émergents chez les très jeunes enfants (après perte des Ac maternels).",
-    "De nombreux vaccins apportent un taux d’Ac protecteurs tardivement, d’où l’importance des rappels de vaccination. c. Immunité adaptative cellulaire Rappel sur l’éducation thymique des Lymphocytes : Le thymus provient de l’endoderme et est fonctionnel dès la 6ème semaine de vie embryonnaire. Il produit des LT matures naïfs in utero. Après l’adolescence, phénomène d’involution thymique."
-   ]
-  },
-  {
-   "type": "list",
-   "items": [
-    "Ontogénèse des LT : 1) Thymocytes multipotents dit double négatif CD4-/CD8- 2) Thymocytes pro T ou DN2 3) Thymocytes double positif CD4+/CD8+ ● 1 er stade exprimant le complexe TCR/CD3 ● Sélection (+) en région corticale : conservation des LT liant le complexe CMH-peptide.",
-    "Sélection (-) en région cortico-médullaire : apoptose des LT dont le TCR interagit fortement avec les Ag du « soi » pour éviter l’auto-immunité. 4) Thymocytes mature simple positif qui exprime soit le CD4 soit le CD8. Les réponses fœtales et néonatales sont dirigées vers un profil Th2 « tolérogène » puis disparition progressive de la prédominance Th2 au fur et à mesure de l’exposition aux infections. En revanche, les réponses Th17 sont similaires chez l’enfant et chez l’adulte. Concernant les LT CD4 +, Il y a un déficit intrinsèque de la réponse cytokinique lié au déficit fonctionnel des CPA car elles expriment moins de molécules co-stimulantes. Tout cela, est lié à une hyper-méthylation du promoteur du gène de l’IFNγ et a une diminution importante de l’expression du CD40L au niveau des LT CD4 néonataux. Cela aboutit à une diminution de la coopération cellulaire."
-   ]
-  },
-  {
-   "type": "paragraph",
-   "text": "On rappelle que l’interaction du CD40 avec le CD40L permet la coopération entre les LT CD4 et les LB. d. Régulation des réponses immunes à la naissance Les LT régulateurs naturels sont présents dans le thymus dès la 13ème semaine de gestation. Leur nombre augmente rapidement après la naissance."
-  },
-  {
-   "type": "paragraph",
-   "text": "Il y a une migration préférentielle de ces LTreg vers le tube digestif jusqu’à 18 mois pour avoir une TOLERANCE des Ag alimentaires et de la flore intestinale qui est en train de se mettre en place. La prévention des phénomènes immuno-pathologiques est au prix d’une susceptibilité accrue aux infections. e. Role des LT non conventionnels Ils permettent une réponse immunitaire rapide sans pré-activation. Les LTyδ (dans les muqueuses +++) ont un répertoire antigénique varié et produisent des IFNy +++. Les celles Nki produisent rapidement des IFNY Les MAIT ont une production thymique, migrent vers les tissus digestifs dans la vie fœtale et produisent des TFN alpha, IFNy et IL17. 2. Initiation des réponses allergiques dans le jeune âge Il y a une augmentation de l’incidence des allergies dans les pays développés au cours du XXème siècle. - Théorie hygiéniste +++: ● Principe : avec le développement de l’hygiène, on une baisse de l’exposition microbienne mais une augmentation des maladies auto-immunes, MICI, allergies…"
-  },
-  {
-   "type": "list",
-   "items": [
-    "Chez les enfants exposés au LPS, il y a une augmentation de l’expression de CD14 et TLR2. ● On a donc une orientation vers un profil Th1 qui protège contre les réponses atopiques allergènes ubiquitaires. ● L’allaitement maternel entraîne une baisse des réponses atopiques et auto-immunes. ● Rôle prépondérant de la flore bactérienne commensale pour permettre la protection contre les infections. o Flore intestinale commensale o Flore commensale cutanée o Flore commensale pulmonaire o Flore du lait maternel (pas stérile, présence de micro-organismes en petite quantité grâce à la circulation entéro-mammaire : transfert de bactéries de l’intestin vers le lait) Cas particulier de l’infection à VRS : o Bronchiolites au jeune âge o Altération de l’équilibre Th1/Th2 (réponse Th2 augmentée) surtout avant 6 mois. o Facteur de risque d’asthme à l’âge adulte (implication encore discutée) Protection contre le VRS en 2025 : - Chez la femme enceinte entre 32 et 36 SA (entre septembre et janvier) par 1 dose unique. - Si femme enceinte non vaccinée, inhection d’Ac monoclonaux anti-VRS au NN (immunisation passive Beyfortus) > 1 dose unique IM variable selon le poids au cours de la 1ère année de vie (nés de avril à sept : administrer en octobre) > Projection de 6j après injection jusqu’à 5 mois Le rôle des Th17 dans l’inflammation, l’auto-immunité et l’allergie est encore mal connu en pédiatrie. 3. Comment protéger le jeune enfant ? a. La vaccination de la mère et de l’entourage La vaccination de la mère est très importante. Elle permet la transmission des Ac en attendant que l’enfant soit à son tour immunisé : technique de cocooning. Avant la grossesse : mise à jour des vaccinations dans les 2 mois avant la grossesse (rougeole, rubéole, oreillons, varicelle, coqueluche, COVID). Pas d’inquiétude si le vaccin est fait en début de grossesse car les données sont rassurantes. ⇒ Les vaccins ROR, varicelle et COVID sont à réaliser en dehors de la grossesse. Page 16/21"
-   ]
-  },
-  {
-   "type": "paragraph",
-   "text": "En cours de grossesse : - Vaccins vivants atténués : fièvre jaune dans le cas d’un voyage en zone endémique qui ne peut pas être reporté. ⇒ Vaccins vivants contre indiqués - Vaccins inactivés (DTP, hépatites A et B, méningocoque, pneumocoque…) - Vaccination antigrippale systématique - Dépistage Ag HBs, sérologie rubéole +/- varicelle o Si absence d’ATCD : proposer une sérovaccination VHB du nouveau-né à la naissance +/- vaccination rubéole et varicelle de la mère après accouchement."
-  },
-  {
-   "type": "list",
-   "items": [
-    "Vaccination coqueluche de l’entourage si besoin (non recommandé actuellement en France pour les femmes enceintes).",
-    "A l’accouchement : ● Rappel coqueluche si pas de rappel dans les 10 dernières années. ● Vaccination ROR si sérologie rubéole négative et/ou 1 seule dose de vaccin rougeole. ● Vaccination varicelle si sérologie négative b. La vaccination de l’entourage et stratégie de « cocooning » : - Coqueluche : ● Enfant non à jour dans la fratrie ● Adulte n’ayant pas reçu de vaccination coqueluche au cours des 10 dernières années : adulte en charge du nourrisson dans les 6 premiers mois (grands parents, …).",
-    "Grippe : ● Vaccination contre la grippe saisonnière de l’entourage familial (personnes vivant sous le même toit) des nourrissons de 0 et 6 mois présentant des facteurs de risque de grippe sévères (prématurés, cardiopathie congénitale, déficit immunitaire congénital, pathologie pulmonaire, neurologique ou neuromusculaire)."
-   ]
-  },
-  {
-   "type": "paragraph",
-   "text": "Pour résumer = Pour protéger l’enfant, il faut : ● Vaccination de l’enfant dès 2 mois. ● Allaiter son enfant si possible. ++ Car, la baisse de l’exposition aux agents infectieux engendre l’augmentation du risque allergique."
-  },
-  {
-   "type": "paragraph",
-   "text": "IVCas cliniques 1. Cas clinique 1 Mme B, antécédent de 3 fausses couches au cours du 1 er trimestre Quels anticorps faut-il rechercher ? - Ce sont les Ac anti-phospholipides : ● Anticorps anti-cardiolipine ● Anticorps anti-β2Gp1 ● Anticoagulant circulant de type lupique On retrouve un anticorps anti-β2Gp1 IgM, pouvez-vous affirmer le diagnostic de SAPL biologique (Syndrome des Anti-PhosphoLipides)? - Non, il faut contrôler à 12 SA. ● Les Ac doivent être présents sur au moins 2 prélèvements. Mme B réussi finalement à tomber enceinte. Quelle prise en charge thérapeutique proposez-vous ? - Association antiagrégant plaquettaire et anticoagulant car le risque principal est la thrombose ● Pas d’AVK, ils sont contre-indiqués à cause du risque malformatif ! On utilise donc des héparines. 2. Cas clinique 2 François, 2 ans, gardé en crèche, présente une éruption typique de varicelle. Sa mère est enceinte de 15 SA et ne se souvient pas avoir eu la varicelle, de même que son père. Il a une grande sœur Audrey, âgée de 4 ans, antécédent de leucémie aigüe, en rémission mais qui suit un traitement d’entretien. Il a aussi un petit frère Marc âgé de 11 mois. Qu’aurait-on dû faire dans cette famille ? - Vaccination de la mère si sérologie négative (avant la grossesse) - Vaccination du père si sérologie négative - Vaccination de François à partir de l’âge de 1 an Pourquoi ? - Pour protéger la grande sœur Audrey qui est à risque (chimiothérapie) : stratégie de cocooning. Quels sont les risques encourus pour la mère ? - Risque personnel : pneumopathie varicelleuse. - Risque fœtal : fœtopathie varicelleuse par TMF. Quels sont les risques encourus pour le père ? - Varicelle adulte voir forme grave pulmonaire Maintenant que faut-il faire ? - Parents : sérologie varicelle ● Si négative pour la mère : antiviral + immunoglobulines spécifiques = immunothérapie passive ● Si négative pour le père : vaccination post-exposition dans les 3 à 5 jours suivant le contage - Audrey : la diriger vers son centre référent pour sa pathologie, lui administrer des immunoglobulines spécifiques = immunothérapie passive - Marc : vaccination dans 1 mois, surveillance. Page 18/21"
-  },
-  {
-   "type": "heading",
-   "level": 2,
-   "id": "iv-qcm-type-examen",
-   "text": "IV. QCM type examen"
-  },
-  {
-   "type": "paragraph",
-   "text": "Question 1 : Concernant l’immunité de la grossesse, quelles sont la ou les propositions justes : A. Les villosités crampons sont au niveau du CT extra-villeux, attaché à la face maternelle au niveau de l’interface 2 constitué du syncytiotrophoblaste. B. Dans l’interface 1, les cellules prédominantes en nombre sont les cellules NK, les LTreg et les LB C. Les cellules NK déciduales, exprime du CD56 qui est un récepteur inhibiteur très augmenté pour freiner le signal immunologique. D. Les HLA-G, favorise la production de LT reg maternel qui permettent la production de cytokines anti inflammatoire et de déclencher les mécanismes de tolérances fœtales. E. Les LTreg impliqué dans la tolérance permettent l’immunosuppression via l’IDO. Un déficit de LTreg est retrouvé dans la prééclampsie. Question 2 : Concernant le développement du système immunitaire à la naissance, quelles sont la ou les propositions justes : A. Les plasmocytoïdes produisent des réponses IFNα/β diminuées rendant favorables les infections bactériennes. B. Les IgG d’origine maternelle traversant la barrière placentaire via le FcRn offrent une protection au cours des 6 premiers mois de vie. C. Les IgA permettent la diminution de la perméabilité intestinale aux germes pathogènes. D. L’immunité adaptive cellulaire fœtales et néonatales sont dirigées vers un profil Th1 « tolérogène ». E. Un profil Th1 protège contre les réponses atopiques allergènes ubiquitaires. Correction 1 : A. FAUX : Les villosités crampons sont au niveau du CT extra-villeux, attaché à la face maternelle au niveau de l’interface 2 constitué du syncytiotrophoblaste. : Elles sont au niveau de l’interface 1 composé du cytotrophoblaste."
-  },
-  {
-   "type": "paragraph",
-   "text": "B. FAUX : Dans l’interface 1, les cellules prédominantes en nombre sont les cellules NK, les LTreg et les LB : Absence de LB et de LT CD8 dans l’interface 1. C. VRAI : Les cellules NK déciduales, exprime du CD56 qui est un récepteur inhibiteur très augmenté pour freiner le signal immunologique. D. VRAI : Les HLA-G, favorise la production de LT reg maternel qui permettent la production de cytokines anti inflammatoire et de déclencher les mécanismes de tolérances fœtales. E. VRAI : Les LTreg impliqué dans la tolérance permettent l’immunosuppression via l’IDO. Un déficit de LTreg est retrouvé dans la prééclampsie. Correction 2 : A. FAUX : La production diminuée d’IFNα/β entraîne une baisse de protection vis-à-vis des virus VRS, CMV, HSV B. VRAI C. VRAI D. FAUX : Profil Th2 « tolérogène » E. VRAI Si vous avez des questions, sont adresse mail est : a.emmanuelle.berger@chu-st-etienne.fr ACC 2024= QUESTION N° 18 : Quelles est (sont) la (ou les) proposition(s) exactes concernant les facteurs impliqués dans la physiopathologie du LES (Lupus Erythémateux Systémique) ? A. Il n’y a pas de facteur génétique impliqué dans la physiopathologie B. On peut observer des déficits du complément dans cette pathologie (notamment déficit en C1q, C2...) C. La physiopathologie s’explique par une accumulation de corps apoptotiques non dégradés à l’origine d’une rupture de tolérance D. Les complexes immuns circulants s’accumulent dans les tissus et notamment dans le rein E. On observe une diminution de l’interféron alpha dans cette pathologie Page 19/21"
-  },
-  {
-   "type": "paragraph",
-   "text": "QUESTION N° 19 : Immunologie de la grossesse et système immunitaire de l’enfant : A. Le fœtus n’exprime pas les allo-antigènes paternels jusqu’à la naissance, ce qui permet la tolérance materno-fœtale B. L’allaitement maternel apporte une grande quantité d’IgM sécrétoires qui permettent une protection des muqueuses C. La tolérance materno-fœtale est temporaire et sélective D. Chez le jeune enfant, les lymphocytes T régulateurs migrent préférentiellement vers le tube digestif pour permettre une tolérance des antigènes alimentaires et de la flore intestinale E. Pendant la grossesse, le système immunitaire maternel est totalement anergique, ce qui permet la tolérance materno-fœtale QUESTION N° 18 : A : FAUX B : VRAI C : VRAI, mais pas que D : VRAI E : FAUX, augmentation très importante QUESTION N° 19 : A : FAUX B : FAUX, IgA C : VRAI D : VRAI E : FAUX ACC 2023 = QUESTION N° 9 : Quelles est (sont) la (ou les) proposition(s) exactes concernant le système immunitaire de l’enfant ? AIl y a une lymphopénie physiologique chez le jeune enfant BLe jeune nourrisson est très vulnérable face aux infections à germes encapsulés car il ne possède quasiment pas de polynucléaires neutrophiles CA la naissance, le nourrisson est protégé par les Immunoglobulines G maternelles qui peuvent traverser la barrière placentaire DLa réponse humorale T-indépendante est caractérisée par une production d’immunoglobulines M de forte affinité et apparaît très précocement chez le nouveauné ELes cellules Natural Killer sont fonctionnellement moins efficaces chez le jeune enfant QUESTION N° 10 : Quelles est (sont) la (ou les) proposition(s) exactes concernant l’allaitement maternel ? AL’allaitement maternel joue un rôle important dans la mise en place du microbiote chez le jeune enfant BLe lait maternel a une action bactériostatique, notamment par acidification du contenu intestinal CLe lait maternel contient des quantités importantes d’IgA sécrétoires intervenant dans la protection muqueuse DLes IgA sécrétoires augmentent la perméabilité intestinale aux germes pathogènes ELe lait maternel apporte des substances anti-bactériennes (lysozymes notamment),ayant un effet bactéricide QUESTION N° 11 : Quelles est (sont) la (ou les) proposition(s) exactes concernant les interfaces maternofoetales ? AL’interface 1, entre syncytiotrophoblaste et le sang circulant maternel permet les premiers échanges gazeux et trophiques BIl n’y a aucun contact entre le trophoblaste et le système immunitaire maternel CLa répartition des cellules immunitaires est identique dans le sang circulant et dans la déciduale DL’interface 2, entre le syncytiotrophoblaste et le sang circulant maternel est dominante jusqu’au terme de la grossesse EL’interface 1, entre le cytotrophoblaste et le sang circulant maternel est dominante jusqu’au terme de la grossesse QUESTION N° 12 : Quelles est (sont) la (ou les) proposition(s) exactes concernant les facteurs impliqués dans la physiopathologie du LES (Lupus Erythémateux Systémique) ?"
-  },
-  {
-   "type": "paragraph",
-   "text": "AIl n’y a pas de facteur génétique impliqué dans la physiopathologie BOn peut observer des déficits du complément dans cette pathologie (notamment déficit en C1q, C2…) CLa physiopathologie s’explique par une accumulation de corps apoptotiques non dégradés à l’origine d’une rupture de tolérance DLes complexes immuns circulants s’accumulent dans les tissus et notamment dans le rein EOn observe une diminution de l’interféron alpha dans cette pathologie QUESTION N° 9 : A : FAUX : On retrouve une lymphocytose physiologique chez le jeune enfant. B : FAUX: On retrouve une hyperleucocytose à PNN à la naissance, le reste est vrai. C : VRAI D : FAUX : La réponse humorale T-indépendante apparaît 2 ans après la naissance. E : VRAI QUESTION N° 10 : A : VRAI B : VRAI C : VRAI D : FAUX : Les IgA sécrétoires diminuent la perméabilité intestinale aux germes pathogènes. E : VRAI QUESTION N° 11 : A : FAUX : L’interface 1, entre cytotrophoblaste et le sang circulant maternel permet les premiers échanges gazeux et trophiques B : FAUX : Le trophoblaste est en contact étroit avec le SI maternel au travers de la circulation maternelle. C : FAUX : Majorité de cellules NK déciduales (70%) dans la déciduale. D : VRAI E : FAUX QUESTION N° 12 : A : FAUX : Le lupus est une maladie polygénique : rôle particulier des déficits en protéines de la voie classique du complément avec le SLE. B : VRAI C : VRAI D : VRAI : Notamment dans le foie et la rate, le rein aussi. E : FAUX : Production très importante de l’interféron alpha dans cette pathologie. QROC : Quelles sont les principaux mécanismes de protection du fœtus contre le système immunitaire maternel ? Les principaux mécanismes de protection du foetus contre le système immunitaire maternel sont : -La diminution de l’antigénicité des cellules trophoblastiques : Présence d’un HLA G, E, C tolérogènes qui ont pour rôle d’inhiber la réponse immunitaire des cellules NK, des cellules dendritiques et des LT. Absence d’expression du HLA II et un gradient d’expression du HLA I au niveau du placenta. -Inhibition du complément : Par CD46, CD55, CD59, très exprimées à la surface des cellules placentaires. -L’induction de molécule pro-apoptotique comme FasL ou TRAIL : permet la protection du trophoblaste. -Séquestration des CD (cellules dendritiques) dans la déciduale : empêche leur migration dans les ganglions et leur activation et Maintien des CD déciduales à un stade immature."
-  },
-  {
-   "type": "list",
-   "items": [
-    "Orientation des macrophages vers la voie immunosuppressive M2 - Induction de LT régulateur : en lien avec l’induction des B-HCG (mécanismes actifs de tolérance) Inhibition des cellules immunitaires maternelles induit ( forte expression de PD-1/CTLA-4) Production de cytokines immuno-modulatrices : TGF-β, IL10 Induction de galectine-1 qui inhibe la prolifération des LT et permet l’initiation de l’apoptose, et IDO Page 21/21"
+   "id": "th2",
+   "icon": "🌱",
+   "heading": "Profil Th2 & théorie hygiéniste",
+   "accent": "indigo",
+   "blocks": [
+    {
+     "type": "callout",
+     "tone": "cle",
+     "html": "Les réponses fœtales/néonatales sont **Th2 « tolérogènes »**. Les **LTreg** migrent vers le tube digestif (jusqu'à ~18 mois) → tolérance alimentaire. **Théorie hygiéniste** : moins d'exposition microbienne → plus d'allergies/MAI ; un profil **Th1** protège de l'atopie. Protéger l'enfant = **vaccination (dès 2 mois) + cocooning + allaitement**."
+    }
    ]
   }
  ]

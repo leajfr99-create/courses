@@ -1,0 +1,78 @@
+{
+ "slug": "fc06",
+ "title": "QROC — Immunoglobulines polyvalentes",
+ "questions": [
+  {
+   "id": "fc06-qroc1",
+   "difficulty": "facile",
+   "points": 3,
+   "question": "Définissez les **IVIg** et décrivez leurs **deux usages** cliniques (avec les doses).",
+   "answer": "Les **IVIg** (immunoglobulines polyvalentes intraveineuses) sont un concentré d'**IgG** (+ un peu d'IgA) purifiées à partir du **plasma de milliers de donneurs**, offrant un répertoire d'anticorps très large. Deux usages : **substitutif** à **0,4 g/kg** (remplacer des anticorps manquants dans les déficits humoraux) et **immunomodulateur** à **1-2 g/kg** (moduler une réponse auto-immune : PTI, Guillain-Barré, Kawasaki).",
+   "keyPoints": [
+    "IgG issues du plasma de milliers de donneurs",
+    "Substitutif : 0,4 g/kg",
+    "Immunomodulation : 1-2 g/kg"
+   ]
+  },
+  {
+   "id": "fc06-qroc2",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Comment se traduit biologiquement un **déficit humoral** et quelles en sont les **causes** ?",
+   "answer": "Il se traduit par une **hypogammaglobulinémie**, visible sur l'**électrophorèse des protéines** sériques sous la forme d'une **bande gamma diminuée** (cette bande regroupe différents isotypes d'Ig). Les causes sont **congénitales/primitives** ou **acquises** : myélome multiple (production d'une Ig monoclonale inefficace) ou **LLC**.",
+   "keyPoints": [
+    "Hypogammaglobulinémie à l'électrophorèse (↓ bande gamma)",
+    "Causes congénitales ou acquises",
+    "Acquises : myélome, LLC"
+   ]
+  },
+  {
+   "id": "fc06-qroc3",
+   "difficulty": "difficile",
+   "points": 4,
+   "question": "Citez et expliquez **4 mécanismes d'immunomodulation** des IVIg.",
+   "answer": "(1) **Blocage des FcγR** : les IgG monomériques saturent les récepteurs sans antigène → pas de regroupement (*shedding*) → effet anti-inflammatoire ; (2) **Saturation du FcRn** : par compétition, elles **réduisent la demi-vie des auto-anticorps pathogènes** ; (3) **Sialylation** : les IgG sialylées sont **inhibitrices** (les auto-Ac, hyposialylés, sont pro-inflammatoires) ; (4) **réseaux anti-idiotypes** neutralisant les auto-Ac, **inhibition des LB** (anti-BAFF) et **↓ activation du complément**.",
+   "keyPoints": [
+    "Blocage des FcγR (anti-inflammatoire)",
+    "Saturation du FcRn → ↓ demi-vie des auto-Ac",
+    "Sialylation = effet inhibiteur",
+    "Anti-idiotypes / inhibition LB / ↓ complément"
+   ]
+  },
+  {
+   "id": "fc06-qroc4",
+   "difficulty": "moyen",
+   "points": 3,
+   "question": "Distinguez le **FcγR** du **FcRn** (nature et rôle).",
+   "answer": "Le **FcγR** est le **récepteur des IgG** porté par les cellules immunitaires (3 isotypes I/II/III ; **CD16 = FcγRIII** sur PNN et NK ; **FcγRIIB** est **inhibiteur**) : il déclenche les fonctions effectrices (phagocytose, ADCC). Le **FcRn** est un récepteur de **recyclage actif** qui **protège les IgG** de la dégradation → il **augmente leur demi-vie** (son blocage la divise par ~3). C'est aussi lui qui assure le transfert placentaire des IgG.",
+   "keyPoints": [
+    "FcγR = récepteur des IgG (effecteur) ; CD16 = FcγRIII ; FcγRIIB inhibiteur",
+    "FcRn = recyclage actif → ↑ demi-vie des IgG",
+    "Blocage du FcRn → demi-vie ÷ 3"
+   ]
+  },
+  {
+   "id": "fc06-qroc5",
+   "difficulty": "moyen",
+   "points": 2,
+   "question": "Quel est le rôle de la **sialylation** des IgG ?",
+   "answer": "Plus une IgG est **sialylée**, plus elle a un effet **anti-inflammatoire / inhibiteur**. À l'inverse, les **auto-anticorps pathogènes** sont **hyposialylés**, ce qui les rend **pro-inflammatoires**. La fraction sialylée des IVIg contribue donc à leur effet immunomodulateur.",
+   "keyPoints": [
+    "IgG très sialylée = inhibitrice (anti-inflammatoire)",
+    "Auto-Ac hyposialylés = pro-inflammatoires"
+   ]
+  },
+  {
+   "id": "fc06-qroc6",
+   "difficulty": "facile",
+   "points": 2,
+   "question": "Quel **risque** majeur faut-il anticiper avant d'administrer des IVIg, et chez qui ?",
+   "answer": "Les IVIg contiennent une **fraction d'IgA**. Or environ **1 personne sur 700** présente un **déficit complet en IgA** et peut avoir des anticorps anti-IgA → **risque de choc anaphylactique**. Il faut donc **doser les IgA circulantes** avant traitement et, chez ces patients, utiliser des **préparations d'IVIg sans IgA**.",
+   "keyPoints": [
+    "Les IVIg contiennent de l'IgA",
+    "Déficit complet en IgA (~1/700) → risque de choc anaphylactique",
+    "Vérifier les IgA / utiliser des IVIg sans IgA"
+   ]
+  }
+ ]
+}

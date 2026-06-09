@@ -168,6 +168,62 @@ table.tbl th { background: var(--c-surface-2); font-weight: 700; }
 .def dt { font-weight: 700; color: var(--c-primary-dark); margin-top: .6rem; }
 .def dd { margin: .1rem 0 .3rem; color: var(--c-text-soft); }
 
+/* ---------- Cours enrichi (résumés rédigés) ---------- */
+/* Palette d'accent par section : dérive des jetons (compatible thème sombre). */
+.acc-teal   { --acc: var(--c-primary); --acc-soft: var(--c-primary-soft); --acc-strong: var(--c-primary-dark); }
+.acc-indigo { --acc: var(--c-accent);  --acc-soft: var(--c-accent-soft);  --acc-strong: var(--c-accent); }
+.acc-green  { --acc: var(--c-success); --acc-soft: var(--c-success-soft); --acc-strong: var(--c-success); }
+.acc-amber  { --acc: var(--c-warning); --acc-soft: var(--c-warning-soft); --acc-strong: var(--c-warning); }
+.acc-rose   { --acc: var(--c-error);   --acc-soft: var(--c-error-soft);   --acc-strong: var(--c-error); }
+
+.course { order: 1; max-width: 74ch; min-width: 0; }
+.c-intro { margin-bottom: 1.4rem; }
+.c-section {
+  margin: 1.25rem 0; background: var(--c-surface);
+  border: 1px solid var(--c-border); border-left: 5px solid var(--acc, var(--c-primary));
+  border-radius: var(--radius); box-shadow: var(--shadow-sm); overflow: hidden;
+}
+.c-section .c-head {
+  display: flex; align-items: center; gap: .55rem; margin: 0; border: 0;
+  padding: .72rem 1.15rem; font-size: var(--step-1); line-height: 1.25; letter-spacing: -.01em;
+  background: var(--acc-soft, var(--c-primary-soft)); color: var(--acc-strong, var(--c-primary-dark));
+  scroll-margin-top: 1rem;
+}
+.c-section .c-head .c-ico { font-size: 1.15em; line-height: 1; }
+.c-section .c-body { padding: .25rem 1.2rem 1.05rem; }
+.c-body p { margin: .7rem 0; }
+.c-body .tbl-wrap, .c-body .def, .c-body .callout { margin: .8rem 0; }
+.c-list { margin: .55rem 0; padding-left: 1.25rem; }
+.c-list li { margin: .32rem 0; }
+.c-steps { margin: .6rem 0; padding-left: 1.45rem; }
+.c-steps li { margin: .4rem 0; padding-left: .15rem; }
+.c-steps li::marker { font-weight: 800; color: var(--acc-strong, var(--c-primary-dark)); }
+
+/* Callouts thématiques (pièges, mnémo, points clés…) — partagés cours + QROC. */
+.callout-title { font-weight: 750; margin-bottom: .3rem; display: flex; align-items: center; gap: .4rem; }
+.callout.def     { border-color: var(--c-primary); background: var(--c-primary-soft); color: var(--c-primary-dark); }
+.callout.cle     { border-color: var(--c-success); background: var(--c-success-soft); color: var(--c-success); }
+.callout.piege   { border-color: var(--c-error);   background: var(--c-error-soft);   color: var(--c-error); }
+.callout.mnemo   { border-color: var(--c-accent);  background: var(--c-accent-soft);  color: var(--c-accent); }
+.callout.info    { border-color: var(--c-warning); background: var(--c-warning-soft); color: var(--c-warning); }
+.callout.exemple { border-color: var(--c-text-faint); background: var(--c-surface-2); color: var(--c-text-soft); }
+.callout .callout-body { color: var(--c-text); }
+.callout .callout-body > :first-child { margin-top: 0; }
+.callout .callout-body > :last-child { margin-bottom: 0; }
+.callout .callout-body .c-list { padding-left: 1.2rem; }
+
+/* ---------- QROC (réponse ouverte courte) ---------- */
+.qroc-card { margin-top: .4rem; }
+.qroc-eyebrow { color: var(--c-primary-dark); font-weight: 700; font-size: .82rem; margin: 0 0 .2rem; }
+.qroc-input {
+  width: 100%; border: 1.5px solid var(--c-border); border-radius: var(--radius-sm);
+  background: var(--c-surface); color: var(--c-text); font: inherit; font-size: .95rem;
+  padding: .7rem .85rem; resize: vertical; min-height: 96px;
+}
+.qroc-input:focus { outline: none; border-color: var(--c-primary); box-shadow: 0 0 0 3px var(--c-primary-soft); }
+#qroc-correction { margin-top: 1.1rem; }
+#qroc-correction .callout + .callout { margin-top: .8rem; }
+
 /* ---------- Quiz ---------- */
 .quiz-head { display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; margin-bottom: .8rem; }
 .quiz-meta { display: flex; gap: .6rem; align-items: center; flex-wrap: wrap; }
